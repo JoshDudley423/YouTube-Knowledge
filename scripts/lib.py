@@ -7,6 +7,7 @@ here, per the workflow in CLAUDE.md.
 """
 from __future__ import annotations
 
+import html
 import json
 import re
 import time
@@ -109,7 +110,7 @@ def vtt_to_text(vtt: str) -> str:
         if line.isdigit():
             continue
         line = VTT_TAG_RE.sub("", line)
-        line = line.strip()
+        line = html.unescape(line).strip()
         if not line or line == seen_last:
             continue
         lines.append(line)
@@ -137,12 +138,18 @@ def fetch_video_transcript(video_id: str, lang: str = "en") -> tuple[str | None,
         opts = {
             "quiet": True,
             "no_warnings": True,
+            "noprogress": True,
             "skip_download": True,
             "writesubtitles": True,
             "writeautomaticsub": True,
             "subtitleslangs": [lang, f"{lang}-orig"],
             "subtitlesformat": "vtt",
             "outtmpl": outtmpl,
+            # The default 'web' client triggers YouTube's "sign in to
+            # confirm you're not a bot" check from datacenter IPs. These
+            # clients serve player responses (and thus caption URLs)
+            # without needing cookies or a PO token.
+            "extractor_args": {"youtube": {"player_client": ["android", "tv", "web_safari"]}},
         }
         with yt_dlp.YoutubeDL(opts) as ydl:
             info = ydl.extract_info(
