@@ -50,6 +50,16 @@ channel belongs to.
 
 ### 2. Syncing (fetch new transcripts)
 
+**Syncing must run from the user's own machine, not from a Claude Code cloud
+session.** Cloud sessions share a datacenter egress IP that YouTube's bot
+detection has flagged -- confirmed by a request getting redirected straight
+to Google's `/sorry/` CAPTCHA page, independent of yt-dlp client/retry
+tuning. There is no fix for this from inside a cloud session. If you're
+running in one and the user asks to sync, don't attempt `scripts/sync.py`
+yourself expecting it to work -- tell them to run it locally (commands
+below) and push, or run it locally on their behalf if you're already
+operating as their local CLI.
+
 ```
 python3 scripts/sync.py --channel <slug>        # one channel
 python3 scripts/sync.py --all                    # everything
@@ -68,6 +78,11 @@ at once. Re-run without `--limit` (or with a higher one) to keep going.
 If a run reports videos with no captions available, that's normal (some
 videos have captions disabled) -- they're marked `has_transcript: false` and
 skipped on future syncs.
+
+After syncing locally: `git add data channels.json && git commit && git
+push`. A cloud session picks up the new transcripts on its next `git pull`
+and handles compiling them into `knowledge/` from there (step 3) -- that
+part works fine in the cloud, only the fetch itself needs to run locally.
 
 ### 3. Compiling into the knowledge base
 
