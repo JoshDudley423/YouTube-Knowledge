@@ -61,6 +61,13 @@ def list_channel_video_ids(channel_url: str) -> list[dict]:
     Uses flat extraction (no per-video network calls), so it's cheap even
     for channels with hundreds of videos. Order is whatever YouTube returns,
     which is newest-first for the standard /videos tab.
+
+    Deliberately targets /videos rather than /shorts: YouTube separates
+    Shorts into their own tab, so this tab is long-form only. (A
+    duration-based cutoff was tried and rejected -- some channels have
+    genuine long-form uploads, e.g. old giveaway announcements or trailers,
+    that run under 3 minutes, and a duration filter would wrongly drop
+    those alongside real Shorts.)
     """
     opts = {
         "quiet": True,
