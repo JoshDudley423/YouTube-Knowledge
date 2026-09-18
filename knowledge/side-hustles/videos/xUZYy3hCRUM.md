@@ -1,0 +1,62 @@
+# The Most Passive $104K/M Online Business You've Never Heard Of
+Channel: The Koerner Office | https://www.youtube.com/watch?v=xUZYy3hCRUM | Published: 2026-05-06
+
+Interview with Kyle ("Website Landlord," rentlocalsites.com, TikTok/YouTube @websitelandlord / @KyleReviewsCourses) about the "rank and rent" / lead-gen website business: build simple local SEO websites in low-competition home-service niches, rank them on Google, and rent the resulting phone leads to a local business owner for a flat monthly fee.
+
+## The business model
+- You do NOT need to own or partner with a business first. Build a generic, unbranded website targeting a specific service + specific city (e.g., "junk removal Austin, Texas"), rank it on Google's first page via SEO, and only afterward find a local business to sell the resulting call/lead flow to.
+- A tracking phone number (via CallRail or similar) is placed on the site; while unclaimed, calls simply go to voicemail — no loss, since there's always a next month's worth of new callers, and inbound caller data can be used as proof of concept when pitching a business owner ("I get 3 calls a day for people searching exactly what you sell").
+- Once a site is generating meaningful call volume (~50-100 calls/month), Kyle cold-calls/contacts a matching local business and offers a no-strings, no-contract, no-credit-card free trial week routing those calls to them.
+- After the trial, if the business made money from the calls, the conversation shifts purely to negotiating a flat monthly fee (not whether they'll pay, but how much) — because trust/proof of value was already established for free before any money changed hands.
+- No contracts, cancel-anytime terms — deliberately, because the leverage is entirely on Kyle's side: if a client cancels, they simply lose the incoming call volume (and revenue) instantly, so cancellations are rare once a client is making money from the leads.
+- Contrasted explicitly against traditional paid-ad agencies (Google/Facebook ad sellers), who must sell a $1,500/month contract on pure trust/promised results with no guarantee — Kyle's pitch flips that: results (real calls, already flowing) come before any payment is discussed.
+
+## Numbers
+- Kyle's overall company revenue: approximately $100,000-$104,000/month, with total overhead reportedly under $5,000/month.
+- Per-site overhead: no more than about $20-$25/month using the cheapest drag-and-drop tools (covers hosting, domain/URL, and the tracking phone number).
+- His personal take/profit is described as roughly $35,000/month personally (separate from partners' share of the larger company total).
+- Pricing example (real, running 5 years): an auto glass repair site in New Orleans generates ~50 calls/month for a client paying $600/month; Kyle estimates he's spoken to that client only about 5 times total in 5 years.
+- First deal, from a personal contact (a workers' comp attorney friend from high school): closed for an initial $6,000 payment (wired within 20 minutes of the pitch), later restructured over time to $1,500/month base SEO fee plus $300 per new client the attorney signs from the leads.
+- Growth timeline: found the business model August 2019; reached $10,000/month by the end of year one (helped by the COVID-19 shutdown freeing up his time from a prior TV production job); plateaued around $50,000-$70,000/month for a while, then grew to ~$100,000/month company-wide around year 4-5.
+- Typical high-volume client example: a client getting ~800 calls/month typically requires multiple city/territory sites bundled together (e.g., Dallas + Fort Worth + Austin + San Antonio sites for one expanding service business), building toward something like $5,000/month from that one client relationship.
+- Close rate on the cold-pitch/free-trial approach: typically takes 1-3 free trials to lock in a paying business owner.
+- Client retention: churn mostly happens in the first 6 months; clients who stay past 6 months tend to stay for years (his very first client from 2019/2020 is still a client).
+
+## Pricing model choices (and why)
+- Tested and largely abandoned usage-based pricing (pay-per-call or tiered pricing based on call volume) in favor of a flat monthly fee, for two reasons: (1) business owners strongly prefer predictable, fixed billing over a fluctuating monthly bill; (2) tiered/variable pricing invited clients to dispute and "audit" every individual lead's legitimacy, creating an operational headache that undermines the whole "99% passive" value proposition.
+- Pure pay-per-close/commission pricing was avoided in most cases because it requires trusting the client's self-reported close rate with no way to verify — except in one case with a personal-friend contractor (concrete leads) where high personal trust made a 10% commission arrangement work out more profitably than flat fee.
+- Call-tracking software provides call recordings/transcripts as a partial trust-verification tool, but Kyle notes it's rarely needed: if a client genuinely isn't converting the leads, they won't want to keep paying anyway, so incentives are naturally self-aligning.
+- Deliberate underpricing philosophy: Kyle intentionally avoids raising prices to the maximum he could extract, because clients who feel like they're getting a great deal never scrutinize the relationship, rarely complain during a slow month, and stay for years — trading some potential revenue for near-zero maintenance/friction. Compared explicitly to Apple/Amazon-style value-for-price asymmetry (people don't mind expensive purchases when perceived lifetime value is far higher than price paid).
+
+## Client acquisition script/approach
+- Cold outreach is by direct phone call (not email/text), framed deliberately casual and low-pressure, essentially presented as Kyle needing the business owner's help: "I've got this website getting about 50 calls a month for junk removal in Austin. I'm not a junk removal company — could I send them to you for a week to see how it goes?"
+- Advises new operators to start with their personal/social network (old friends, contacts on Facebook/Instagram) for the very first client rather than cold outreach to strangers — a friend is more likely to say yes despite no track record, and delivering results for them creates a case study/testimonial usable for future cold outreach.
+- Notes the psychological pressure of taking real money upfront (his own $6,000 wire from a friend before ever making a dollar online) creates a strong personal commitment to deliver — likened to paying more for a gym membership making you more likely to actually go.
+- Credits an initial $6,500 paid course + community as the source of his skillset — emphasizes that a course's value is less about the material itself and more about an engaged community that keeps you accountable.
+
+## Niche/location selection strategy
+- Core framework: think in terms of supply and demand imbalance, not just keyword search volume. Estimates roughly 1,000 distinct home-service niches (e.g., "gutters" alone splits into gutter cleaning, gutter repair, gutter replacement, etc.) across roughly 1,000 worthwhile cities — implying roughly a million niche x city combinations, most of which are not well-served by strong existing local SEO competition, and won't be for a long time (i.e., huge total addressable opportunity space).
+- Deliberately avoids highly competitive, well-funded SEO verticals (e.g., "personal injury lawyer Los Angeles," where competitors spend $50,000+/month on SEO). Instead targets niches where existing competing sites are outdated, low-effort ("built in 2005 and untouched since") small local operators — much easier to outrank with a "half-decent site" and basic SEO.
+- Example profitable niches cited: epoxy flooring leads (one operator reportedly making $50,000/month), spray foam insulation leads ($90,000/month), auto glass repair, junk removal, crime scene cleanup (flagged as a lucrative but ethically uncomfortable niche for Kyle personally), and pet/animal cremation & euthanasia leads (a niche Chris Koerner has separately explored — see his own "Animal Aftercare" programmatic SEO project, e.g. animalaftercare.com, which reportedly gets daily inbound leads with zero ad spend and is currently unmonetized/unsold).
+
+## SEO / technical approach — deliberately unsophisticated
+- Core ranking formula: roughly 80% content + backlinks (volume and quality of both), 20% secondary factors (citations, heading structure, etc.).
+- Explicitly dismisses concern over advanced/modern SEO topics (schema markup, Google's "helpful content" algorithm updates) as irrelevant to this specific low-competition local niche strategy — those factors matter for competing against major, heavily-optimized sites, not against "Joe, Bill, and Steve's" neglected small-business websites.
+- Sites do not need to look polished or professional — cites his own live example (a basic/plain auto glass repair site in New Orleans) as proof that for blue-collar/home-service categories, customers don't care about site aesthetics, and an overly polished contractor site can even seem like a red flag for higher prices ("if a contractor rolls up in a wrapped truck, I'm thinking he's too expensive").
+- Sites, once ranked, require essentially no ongoing maintenance because the existing local competition isn't actively defending its position — being ranked #1 vs. #2 or #3 captures roughly the same amount of traffic/calls in these low-competition spaces, so minor rank fluctuations don't meaningfully affect revenue.
+
+## Tech stack
+- Website building: started on Weebly (easy drag-and-drop, no coding needed, recommended starting point for beginners); later moved to WordPress once partners with more technical skill joined, lowering costs and speeding up site builds. Advises beginners without prior WordPress experience to start on an easier no-code tool rather than investing time learning WordPress first.
+- Call tracking: CallRail (or alternatives like Twilio) — provides trackable phone numbers, automated client email notifications with call recordings, and a "whisper message" feature that announces "Call from Kyle's Leads" to the client when they pick up, ensuring attribution clarity.
+- CRM: intentionally minimal — a simple Excel/Google Sheet tracking client name, business name, phone, email, plus a separate sheet listing all sites/domains; explicitly avoids complex CRM tooling.
+- Niche/keyword research: recommends Ahrefs for beginners (detailed backlink/competition research); Kyle personally now uses Mangools (simpler, faster interface with a Chrome extension) since he's built up enough intuition to not need Ahrefs' full depth.
+
+## Ongoing operational time investment
+- Once a client relationship is established and the site is ranked, Kyle describes the business as "99% passive" — some clients he hasn't spoken to in 5 years despite ongoing monthly payments.
+- At scale (100+ clients), the only regular time cost (roughly 1-2 hours/day) is chasing failed/declined credit card payments (~20% of clients each month) via texts/emails, plus occasional replacement-client outreach for the small percentage that churn.
+
+## Caveats and philosophy
+- Kyle explicitly contrasts this model favorably against real estate as a "passive income" vehicle — no large mortgage/leverage risk, dramatically lower overhead, and much lower ongoing maintenance burden.
+- He deliberately chose lifestyle-business optimization over aggressive growth once reaching a comfortable income level (around year 4-6), prioritizing time freedom (with his child, travel) over maximizing revenue — an explicit philosophical stance shared by the host: optimizing for a comfortable six-to-low-seven-figure lifestyle business is statistically more likely to succeed than swinging for a venture-scale outcome.
+- Caveat on niches with very limited existing supply: a promising-looking niche (horse cremation, ~$3,000/service, only 2 facilities in the entire state of Texas at time of filming) can actually be a poor lead-gen opportunity if the few existing providers are already overwhelmed with more business than they can handle and thus unwilling to pay for additional leads.
+- The overall opportunity depends on continually discovering supply/demand imbalances across niches and cities — new profitable niches (e.g., crime scene cleanup) surface periodically as operators explore different service categories.
