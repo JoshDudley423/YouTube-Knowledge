@@ -1,0 +1,23 @@
+# I Built a $250K Tool During the Super Bowl without Coding
+Channel: The Koerner Office | https://www.youtube.com/watch?v=Fa6F5Aa4UIM | Published: 2025-03-24
+
+Conversation between Chris Koerner and Nik (Nikonomics Podcast, "HoldCo Bros" series) — mostly AI-tooling/mindset discussion rather than a packaged business idea, but contains a concrete no-code consulting case study and a couple of reusable tactics.
+
+## Concrete case study: building a paid data tool with no coding, in ~90 minutes
+- Context: a friend runs a professional services business helping companies that acquire other companies (M&A advisory-type work). His client had 4.4 GB of financial data (1.4 million spreadsheet rows) scattered across Excel and Tableau, for a company with multiple subsidiaries, and wanted to be able to ask natural-language questions of it (e.g., "which subsidiary had the highest profit margin in July 2022?").
+- Using Replit (an AI-assisted no-code app builder, ~$20/month), Chris built a working web tool live during a Super Bowl watch party: prompted Replit in plain English to build an upload interface for spreadsheets, then added a field to accept a cloud-storage (Box) link instead of a manual upload, iteratively fixed bugs by describing the problem in English (e.g., the tool was only reading a sample of rows instead of the full dataset — told it to fix that, and it started scanning all rows correctly), and validated answers against a manual pivot table calculation (got an exact match, e.g., 13%).
+- Total build time: about 1.5 hours, done via natural-language prompting only — no actual code was written by the presenter.
+- Business impact claimed by the client: he believed that having this AI-enabled data tool would let his client's company sell for a higher multiple (cited: 14x EBITDA) during an upcoming sale, representing roughly seven figures of additional valuation — and that he could therefore charge his own client approximately $250,000/year for the tool (Chris jokingly countered that he — Chris — should then charge the friend ~$200K/year for building it).
+- Practical adoption friction observed: the tool sometimes needed the end user to supply their own OpenAI API key for it to function — Chris flags this as a hurdle that would turn off ~90% of non-technical people who'd otherwise use a tool like this, since "API" and API-key setup is an intimidating/foreign step for typical small business owners.
+
+## AI agent workflow tactics discussed
+- Concept floated: run the same build prompt simultaneously across multiple AI app-builder platforms (Cursor, Replit, Bolt, etc.) in parallel browser tabs (via an "Operator"-style browser automation agent), then have a second automation pass qualitatively test and compare the resulting apps (speed, UI quality, responsiveness) to decide which platform/tool to standardize on — turns tool selection into a data-driven test rather than subjective preference.
+- Framing for preparing a business to use AI agents: treat onboarding an AI agent exactly like onboarding a new human employee — you need a written SOP (standard operating procedure) documenting how a process actually works, an "orientation," and ongoing oversight/spot-checking, because an agent (like a new hire) doesn't intuitively know your specific systems, logins, or business rules even if it's generally capable.
+
+## Other business-adjacent takeaways (mindset/anecdote, kept brief)
+- Long-term-thinking anecdote from a West Texas oil billionaire: he explicitly evaluates ideas against a 175-year time horizon for the business, citing Sears as an example of a company that could have survived long-term but made avoidable strategic mistakes; framed as a reason experienced/wealthy operators reject short-term "flip" ideas that a scrappier operator would take.
+- Networking/content point: Chris was invited to spend 7 hours with this billionaire purely because the billionaire had seen one piece of Chris's content (not even on his own channel) — used as an argument for publicly documenting/sharing what you build, since it can create unpredictable high-value opportunities.
+
+## Caveats
+- This episode is not a packaged side-hustle blueprint — the $250K figure is one client's self-reported valuation reasoning (his own claim about EBITDA multiples and deal value), not an independently verified outcome, and the "seven figures in an hour and a half" framing is explicitly presented as a hook/exaggeration for effect.
+- The no-code tool-building approach still hit real friction (broken outputs, partial-data bugs, an API-key requirement) that required several rounds of iteration and technical comfort to push through — not a zero-effort process despite "no coding."

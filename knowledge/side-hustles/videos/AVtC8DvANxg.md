@@ -1,0 +1,21 @@
+# You're Not Ready for What's Coming: Robert Scoble on AI + Future Tech
+Channel: The Koerner Office | https://www.youtube.com/watch?v=AVtC8DvANxg | Published: 2025-05-14
+
+Futurist/tech commentary interview with Robert Scoble (early Tesla rider, helped develop Siri, longtime Silicon Valley tech observer). Mostly big-picture trend speculation (AI, mixed reality/AR glasses, Neuralink, autonomous vehicles, US vs. China) rather than a concrete side-hustle how-to. Light on actionable business substance; captured below is what's usable.
+
+## Business-relevant takeaways
+- **Mixed reality/XR glasses as an early enterprise opportunity**: adoption is happening first in industrial/professional settings, not consumer — e.g., factory floor workers using XR glasses instead of laptops/monitors to save physical space while keeping large virtual workspaces; a company called "Metivview" [as transcribed — likely misheard/mistranscribed] built a surgical XR system overlaying imaging/scan data directly onto a patient's body during operations. Implication: building software/apps for XR headsets in vertical/professional use cases (leaving instructional videos for factory shift handoffs, real-time equipment data overlays, medical visualization) is flagged as a nearer-term opportunity than consumer AR.
+- **"Ask AI" as a business-idea validation step**: explicit suggested workflow for non-technical people wanting to start something in AI — ask an AI model to do market research for you (e.g., "will this idea sell on Reddit?") rather than trying to compete head-on with frontier AI labs. Advice: don't try to out-build OpenAI/Anthropic-scale players; look for a specific gap those larger players won't prioritize.
+- **Personal AI agent tool mentioned**: "Vi" (Mac desktop AI assistant, spelled "Vy") that can take over OS-level actions — e.g., copy text out of another app (Descript) into ChatGPT to auto-generate a social media post, change system display settings, and give real-time contextual tips by taking screenshots of whatever app you're working in (e.g., AutoCAD).
+- **Smart home/consumer gadget recommendations** (not businesses per se, but products mentioned as noteworthy): a robot vacuum called "Matic" using computer-vision-based 3D house mapping (rated highly by Wired) instead of older bump-sensor navigation; "Recept AI" (verbal transcription uncertain) for object/shape detection; an agentic browser called "Fin"/"FU" [unclear exact name in transcript] for automated research tasks.
+
+## General market/trend commentary (context, not directly actionable)
+- Scoble argues AI adoption is still underhyped among ordinary consumers, despite Silicon Valley over-saturation of "AI" messaging — most people have heard of ChatGPT but don't use it regularly, similar to the early days of social media adoption skepticism.
+- Draws a parallel between resistance to autonomous vehicles today and past resistance to steering-wheel-free cars, touchscreens in cars (early market research favored physical buttons; preference reversed over time), and social media feeds.
+- Predicts full self-driving (Tesla) will surpass Waymo without relying on LiDAR, based on conversations with industry figures (Ford's former CTO, Waymo's founder Sebastian Thrun) who suggest LiDAR was originally chosen due to compute limitations at the time, not necessity.
+- Views the current AI investment boom as categorically larger than the dot-com boom in speed, competition, and capital deployed (cites his own tracked list of 6,300+ AI companies on X, "The Holodeck").
+- Discusses long-horizon, non-business-actionable topics: Neuralink's current read-only capability (three patients, severe disabilities) vs. future write capability, AGI risk to infrastructure (e.g., AI-managed electrical grids), and US-China competition in humanoid robotics and manufacturing scale (Tesla's Shanghai factory output vs. US factories).
+
+## Caveats
+- This video is a wide-ranging futurism conversation, not a tested/validated business playbook — treat the "opportunities" mentioned (XR enterprise apps, AI-agent tooling) as trend commentary rather than a documented case study with real numbers.
+- No revenue figures, costs, or step-by-step launch process for any of the ideas discussed.
