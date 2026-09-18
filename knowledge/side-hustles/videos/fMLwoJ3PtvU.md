@@ -1,0 +1,43 @@
+# How to Launch a $53k/month Vending Machine Business for $700 in 2026
+Channel: The Koerner Office | https://www.youtube.com/watch?v=fMLwoJ3PtvU | Published: 2024-07-04
+
+Interview with Quinn Miller (vending machine + ATM operator, Southern California).
+
+## Business ideas discussed
+- **Traditional snack/drink vending machines** placed in apartment buildings, offices, hotels — core business.
+- **"Smart coolers" / market concepts**: swipe-your-card open-cooler setups where customers grab items and get auto-charged (used in office/workplace "micro market" settings); allows testing higher-end/impulse products more easily than slotted machines.
+- **ATM placement business** as a second, simpler revenue line — "inventory is cash," no spoilage/SKU management, less physical logistics than vending, income = surcharge fee split with a vault/vaulter (money-refill) service and the location owner.
+- **Niche/novelty vending concepts discussed as speculative ideas** (not personally run by Quinn): perfume vending machines (seen in Europe, ~$2,500 machine cost, ~90% margins, dispenses a spray for ~$1 or sells whole bottles via QR/affiliate dropship), jukeboxes, coin-operated massage chairs, "rental" vending machines (e.g., renting out beach chairs), novelty/gimmick machines (references a novelty urinal game machine as an example of a highly engaging but niche/high-maintenance concept).
+- **Growth-by-acquisition idea discussed with the host**: pay VAs/contractors a flat fee per qualifying lead (e.g., "find hotels/gas stations without an ATM, $20/address, $100 if you can get an in-person intro") to scale site scouting geographically, and testing multiple markets in parallel to find under-saturated ones before committing (e.g., a spreadsheet ranking cities by estimated market saturation).
+
+## Concrete numbers
+- Quinn's origin story: was cash-poor after a heavy-appreciation, low-cash-flow real estate deal in San Diego (bought a house for $550K, renovated, cash flow was only ~$700/month split three ways; property later reappraised to ~$800K). Left real estate seeking a lower-capital, cash-flowing alternative and found vending.
+- First machine (bought off Craigslist, placed at a friend's mechanic shop) barely sold (~$150 revenue against 600-unit capacity) but taught him the model requires little owner presence.
+- Second machine (apartment building, landed via cold calling) did ~$1,500 in its first month — this convinced him to quit his corporate job. Had ~$60-80K in savings/capital to live on at the time; notes California cost of living (e.g., $3,000/month for a 500 sq ft one-bedroom) burns through savings fast.
+- Current scale: ~53 traditional snack/drink machines plus market/smart-cooler setups; daily sales run **$1,500-$2,000/day** across the route, trending upward (though price hikes from suppliers like Pepsi/Frito-Lay cause temporary volume dips when he has to raise prices).
+- Unit economics example: 12oz can of Coke costs ~$0.49 wholesale (from Costco/Sam's Club, not directly from Pepsi/Coke distributors, which are actually *more expensive* per-unit despite delivering to his warehouse) — sells for $1.50 in the machine. Started selling at $1 when cost was $0.33/can.
+- Recently had to raise Gatorade-type drink pricing to $2.50 due to input cost spikes; candy (e.g., Hershey) price increases have pushed him to shift away from name-brand candy toward alternatives like cookies.
+- Household/medicine items (Claritin, Burt's Bees Chapstick) can maintain **50%+ margin** even priced noticeably above Walmart, because buyers who genuinely need the item will pay for convenience.
+- Carries roughly 200-400 total SKUs across the route (had ballooned to ~600 at one point and actively cut back for simplicity). States that an all-drink-only machine route (just ~8 SKUs, buy-in-bulk) is the operationally simplest version of this business.
+- ATM economics example he cites: a friend's due-diligence target — 3 dispensary ATM locations in Colorado netting ~$50K/year combined (~$16K/machine/year, ~$1,400-1,500/month per machine) — 3-4x the ~$400-600/month per machine he sees in his own (hotel-focused) ATM locations. Example fee structure mentioned: ~$5 ATM transaction surcharge splits roughly as ~$1.25 to the vaulter (cash restocker), ~$1 to the location owner, leaving Quinn ~$2.50.
+
+## Process / steps described
+- Growth method that set him apart from typical vending operators: rather than resting after machine restocking runs, he'd immediately switch to cold calling for new locations — treating restocking and sales as two separate daily blocks rather than stopping after physical work.
+- Recommends **being selective about locations** rather than accepting every "yes" — more machines isn't better than fewer, higher-revenue machines; back-end maintenance (repairs, card-reader issues, decline transactions) becomes the real bottleneck at scale, not sales.
+- For newcomers with no sales background: **buy an existing route from a retiring operator** rather than cold-calling from zero — this buys "momentum" instead of the high failure/quit rate typical of new cold callers (his claim: ~99% of new vendors who cold call for months without a deal quit).
+- Small/low-quality locations (e.g., mechanic shops) are valuable for learning because there's no real client expectation — practicing on low-stakes accounts before pursuing larger corporate accounts (e.g., an Amazon warehouse) which involve RFPs and competition from national vendors with volume rebates.
+- Product selection discipline: only stock what you'd personally buy/eat (he "bite tests" new products before adding them); tracks actual sales data to add/cut SKUs rather than caving to one-off customer requests (rule of thumb: don't act on a single customer's special request unless many people ask/would actually buy it — e.g., he refuses one-off asks like "add coconut water").
+- Cold calling is his primary and preferred acquisition channel; he explicitly says cold emailing does not work well in this SMB space because owners don't check email while running day-to-day operations.
+- For ATM growth, the value proposition that wins accounts from existing operators is largely about being a *better* operator (reliable servicing) rather than competing on commission split, which he considers not a sustainable value prop.
+- Suggests scaling ATM/vending nationally would require testing niches location-type by location-type (e.g., strip clubs, casinos, gas stations, dispensaries are reliably strong regardless of city; hotels are more variable and need local testing) rather than assuming uniform performance everywhere.
+
+## Tools/platforms named
+Craigslist (sourcing used machines), Costco/Sam's Club (wholesale product sourcing, cheaper than direct distributor delivery), Vistar (food distributor), Salesforce (mentioned re: tracking sales funnel numbers, which he personally doesn't bother with), Indeed (implied elsewhere in podcast context, not this one specifically).
+
+## Caveats / risks
+- "Passive income" framing of vending is misleading for anyone planning heavy scale — while an individual machine needs little owner presence, the aggregate business (repairs, restocking logistics, credit-card reader issues) becomes real operational work at scale.
+- Bigger accounts are not easier just because the dollar amount is larger — they come with more red tape/competition (RFPs, national distributor relationships/rebates you can't match).
+- Placing too many small, low-performing machines becomes a logistics/repair burden that erodes margins as you scale, versus concentrating on fewer higher-revenue accounts.
+- Novelty/niche vending machines (perfume, etc.) face a very short conversion window (roughly 4 seconds to convince a passerby) — if the concept is unfamiliar or "weird," you lose almost everyone; needs the right high-foot-traffic location and audience fit, and unit economics get harder to scale nationally versus a single test location.
+- ATM business growth is capped by market saturation from existing operators — commission-based poaching of accounts is not a strategy Quinn considers sound long-term; in a "blue ocean" market you can grow much faster, but most local markets already have entrenched competitors.
+- Ceiling on business size: Quinn believes his (single-city, hands-on relationship-based) vending/ATM model is very hard to scale to $20-30M; he sees it as a stepping-stone ("bridge") rather than an infinitely scalable business, and is now delegating backend/day-to-day work (via VAs) to free time for bigger opportunities rather than trying to force this business bigger.
