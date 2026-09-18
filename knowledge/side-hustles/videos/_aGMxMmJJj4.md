@@ -1,0 +1,23 @@
+# No Money? Start This AI Website Side Hustle
+Channel: The Koerner Office | https://www.youtube.com/watch?v=_aGMxMmJJj4 | Published: 2026-06-26
+
+- Business idea: build free/cheap AI-generated ("vibe coded") websites for local businesses (handymen specifically) using GoHighLevel, then convert them into $50–$75/month recurring hosting/website clients, with the real profit in later upsells.
+- Origin story cited: a viewer builds free websites for local businesses, shows them, then charges $75/month; near-zero build cost and near-zero marginal cost per additional client, generating "tens of thousands a month."
+- Platform: **GoHighLevel (HighLevel)** — described as both a CRM and a reseller platform for many software tools. Has an "Ask AI" vibe-coding feature plus a separate "AI Studio" vibe-coding tool that actually builds/edits the site from raw HTML (the "Ask AI" chatbot only drafts a plan/HTML, not the live builder).
+- Step-by-step process demonstrated:
+  1. Prompt Claude/ChatGPT (e.g., using Claude Opus 4.5) to generate a well-structured prompt *for* GoHighLevel's site builder — feeding it a business type (e.g. handyman) and city (e.g. Dallas, TX).
+  2. Refine that prompt by giving it a reference website URL to model after, plus a list of all suburbs (population 50k+) in the target metro, and requiring SEO/AEO ("AI SEO") friendliness.
+  3. Paste the resulting master prompt into GoHighLevel's "Ask AI" to generate the site draft (HTML, calendar/CRM integration, workflows, meta descriptions).
+  4. Copy that generated HTML into GoHighLevel's "AI Studio" (the actual vibe-coding/site-builder tool) to produce the live, working site — site is then reusable for any similarly-named business by swapping name/city.
+  5. Find real target businesses via Google Maps (name, phone, existing website quality); use PhoneValidator.com to confirm cell vs. landline numbers.
+  6. Cold-text the business owner's personal cell directly (no scraping/mass-texting used here deliberately, to avoid regulatory risk) with a templated pitch (see below) and a screenshot of the finished site, offering to send the link.
+- Why handyman as the target niche: ~150,000 handymen in the US; Google Trends shows "handyman near me" search volume climbing again after a 2021 peak and 2024 trough, implying demand/cashflow; handymen (mostly solo operators) are one of the few home-service niches where the owner's personal cell number is commonly listed publicly on Google Maps (unlike dentists/lawyers, who route through receptionists).
+- Important targeting nuance: prefer to pitch businesses that *already have* a website (even a bad one) over those with none — an existing site signals they already understand a website has value, making them an easier sell than someone who's "set in their ways" without one.
+- Cold outreach text templates given:
+  - No existing website: "My name is [First Last]. I live [distance] from you. I can't believe you have a business in [city] and you don't have a website. I built one for you just now. Can I send you the link?"
+  - Existing (weak) website: similar opener plus "...and you don't have a very good website. No offense... I just built one for you. Mind if I send the link?"
+  - Emphasize being a real local person (not AI, not overseas) — "I live X minutes from you" flagged as the single most important line.
+- Pricing/upsell structure proposed: 3-tier menu anchored by a $400 setup fee (adjust up/down as needed) for a bare-bones plan with no monthly edits/no custom domain, vs. a $75/month plan with no setup fee, custom domain, and hosting included (hosting costs the business owner nothing extra beyond the flat GoHighLevel fee) — designed to anchor customers toward the $75/month middle option. 100 customers at $75/month = $7,500/month (~$90k/year), described as "almost pure profit."
+- In-person delivery is framed as far more effective than pure texting: show up with a laptop/iPad, demo the finished site live, and close on the spot ("the Costco free-sample approach") — potential customers reportedly struggle to imagine the product without seeing it built already.
+- Real upsell revenue (the stated actual goal) comes after the website sale: AI voice receptionist, paid ads, content creation/posting, booking systems, lead generation, customer service automation, email marketing (reactivating old leads) — all sold through GoHighLevel's tool suite.
+- Caveats/risks: video explicitly avoids scraping/mass-texting for outreach due to regulatory concerns and friction, sticking to manual one-by-one texting from a personal phone instead. No confirmed sale/response was shown by the end of the video — outreach results are unproven within the episode itself.
