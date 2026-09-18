@@ -1,0 +1,790 @@
+Walmart's going to pay me to do that cuz
+they can just use AI to do that. We are
+lazy human beings. We pay people to
+bring our groceries even when our
+grocery store is a block away. I
+literally just had AI do the whole thing
+and I just copied and pasted it all in.
+Dude, he made that t-shirt one design
+and he handed them out for free.
+Hundreds of them. It went massively
+viral. Whereas like year two or three he
+did 40 million topline. If your gut
+reaction is that market is
+oversaturated, that's the market you
+need to go to because that's the big
+freaking market.
+It takes years for people to think along
+those lines, right? Where it's like,
+"Oh, no one's going to pay me to do that
+cuz they can just use AI to do that."
+It's like you you are selling yourself
+short. We are lazy human beings. Yes.
+Not just that, but we we want to be like
+it's a dichotomy. On one hand, we're
+lazy, right? Which is why we pay people
+to bring our groceries even when our
+grocery store is a block away. Like the
+markup on groceries is insane. You got
+to pay the Instacart fee, you got to pay
+a markup, you got to pay a tip, right?
+But we're lazy. And on the other hand,
+we have good intent. We want someone to
+hold us accountable, right? So if they
+pay you $400 a month, like it's just
+them saying, you know what? Yeah, I
+could do this. And you know what? I have
+the time to do this, but knowing myself,
+I'm probably not going to do this. And I
+know this is a good thing to do. So if I
+feel the pain of $400 a month, it's just
+going to get done. People don't realize
+that when they when they're trying to
+start a business, they sell themselves
+short and think no one will pay for
+this. People will pay for anything. The
+question is, are you going to be good
+enough to get it in front of their face,
+right? Really? I have another idea.
+Okay. So, let's go. This came from your
+idea. You know, give me 10 20 bucks and
+I'll make you a business plan. Okay. And
+then that got me thinking, well, if for
+no other reason, people aren't paying
+$200 a month for deep research. Okay.
+So, it's just a good value. Even if my
+prompt is nothing special, right? Shoot.
+I can just say, "Hey, you give me the
+prompt. You do all the work. You're just
+using my deep research account connected
+through Zapier to through the API,
+right?" Yep. Here's an idea. Good ideas
+have good domain names. Here's a domain
+name. Okay. Dollarddr.com.
+Dollar deep research. Love it. One
+prompt. Yeah. One result. 10,000 words
+for a dollar with sources. It's linked.
+I do nothing. It's purely passive. You
+know what? Maybe you want to use deep
+research five times, five, 10 times a
+day. you going to pay me a dollar each
+time? I have to find this guy. He did it
+he did a very simpler model or a very
+similar model for faxing. I don't
+remember what the the business was but
+what it was called, but it was like
+basically you could pay 10 bucks and he
+would do the fax for you. He'd fax
+whatever you need to receive this
+before. Yeah. And I'm like, "Oh, it's a
+no-brainer." Like, yeah, you just build
+an automation that's like you put in
+whatever you want, you pay a dollar, and
+it gets you out whatever you want. And
+like, I do think as a as a macro trend,
+stuff like that gets super interesting
+because of like subscription fatigue
+that people are going through. It's
+like, dude, people could subscribe if
+they want to. Sure. Right. Like, if
+you're using enough volume and you're
+like, you know what? I I'm going to
+spend 180 bucks a month on this. I might
+as well buy deep research. But then they
+see right there on the sidebar,
+unlimited access, $40 a month. That's a
+no-brainer, right? I'm going to have to
+look at my token usage and make sure
+economically it makes sense. And there
+will be people that try to abuse it and
+you can put in safeguards, but you can't
+tell me that. That would not be a good
+business idea. And the website is just
+it's kind of like replet where the whole
+website is just like a a chat, just a
+problem. I mean, it's they literally
+have on Flutterflow and Bubble and a
+bunch of these no code builders, they
+just have like chatgpt clones that you
+just put in your own token. Yeah. And
+like there's a couple there's a couple
+guys that have done pretty well in the
+iOS space by building just like you're
+super AI assistant and it's literally
+just chat GPT delivered again that
+they're just running ads at and it's
+like ah they like nobody else's if you
+charge 50% of what chat GBPT is costing.
+So instead of my 20 bucks a month, I'm
+charging, you know, Sarah from
+Minnotonka, Minnesota 10 bucks a month
+so that she can ask this thing about
+what to do with her sourdough. And
+again, it's like so mass market. Like
+imagine, oh, dude, it just like a super
+userfriendly like mass market chat GPT
+Mhm. rapper. Mhm. Like everyone's over
+here trying to figure out like kind of
+unique use cases for chat GPT to like go
+and build a rapper for. I was like, what
+happens if you don't wrap it? What
+happens if you just put it out as like,
+yo, this is your AI assistant? Generally
+speaking, I mean, chat GPT is a terrible
+name. What does GPT even mean? I don't
+even know. I have no idea. No clue. We
+don't even know. And we're like core
+users. We should ask it
+itself. So, what does the what does the
+GPT even mean, bro? What do you mean,
+bro? What do you mean, bro? Dude, but
+yeah, I do think like I don't know like
+a simpler version of that that's just
+like iOS like native and cheaper. Like I
+don't I think there's a bunch of people
+that probably use chat GPT that don't
+have the pro version. There's probably a
+pretty big subset of that market where
+the the use of it is just not
+contextualized enough to justify 20
+bucks a month. But like if you can go
+in, dude, it's like yeah, you get super
+dynamic. You figure out what people are
+talking about and you say, "Hey, if you
+really want this to like learn, right,
+like we look at it, there's an
+opportunity there." Broad thing, dude.
+All right. So Sam Alman tweeted like,
+"Hey, we're kind of throwing around the
+idea of Okay, let me back up. Just look
+at power laws, right? What percentage of
+Chad GPT users have the $20 a month
+plan?" I would say like 5%. Probably.
+95% are very casual users. They have no
+need to pay for. And they don't. 5% pay
+20 bucks a month. And of those 5%, maybe
+10% pay 200 a month. So we're talking
+like a fraction of a percent of the
+total user. We agreed here. Yeah. 100%.
+Sam Alman came out and tweeted like,
+"Hey, we really want people to try
+Operator to try Deep Research, but
+they're not going to pay $200 a month.
+What if if you had the $20 pro plan,
+that $20 could convert to credits to
+where you could test it and it would
+just work down your balance." Yeah.
+Genius. Why would they not do that,
+right? Cuz then you'll get to use it.
+You'll get to to enjoy it, and then you
+you you might upgrade to $200, right? I
+think him tweeting that alone shows me
+that there's demand for this. Like
+literally just this is deep research.
+This is nothing proprietary. You're
+using my account through an API. It's
+totally blessed by OpenAI. I'm not doing
+anything shady, right? That's why they
+license out their API. And you just run
+your card. Your card stays on file. And
+every time it goes to charge it, there's
+like a popup that and maybe you could
+you could give it like three or four
+prompts per because it's gonna you're
+going to finesse it. You just do like
+Yeah. It's like a reload basis of like,
+you know, we we'll charge you five bucks
+every time and you just reload the five
+bucks based on a usage. Almost like how
+they run some of their API stuff cuz you
+can like go and add credits into
+OpenAI's API, right? And then it's like,
+oh, when you hit a minimum balance, like
+what do you want it to refresh it? Yeah,
+dude. But imagine the data you would get
+out of this. Like first of all, your
+users are super high value. They could
+be researchers. They could be white
+collar earners. I would just learn a ton
+by reading their prompts, right? Like
+what are you trying to like what that's
+interesting like it would just be really
+interesting to see what people are
+asking chat GPT. I don't know, maybe the
+privacy settings wouldn't allow for
+that, but it's really interesting
+because it kind of parlays on the back
+of the guides digital product thing
+because like what's the next step like
+on someone someone buys the book on
+sourdough, right? And you can
+immediately hit them with here's your
+AI assistant for this specific thing,
+but it's all like the same. It's all
+just chat GPT. I told you for the
+instant chef, we didn't we're not even
+training. Like we're just it's literally
+just straight chat GPT, but people will
+use it as a cooking thing because
+they're in a cooking app. What if they
+ask like, "What PSI should I have on my
+Mazda Miata?" It will it answer that or
+are there guardrails? No. Ask it
+whatever whatever they want. Like
+because it's prio principle, right? It's
+like the 96% of these people are going
+to ask about the thing. Like sure, if
+you have some somebody that's going to
+ask about their car, like go ahead, I
+guess. Like, but who's going to like
+There's going to be some guy in
+Minnetonka that's like, "Dude, I just
+found the biggest life hack. I
+downloaded this app for my stakes and I
+just like randomly I asked it about
+about the NHL playoffs and it answered
+me. This is like the best NHL playoff
+app ever. And his friend's going to be
+like, "Dude, that's literally Chat GP."
+Literally. Chat GP. What? Right. Some
+guy's going to feel like he he found
+like the national treasure in your app.
+Dude, that's what I'm saying. That's
+what I'm saying, though. It's like Oh,
+man. I don't know. I think I think it
+would be interesting to to put out like
+very similarly, you have just the broad
+chat GPT app that you clump, right? just
+a rapper. Literally, just interact with
+it however you want. And then you do the
+same thing that you would do with the
+guides from a an ad account structure
+perspective. Download the best personal
+training AI. Download the And it all
+just goes to like life assistant AI and
+then people just use it how they want.
+Charge them nine bucks a month. Like
+everybody becomes your audience. It's
+just contextualizing the download for
+them specifically. Oh, this is such a
+good idea. It' be so fun. What's that
+one called, dude? It's there's a there's
+a plugin. All right, I'm going to text
+it to you. It's called AI PRM. It's like
+a plugin that lives on top of Chat GBT.
+I've seen this helps you prompt better.
+Yeah, it gives you better prompting.
+Okay, man. That's a fiveletter domain
+name. Those are valuable, dude. Really
+sick. Super cool. I got two more ideas.
+Fire. Let's go. You good? Okay. Yeah.
+So, I'm going to bleep this out because
+there are very, very few ideas I want to
+bleep anything out because that's the
+whole nature of this podcast unless it
+involves a domain name that I'm trying
+to buy. That's a very clear exception,
+right? 100%. All right. So, is a thing,
+right? It is like it's been a thing for
+like 6 months. It's blowing up. It's
+like it is a phrase that is permanent.
+It's going to be here. And I freaking
+love it. And I had an Instagram reel get
+like 10 million views where I said that
+phrase multiple times. The domain name
+was snatched up for $10 in September of
+last year. Tough. Okay. The dot com.
+Yeah. And we don't we don't do non-coms
+unless we're like testing concepts,
+right? Yeah. Yeah. Yeah. Yeah. And so I
+was thinking like that fits so well with
+my brand and everything I talk about. I
+just I have to own that.com. And I found
+the guy that owns it. He's kind of an
+indie hacker build in public type guy.
+And he's DM'd me back. We're talking. He
+doesn't want to sell it. I'm going to
+try to change his his mind. Okay. Yeah.
+Yeah. For sure. I just feel like, let's
+just think very like not innovatively.
+This this could just be a merch brand,
+an apparel brand. Did we talk about the
+the brand God is dope? I don't think so.
+Is that you and I? Okay. So, God is
+dope. If you Google God is dope, then
+click on images and look at that first
+t-shirt, the black and the white. The
+story behind this brand, and I've told
+it on the spot before, so I won't go
+into detail. It's this guy living in
+Atlanta. He made that t-shirt, one
+design, and he went uh like at Georgia
+Tech, some university, and he handed
+them out for free, hundreds of them. You
+know what? He sold them for $5, which
+was his cost. That's what he did. And
+he's just thinking like, I just want to
+spread awareness. I want to build a
+brand, and then I'll I'll worry about
+making money. It went massively viral,
+okay? Whereas like year two or three,
+somewhere around year two or three, he
+did 40 million topline. Okay? And it was
+a it was not an accident. He was very
+astute and he's like don't worry about
+making like and it's it's so funny how
+you hear gurus and influencers say
+opposite things and they're both they
+both can be true on one side of the
+spectrum it's like don't underell
+yourself charge more than you think
+people will accept and on the other side
+it's like do work for free until you get
+like both work it just depends on the
+context. Yeah 100%. So he's like, I'm
+not going to be greedy. I'm going to
+sell these at cost. And then word of
+mouth, you know, t-shirts are very, you
+know, visual. And he crushed it. He So
+he did mid8 figures the second or third
+year. And it's a very strong brand
+today. And they still sell really cheap
+t-shirts and then they sell more
+expensive t-shirts. I feel like that
+works because A, it's a good design. B,
+it's kind of a polarizing message. Yeah.
+Right. If you're you don't believe in
+God, it's polarizing. If you believe in
+God, it's polarizing. Right. I feel like
+this slogan that we're talking about
+could have a very similar effect. And
+honestly, I would probably copy that
+same design and just spell it out every
+single word. Yeah. But here's here's the
+idea that I specifically want your
+feedback on is two t-shirts for sale.
+Same design, same slogan. On one of
+them, it's just the slogan. And maybe
+that's a $25 t-shirt. And then on the
+other one, it's the slogan except one
+more word.com. and that is the dot and
+it's a $15 t-shirt. So, you pay much
+less, but you're advertising the brand,
+you pay a fair market for a t-shirt and
+you're not advertising it as much
+because there's no.com. Maybe even you
+take it a step further and like down on
+the bottom of the t-shirt, like close to
+where it hangs over your belt, you put a
+little QR code to your website. So,
+you're walking around, someone's like,
+"Dude, where'd you get that t-shirt?
+Where was it?" Oh, oh, that's cool. Hey,
+right here. QR code. And then you could
+take it a step further with an
+automation and every customer could be
+an affiliate and they can make money
+from that exact QR code. What do we
+think? That one's cool. I think that I
+don't think that you have to like put
+the com. I don't think that that's going
+to create any incremental lift. No, I
+think it's so video is cool, but you
+know what's better? Long form audio via
+podcast and my newsletter.
+Tkopod.com. Go there to subscribe for
+free to my newsletter. It's one email a
+week. Very tactical. and then go to my
+audio podcast. Three episodes a week,
+stuff like this. You're going to love
+it. All free. No sleazy sales
+tkopod.com.
+I think it's literally all of the just
+the words on the front and a big ass QR
+code on the back. That's it. That's it.
+And that's what everyone gets for the
+same price. Yeah. I like it. Do you
+think that would sell? Do you think
+that'd be a good brand? Yeah. Like I I'd
+have to see the shirt, but yeah. I mean,
+like,
+we've seen it happen so many times in
+brands that like every brand ends up
+having like their hero product that just
+like hits like you just strike a chord
+with the market, you know, like you
+know, I've won't say the names, but like
+there was a buddy of mine that had one
+that just was like four words on the
+back and it just hit. Everyone wanted
+one. Had like NBA players buying it
+because like it just resonated. It was
+like that that
+phrase on its own was like what was
+hitting like super cool. And so like I
+think about that like there's other one
+there's other examples that I can send
+you too where it's like one hero product
+that just went even in the in the
+Christian space. Rough shot supply.
+Rough shot supply. I bought their hat.
+Same thing. Theirs was uh their phrase
+is these are the good old days. M
+phenomenal. I see it. I'm looking at it
+now. There's another one. I got one. I
+got one. Yeah. Yeah. First of all, the
+upside down Dallas hat, guys. Yes. You
+seen those? Yes. That guy just got a
+fourth string quarterback to wear it
+once and now it's an eight figure
+product. Literally the second one. Dad
+Gang, guys. That you stole it from me.
+Dad Gang, dude. He's all over Twitter.
+That's an eight figure freaking hat
+brand based on blowing up. And it plays
+to exactly what we're talking about.
+Like it's the it's that message that you
+want to shout to the world. Like I am a
+dad and I think dads are important and I
+want to advertise that to the world
+which is like that's kind of where
+everything is trending. Right. Right.
+Like which that is that that to me like
+when you zoom out a little bit like
+that's the definition of brand is you
+think about like selling products on the
+internet and a lot of it is benefits and
+features focused, right? But your your
+marketing is around like problem
+solution and like all of these, you
+know, more whatever versus what I call
+like resonance marketing, right? Like
+putting something that somebody
+resonates with, right? And selling a
+product that they resonate with, which
+is literally what brand really is, is
+like, do I resonate with this thing
+enough to put it on my body? And I think
+hats and shirts are like awesome. Like I
+think that that's that is the the
+easiest way for somebody to connect and
+share whatever they resonate with is
+like, "Oh yeah, I'm going to put on a
+hat." I mean, like I wear hats every
+day, mental wellness club. Like, yeah, I
+believe in mental health and like
+wanting people to to Right. And so it's
+like I resonated with this and I bought
+it off of an Instagram ad because I
+resonated like not because it's the the
+softest hat in the world or I'm addicted
+to camo. It's like no, I liked what it
+said so I bought it and I've got more
+over there that are the same the same
+thing. Those are the hats that make
+people stop like strangers stop and ask
+you about it. Oh dude, this is like my
+most complimented hat ever. Like I at
+least once a week, whether it's at
+Target or Home Depot or the person
+that's checking my tickets to get into a
+Laker game, they're like, "Dude, nice
+hat. Thanks." That just gave me an idea.
+Like you use Chat GBT or some bot or
+Ampify or something to find all those
+little oneliners, those catchy
+oneliners, right? and you print out a
+hundred of them on a thousand different
+t-shirts and you pass those out or you
+just friends and family like, "Hey, will
+you wear these around and tell me what
+you think?" Which one of those hundred
+is getting the compliments? Literally,
+that's the one you go all in on. Or I
+mean, you could just use you could just
+use Facebook ads, right? Yeah, that's
+where I'm at. I'm like, I'm just running
+ads, dude. I'll get 10,000 people to see
+all of these tomorrow if you want. And
+then you just go to to Pod Partner. You
+do use Pod Partner. You use Canva and
+then Pod Partner. They do print on
+demand. It's cheaper and better quality
+than like a Printify or Printull. That's
+the big one. Printful. That's the big
+one. Yeah, those two. I mean, the Send
+Prayers hoodie that you have is from Pod
+Partner. Yep. I was going to ask you
+that. And you know the quality of it,
+like it's thicker. It's just like a
+better setup. Yeah. And they have mockup
+tools. And so you just like go mock up a
+bunch of designs. You were the recipient
+of that screenshot that I sent was like,
+"Hey, which of these 10 slogans do you
+like the most that I put on the back of
+those shirts, remember?" Like a year
+ago. Yeah. Right. And then we printed
+them and like it wasn't meaningful
+enough for me to go and like pursue that
+fully, but like there's a world where
+that can, you know what I mean? I still
+think there's something there is
+something different about the offline
+compliments, right? Verse like how many
+clicks is this design getting verse that
+one? Oh, 100%. I wore my Send Prayers
+hoodie in my parents live down in San
+Diego County. I wore it to the grocery
+store and like a 65 year old dude came
+up was like, "Dude, nice shirt." And I
+was like,
+"Okay, okay." It just goes along with my
+framework of the harder way is often the
+better way. Yeah. You know, like the
+unscalable way or whatever. 100%. I
+think from a from a like a testing
+perspective to see what you can get
+clicks because like I said on the last
+episode, like the you're going to run
+ads at some point. Dad gang runs ads.
+Like yes, the in-person is an intangible
+and that's all going to be its thing,
+but like they run ads to get more people
+to see it. And so it's like Rough Shot
+Supply, the one with the these are the
+good old days hats. They had like they
+used to have like eight hats that they
+sold. And obviously that one was the
+winner because now they only sell that
+hat in eight colors and it was probably
+like that design literally probably sold
+like 93% of the eight principles. That's
+usually how it works. Yeah. Yeah.
+Paralle principle isn't even 8020. It's
+usually like 955. Yeah. 964 all the way
+up. I think that
+that's go test eight designs on ads.
+Spend $100 behind each one. Which one's
+getting you the clicks and the
+conversions and then kill the other
+nine. Don't even try to sell the other
+nine. Even if one of them got a
+purchase, just go like go to where the
+data tells you to go. And so it's like I
+don't know. I just it's so easy. It's
+people that are listening. It is so easy
+to test these things. so fast. Go test
+it and the market will tell you what's
+good. I just know that there's there's a
+few percent of people listening right
+now and they're like, "Oh, these bros
+literally think they just invented
+t-shirts or print on demand." It's like,
+listen, stop. First of all, stop. Here's
+a framework for you. If your gut
+reaction is that market is
+oversaturated, that's the market you
+need to go to. Yes. Because that's the
+big freaking market. Yes. Right. That's
+where you need to play around. And I
+meant to say this before, but I forgot
+when we were talking about digital
+products, right? Yeah. Like if you start
+selling $19 digital products through
+Facebook ads, it's probably like where
+you start is probably not going to be
+where you finish, right? But you've got
+to start somewhere. That may evolve into
+something much more completely
+different. You may land on like custom
+baseball bats, right? But it's a very
+approachable way of getting revenue and
+learning Facebook ads. And that's the
+point here. The biggest piece for me is
+uh for people that are like trying to
+step into entrepreneurship for the first
+time is to get them away from their
+ideas. You got to get out of your head.
+You have to get out of your head and
+start looking at like actual movement
+and numbers that are sitting in front of
+you. Like just go turn on $100 worth of
+ads. I'm not going to sit here and say
+you're going to triple your money
+tomorrow. But at least you have some
+data around like, oh wait, this is
+interesting. 35% of people click through
+this ad but not this ad. Why? Right? it
+like changes instead of getting caught
+in this like cyclical pattern of the
+same thoughts. What if I did this? Oh,
+here's the 15 reasons why I shouldn't.
+Well, what if I did this? Here's the 15
+reasons why I shouldn't. That is all
+happening in somebody's brain. It's
+like, dude, we're all idiots. Like,
+let's just let the numbers show us
+what's good and follow the numbers. Like
+go test 15 digital products on a general
+store in 15 different niches that you're
+anything curious about. Like in the big
+ones, focus on the big ones. Health,
+love, really those two. Those two get in
+the game. Like Yeah. Yeah. Yeah. Food,
+right? Like there's a there's there's a
+handful of like macro market
+topics that almost every single person
+in at least the United States is
+interested in. How do I make more money?
+How do I eat better food? How do I lose
+weight? How do I get laid more, right?
+Like the the macro that they believe.
+Put something out there just to see it.
+When it comes to Facebook ads, don't try
+to be smarter than Facebook. Advantage
+plus. Just advantage plus. Let it ride,
+dude. Don't tell it who to target.
+You're like, we run everything on broad.
+The creative does the targeting. The
+creative does targeting. They will not
+click on it if it does not resonate with
+them. Yeah. And then Facebook very
+quickly because Facebook wants to put
+content that matters to people in front
+of the people that care and they want
+you to keep paying them. They will, I
+promise, put your offer in front of the
+right people. Their algorithm is what's
+feeding you the content that you're
+watching every day. Let that algorithm
+do that for you. 100 bucks a day, broad
+targeting, US only on anything, dude.
+Literally anything. We talked about an
+email opt-in last time. Cool. Digital
+product, cool. We keep coming back to
+it. It's like a theme of our
+conversations. It's the most no-brainer
+way for someone to start making
+progress. Go start. I'm thinking about
+buying a pizza shop, right? came up for
+sale around the corner. Are you
+actually? Yeah. Okay. I got I got one of
+the rabbits you're chasing. I got the
+P&L in front of my face. I didn't know
+we're going here, but let's do I know.
+But the first homeboy literally holds up
+a P&L. Yeah. Literally looking
+mozzarella online. $12,000 a month in
+rent, dude. But the first thought that I
+had when it came up and I was like, "Oh,
+I wonder what's good." And I saw that
+they weren't spending that much on
+marketing. I was like, "I'm just going
+to launch some ads real quick and say,
+get a free pizza." And I'm just going to
+do a geo targeted 10 mile radius around
+me. Get a free pizza. give us your phone
+number because if I can go get phone
+numbers for three bucks, I'm like, well,
+okay. Like, I feel confident, more
+confident in moving in that direction.
+You're going to launch a pizza marketing
+agency before you ever Dude, Slice.com
+is honestly, dude, is the my dream
+business. I was like, these guys are
+awesome. Like, so sick, dude. I
+subscribed to a guy on YouTube. He's
+called like pizza marketing and he just
+goes and he walks into pizza shops and
+talks about marketing and I I will never
+own a pizza shop. I might actually one
+day because I love making pizza, but
+it's just interesting content. I know,
+dude. It's slice.com is like just the
+coolest thing on the planet, dude.
+Here's my rapidfire idea for you to
+close this out. I own the domain name
+never touchplastic.com.
+Got it. Okay. This is This would be like
+an Etsy and you can use something like
+Share Tribe, like a marketplace as a
+service. You don't have to build out an
+Etsy. Yeah. A marketplace where people
+can buy and sell stuff to each other
+that has never touched plastic. What do
+you think? I had no idea that that was a
+segment of the market that existed, but
+if it does exist and you can make money
+on it, I would do it. Well, like
+microlastics, right? Like I was making
+this sourdough starter. I was talking to
+Chad GPT about it and I'm like, if I
+make my sourdough starter in like a
+plastic Tupperware, which 90% of people
+online are doing, right? Will there be
+microplastics? Yes, because things are
+happening in there. There's heat in
+there. it will break down. Okay. Will
+those microplastics be in my sourdough
+forever? Because I don't know how much
+you know about sourdough starter, but
+you literally it it lasts for thousands
+of years. You keep refreshing it and
+it's like yes, there will be sourdough
+in your bread forever. It's like I don't
+want that. No. You know, so then that
+got me thinking like I need to sell an
+ultra premium sourdough starter that's
+never touched plastic. Then it's like,
+well, I own the domain name, never
+touched plastic. Could that be like a
+marketplace where like the the weird
+freaks of the world that are that
+concerned about microplastics, which is
+not a large percentage of people, but it
+is growing like crazy, could transact
+with each other and you could kind of
+take a spread on that. Do I think people
+will buy stuff that is not that is
+focused around reducing microplastics?
+Yes. Do I think a marketplace is the
+best business model to go and do that
+in? No. A marketplace is as hard to
+start as it is a good business if you
+get it going. 100%. Does that make
+sense? Oh yeah. It's like it's it's like
+the biggest boulder to get rolling, but
+the moment that you hit like critical
+mass, the snowballs so big that it can,
+right? But like, yeah, I I personally
+stay away from marketplace business
+models because like I don't want to play
+the percentage of GMV game or like
+whatever. Now, charging a monthly
+subscription for access to a
+marketplace, that's on my mind. But like
+straight revenue model being based off
+of marketplace interactions, hate that.
+don't want to like just don't want to
+participate. Yeah. But people you should
+just dude just sell just use that
+domain, put it on a t-shirt
+and just sell glass Tupperware drop
+shipped. Come on. There it is. Never
+touch plastic. That could just be a
+t-shirt, too. Yeah.
+Sea turtle on there or some
+Jeez, dude. Once again, I have a
+headache. That's a sign of a good pod.
+That's how it goes. Where can we find
+you, Sam? We're gonna We're gonna ask
+every time. Dude, I'm always on Twitter.
+I'm Sam Thompson. Sign up for unlimited
+content.com. You know, you need to post
+every single day on your blog and you
+just don't hurt. I'll tell you, it ain't
+going to hurt. Ain't going to hurt. All
+right. What' you think? Please share it
+with a friend and we'll see you next
+time on the Kerner

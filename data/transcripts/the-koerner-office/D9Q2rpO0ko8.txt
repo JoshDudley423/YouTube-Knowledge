@@ -1,0 +1,346 @@
+The best way to make money is to make
+money for other people first. And
+there's no easier way to do that than
+right within High Level with just a
+couple drag and drop templates that you
+don't need to invent yourself. They give
+it to you. So, in this quick video, I'm
+going to show you exactly how to sell
+database reactivation as a service to
+small businesses. That sounds confusing.
+It sounds complex. I know it's not
+really. To break it down in simple
+terms, it's taking a customer list from
+a small business and reactivating them
+to drive more revenue or just emailing
+and/or texting them to drive more
+revenue. And most importantly, I'm going
+to tell you how to price this and how
+much you can charge for this and how to
+increase the likelihood of a sale. I'm
+also going to give you a ton more ideas
+of other stuff you can sell both
+alongside this reactivation campaign or
+as an upsell to it for a lot more money.
+I'm going to show you how to do that.
+Here's an example. I own a tree trimming
+business. If someone were to approach me
+and say, "Chris, you have a tree
+trimming business. I imagine you have a
+customer list, right?" Right? How many
+emails are on that list? I don't know. I
+got to check maybe 4,000. Cool. How
+about this, Chris? What if we using all
+of our marketing knowhow and wizardry
+when really you're just using high
+level? And we email all 4,000 of those
+people with a wintertime special. We're
+really good at this. Just trust us. And
+any revenue that we generate from that
+list, you just give us 10% of. If we
+generate zero revenue, you don't give us
+anything. We'll do all of this for free.
+In that case, this is what's called a
+no-brainer offer. And since I own a tree
+trimming business, I kind of know how
+the conversion rate breaks down on this.
+And if you email 4,000 people that have
+been a previous customer of tree
+trimming services, and you say, "Hey,
+wintertime's coming. Watch out for the
+freezes. Trees are pretty dangerous
+during a freeze. How about we come
+proactively trim those branches? we'll
+give you a free quote today. Let's say
+2% of the list says yes, come give me a
+quote. That's 80 people. Of those 80
+people, you close half of them, which is
+an average close rate for us, so that's
+realistic. You've got 40 jobs. Let's say
+of those 40 jobs, you have a $1,000 job
+size. That's $40,000 in revenue. You
+take 10% of that as the agency owner,
+and you make four grand just for sending
+an email using a template that High
+Level gives you for free. Now, some of
+these potential customers might have a
+hard time knowing where their list is or
+even knowing if they have a list. Where
+are you going to get it from? Well, you
+want to lead with some suggestions for
+them. QuickBooks, Zero, Stripe, Square,
+anywhere they accept payments, anywhere
+they accept emails at the point of sale
+register. You can't do this without a
+list. So, this part is key. Another
+thing you can do with this list is not
+just like a one-time bulk reactivation
+sequence, but you can set up automations
+to where previous customers are emailed
+on their birthday with a 10% off coupon
+or the anniversary of them becoming a
+customer. There's so many ways you can
+do this. And you also want to spend a
+bunch of time on the offer. Not your
+offer to the business owner, but the
+business's offer to their customers that
+will be routed through you. For
+instance, is the offer a free quote for
+tree trimming? Is it 20% off for tree
+trimming? Maybe it's trim two trees, get
+the third free. If you don't know which
+offer to go with, then you AB test it.
+You think this business owner knows what
+AB testing is? Probably not. If they do,
+they probably don't know how to do it.
+You can set all of this up in your
+automation because then when you go to
+customer number two, the second tree
+trimming business down the road, you
+already know which offer crushes. And if
+your offer crushes for them, then
+they're going to love you and they're
+going to want to pay you more money for
+more stuff. So getting this offer right
+is very important. And I'm going to show
+you how to AB test these sequences so
+you can find out really quickly which
+offer works the best for whatever client
+it is that you acquire. Capich? Capich?
+Let's jump right in. Here's exactly how
+you're going to do this. Now, first
+you're going to go into your Highle
+account. If you don't already have
+Highle, you can use my exclusive link to
+get 30 days free. It's below. Most other
+links are 14 days free. So, I would love
+you forever if you used mine. Okay. So,
+we're here on the dashboard. We're going
+to click on automation, create workflow,
+select from template, and then we're
+going to search reactivation.
+Boom. Recipe list reactivation. Choose
+template. Adding template. Done. Okay,
+congratulations. You now have a very
+complex template that works magically.
+And we're only six clicks in at this
+point. Now, you still need a customer
+list. So, let's pretend that the tree
+trimming business in this example had
+nothing to lose. So, they send you a
+spreadsheet of all 4,000 of their
+previous customers. Some of these are a
+day old. Some of these might be 6 years
+old. That's fine. You're going to click
+on contacts. Then, you're going to click
+on import contacts right here. Now,
+these are not opportunities. That would
+be like a lead or a deal in any specific
+stage. These are just contacts, people
+or businesses. Leave that box checked.
+Click on next. Then, we're going to
+upload our file. All right. Now, right
+here, I've got some sample data in a
+Google sheet. I'm going to hit file,
+download CSV, go back here, upload the
+file here. We'll click next. Okay, now
+it's showing me a preview of what's in
+that file. This is what's called mapping
+the fields. We're basically telling
+highle which column should be assigned
+to what type of data point, email to
+email, phone to phone, etc. So that's
+the name actually a business name in
+this case. This is just sample data.
+Remember that's the phone. It was
+automatically mapped. That is the email.
+Cool. All right. Street address there,
+city there, and I don't need to import
+two address lines. So, I'm going to
+check that box. Hit next. Okay. I'm just
+going to pick a random tag. All that's
+important is that I know what it is.
+Okay. Going to check the box to accept
+the disclaimer. Start bulk import. Cool.
+All right. There's the leads. Now, we're
+going to go back here to the template,
+and we're going to make the tag of the
+lead the trigger. This is the trigger to
+start the automation, to start the
+reactivation sequence. You can do many
+different things with this. Tagging the
+contact is just one thing. You can make
+the trigger for when you move them from
+one stage of the pipeline to another.
+For instance, let's say I want to reach
+out to someone a year after they're a
+customer. So in that case, I'd have an
+automation to say, "All right, Stripe
+payment processed, delay for 365 days,
+then trigger the reactivation sequence."
+Cool. Filters tag added. Real estate
+staging. Awesome. Save. Trigger. Now
+here, this is the email that we're
+sending them.
+Subject line or this is the action name,
+not the subject line. We can have a
+template prepopulate all this. We can
+automatically put in their first name
+and say, "Hey, contact first name. Be
+sure to get those trees trimmed before
+the ice storms hit. 10% off if you book
+a quote today." What do you say? That's
+the email.
+And of course, this is just for example
+purposes. No attachments necessary. Save
+action. Cool. Winter trimming. Now,
+right here, the automation will wait
+until either they reply or until 1 hour
+passes. Then this next stage down, it
+will check to see if they've replied
+within that hour. And if they did, then
+it will discern if the reply was
+positive. And if it was positive, then
+you will put a positive reply in there
+back to them. So let's say Mary Smith
+gets this email. 36 minutes later, she
+responds and says, "Sure, I live at 123
+Mabel." Okay. At the end of that hour,
+it's going to say, "Oo, Mary Smith
+responded." And then right here it's
+going to say, "Oo, she said yes." And
+then it will automatically respond to
+her again without you having to
+intervene at any point. I'll just say,
+"Great.
+Please book a time here." And then I can
+take my Calendarly, I can take my
+highlevel smart calendar, I can take
+Tidycow, whatever, put in a booking
+link, and then she can automatically
+book the time for you to come quote the
+job. You still haven't interacted with
+this list yet. This is all automated.
+And if they did reply but the tone was
+not positive then we can do whatever we
+can SMS we can email. We can say no
+worries or are you sure whatever. Now
+over here this is the follow-up sequence
+right here. We keep following up. We
+wait for a reply. Is it positive? yada
+yada yada. And you can keep copying and
+pasting these little boxes here to add
+more and more follow-ups. That's it.
+We'll click save. And then all I have to
+do here is hit publish. And then as soon
+as I tag a contact with that
+predetermined tag, it will start this
+automation. And if I want to text and
+email them at the same time, great. Only
+text, great. Text first, email
+follow-up, great. Whatever you want.
+Okay. Now, once that's sent and all
+these emails get sent out, you're going
+to go to marketing. Then you're going to
+go to emails, and you're going to be
+able to see all of your analytics. How
+many were delivered, how many bounced,
+how many unsubscribed, spam complaints,
+open rate, click-through rate, reply
+rate, etc.
+super clean and easy to use. Now,
+remember, you're doing all of this
+in-house. Your customer, in this case, a
+tree trimming business, doesn't know
+about High Lee. If they do, it's not
+even relevant to what you're doing in
+their mind. And you can send them
+screenshots of these analytics to make
+them feel warm and fuzzy, like, "Wow,
+this guy's pretty legit. He's doing cool
+stuff for me." And the magic is not in
+doing this, right? This is great. And
+this can be recurring, but this is to
+show immediate value with a no-brainer
+offer, which is the best way to start
+any agency. I really, really like
+charging a percentage of what you make
+for them. But there is a big downside of
+that. How do you track that? How do you
+know? You don't have any visibility into
+them going out and performing quotes and
+saying yay or nay or even getting paid
+on those quotes. So, it's tough. What
+you can also do is say, "Hey, I charge
+a,000 bucks for this or 10% of any
+revenue I bring you or whichever is
+less." That way, you can at least get
+a,000 bucks in the bag, unless they're
+just completely corrupt and lie to your
+face cuz you will generate work for
+them. And in some businesses, it's a lot
+easier to see if that job actually went
+through. Like in roofing, you could just
+drive by the house and see, are they
+getting a new roof? And an email to a
+thousand previous roofing customers
+might only generate one to three jobs,
+but that could be 20 to $50,000 in
+revenue. So, it all just depends. I
+would also consider doing this
+completely for free for them just to
+generate value and to get your foot in
+the door and to start selling them other
+services. After hours, AI voice agents,
+mis call text back, review requests,
+review response automation, AI
+appointment setting, lead nurturing
+sequences, building a chatbot for them,
+on and on and on. All right, remember I
+promised to show you exactly how to AB
+test different offers and/or different
+emails or SMS to the same list. That way
+you can really nail down what in this
+case tree trimming offer works best for
+tree trimming companies. So you can just
+keep copying and pasting the same offer
+to other tree trimming businesses and
+their customers. Because if the offer
+works amazingly for tree trimming
+business, A, it's going to work
+amazingly for basically every tree
+trimming business, unless they're on the
+other side of the country and it's not a
+very seasonal market, etc. You get what
+I'm saying? So, in order to do that,
+you're just going to click this plus
+button right here. You're going to click
+split, random split, 50%, 50%, Hey, you
+want to add ABC D test? Fine. You could
+mix and match the percentages however
+you want. You click save. Now, you can
+see that there's two sides of this. How
+to copy it? Click the three dots. Copy.
+Copy all actions from here. Then you
+click this paste below. That's it.
+You're done. Then you're going to go
+over to this email. You're going to put
+in a different offer.
+Can we give you a free quote today?
+Cool. Save action. And what's awesome
+about this is not only can you see all
+the stats for these emails right here,
+but you can even see all the stats for
+each individual AB test. Click on this,
+then go over to statistics, and they'll
+be right here. So you can know within an
+hour of sending this email which one
+crushes the best. And you can make this
+as complex as you want, but in my
+experience, it doesn't need to be
+complex. Simple is better. I hope this
+was helpful. Please use my highle link
+in the description below if you want to
+give it a shot. 30 days free. I love it.
+We use it every day. Couldn't live
+without it.

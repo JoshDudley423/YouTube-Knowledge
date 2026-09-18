@@ -1,0 +1,443 @@
+Did you know that 40% of home buyers
+speak a language other than English at
+home? And in some markets like Dallas,
+New York, LA, Miami, that number's over
+50%. Realtors know this, but they can't
+do anything about it until now, because
+they can't leave voicemails in languages
+other than English. We're going to solve
+that problem for them and charge $200
+to month to do so. What if you could
+clone a realtor's voice and then leave
+personalized voicemails in their same
+voice, intonation, and style in the
+language of the person you're calling?
+I'll tell you right now, realtors are
+not about to figure this out for their
+own, and they would love to pay us to
+figure it out for them every single
+month. So, today we're going to do that.
+I'm going to do this with my voice. It's
+going to be a bilingual voicemail
+service for realtors. I'm going to show
+you how to build it. It's very easy. And
+how to sell it. Also easy.
+Okay, so why would a realtor even want
+this? First of all, realtors live and
+die by speed and personal connection. If
+they don't have speed to lead, aka
+fastest to call back or to call a lead,
+and they can't build a relationship of
+trust, BRT, then they're not successful.
+This is going to help them do both that,
+because it's much easier to build trust
+with someone if we identify with them,
+if we feel like we have something in
+common. Even though we're cloning a
+voice, the person we're calling is still
+going to feel more welcome, more at
+home, more affinity towards the realtor
+if it's in the native language. So,
+right now, if a realtor wanted to do
+this, they would have to like fumble
+through Google Translate, find another
+third-party tool to maybe translate it.
+It wouldn't be in their voice. It would
+sound totally different. All the
+sayings, the the pauses, the
+intonations, it wouldn't be the same. It
+would just sound off, and you might end
+up doing yourself more harm than good.
+So, with this service, the realtor just
+needs to record a 30- to 60-second audio
+clip. And if they've ever posted a video
+to Instagram, YouTube, or anywhere, we
+don't even need them to do that. We can
+just snag that for them, upload it
+ourselves, and clone it for them.
+Because the more friction we can remove
+from this process or any sales process,
+the better. After we clone their voice,
+we can generate a library of
+pre-recorded voicemails that relate to
+certain properties that they may be
+listing or that their buyers may be
+interested in buying. With just a couple
+prompts, we can pre-record price drop
+alerts, new listing alerts, showing
+confirmations, missed appointment
+notifications. These plug-and-play
+templates we can just plug into any of
+their listings. So, without further ado,
+let's build this entire package for you.
+Let me share my screen. So, this product
+is called Fish Audio Pro and it's
+beating basically every other competitor
+on benchmarks with regards to
+text-to-speech and voice cloning. Now,
+the three things that matter the very
+most for this business is number one,
+you can clone any voice from as little
+as 10 to 60 seconds of audio. Number
+two, it works in 80-plus languages with
+the same voice and same tone. And number
+three, there's over 15,000 emotion tags
+that let you control how the voice
+sounds, whether it's warm or excited,
+professional, or whatever the message
+may need. So, we're going to start by
+going to products, voice cloning, and
+I'm just going to read this prompt while
+I speak. The system converts written
+text into natural-sounding speech. Each
+word is processed, analyzed for context,
+and generated with the correct
+intonation. The goal is to make digital
+voices sound as close to human
+conversation as possible. Okay, done. 17
+seconds. TTS is text-to-speech.
+Advanced algorithms allow the software
+to interpret nuanced linguistic patterns
+by leveraging deep learning. The engine
+adjusts pitch and rhythm
+to maximum clarity. This process ensures
+that every synthesized sentence provides
+a seamless listening experience for
+users across all digital platforms
+today. Okay, that's freaky and it
+doesn't have to only be 15 or 60
+seconds. If you have like an hour of you
+speaking, giving a talk, something, you
+can just upload that and it will be even
+more accurate. But I honestly don't know
+how it could get more accurate than what
+it spit out from just that 17-second
+memo that I recorded. So, I'm going to
+save that to my voice library with one
+click. So, it discerned that I am male,
+middle-aged, narration, educational, 46
+different voice qualities. Okay, I'm
+going to give it the rights to use my
+voice. Okay, and it is right there. That
+took about a minute. Now, we're going to
+build the actual product. So, now in the
+other window, we're going to open our
+favorite AI tool, Claude, Grok, ChatGPT,
+Gemini, whatever you like. I prefer
+Claude, so I'll roll with that. I'm
+going to say, "Write 10 common real
+estate voicemail messages a realtor
+would leave for clients. Include new
+listing alert, price reduction, showing
+confirmation, offer accepted,
+counteroffer received, inspection
+scheduled, closing reminder, happy
+anniversary of home purchase, referral
+request, and holiday check-in. Keep each
+under 30 seconds when spoken." Okay,
+let's see what this spits out. Okay,
+"Hey Chris, it's Sarah. A new listing
+just hit the market that fits everything
+you wanted. Three bed, two bath, big
+backyard, great school zone. It's priced
+under 400k, will move fast. Call me back
+today and I'll get you in to see it
+tomorrow. Talk soon." So, I could prompt
+this again and say, "Hey, make this
+generic so I can plug and play these 10
+messages into any given property." So,
+don't include any specifics about how
+many bedrooms and bath, prices, square
+footage, etc. But I want to see all
+these specifics in the translation. So,
+I'm just pretending like I'm doing this
+for myself and I have actual listings
+right now. That way I can get a more
+realistic example of what these are
+actually going to look like for a
+realtor and not just generic ones. So,
+in the same chat window, I'm going to
+say, "Translate all 10 messages into
+Spanish, Vietnamese, Mandarin, and
+Portuguese." Why did I pick those
+languages? Because they're very commonly
+spoken here in the United States. You
+could also do Italian, German, French,
+you get the idea. Hindi would also be a
+good idea because with these new visas
+that came out a a years ago, the influx
+of Indians moving to America has
+exploded. Okay, and here they are. We've
+got 10 in Spanish, Vietnamese, and
+Mandarin, and Portuguese. So, I'm going
+to go to the first one, the new listing
+alert in Spanish. I'm going to copy it,
+then I'm going to go back to Fisaudio,
+click on text-to-speech. Okay, there's
+my voice clone. I'm going to click this
+black button, use, and I'm going to take
+this text and replace it with the
+Spanish version of a new listing alert,
+and let's generate the speech.
+>> Hola Chris, soy Sara. Acaba de salir una
+casa nueva al mercado que tiene todo lo
+que querías. Tres recámaras, dos baños,
+patio grande, buena zona escolar. Cuesta
+menos de 400,000. Se va a vender rápido.
+Llámame hoy y te llevo a ver la mañana.
+Hablamos pronto.
+>> Okay, you know what I love about this?
+So, I'm not going to profess to speak
+Spanish, but I did take 4 years in high
+school, and I was the treasurer of the
+Spanish Honor Society at Astronaut High
+School, so shout out. But, no, I don't
+speak Spanish, but I know it well enough
+to know that that kind of sounds like a
+bad accent. That does not sound like I'm
+from Mexico or Spain or that I'm a
+native speaker at all. It sounds like a
+guy that looks like me and sounds like
+me trying to speak a foreign language,
+and I love that. I love that it sounds
+realistic. Kind of blows my mind, to be
+honest. And of course, it still sounds
+like my voice. Let's see what the home
+purchasing anniversary message sounds
+like in Mandarin.
+>> Chris, ni mai fangzi yijing yinian le,
+ni xin ma? Shijian guo de zhen kuai.
+Xiwang ni hai hen xihuan. Xuyao
+gongneng, shichang dongtai, huozhe jiu
+liao liao tian, wo dou zai. Huitou liao.
+>> I mean, it didn't conjugate the verbs
+perfectly, but just kidding. I have no
+idea what I'm listening to. But, yeah.
+Cool. Sounds like Mandarin, I think. So,
+keep in mind, if we want to download
+these cloned messages in their
+respective languages, you need to do do
+one by one, not all together, or it will
+just combine them all.
+>> Chris, ni mai fangzi yijing yinian
+And it gives you two different versions
+of each one. So, cool. All you got to do
+is click the download button. Let's say
+I want the second version, and then
+we're going to go to We're going to go
+to Google Drive, create a new folder
+called voice cloning, and then we'll
+create a subfolder called Mandarin, and
+then inside there, we're going to add
+the file. We're just going to say home
+purchase home purchase anniversary.
+Spell that wrong. Oh, well. That's it.
+We would just repeat that with the other
+languages and the other nine messages as
+well. Now we have like a nice tidy
+package of languages and messages to
+send to an agent. And you know what
+would be creepy but highly effective is
+if we did this proactively before even
+getting in touch with the agent. Imagine
+what our close rate would be if we said,
+"Hey, I've got 40 audio files with your
+voice in four different languages of 10
+different voicemails that you're using
+on a daily basis. Would you like to hear
+these?" Or you could send that message
+before you even make them, and then if
+they say yes, then you go ahead and
+generate them. So, to give you an idea
+of how much it cost me to make these two
+recordings so far, I spent 15 bucks on
+250,000 credits, and I still have
+249,577
+credits left. It's a fraction of a
+percent, so it cost me like 3 cents or
+less to make these. Stupid cheap. We
+don't have to do recurring, right? We
+all want recurring, but people are less
+likely to pay for recurring. So, if we
+can just do this once and sell a
+one-time package, that could be a great
+loss leader or a great way to get our
+foot in the door of the realtor and say,
+"Hey, I know a lot about AI. I can do
+this for you. Why don't I do this for
+you for free, and might cost you like a
+couple bucks in credits, and then we
+look at some other things that I can
+help you with with AI. I can help you
+make or save more money or get more
+leads or respond faster to leads, get
+more listings, whatever it is." And it
+doesn't have to be realtors, insurance
+agents, car dealerships, lawyers,
+medical offices, anyone who serves
+multilingual clients and leaves
+voicemails. In fact, an immigration
+attorney could be perfect for this.
+They've got money and they're only
+dealing with multilingual clients. But
+back to realtors, imagine if you had
+five realtors paying 300 bucks a month,
+that's 1,500 bucks a month recurring,
+18,000 a year. And it's very passive
+once you build this up front. 10
+realtors, you're at 3,000 from a service
+you could deliver from your laptop. And
+keep in mind, this whole realtor
+voicemail thing is just one play. Why
+not like an audiobook narration service?
+Look at how many books and audiobooks
+are being written every year. Most of
+them you will never hear of, but they
+still need their books narrated. And a
+lot of these authors don't have the
+budget to pay a studio or they don't
+have the time, like 12 hours, to set
+aside to record their book in audio
+form, especially when most books don't
+even sell that many copies, right? So,
+there's this perfect dichotomy that
+serves you well. They don't have the
+time to do it. They don't think it's
+worth it cuz they're probably not going
+to sell that many. They don't have the
+budget to pay a professional voice actor
+to do it. So, it's like, "Boom. 500
+bucks, I'll do it for you in your
+voice." And you don't have to spend time
+in a studio or give thousands of dollars
+to a studio. You could charge a couple
+grand for this and they would still come
+out way ahead on savings. The output of
+Fish Audio meets all of the like specs
+that companies like Audible require. And
+of course, you could do multilingual
+versions of those books or faceless
+YouTube channels or YouTube dubbing. I
+dub my channels into 14 different
+languages and it helps me make more
+money cuz I'm able to sell ads in those
+other countries. But it took a lot of
+work to get to that point. You can do
+all that work for YouTubers. Where do
+you get their emails? Right here. Every
+YouTuber's email address is right there.
+Or you can use sites like Upwork,
+onlinejobs.ph to buy email lists of
+YouTubers. You could specialize in a
+niche, specialize in a size of a
+channel, like, "I only clone voices and
+dub languages for YouTube channels with
+100,000 to 500,000 subscribers, etc."
+You can have a voiceover agency for
+local businesses. Every single business
+needs audio for ads or hold messages,
+training videos, phone systems. You walk
+in with samples, charge 200 to 500 bucks
+per project, and deliver it the same day
+in the voice of the owner, or the
+receptionist, or whatever. 300 to 500 a
+month per realtor, or per business owner
+is very reasonable. So, that's 3 to
+$5,000 a month per 10 clients. You can
+add setup fees onto that, 500 bucks to
+$1,000 per new client in setup fees.
+Your only cost is paying for Fish Audio,
+which ranges from this to this. It's
+going to take you like 20 to 40 minutes
+per new client. You don't have to choose
+between doing this for business owners
+or realtors and audiobooks. You can do
+both at the same time. If I were
+starting this from ground zero, and I
+wanted to find my first customers on day
+one, I would sign up for Fish Audio, and
+I would clone my own voice. I'd use that
+voice to generate three sample
+voicemails in English, Spanish, Chinese.
+That's going to be my demo. Day two, I'm
+going to either look through my phone
+list, go to my Facebook friends, my
+Instagram friends, and find all the
+people I know that already real estate
+agents. We all know about a half dozen
+or more. Shoot them a text, take them to
+lunch, proactively clone their voice,
+show them what you did at lunch so they
+can hear it. Be like, "What?" They're
+going to have that wow effect. You're
+going to be much more likely to close
+people that know you personally than you
+are to close a stranger. It's going to
+be much easier to close a stranger once
+you have some testimonials of your
+friends. And they don't need to know
+that your testimonials are from your
+friends. It doesn't matter. If it's a
+happy customer that you served, whether
+they paid you or not, and it's a
+five-star review, then it's a data point
+in your court. It's one more reason for
+them to say yes to a stranger. I
+interviewed a guy that got out of prison
+and started a junk removal business, and
+he found all of his customers by going
+to Dollar Tree, buying like a little
+plastic dish, a candy dish, and then a
+bag of candy, and some business cards,
+and walking in physically to realtor
+offices and leaving the business cards,
+the candy dish, and the candy with the
+receptionist. He started a six-figure
+business out of prison with no
+experience, just a truck, doing that.
+There's no reason you can't do the same
+thing for them. They are begging for
+people to come teach their realtors,
+these broker offices, to come teach
+their realtors on anything, anything new
+and exciting. Bring in some Subway,
+bring in some Jason's Deli, whatever.
+Teach them how to do this for themselves
+for free. Most of them are going to be
+shocked, and most of them aren't going
+to want to do it themselves, even though
+they know how to do it. They're going to
+say, "Can you just do this for me?" Give
+away the secrets, sell the
+implementation. Leave a one-page flyer,
+QR code, pricing, URL, etc.
+Days 3 to 7, I would follow up with
+every single office, or every single
+friend that you went to lunch with.
+Follow up, follow up, follow up. That's
+where the magic is. Weeks 2 to 4, I
+would land my first three clients or
+five. I would deliver it super fast. I
+would over-deliver. I would deliver
+faster than I promised. I would get
+testimonials, five-star reviews, Google
+Business Profile. I would list
+everywhere. And then, month two, why not
+expand to audiobooks, or insurance
+agencies, or immigration attorneys? Same
+service, different script. Guys, the
+audio industry is worth over $10
+billion, and it's growing every year.
+And the cost of production just dropped
+to nearly zero, while the quality
+somehow went up. So, the people who move
+on this right now are going to build
+businesses the rest of the market
+doesn't see coming for another 2 years.
+So, go try it. fish.audio is the
+website. I'll put the link in the
+description. Use code Kerner20 for 20%
+off. Clone your voice, generate a sample
+in another language, hear it for
+yourself. Go build something. Thanks for
+hanging out on the Kerner Office.

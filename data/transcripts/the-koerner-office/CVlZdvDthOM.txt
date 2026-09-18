@@ -1,0 +1,598 @@
+The best way to start a side hustle or a
+full-fledged business is to start small.
+And there's no better way to start small
+than on Facebook Marketplace. Now,
+before you click away, realize that I'm
+talking about Facebook Marketplace in a
+couple different ways. Number one is to
+buy and sell stuff on Facebook
+Marketplace, or to buy stuff elsewhere
+and sell it on Facebook Marketplace, or
+vice versa. And number two is to offer
+Facebook Marketplace scraping either as
+a service or as a piece of software that
+anyone with no coding knowledge or
+experience can build with a couple
+simple tools. But you can't do either of
+these things until you know how to
+scrape Facebook Marketplace. You don't
+know how to code, I don't know how to
+code, but that doesn't matter cuz today
+I'm going to show you how to do exactly
+that. How to get the edge over the other
+billion people on Facebook Marketplace
+who don't know how to scrape, who don't
+even think to scrape. So, in this video
+today, I'm going to give you a ton of
+ideas of how to make money on Facebook
+Marketplace. And then I'm going to show
+you exactly how to scrape Facebook
+Marketplace listings in ways that you
+probably hadn't even thought of. Because
+at the end of the day, it's just too
+tedious and time-consuming to always
+click refresh or always check in or be
+stuck to our phones all day looking,
+refreshing, searching. We want to
+automate all that stuff, and we will
+save time and make more money as we do
+so.
+So, first, let's talk about all the
+different kind of random ways you can
+make money on Facebook Marketplace. What
+search terms to look for, how often you
+should scrape, what types of items, on
+and on. Let's start by talking about a
+local Facebook Marketplace arbitrage
+sniper. A lot of words going on there.
+What I mean is finding items that are
+incorrectly priced, underpriced, and
+finding them as soon as they hit the
+market. You can do this by searching
+terms like must go, free stuff, cheap,
+damaged. You can scrape all the results
+from these listings every 1 minute, 60
+minute, 30 minutes, whatever you want.
+This will ensure you are the first buyer
+for underpriced stuff. And please,
+please, please, don't just click the
+button and say, "Is this still
+available?" Cuz that's what they're
+getting from everyone. You need to stand
+out, and you need to say, "Hey, I'm 5
+minutes from you. I can come get this
+right now. What's your address?" Because
+if something truly is underpriced,
+they're going to be hit up by so many
+people in your area, so you need to
+stand out. And it's actually quite easy
+to do so. Every single day, in any given
+market, people are giving away stuff for
+free worth hundreds or thousands of
+dollars. And oftentimes, you can have
+that stuff sold before you even go pick
+it up. All right, another way you could
+make money with Facebook Marketplace
+scraping is setting up what I call a
+deal feed for local flippers or local
+resellers. There are millions of
+Americans that resell on a daily or
+weekly basis. Some of them do this
+full-time, some of them do it just for
+some side income. You can offer this as
+a service to them without knowing how to
+code. You could do it in an automated
+way by turning this into software with
+some AI tools, or you could do this in
+more of a manual way where you just send
+them a spreadsheet every week with a
+scrape or every day. Believe it or not,
+a lot of people prefer working with data
+in a Google Sheet or a spreadsheet, and
+they'd rather just be in their inbox and
+see that come every morning than have to
+log into yet another tool or app. Well,
+how do you find these customers?
+Facebook freaking Marketplace. They're
+right there. In fact, I'll share my
+screen and show you how to find them.
+All right, you can see here I'm
+searching within 80 miles of Dallas,
+Texas. That gets the whole metroplex.
+There's about 8 million people here.
+That's where I live, and I'm searching
+must go, {comma} free, {comma} cheap.
+This is the best way to search for
+multiple terms in the same search,
+{comma}s. And look, you can see right
+here. This one says free. This one says
+must go. And these ones say cheap, so
+it's working. Now, how can we sort the
+individuals that just sell once a year
+from the people that are selling
+full-time or part-time or as a business
+or side hustle? Well, the only way to do
+it is just start pulling up random
+listings in new tabs. So, on my MacBook
+here, I'm just holding command and then
+click. This seems tedious, but I promise
+you it's worth it. Once we go into the
+items, we're just going to click on the
+seller information. Look, there's his
+listings. So, JB Bueno, he's just
+selling two different things. James,
+look at this. James has four different
+things. Oftentimes, you can tell before
+even clicking into their name if they're
+sophisticated or a high-volume seller or
+not. If it looks like they used AI to
+generate the listing, then they probably
+sell a lot of stuff. Bingo. Jackpot. All
+right, this is very interesting. Also,
+side note, I love using Facebook
+Marketplace just to learn, just to kind
+of put my feelers out there and see what
+kind of schemes people are coming up
+with on a daily basis. This guy, Solomon
+Garcia, he's got dozens, if not
+hundreds, of sold or listings, free
+solar panels. And this tells me that
+this is probably a business owner with a
+fake Facebook account that's installing
+solar. There's something to learn from
+that. Once you find these sellers in
+whatever niche you're in, maybe it's
+appliances, couches, furniture,
+whatever, just start saving the URLs in
+a Google Sheet so you can keep track of
+them. And if you're willing to put in a
+little manual work of finding these
+high-volume sellers, spend time finding
+those sellers in niches that have
+higher-ticket items, multiple hundreds
+or thousands of dollars, not t-shirts
+and stuff. Because if you sell a couple
+t-shirts a week as a side hustle, you
+might be making $30 a week and you're
+not willing to pay $30 a month for
+software cuz that eats into your profit
+margins too much. But if you find a guy
+selling $300 treadmills, multiple a
+week, making thousands of dollars a
+month, or couches, or appliances, or
+whatever, he'll probably pay 30 to $150
+a month for a little tool that helps him
+find more deals or better deals. Also,
+there are Facebook groups in every
+market of flippers, of resellers, of
+liquidation guys or gals. Go in there
+and just start talking about what you've
+built for yourself. Hey guys, this is
+super cool. I just vibe-coded this tool
+that helps me find underpriced listings
+on Facebook Marketplace. Here's how it
+works. What would you change about it?
+If this was yours, what features would
+you add or remove? So, you're just
+talking about what you're building, but
+what you're really doing is selling
+because people are seeing that and
+they're thinking, "Ooh, I want that. How
+can I use that?" I guarantee you the
+vast majority of comments
+[clears throat] on your post are going
+to be people asking that you how they
+can use it. And that is a layup of a
+sale when people are coming to you
+saying, "What is this? How can I pay
+you? Take my money." But, if you go at
+it directly through the front door and
+say, "I just built this tool. It is so
+good. It's only $29.99 per month. Here's
+what it does." People are like, "Yawn,
+[snorts] block, mute." So, sell your
+story as opposed to selling your product
+directly. And what more relevant of an
+audience than a local Facebook group of
+resellers? It's all there. You check
+every box. And guess what? If you live
+in Dallas, you can join a local
+resellers group in Buffalo, New York. It
+doesn't matter. You don't have to be
+local. But, if you are, it makes it a
+little easier to close this deal because
+they feel like you're one of them. All
+right. Now, what about local business
+owners? Hot tub dealers, appliance
+shops, furniture stores, vintage stores.
+These guys are buying and selling on
+Facebook Marketplace as well. You don't
+think of them. We think of just
+individuals doing this from home. But,
+there's a lot of actual local retail
+businesses using Facebook Marketplace.
+Even service businesses. Our tree
+trimming business relies on Facebook
+Marketplace. So, go to them. Use Oxy
+Labs to scrape all those businesses and
+then start doing cold outreach. I'm
+going to give you a full Oxy Labs
+tutorial here in a minute, by the way,
+in this video. So, stick around. You can
+also build alert software. Now, yes,
+Facebook will alert you when certain
+things are listed, but they're not very
+granular or specific. But, I'll show you
+how to build a tool that will do this. I
+mean, look at this. This is the notify
+me settings on Facebook. There's nothing
+here. Location, price, search term.
+That's it. What if I want to be notified
+every time one of these high-volume
+sellers list something? What if I don't
+want to be notified every time something
+that matches my search terms are listed,
+but I want to automatically reach out to
+them and send them a custom message as
+soon as it's listed? We can do that.
+Facebook won't do it for us. What about
+this? What if If a local business? You
+have a tree trimming company. You want
+to see every time people post to
+Facebook Marketplace wanted tree
+removal, need tree removal. Does this
+happen that often? No, but it does
+happen. What's the harm for setting up
+an automation to when anytime something
+like that happens, maybe it's only once
+a week, maybe once a day, once a month,
+doesn't matter, it's automated and it's
+free, basically. You get an email or a
+text that says, "Hey, Mary just posted
+to Facebook Marketplace wanted tree
+removal. Call her at this number." If
+you're a business owner, you could set
+this up for yourself, or if you want to
+offer this as a service, you could set
+it up for any local business. This could
+be a piece of software that you sell to
+the business owner so they can receive
+the leads or the alerts, or you can just
+receive the leads yourself and sell
+those leads to the business owners. Did
+you know you can build a six-figure
+business with only a 10,000 person email
+list? I just talked to the founder of
+Beehiiv and he told me that there are
+people with 10 to 15,000 subscribers
+making more than newsletters that are 10
+times that size. Here's how. Well, this
+one design newsletter with around 15,000
+subs doesn't just sell ads. They run
+two-week online cohorts four times a
+year that generate six figures. And on
+top of that, they're charging companies
+20 to $30,000 to get in front of their
+audience. And that's on one small focus
+list. This is not about going viral
+anymore. It's about owning a niche and
+monetizing it correctly. And Beehiiv
+gives you exactly the tools to do just
+that, like surveys to understand exactly
+who your readers are, or a built-in
+recommendation network to grow
+automatically, paid subscriptions,
+digital products, sponsorship tools, and
+you keep 100% of the revenue. You don't
+need a massive audience to run a
+successful business. You need the right
+system. So, move your email list over
+today and try out Beehiiv with 30% off
+for 30 days with code Chris 30 because
+this might be the simplest, highest
+leverage business that you can build
+right now. Just go to beehiiv.com/chris
+to learn more. That's b e e h i i
+v.com/chris.
+And we haven't even talked about real
+estate yet. You think a real estate
+flipper wouldn't want to know when a
+house is listed on Facebook Marketplace
+that's underpriced? Do you think
+Facebook's native alert system will
+account for only three-bedroom homes or
+only homes listed beneath $120,000
+in a certain zip code? No, but your
+scraper can do that. And those are very,
+very high-value leads. It's the same
+amount of work for you, but you can sell
+these leads for significantly more than,
+say, a tree trimming lead. Have you ever
+seen this social media account called
+Zillow Gone Wild? They have tens of
+millions of followers across platforms
+combined, a website, a blog. It's a
+whole media company, and all they do is
+post crazy Zillow listings. How do they
+find them? They have scrapers. That's
+it. What if you did the same thing? You
+started a media company, but Facebook
+Marketplace Gone Wild. There are so many
+wild things on Facebook Marketplace. A
+pink party bus covered in carpet, but
+there's not really a centralized way to
+find them unless you scrape them
+yourself. What about a niche software
+tool with the word radar in the name?
+Think of a domain name, and you've got
+thousands of entrepreneurs out there
+that flip appliances.
+refrigeratorsradar.
+And it's just like a $5 a month tool
+that just pings people anytime something
+is listed in their market that fits a
+certain search term, a certain price,
+whatever you want to do. Once you build
+that, you copy and paste the website
+into every niche.
+Exerciseequipmentradar.com,
+furnitureradar, couchradar, on and on
+and on. Before you know it, you've got a
+dozen tools, each paying you hundreds to
+thousands of dollars a month. That's
+pretty dang passive. But remember, none
+of this happens until you scrape. Also,
+quick note, this is not a sponsored
+video from Oxylabs. You'll need to check
+if all this scraping is acceptable by
+Facebook's terms of service, and I will
+say you should probably scrape this
+stuff without logging in first. So, this
+should all be publicly available data.
+Okay, let's get into the scraping. We're
+going to start by going to
+aistudio.oxylabs.io.
+That's oxylabs.io.
+I've used other scraping tools in the
+past, but they're just not comprehensive
+enough. They don't do enough. They're
+not AI enabled. And almost none of them
+work with Facebook Marketplace. But
+Oxylabs does. And remember, I'm not a
+coder. I'm not technical. But I know how
+to chat to AI. I can do that. I can type
+on a keyboard. So, I'm here at aistudio
+.oxylabs.io.
+I signed up for an account. I'm going to
+go to apps, AI scraper. Now, if you are
+technical, you might want to do this
+more manually. But even if you are, I
+just don't see a need to cuz the AI
+scraper makes it so much easier. Now,
+when you really start digging deep into
+scraping, you often have to incorporate
+what's called proxies, which is
+basically a tool that tells these
+websites you're scraping from that
+you're not just doing it from the same
+IP address the whole time. It spreads
+out your location to distribute your
+visibility and your risk. Oxylabs has
+all this in-house, so you don't have to
+use a third party for it. I think they
+have like almost 200 million residential
+IP addresses that you can use. With
+Oxylabs, you don't need to worry about
+learning how to write scripts or HTML
+structures, whatever that is. You can
+just focus on building your thing. And
+their AI studio has five different
+tools. They've got their AI scraper,
+which enables you to scrape basically
+anything you need from almost any
+website. You just describe your needs in
+plain English, and then it will scrape
+the data for you. Then they have a
+browser agent that will control your
+browser and mimic human interactions.
+Then they have an AI crawler, which will
+go to a URL. It will crawl all their
+pages and extract all the data that you
+may need. They also have an AI search
+tool. You just describe what you want to
+search, and it will go search the web
+and find stuff for you. And then they
+have an AI map, where it will go and
+explore domains intelligently to find
+the right URLs for whatever your use
+case is. Okay, now I am on the AI
+scraper page inside the AI studio, and I
+need a URL to start with. So, I have a
+friend in North Carolina that makes, I'm
+not exaggerating, $600,000 a year net
+profit flipping sheds, backyard tool
+sheds, mostly used. Here's what he does.
+He goes on Facebook Marketplace, he
+finds people that are moving in or
+moving out of a house. The house has a
+shed, they don't want it, they don't
+need it, maybe it's not part of the
+contract, maybe as part of the contract
+it has to be removed before the new
+owners move in. So, people will list
+them very cheaply or for free on
+Facebook Marketplace because it's heavy,
+it's thousands of pounds, they don't
+know what to do with it. So, my friend
+will go and message all these people
+with sheds. And he'll say, "Hey, let's
+say it's listed for 500 bucks. I can't
+pay you 500 bucks cuz it's a lot of
+money to get my truck over there, and
+it's a lot of work. But what I will do
+is come take it for free." And if he
+messages that like the first day they're
+listed or the first week, they'll
+probably say, "Go pound sand. I'm
+selling this for 500 bucks." But they're
+very quickly going to learn that the
+vast majority of humans, believe it or
+not, don't have a flatbed truck to move
+a fully assembled shed from point A to
+point B. So, then he comes back
+inevitably weeks later and says, "Hey,
+you still have that shed? My offer still
+stands. I'll come get it for free."
+Because the thing is, if they don't get
+rid of it for free, they're going to
+have to pay money to a junk removal
+company to come break it apart and take
+it away, or they're going to have to
+rent a roll-off trailer for 500 bucks,
+and they're going to come out of pocket.
+So, free is a lot better than paid,
+obviously. And then, if people have a
+shed that's listed for free, he'll get
+them on the first day and say, "Hey,
+I'll be right there with my flatbed
+truck." He has a flatbed truck now with
+this little kind of like a mini
+forklift, I don't know what they're
+called. But for his first year or two,
+he just rented them. He would set up all
+of the pickups on the same day, he would
+go rent a truck so he could do this
+business more affordably, and he would
+just have a little route and he'd go
+pick up all the sheds, drop them off at
+his lot. Or, better yet, what he learned
+over time is he would go pick up the
+sheds, and then he would already have
+them sold on the same day that he would
+pick them up. Because the difference
+between a Facebook listing that says,
+"Hey, $500 shed, come get it." versus a
+Facebook listing that says, "Hey, here's
+that same shed for $2,000, but I'll
+deliver it to you for free. You don't
+have to pick it up. You don't have to
+drop it off. You don't have to set it
+up. It's four times as much, but you're
+not going to have to do a thing." And of
+course, people want that cuz they have
+no way of getting the shed themselves.
+So, with that said, I'm going to use
+this very real example of my friend that
+does this as a business that I think
+other people should do this, too. And
+we're going to scrape sheds in the
+Dallas-Fort Worth area. Okay? Okay. So,
+my search term, shed. That's it. Within
+80 miles of Dallas, Texas, which you
+could see that is the entire metroplex.
+Now, I'm going to get the URL up here
+and I'm going to copy it and I'm going
+to come back to my scraper and I'm going
+to paste the URL. Okay. Geolocation,
+optional. We're not doing really heavy
+scraping here. Doesn't really matter,
+but I'm just going to choose United
+States. You don't have to choose
+anything, but it works for me. Now,
+render JavaScript. I don't know what
+that means, but I do know that you want
+to click always because that's what
+ChatGPT told me to do. I'm just being
+real, guys. Output format for now, we're
+going to do JSON.
+Okay? And then I'm going to click
+provide your own schema. Okay. Now, I
+have to fill this out right here. I'm
+just going to paste something there. And
+don't worry, if you look in the
+description below this episode, I have
+this linked, so you'll just go in here,
+copy it, go back here, click edit,
+delete the old stuff, paste the new
+stuff. All right, we're going to click
+visual editor, add field. First field
+will be
+listings
+and the category will be array. Now, we
+see this array items. We're going to
+change that to object. Then we're going
+to click add property to object items.
+Then we're going to do title, leave it
+as string, price, leave it as string,
+location, and if you can't tell, these
+are the things that we're asking the
+scraper to scrape for us. The title of
+the listing, the price of the listing,
+the location, and then the URL. Leave
+that as string. And then image because
+we might as well scrape the image URL as
+well. Click apply changes. Cool. Looks
+good to me. Then we're going to click
+scrape and parse and wait. All right,
+beautiful. That took about 7 seconds,
+give or take.
+And each kind of cluster of data right
+here is a scrape, is a listing. So you
+can see new 16 by 12 shed, $6,300,
+Dallas, Texas. There's a URL. There's
+the image. So it looks like it scraped a
+bunch. Scraped a bunch. But what do I do
+with this data? I don't know anything
+about JSON. So I just want CSV. I want a
+spreadsheet, right? So I'm going to
+click CSV and I'm just going to scrape
+the same stuff again, but it will give
+me a better output. Boom. There we go.
+We're going to click download CSV and
+then I'm going to go ahead and paste it
+into a Google Sheet. That way I can
+share my screen a little more easily.
+There it is and I paste this from the
+Google Sheet. And there we go. So it
+looks like it scraped 24 listings for
+me. It's formatted perfectly. I've got
+the image URL, the city, the price, the
+title. And if I want to click to
+directly into the listing, there it is.
+Beautiful. Now we can see just in one
+place what's cheap, where everything's
+listed. And if we want to go a step
+further and find out when they listed
+it, Facebook Marketplace makes this a
+little tricky, but it's totally
+possible. If you go back here, you're
+going to paste the URL of the exact
+listing, not the search result of a
+term, but the specific listing. Then you
+open the visual editor and you're going
+to add a new property and you're just
+going to do timestamp.
+Boom. And then you just run the scrape
+again. So once you have this data, this
+is step one. You can go a million steps
+further, go into Zapier, z a p i e
+r.com. You'll add schedule by Zapier as
+a trigger and you can say, "Hey, run
+every hour, every day, every week,
+whatever." And then you can put in the
+action to run this scrape or to notify
+you that this scrape was ran, etc. And
+if you want to vibe code an app that
+utilizes this, Oxylabs has a very robust
+API. You can upload your API key to your
+app in the Vibe coding platform like
+Replit, Lindy, Lovable, yada yada yada,
+and they'll talk to each other
+seamlessly. So, you can actually build
+an interface out of this and sell it as
+a service. But for now, just to get your
+feet wet, just to get some momentum,
+build a scrape. Go flip some treadmills.
+Go sell some software. Go DM some
+people. And thanks for hanging out on
+the Corner Office.

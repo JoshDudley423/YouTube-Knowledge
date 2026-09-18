@@ -1,0 +1,637 @@
+Hey, has anyone checked in on Craigslist
+lately? Lucky for you, I just did and
+it's doing fine. In fact, Craigslist is
+doing great, but we want to make money
+with it. So, that's what this video is.
+All the time I'm talking about scrape
+this, scrape that. All right, let's go
+check on scrape leads. There we go. I'm
+going to scrape some real estate agents
+phone numbers. Data scraper and I'm
+going to say garage door. You just go to
+data scraper. I'm just going to look at
+RV parks right now. All right, let's see
+if our scrape [music] is done. Boom. But
+how can we scrape and make money with
+Craigslist and what tools can we use to
+do that? So today I am going to talk
+about this many ways you can make money
+by scraping Craigslist and doing really
+creative profitable things with that
+data.
+But first, let me tell you a quick
+story. I was in college. I was on
+Craigslist all the time. And if you
+remember back in the day, you had to
+unlock phones if you wanted to use them
+on different carriers. Well, one day I'm
+on Craigslist and I noticed, huh, a
+locked iPhone is worth $300, but an
+unlocked iPhone is worth $350 to $400.
+And then I went to eBay and I saw people
+selling iPhone unlocks as a service for
+$5. So, I thought, huh, $5 to increase
+the value of your phone by $50 to $100.
+That's interesting. So, I went and
+bought two domain names. And you can
+still go to the wayback machine or the
+web archive and see the original
+versions of these sites from like 17
+years ago. It was $10 ununlocks.com and
+$20 ununlocks.com. And what did I do? I
+spent hours and days building this
+elaborate scraping tool to go to
+Craigslist, scrape every single iPhone
+listed worldwide that was locked to a
+carrier, Verizon, T-Mobile, Sprint, and
+AT&T. And then I would scrape their
+email address and send them an email or
+a text that said, "Hey, I see you're
+selling an iPhone on Craigslist. I see
+that it's locked. Did you know it's
+worth $50 to $100 more if it was
+unlocked?" Just so happens I can do that
+for you at $10un unlocks.com. And the
+second version of that message was the
+exact same except at $20 ununlocks.com.
+I just wanted to know how many more
+people are willing to pay $20 verse 10.
+It was an AB test. It took me way too
+long to get this kind of gimmick up and
+running, but once it was, I was making
+money in my sleep. Literally making
+money in my sleep because I created an
+automation where someone would go to my
+website, check out, they would put in
+the IMEI, which is like the serial
+number, the IMEI number of their phone.
+It would send that to a guy on eBay that
+I just messaged and said, "Hey, can you
+just bill me like once a week? I'm going
+to send you a bunch of IMEIs and then
+I'll pay you five bucks per at the end
+of the week." He said, "Sure." I would
+send them all to that guy and then he
+would unlock the phone within an hour
+and I didn't have to do anything. I
+didn't have any customer support, no
+follow-up. I just started making 10 and
+20 bucks at a time and I was making
+hundreds of dollars a day in pure
+profit. Now, as all good growth hacks
+go, this eventually died and went the
+way of all of my other creative growth
+hacks. But that taught me something very
+valuable, and that's scraping is
+profitable. Couple years later, I
+started an iPhone parts wholesaling
+business. Where did I get all my
+customers? I scraped 20,000 iPhone
+repair shops. Every single iPhone repair
+shop in the United States in 2012. And
+then I had virtual assistants start cold
+calling them. And I turned that into a
+business worth over $10 million that I
+eventually sold in 2019. Scraping.
+Scraping. Scraping. So, a lot of what I
+do starts with a scrape. And there's a
+lot of really slick tools out there that
+enable you to scrape just about anything
+without any coding experience. But
+Craigslist was always a tough nut to
+crack. And don't listen to people that
+say Craigslist is dead. Facebook
+Marketplace killed Craigslist cuz
+everyone can look. It's still getting
+millions of views every month. Just cuz
+you're not using it, doesn't mean no
+one's using it. So, let's talk about how
+to scrape Craigslist with a super easy
+tool that I wish I had 15 years ago when
+I built this myself. And then let's talk
+about exactly what to scrape, how to
+make money, how to get creative, how to
+do cold outreach to all these people.
+So, the tool in question is Oxyabs. It's
+basically scraping plus AI equals very
+easy scraping for the nontechnical
+person like me. Now, they do have some
+parts of their website that can be more
+complex if you're more technically
+minded, but I'm going to go to
+oxyabs.io/tkopod
+because only there can I just type a
+simple prompt and have it scrape stuff
+for me. There may be other tools that do
+what I'm about to show you, but I've
+never used them. I have no idea if they
+exist or if they're any good. whereas
+this is one I use regularly. Once I'm
+here, I'm going to click on AI scraper.
+Now, over here in this other tab, I'm
+going to pull up Craigslist,
+specifically the Dallas Craigslist
+because that's where I live. And before
+I talk about my ideas, I just want to
+start ideating, right? I just want to
+start browsing Craigslist as a user and
+see what comes to mind. And I'll walk
+you through kind of how my weird brain
+looks at this. I'm going to start by
+going to for sale household. Okay, you
+got someone selling a blender listed 10
+minutes ago, 21 minutes ago, 21 minutes
+ago, 38 minutes ago. You can see that
+this is very active. This is one of
+hundreds of different sections of
+Craigslist in just one of hundreds, if
+not thousands of Craigslist markets, and
+people are posting every 5 to 15
+minutes. Now, this is mostly just crap.
+People are selling stuff. You do see
+some people offering services,
+countertops, flooring, etc. Richard
+Petty, wedies box. So, that makes me
+think, huh, I should build some sort of
+an agent that can cross reference stuff
+on Craigslist with eBay because maybe
+there's some arbitrage to be found. And
+if you're not familiar with arbitrage,
+it basically means finding something at
+a specific price over here and selling
+it for a higher price over there. Okay.
+So, now what I'm going to do is I'm
+going to type in one of the most
+legendary keywords ever for any
+marketplace, and that is need gone.
+Those are the desperate motivated
+sellers. Parakeetses bed frame. Cool. A
+lot of this stuff is probably free or
+they'll pay you to take it like in the
+case of a piano. Now, I'm going to
+search
+wanted. Now, remember, if someone is
+posting to a marketplace with the word
+wanted, they're saying, "Take my money.
+I want to spend money on something." So,
+then what you need to do is go find the
+seller for that thing. You've got a
+buyer, which is usually the hard part.
+You need to go find a seller. Why not do
+that at scale with an automation? You
+can't build an automation until you
+scrape the supply side of the
+marketplace, which in this case is
+Craigslist. Another thing you can do, oh
+man, this is giving me all kinds of
+ideas, is find both the buyers and the
+sellers on Craigslist. This guy right
+here, small and large motorcycles wanted
+in any condition. So, this guy's wanting
+to pay money for small and large
+motorcycles. Why? He probably flips
+them. Cool. Will he pay you to source
+them for him? most likely, especially if
+he can still make a profit on his flip.
+So, what's stopping you from scraping
+and doing cold outreach to every
+[clears throat] marketplace you can find
+to find motorcycles and to send the
+leads his way? Now, you don't want to be
+in the motorcycle buying business, but
+you could certainly be in the, "Hey,
+every time I send you a lead, it's going
+to be five bucks" business, right? I'll
+swipe your card every time I send you a
+lead. That guy's wanting to buy old
+dimes and quarters. This guy's buying
+pinball machines. Freaking awesome.
+There's just so many little side hustles
+going on in here, but I'm getting
+distracted. So, let's lock in. Let me
+show you how to scrape this stuff. Okay,
+so to scrape Craigslist, I want to start
+with a active category where people are
+actively transacting, right? I don't
+want to go on the misconnections or the
+ride share or the discussion forums.
+Obviously, we're going to the forale
+category, not the subcategories,
+household, farm, equipment, etc. Just
+the entire forale category. We're going
+to copy the URL. Then we're going to go
+back to this AI scraper and we're going
+to paste the URL right there. We're
+going to choose a location for the
+scraper server basically United States
+because that's where I am. Render
+JavaScript. I do know that I want to
+check always. Okay. And then output
+format. I want to do CSV. That's a
+spreadsheet. I can work with
+spreadsheets. Now schema. Provide your
+own schema or generate schema. What a
+schema is, I think, is like the output
+format of the data. What do I want to
+scrape exactly? Prices, listings, the
+name of the person listing it, the email
+of the person listing it. There's a
+zillion things we could scrape. So, this
+is where the technical knowledge would
+come in handy if Oxyab's AI scraper
+wasn't as good as it is, but we don't
+need to worry about that. So, we're just
+going to use plain old English and some
+commas. So, let's do price,
+URL,
+location,
+title,
+date, and generate schema. And that's
+date listed is what I'm referring to.
+Okay, there's the parsing schema,
+whatever that means. Now, let's see if
+this thing freaking works. Scrape and
+parse. Click. I'm going to time it. It's
+3:30 exactly.
+Okay, right here. What time is it? 3:31.
+This took about a minute. There's my CSV
+data. But is it any good? I don't know
+yet. I'm going to download it and I'm
+going to paste it into a Google sheet.
+So, you can see it cleanly right here in
+my browser. Boom. There it is. That's
+exactly what it scraped. It took a
+minute. And we've got
+168 different items. It has the location
+as requested, the URL. Done it and it
+works. Awesome. the item title, the
+price, the location, items date. There's
+nothing there. And I bet that's because
+that's not what that data point is
+called. So, let's use AI, our little
+friend. We're going to go back to the
+original for sale URL. Rightclick it.
+View page source. I'm going to highlight
+all of it. Command C for copy. Then I'm
+going to go to chat GPT. Okay. So I want
+to ask JBT what is scrapable in
+Craigslist specifically in the for sale
+category?
+What all can I scrape on this Craigslist
+page? And what are those items called
+for the parsing schema? And then I'm
+just going to put the URL. We'll see if
+it can work with that. Okay, so this is
+what it told me is scrapeable. So, I'm
+just going to say I'm going to
+screenshot those.
+Put all those in a commaepparated list.
+Okay. So, we're going to go back to
+Oxyabs. We're going to go generate
+schema.
+We're going to paste all those. So, this
+is basically going to scrape every
+single thing that's scrapable. Generate
+schema, scrape, and parse. And it is
+339. Let's see how long this bad boy
+takes. Okay, 340.
+Took about a minute. We'll download
+this. We will put it in the spreadsheet.
+All right, this is beautiful. You are
+going to love this. So, we'll remove all
+the old stuff, paste in the new stuff,
+and look at all this. Okay, nothing here
+because there's no there's no map. True.
+If there's a picture, all of these have
+pictures. location, which Craigslist
+refers to as hood. Cool. You even have
+the timestamp of when it was posted
+right there, the price, tags, if any,
+the title of the item, and the URL of
+the item, which it seems to work just
+fine. Now, you know what? Just for fun,
+let's go back to Chad GPT and say, "Hey,
+at first glance, which of these items
+are underpriced? Where can I make
+money?" Listen, I have a little soap box
+for a second. All of us are using really
+powerful interesting tools on a daily
+basis. And then at the same time, we
+have these awesome business ideas or any
+idea. It doesn't have to be a business
+idea. And then we start thinking like,
+uh, how do I do that? How do I execute
+this? How do I start this business? When
+we're already using the tools needed to
+start that business, right? Like, huh, I
+really want to start a business where I
+buy an excavator and rent it out, but
+how am I going to find customers? I got
+to learn Facebook ads. Huh? I just don't
+I don't know how. Dude, you're already
+using Facebook Marketplace to replace
+the couch that your kids ruined in the
+game room. That's a very powerful tool.
+Why not use that tool to find customers
+for your new excavator rental business,
+right? Like, we need to connect the
+dots. And so, I'm over here thinking
+like, how can I make money with scraped
+Craigslist data while using ChatGpt to
+help me scrape the Craigslist data? Not
+even thinking, oh, I should use Chat GBT
+to give me ideas of how to make money
+with scraped Craigslist data. So, I'm
+just going to copy the exact columns of
+the price and the item title, paste it
+into JGBT, and say, "Where's the alpha?
+What's interesting about this to you?"
+And even if I don't like its specific
+answers, it's going to tell me things
+that help me generate more ideas on my
+own.
+Okay. Okay. Very likely underpriced. You
+got a battery here for 60 bucks. Says it
+could be worth 100 to 150. Sony 24 70
+millimeter lens 1650 that usually clears
+1900 to 2100. So right off the bat I'm
+thinking, "Oh, I could just flip stuff.
+I could just flip stuff." And that's
+another framework. If Craigslist is
+dying, it is dying. Like I will admit
+Craigslist is dying. Millions of people
+still use it, but it has been shrinking
+year after year. If that is true, then
+how can we use that to our advantage?
+Well, that means that there's an
+arbitrage opportunity. Most people
+listening to Craigslist are probably
+only listening to Craigslist because
+they're not on Facebook much. They don't
+have the Facebook app on their phone.
+Like I don't want to say they're not on
+Facebook because everyone's on Facebook,
+but they just don't think to use
+Facebook marketplace. Just like I don't
+think to connect certain tools to
+certain ideas. We're human, right? We're
+flawed. And so if a large percentage of
+these people are only posting their item
+to Craigslist, but there aren't enough
+people looking for or at their item on
+Craigslist, then that means it's
+probably underpriced. Because what does
+economics 101 tell us? High supply plus
+low demand equals low price. So that
+could be an entire business just buying
+stuff from Craigslist and then selling
+that same stuff without adding value to
+it or improving it on Facebook
+Marketplace. That's like the lowest
+hanging fruit without any sexy apps or
+automations or having to do cold
+outreach just piggybacking on these
+giant tech companies to find all the
+customers for us. And when someone's
+selling a Dallas Cowboys Tom Landry
+rejection letter. Okay, first of all,
+what is stopping me or you or anyone
+from just taking all this stuff that we
+scraped from Craigslist and listing it
+as if we already own it to Facebook
+Marketplace? Not in an unethical way,
+not because we're trying to scam people
+or mislead people, but to gauge demand.
+Oh, this Sony lens is $1,000 on
+Craigslist. I think I can get it for
+$800 and I think it's worth 1,200. Boom.
+Let's say we get it for 900. We meet in
+the middle. Go to Facebook Marketplace.
+You list it for 1,400. You settle on
+1,200. You just made 300 bucks profit
+simply by buying from one platform and
+selling on another. This is a,000%
+realistic and doable. And people do it
+all day every day. It's called retail
+arbitrage. People will go to Walmart.
+They'll see something on the clearance
+rack, 40% off. They'll scan it with an
+app. Then they'll look on Amazon and
+see, oh wow, this thing is $113 at
+Walmart, but these sell for $225 on
+Amazon. I'm just going to list it real
+quick from my phone and then I'll buy
+it. Or I'm going to come back and buy it
+only once it sells. So I'm out of pocket
+$0. I'm not inventing retail arbitrage.
+I'm just showing you a new way to do it.
+Free couch. LG washerdryer. Let's take
+this a step further. Let's go up the
+food chain, a little higher ticket,
+right? Because we don't necessarily want
+to flip $30 Pokemon cards. Why not buy
+lunker cars for $2,000 and sell it for
+$3,000 without having to fix it up? And
+hey, that actually reminds me of another
+business I used to have. I built a
+scraper that would go scrape Zillow,
+which by the way, Oxyabs can scrape
+Zillow as well. would scrape Zillow
+every single day for the FSBO listings
+for sale by owner and I would auto text
+them an offer on their house that was
+40% less than the Zestimate and 97 98%
+of people either didn't respond or said
+go kick rocks leave me alone and 1 to 3%
+of people would say let's talk yeah I'll
+take that it's a numbers game guys and
+the higher the ticket of the item the
+fewer numbers have to work in your favor
+for you to make good money so let's do
+this with cars. Back to the Dallas
+Craigslist for sale cars, trucks. Now,
+let's do some filtering because I do not
+want to mess with dealerships. I'm going
+to assume that those are unfairly priced
+to their benefit and I won't find any
+good deals there. I'm going to go to
+posted today only because if it was a
+good price posted 4 days ago, it's
+probably gone.
+Sold by owner. And look at how many of
+them. like 10 to 20 every single hour
+just in Dallas. And then I want to parse
+this other data like how many miles it
+has. So we're going to take this URL and
+go back to chat GPT and say,
+"All right, here's my prompt. Okay, I
+want to parse cars for sale data from
+this page." And I entered the URL. Give
+me a commaepparated list of all the
+things I can scrape such as mileage.
+>> All right, Chris, let's run with a All
+right, sure thing.
+>> Okay, we're going to copy that. Going to
+go back to the AI scraper. We're going
+to click generate schema. Paste in the
+new list. We're going to take the same
+URL that we just gave chat GPT. Paste it
+there.
+JavaScript CSV generate schema. Cool.
+Generate schema.
+Okay, there's the schema. Scrape and
+parse. And I just want to harp on that
+point even more, guys. More eyeballs
+equal more money. Think of the dumbest
+business idea in the world. Okay? Like
+pet rock dumb, but even dumber. I'm
+looking out the window. Let's say I see
+my fence in my front yard. Let's say I
+want to sell fencing panels that have
+Pokemon characters on them, right? Giant
+Pokemon characters on fencing panels.
+Pretty objectively a dumb idea, right?
+What if Elon Musk tweeted about that
+idea with a link to the website? Do you
+think people would buy it? Would anyone
+buy it? Of course, not because it's a
+good idea, but because of the law of
+large numbers, which means that if
+enough people look at it, someone's
+going to buy it, right? Someone. Because
+the marketing is there, the eyeballs are
+there. Now, similar principle, different
+example. Let's say I have a single
+family home that I rent out and the
+market rental price for that home is a
+thousand bucks. It's three-bedroom, two
+bath. My neighbors are a thousand bucks
+a month. People across town are a,000
+bucks a month. That's just what they go
+for. So, how are you going to get more
+money for it? You're going to get more
+eyeballs on it, right? If you have a
+hundred people walk through that house,
+do you think you could get 1,300 bucks a
+month for it? Yeah, you probably could
+because a few of those people are going
+to really, really love something about
+it. The layout, the location, something.
+and they're going to value that feature
+more than they value an extra $300 a
+month, right? That's why arbitrage
+opportunities exist because you buy from
+a place with fewer eyeballs and you sell
+it on a place with more eyeballs.
+Therefore, the price goes up. Okay,
+beautiful. My data is scraped. We are
+good to go. We're going to go back to
+our trusty old Google sheet. We're going
+to clear it. We're going to paste it.
+What do we got? Okay, look at this. Body
+type. Most people don't list out all
+these features, right? You can see
+sedan, pickup, four-door, okay?
+Cylinders, condition, drivetrain, engine
+displacement, exterior, color, fuel,
+yada yada yada. Make, Volvo, Toyota,
+etc. Mileage, almost every single car
+has mileage, and model, okay, price,
+title, etc., and year, and link. Okay,
+cool. Now, this is kind of a lot of data
+to work with. So, I'm going to
+redownload this as a spreadsheet. We're
+going to go back to Trust Deal Chad GPT.
+We're going to upload it here.
+My prompt, where are the best card deals
+in this sheet and why? Be specific and
+look at the titles to see if it's
+running or not. because if they see a
+2010 Toyota Camry listed for $2,000 and
+the title says it's not running, it
+might not be a good deal, right? Okay.
+All right. Best deals running,
+flippable, mispriced. 2016 Jeep
+Wrangler, 3500 bucks. Title does not say
+parts only, not running or mechanic
+special. 2001 Corvette, 11,000. 2008
+4Runner 6,400. Now, if you want to go a
+step further, you could open agent mode
+on chat GPT and say, "Cool. This is
+awesome, but I'm still not sure. There
+could be something in the description
+that changes the outlook of this for
+me." So, go to cars.com, go to
+autotrader.com, and cross reference all
+this data to be sure that this is
+actually a good deal. And then you can
+start eliminating. And then, if you're
+watching this thinking like, "Well, I
+don't want to get in the car flipping
+business." No, no, no, no. Stop. That's
+not what we're talking about. You could
+take these leads, you could sell them to
+car flippers. You could take these
+leads, you could sell them to
+dealerships. You could take this car,
+take the same pictures, the description,
+post it on Facebook Marketplace. Oh,
+this Wrangler's listed for 10,000 over
+here. I think it's worth 12. I'm going
+to list it for 11 on Facebook
+Marketplace and say, "Firm,
+non-negotiable on price." Then you make
+a,000 bucks. Also, that reminds me, I've
+had another business in the car business
+where I scraped car data. It was called
+Presto Cars. We would go to auctions,
+Mannheim and Adessa auctions, and we
+would buy cars for people, me and my
+business partner Nick. And before the
+auctions, the night before, we would
+scrape all the auction data and find
+alpha, which of these cars are probably
+mispriced based on previous auction sale
+results. So, I hope this stuff gets you
+as excited as it gets me. And you know,
+a lot of times in business, you see data
+like this, you get super excited, and
+then you go start launching something,
+and you find out, oh, this isn't as good
+as I thought. That's okay. push through
+that. That's called the trough of
+despair. That's normal. You got to push
+through that. Don't quit there. Just
+keep going. Now, what other things can
+you do with scraped Craigslist data? How
+about you make a niche job board?
+There's a lot of people out there making
+a lot of passive income. And you know, I
+don't say that very often with job
+boards. You scrape jobs from Craigslist.
+You populate your job board and then you
+drive traffic to your job board. How do
+you make money? You charge businesses to
+list their jobs. I hope by now you've
+realized that Oxyabs is awesome. It's an
+awesome tool. They're a friend of the
+channel. They have 175 million proxies.
+And if you don't know what a proxy is,
+it basically helps you scrape better
+because it masks your location so these
+websites don't think you're scraping
+everything from just one location. If
+you want to use Oxyabs, please use my
+link below at oxyabs.io/tkopod.
+Also, I neglected to mention their AI
+studio tool is completely free for you
+to use. If you want more advanced
+scraping, you can go buy scraping
+credits that are super affordable. I
+asked my team to go ahead and implement
+coupon code for you guys. If you want to
+use Oxyabs, just do TKO pod for 20% off.
+This works with both their AI studio and
+all of their other products. Thanks for
+checking out the Kerner office and we
+will see you next

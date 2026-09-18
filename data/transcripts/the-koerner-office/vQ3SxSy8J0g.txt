@@ -1,0 +1,1502 @@
+I'm here to report back. The state of
+corporate America is worse [music] than
+you're assuming. It's worse than the
+echo chamber that Twitter is paints it
+to be. They know nothing. You get in
+there really quickly, you're going to
+see, holy crap, they don't even know how
+to like Google something, let alone use
+AI. To most people who are sitting there
+that want to be entrepreneurs that want
+to figure out how do I do something with
+AI? [music] I'm going to say something.
+But I think it's going to shock you. I
+think it's going to shock your audience.
+>> How do we make money here, Nick?
+>> Chris, I promise you we are going to get
+there.
+My friend Nick is an AI genius. If you
+are an OG to this channel, you've
+probably seen him on these episodes we
+call Hold Cobros that you'll see right
+here. Well, he's been gone for 4 months.
+He quit everything for 4 months, went
+underground, and spent hours per day, 10
+plus hours every day learning AI and AI
+agents and how to monetize AI agents.
+And so I had him back on for the first
+time in months today to explain, Nick,
+what have you been learning and how can
+we make money from it? I made sure that
+he broke everything down in a
+user-friendly, easy to understand way.
+So, if you've ever wanted an AI agent or
+assistant to run your life or to be able
+to charge a lot of money so an AI agent
+can run someone else's life, this is the
+episode for you. A warning to our
+viewers, your brain might explode. I
+want you to prove this tweet wrong.
+That's the purpose of this episode.
+Okay.
+>> Really? I'm in.
+>> Yeah. All right. I'm going to read this
+out loud to you. You ready?
+>> 100%.
+>> Dude, I [clears throat] have 10 agents
+running while I sleep. No one is
+prepared for AGI in 2 years. So, what
+are you building, bro? All my smartest
+friends are vibe coding until 3:00 a.m.
+every night. It's all about agency.
+Intelligence is a commodity, man. So,
+what are you building? Do you even study
+exponentials? Have you seen the latest
+METR chart? You're going to be stuck in
+permanent underclass, bro. So, what are
+you building? Did you even set up
+OpenClaw? I'm maxing out my token budget
+every day, man. So, what are you
+building? I promise you, I'm 10x more
+productive, bro. You just don't
+understand. Please, bro. Just I know you
+use this stuff every day, too, but you
+must not be prompting right. Jeez, bro.
+1.3 million views,
+>> dude.
+>> Prove me wrong.
+>> Go to my profile. Swipe right. Swipe
+right. Swipe right.
+>> That's That's That's my [laughter]
+profile.
+>> That's mine.
+>> All right. Scroll down there.
+>> There. Click on that one.
+>> Okay,
+>> dude. So, I can keep the lights on and I
+just like read all night. It's insane,
+bro. So, what are you even building,
+though, [laughter] bro? You don't
+understand. My smartest friends are
+running copper wire through the walls
+and can ring a bell on the other side.
+Yeah, but what are you even building?
+Didn't you see they're throwing lights,
+like actual lights on a Christmas tree
+at the Edison office? They just freaking
+decorations, bro. But what are you
+building, dude? They're projecting
+pictures onto a wall and people are
+paying money to watch that. Like, this
+technology runs everything. Everything.
+That was my response to this freaking
+dude's tweet.
+>> I didn't know you responded to this. I'm
+completely surprised. I never saw this
+tweet. [laughter] This is amazing. Okay.
+>> Yeah. Because it's like it's like, okay.
+Yeah. 99% of the things that people are
+messing around with don't have a use
+case and they won't have a use case. But
+how are people supposed to build the
+skill?
+>> Muhammad, edit out Nick reading that
+tweet because it makes me look bad.
+Sorry, keep going. [laughter]
+>> No, dude. But you you know what I mean?
+Like the original tweet has a point.
+What are you building? What have you
+built? Right? Cuz who's that guy? Alex
+Finn, I think, who's like every single
+day coming on to Twitter and he's like,
+"Bro, this freaking changed my life my
+life." Like he what has he really built?
+I don't even know what he's actually
+built. But the flip side is this
+technology is changing so quickly.
+People are learning it so quickly. By
+the time you actually start seeing
+results, it's game over, bro. It's so
+soon in the cycle to be pulling out the
+what are you even building? What are you
+even done with that? We don't know. We
+don't know what it's going to look like
+yet. And the reason I pulled up the
+analogy of electricity and Thomas Edison
+is because there was a big lag. Like it
+was a novelty for a long period of time.
+Like what are you going to do with
+electricity? Oh, oh, you can light your
+house, are you? you're gonna read books
+after hours, are you? You know what I
+mean? Like people just didn't get it
+until all of a sudden people got used to
+the new technology and creative people
+were like, "Huh, I think I could use
+this for, you know, whatever it is." And
+pretty soon we've got our modern
+technology. So, I just think it's a a
+pretty dumb way to approach it. What do
+you think?
+>> I'm convinced you sold me. I'm that
+easily influenced.
+>> Yes. Yes. I'm an influencer.
+>> You're an influencer of influencers.
+>> Can I show you something
+>> real quick before we pivot? I just want
+to add an analogy to your analogy of
+electricity. So last night I went to
+Chipotle with some kids at church that
+are starting a business. They bought
+this printer. It's not a 3D printer.
+It's not a normal printer. It's it's a
+printer that can print anything on
+anything. Okay? So like if you want to
+like engrave your Tumblr, you know, and
+it has a rounded surface or make a
+t-shirt or whatever or make like a 30-
+foot long banner, you can print it. And
+so they wanted business ideas from me.
+And where we finished the conversation
+was like, dude, you need to put this in
+your backpack, take it to school, plug
+it in, and print stuff on demand. Like,
+you need to use this as your vehicle for
+rapid testing and prototyping because
+there's an endless amount of things you
+can print. You can print anything on
+anything. Like, you could print the the
+wrestling team's weight classes on their
+shirts. Cool. You could print like
+they're on the track and field team. A
+lot of the track and field runners, they
+customize their spikes, right, on their
+shoes. You could print something on that
+like their PR on the spike. Like we
+could sit here for 10 hours and just
+scratch the surface of all the ways you
+could make money with this thing, but
+don't try to go down those rabbit holes.
+Just use this as your rapid testing
+machine and just learn where's the
+demand. How much will people pay? What
+colors do they like? Do they want
+tumblers? Do they want their phone cases
+engraved? Stickers, whatever. That's
+what you should do with this. And leave
+your options open and then just chase
+the energy. And what we're talking about
+here is like use claude, use AI, use
+LLMs, use agents as your rapid testing
+vehicles. Like use it to have fun and to
+learn, but to don't don't get married to
+anything just yet. Just be ready to
+pounce. And when something comes up,
+you're going to have all the skills
+necessary to execute on that thing.
+>> I'm going to say something right now
+that I think is going to shock you. I
+think it's going to shock your audience.
+To most people who are sitting there
+that want to be entrepreneurs, that want
+to figure out how do I do something with
+AI, I'm going to say something. Go get a
+job. 100%. go get a job and I'm going to
+prove to you right now why I think it's
+I I think it's the best thing that you
+can do if you're earlier in your career
+especially to work for a company. So,
+first thing I'm going to show you this
+is nuts. Chris is like I'm going to hold
+it in. I'm I'm going to give him some
+rope. I'm going to give him some
+latitude here. I just love that you're
+speaking in like Steven Bartlett clips.
+You're like I'm going to say something
+that's shocking to everyone in the sound
+of my voice. Clip it.
+>> Oh my gosh.
+>> Send it.
+>> If you're on Twitter, you've seen this.
+This is a graph or
+>> explain to our audio listeners.
+>> Yeah. So this is a chart or a graph with
+200 dots. Each dot represents 3.2
+million people. So effectively what
+we're doing is we're showing the entire
+population of the world. 8.1 is in
+there. Yeah. 8.1 billion people. Most of
+the dots are gray and then you've got
+kind of like maybe a tenth of the dots
+that are green and then you've got some
+yellow dots and some red dots. So the
+gray dots are people in the world who
+have never interacted with AI. They've
+never heard of AI and that is like let's
+just say 80% of the world. Then you've
+got this green band which is 10% of the
+world who have used a free chatbot. So
+they've gone and sat down with Chat GPT
+or they've used Gem Gemini or whatever
+and they [clears throat] maybe asked a
+question like how do I cook a pot roast
+if I ain't got no pot and I ain't got no
+roast, you know. And then there's like
+the yellow part which are now 1 2 3 4 5
+6 7. So 7* 3.2 we're talking about 24
+million people who pay $20 a month for
+AI. And then there's one little tiny
+dot.
+dot here of people who actually use
+coding scaffolding. So what we're
+talking about here is codecs from
+OpenAI. We're talking about cloud code.
+We're talking about Replet lovable
+cursor. Anyways, so when you look at
+this, you're like, "Holy crap, there's a
+lot of people who
+>> have no idea what's going on." And if
+you just lived in the Twitter bubble,
+which is basically the yellow people,
+you would think it's ubiquitous at this
+point, but it's not. We're very early in
+the use cases. And as we're early in the
+use cases, we're also early in the way
+that the technology is advancing. So I'm
+going to show this chart real quick.
+This is Gemini. They just released a
+model. And if you look at this, nobody's
+going to know what ARC AGI is, but
+effectively what it is, it's measuring
+reasoning and knowledge. And you're
+like, "Holy crap, 84.6%." Oh, and
+there's Claude Opus 4.6, which just
+released. That's at 68.8%. Wo, it's way
+higher than that. But there's not really
+any context for what this means, right?
+You don't really know. But when I look
+here, this was released in December.
+This was measuring the models that were
+out at that point, how many tasks they
+could do in human time in basically one
+output. And so in December, we had
+>> this is like an AI version of
+horsepower. It's like a way to measure
+it.
+>> Sure. Yeah. So GPT5 in December in like
+one iteration, I ask it a question to to
+code something and then it codes
+something. It could do about two hours
+of human work in sort of one output of a
+prompt with 50% accuracy. Now, forget
+that for a second, but that's just the
+measurement that we're using. Claude
+Opus 4.5 in December, this is December,
+could do about 5 hours. So, like, dude,
+that's pretty good. And at that point,
+it was doubling every four months. So,
+you would expect December, April, okay,
+by April, we should be able to have
+these models doing 10 human hours in one
+output. Well, this is what actually
+happened because cloud opus 4.6 just
+released. This is where that 4.5 was on
+that graph.
+>> And now if you look way up here,
+>> whoa,
+>> 15 hours in one output. So if I ask it
+something now, I'm like, hey, code this
+blah blah blah, its output would do the
+same amount of work of 15 human hours in
+one output. So it didn't double.
+>> So from 5 to 15 in a month or two.
+>> A month and a half. Yeah. So it tripled
+in a month and a half when it had been
+doubling every four months. What's the
+accuracy difference? It's
+>> the same. It's 50%. So 50% is the bar,
+is the threshold, basically.
+>> Fun fact, 80% of the people that watch
+my YouTube videos are not subscribed to
+me. And most of them think they are.
+They see them in the feed, but they're
+not subscribed to me. So please, it'll
+take half a second. Just click subscribe
+and it would mean a ton to me. So it's
+not necessarily saying like, oh great,
+it's going to replace everything. But
+that's just the best metric that we have
+to measure how well it's actually
+accomplishing human tasks in a specific
+period of time. This when I saw this for
+the first time was mind-blowing because
+I'm like, "Okay, this isn't just a
+gradual. We're getting into the
+exponential territory. Who knows what
+the what the coming models are looking
+at." So, in December, you know, this I
+had a house fire. That's why I'm sitting
+in this house right now. I haven't
+podcasted for a little while. And I did
+a lot of thinking like, "All right, if I
+believe that AI is the future, there's
+no better use of my time than to invest
+in and leverage something in AI, but
+what is that?" And I I looked at
+starting other businesses. I looked at
+investing in businesses and I wanted to
+have the biggest impact possible. And a
+friend of mine who works for a large
+publicly traded company reached out to
+me and he was like, "Hey, would you ever
+think about coming back and for whatever
+reason it was just like, yeah, I want to
+see if all this stuff that I've been
+working on actually works at a company."
+Like
+>> you need It's like you became a Formula
+1 racer and you have no car to drive.
+>> That's exactly right. It's like I live
+in a retirement community and I need a
+golf cart, but someone gave me a Ferrari
+and I'm like, "I'm sorry, guys. I I got
+to go. I gotta I gotta go drive this
+thing. I can't have this thing cooped up
+in my garage all day long. And so I was
+like like I didn't want to you know this
+we talked about it. It's like I don't I
+don't want to like get a job. But there
+was no other opportunity where I felt
+like I could have a bigger impact and
+see if these things actually work,
+right? I'm here to report back the state
+of corporate America is worse than
+you're assuming. It's worse than the
+echo chamber that Twitter is paints it
+to be. They know nothing. They know
+nothing. I went to an offsite with the
+executive leadership team. I had a
+conversation with them. All of a sudden,
+a like 15-inute conversation ballooned
+into a 5-hour conversation because they
+were just asking me questions. How do
+you do that? You can do that right now.
+And by the end of that conversation that
+the CEO said to me, "This is the first
+time I actually realized it's
+happening." Like, I have an insane
+amount of urgency because I finally get
+it. I thought it was talk. I finally get
+it. And the stuff that I've been showing
+them is not anything mind-blowing to
+people who are listening to this right
+now, right? But to people who like have
+real jobs that actually have to like do
+something on a daily basis, like they're
+doing accounting or they're doing
+caregiving, they don't have time to go
+play around with this stuff. They don't
+know what it actually looks like. And so
+when you come and show them like, "Oh,
+that's interesting. We just had a
+conversation. I recorded it. Let me
+upload the transcript. It's going to
+spit out a PDF of what we talked about
+and it'll be a presentation form." It's
+like I just came from the future and
+showed them the Jetsons. And like
+>> Mhm.
+>> what I've done now is I've manipulated
+time. You're still living in a cave 300
+years ago.
+>> 10x that. [laughter]
+Nobody was a toy.
+>> But seriously, because for so long it's
+been viewed as a toy that now they're
+like, "Oh crap, it's kind of here." Like
+the promise of it is kind of here. And
+so if you can go and work at a company,
+do it for a year. Who cares? And just
+get an idea of what are their pain
+points? What are they struggling with?
+These are billion multi-billion dollar
+corporations that have real problems.
+you get in there really quickly, you're
+going to see, holy crap, they don't they
+don't even know how to like Google
+something, let alone use AI. In my
+opinion, there's this huge gap to bring
+the current state to the future by
+individuals who are humble enough to
+say, "Yeah, I'd rather start something."
+But I think if I went and actually
+worked at a company, I'll learn their
+pain points and then I can do whatever
+the freak I want whenever I want because
+people will think that I'm a magician.
+>> Cool. But how do we make money on this,
+Nick?
+>> Dude, we're going to get there. We're
+going to get there. Chill out. Okay.
+Okay. Okay. Okay. You are a magician in
+the context of what they know to be
+true, right?
+>> 100%.
+>> I could go learn an easy magic trick on
+YouTube and show it to a three-year-old
+and they'd think I'm amazing. A
+30-year-old would not. So, in that kid's
+eyes, I'm a magician. You are a magician
+in their eyes. Therefore, you are a
+magician. One of the members of the team
+was like, when I started showing them
+all the stuff that I was using, they
+were like, I'm glad you showed I'm just
+going to say something. I think I speak
+for everybody. I was intimidated by you.
+like I thought that you were a genius's
+genius. She's like, but I'm not saying
+that you're not, but now I get it. Like
+I get how you were able to do so much in
+such a short period of time, like
+capture information, synthesize it,
+create things, and I'm not working, you
+know, 80 hours a week. This is pretty
+simple stuff. Like I'm synthesizing
+data. So, I have a couple use cases and
+I like legitimately think this is the
+template that could make somebody.
+You're not going to make a million
+dollars tomorrow, but this will set you
+up, I think, for the rest of your life
+just to be a professional bringing
+people into the future. Why are you
+smirking?
+>> I'm drooling.
+>> I'm on the edge of my seat right now.
+You're still talking in Steven Bartlett
+clips. And I'm just loving all of this.
+>> Oh, Chris, can I show you to answer that
+question? What have you built? Can I
+show you some of the stuff I built?
+>> Mhm. [clears throat]
+>> All right, here we go. I guess it's go
+time. I'll show you this. This was I
+just wanted to see competitors in this
+space and so I literally went it's all
+publicly available.
+>> What space are we talking about?
+>> Thank you. Home health and hospice
+senior living and I get curious. So I'm
+like I wonder what everybody else is
+doing. Oh this publicly traded company
+is they publicly report things. I want
+to go and see what they're doing. And so
+I just went and pulled their 10Ks and 10
+QS which are quarterly or yearly
+earnings calls. And I scraped all of
+their transcripts because I wanted to
+see like uh so honestly I went to Gary
+and I said, "Gary, tell me how to do
+this." And Gary was like, "Oh, hello.
+This is my little British gentleman. So
+this is Gary. Gary is my cloud."
+>> Explain to us what we're looking at.
+>> Yep. So Gary is my cla bot that I set
+up. I set it up a couple of weeks ago in
+the beginning of February. And I'll I'll
+explain in more detail what the CloudBot
+is cuz I have a whole thing on it, but
+effectively what it is is it's like the
+first window into mass adopted usage of
+agents. So you bring you bring Gary on
+and well not it's not Gary, it's
+OpenClaw, but I call him Gary. I brought
+Gary on and I gave him access to my
+emails and my texts and um my Google
+accounts and online and everything that
+I have. And now I just go through him
+and I ask him questions. And so the
+first thing we just started iterating
+was like, "How could I get these?" I
+like, "Oh, let me go look." Goes and
+searches online.
+>> This is locally hosted, right?
+>> Yeah. I don't host it on the web at this
+point. That scares me. Um, so this is
+locally hosted on my Mac. I will
+probably turn another one of my Macs
+just into this so that it's running all
+of the time. But right now, it's locally
+hosted on the Mac that I use. There's a
+couple different ways that you can do
+Gary or not Gary, but Claw. You can run
+a model locally on your computer. And
+there are models that have been created
+that are open source for free. Okay. But
+if you want to use a model like Gemini
+or Opus or Okay. Okay.
+>> Catch GPT. I've got to pay for that
+inference.
+>> Of course. Yeah. So every time I use it,
+I'm paying for that token usage.
+>> Sorry. Could you build like a cloudbot
+with DeepSeek and have it essentially be
+free because it's open source and then
+you're essentially you essentially have
+all the security features you need
+because it's it's locally hosted on your
+computer. Like how complicated is it for
+the average listener or watcher right
+now, someone ages 20 to 50 that's
+internet native, internet literate, how
+complicated is something like this for
+them to set up just as you've done it?
+It's complicated, but it's not
+impossible. Like I would say the hard
+part is it does take a lot of time
+because it's not just downloading the
+software and putting it on your computer
+and running it. And I I'll show this
+later. Like you you've got to have a
+plan for how you're going to use it.
+That's what people miss with AI. Dude, I
+remember us talking about this a year
+and a half ago where we were like, if
+you can prepare and just think, what
+would I use an employee for? Now, you're
+going to use AI for that. That's how you
+should use AI.
+>> Y
+>> and and people still understand that
+concept. So, if you understand like, oh,
+I know exactly what I would use them
+for. Here's the training material.
+Here's how I'm going to oversee them.
+Then it becomes a lot easier. But if you
+don't, then there's this like this messy
+iterative process. So, so downloading it
+and putting it on your computer fairly
+simple, but like getting the mileage out
+of it, that's where I feel like people
+are falling short because they're buying
+a Ferrari when all they needed was a
+golf cart. And so, like, of course,
+they're like, "So, what do I do now?"
+Well, like, dude, you you live in like
+south southern Florida's retirement
+communities. You can't go faster than 15
+mph. So, buying the Ferrari was kind of
+a waste. The cool thing, though, is
+like, so this is a model that came out,
+I don't know, a couple of weeks ago. I
+mean, the model itself hasn't come out,
+but it's the update came out a couple of
+weeks ago, and you can see how it's
+benchmarked against OpenAI, Gemini, and
+Claude, right? It's about as good. And
+the thing about this model is it's an
+open model. So, Claude, Gemini, all
+those, those are closed models. They're
+proprietary models. They sell you the
+ability to use those models. This model,
+this Miniax, is open. Anybody could go
+and download it, and they could adjust
+the weights on it, and they could kind
+of make it their own little LLM. So this
+you could download and run locally on
+your computer and if that was the case
+then you're not using any inference from
+Anthropic or OpenAI or Gemini
+>> what inference means. So, so if I've got
+something that I want to do on my
+computer, if I want AI to go and do
+something on my behalf, that costs money
+and it costs money in the form of
+compute from one of these companies
+because I'm using their I'm effectively
+renting their model to do something,
+search the web, scrape databases, send
+an email campaign, whatever it is, but
+I'm I have to pay something in order to
+do that. For models like Gemini, you're
+paying like $5 per million tokens. For a
+model like OpenAI's newest model, you're
+probably paying $10 per million tokens.
+For Claude's Opus 4.6, you're paying $25
+per million tokens.
+>> But it's so good.
+>> But it's so good. It's so good. I mean,
+that's why I mean, that's why it's
+[laughter]
+>> You get it? Anyways, so yes,
+theoretically you could download this,
+run this locally, and then you're not
+paying for any of that inference and
+you're running Cloudbot on a on a local
+server,
+>> but it's not going to be as good.
+Depends on your use case. You might not
+need
+>> good 100%. It may it may not be as good
+depending on what you need it for. And
+back to the analogy, like you think you
+need a Ferrari, you probably just need a
+golf cart. Like you just just be real
+with yourself.
+>> Thinking calendar events or
+>> Yeah, dude.
+>> responding to emails.
+>> You're you're not lighting the world on
+fire. you're you're sending a cold email
+campaign, okay? Like, let's let's be
+real with it. So, I went and I said, I
+want to know what the other publicly
+traded companies are doing. And so, I
+asked Gary, I said, Gary, how would I
+find this information? It was like, this
+information is available on the
+internet. And it went and it found an
+API. So, I went to Ninja AP or API
+ninjas, which I didn't know was a
+website. And it was like, oh, buy this
+$20 a month, you get access to all these
+other APIs. I'm like, cool. So, I go
+there, I get all of the uh 10Ks, and
+then I'm like, well, I want to display
+it. And so, it starts telling me how to
+display it. And I end up building this
+site where I can see when the next
+public reporting from these companies
+are, how they've done over the last
+quarter, where the revenue is, how they
+look. I can I can go all the way and see
+just the themes, you know, how are
+things looking this quarter. I can see
+what questions analysts have been
+asking. And so, from this, like I I
+showed some of the people at my company
+like, "Hey, this is pretty cool." And
+they're like, "Actually, did you know
+how long it takes to prepare for
+quarterly earnings calls?" I was like,
+"No." And they started telling me about
+their quarterly earnings calls. So he
+gave me this idea. I'm like, "I wonder
+if I could help people prepare for
+quarterly earnings calls cuz what you
+have to do is you have to take all the
+data."
+>> Oh, how much could you charge for
+something like that?
+>> My broki, you're about to see. So these
+people, they have to report. It's an SEC
+filing requirement, right? Because
+they're publicly traded. They got to do
+it on a quarterly basis. They got all
+the stuff that they got to report, the
+financials, whatever.
+>> And their time is worth their time. So
+they get together and they spend like a
+couple days a quarter every quarter the
+whole executive team like talking about
+should we use great or should we use
+amazing should we use the word wonderful
+or should we use the word exceptional
+you know what I like they're just
+they're debating these words back and
+forth and like so my mind just starts
+going I'm like dude all I have to do is
+look at your past transcripts easy peasy
+I create a voice for you I know exactly
+what the template's going to be you dump
+the data in I'll give you a first draft
+I'll save you a day and so I went and
+sure enough I created
+this earnings pipeline. Stop scrambling
+before earnings. Start running a
+pipeline. And it's literally intake.
+Here's your strategy. It's a workshop,
+script, refinement, and export. And this
+walks you through exactly what you need
+to do if you're a publicly traded
+company to get the output that you want.
+>> Sorry. Why do you not own
+earningspipeline.com? It's available.
+You need to take that.
+>> You do it. You're better. Just don't pay
+it. I'll vote you. [laughter]
+>> I honestly didn't know. I don't do
+anything unless Gary tells me now. My
+wife's like, "Did your best friend Gary
+tell you that?" I'm like, "Yeah, he's a
+really good guy." So, like, this is the
+landing page for it, but you could go
+scrape all of the publicly reported
+10Ks, 10 Q's, build profiles for each
+one of the executives, build a template
+for what exactly they talk about and
+when they talk about it, and then an
+ingestion pipeline like I've done to be
+like, just dump all of your data in
+here, and I'll populate this for you.
+And then you have a first draft because
+that's all this is. You populate it.
+Then you go through like this strategy
+session of AI making some
+recommendations. Then you workshop it.
+Then you actually generate the first
+script. Then you refine it. And then you
+export it. And like again the thing that
+people miss here is they think AI just
+does everything. It doesn't. It's a good
+help but like you still have to work
+shop things. You still have to massage
+the messaging. And so this is an actual
+representation of me working a call.
+Yeah. I spent 12 hours like this is to
+the point I could sell it Chris. It's
+kind of like for me, you know me, I
+don't finish stuff. Like this is
+finished. This is this I like I could
+take this to market. It's pretty it's
+pretty bonkers. And so when I show this
+to people and they're like, "Holy crap."
+As an executive, like you just got the
+four highest paid people in the entire
+company 10 hours a year back in their
+time. That's that's high leverage.
+That's high value. Right. Real quick,
+guys, I want to tell you how I made
+money within an hour of having an idea.
+This is an idea I got during a half
+marathon. And all it took to launch this
+idea was one email to my list. That
+email brought in almost $3,000 in the
+first 24 hours with no ads, no social
+media, and no algorithm. So, what
+happened is that Meta, aka Facebook,
+banned my Facebook page out of nowhere.
+All of my followers, content, everything
+gone overnight. And Facebook is also
+where most of my newsletter subscribers
+come from. So, I've been pretty mad to
+say the least. But nothing can touch my
+beehive email list. over a quarter
+million people I can reach whenever I
+want directly with nothing standing
+between me and their inbox. So what did
+I do? I ran home at mile 8, opened
+Beehive and started selling a digital
+product to my subscribers that exact
+same day. You see, Beehive lets you sell
+right on the platform with no separate
+storefront, no extra tools, and they
+take zero commission on any of it. Every
+dollar is yours. Social media can
+disappear overnight, but your email list
+will not. So go to beehive.com/chris
+and use code chris30 for 30% off your
+first three months. That's
+beehiv.com/chris.
+This was a fun one. Took me like 12
+hours. But these are toys. I what I
+really want to show is what I think is
+the most amazing thing and that's Gary.
+So open claw is really cool. It's got
+some protocols built into it. It's
+pretty plugandplay in the way that it
+remembers things. People talk about it's
+got infinite in memory. It doesn't have
+infinite memory. It like takes time to
+learn things. But as it learns you, it
+adds things to different files so that
+every time it loads, it remembers, oh,
+Chris doesn't like it when I spit out
+this output or Chris doesn't like it
+when I do X, Y, and Z. I was already in
+the process of like creating something
+that was my second brain and then Open
+Claw came out and I just adapted it to
+it. But we get bombarded with stuff,
+especially if you're an executive and
+this is just like whatever. Tons of
+messages per week. There's literally no
+way for you to process all of this
+information. The only way for you though
+to get out of AI what the promise is is
+if you have clean data that it can
+extract, analyze, and then spit out
+actionable information to you. If the
+data
+>> garbage out.
+>> Exactly. If the data is not clean, you
+don't get anything good. So, a lot of
+these companies have data, but they're
+not they're not cleaning it. So, like
+I'm looking at this.
+>> Give me an example of clean data in,
+clean data out, or vice versa.
+>> Okay. So, here's dirty data. Dirty data.
+Boom. Boom. You're a company. You have
+tens of thousands of contracts, okay?
+But they're all saved in different
+folders. And all of your DME contracts
+are saved in like
+>> what's
+>> durable medical equipment contracts are
+saved in Some of them are saved in a DME
+contract folder. Some of them are saved
+in a durable medical equipment folder.
+Some of them are saved in a hospital
+equipment folder. Some of them are saved
+in a skilled nursing facility equipment
+folder. The data is just in a bunch of
+different places. There's no rhyme or
+reason to it. second layer that could be
+the problem is you've got data laying
+around that is in PDF, it's in Word,
+it's in HTML, it's in JPEG. And so AI
+looks at that and they're like, "Oh, I I
+don't know how to extract all of those
+at the same time." Or the naming
+conventions are off. Maybe you're like,
+"Oh, I'm going to save all of the ABC Co
+information in this folder. I'm going to
+call it ABC Co." But you accidentally
+name it ABD one time or or you
+accidentally name it B CD one time,
+right?
+just common mistakes.
+>> So, how does AI find all that stuff? It
+can't if the data is not clean. Now,
+clean data would be clear taxonomy,
+which a taxonomy would just be a
+hierarchical way for you to to uh
+identify information.
+>> And everybody stays with kind of the
+same saving file naming structure,
+right? So, for me, what I did is I was
+like, I want to create Gary, I want to
+create my own AI bot that like knows me.
+So, I went and I exported all of my chat
+GPT data, all of my cloud data, all of
+my uh texts because I can connect to my
+iMessage through an
+>> MC. You never deleted any text.
+>> Never. Never. Uh through an MC MCP
+server.
+>> This is going to haunt me, isn't it?
+You're about to cancel.
+>> Dude, my boy
+right now. Right now, I just pull up the
+most disgusting tweet.
+>> No, there's nothing. Anyway, there's
+nothing in there. So, it took all of
+that data and I was just like, I want
+you to take that and standardize it for
+me. And so, it did. I mean, it took some
+time and some prompting, but it did. It
+standardized it for me. And then I was
+like, all right, we got to structure it.
+And so, we started structuring it and
+putting it in a way where it's easily
+retrievable so that I can go and search
+and then I can create automations on top
+of it and then eventually you can create
+agents. But if the data is dirty, you
+can't get good outputs. So that would be
+like the first thing I would say is just
+helping companies get clean data is a
+multi-million dollar business. Just
+going in there and being like, I'll help
+you organize this and helping them clean
+up.
+>> How can that be automated or is that
+just like the handheld messy process
+that it is
+>> the cleanup?
+>> Yeah,
+>> it can be automated until you've built
+the system for it. You can get 80% of it
+done, but that last 20% takes a long
+time. So, for example, if you've got a
+company that's got tens of thousands of
+files, I could probably run AI on it and
+categorize everything to 80% confidence,
+but there's still, let's say, 20,000
+files in there that you don't know where
+they go. How do you then figure out how
+to clean that stuff up? And that that's
+where somebody who has a lot of
+experience can come and be like, "Oh,
+that's simple.
+>> Just do X, Y, and Z." But even beyond
+that, putting in a format where it can
+query and use the data is something in
+and of itself. So you know this Gemini,
+well, let me back up. These models,
+these LLMs have what's called a context
+window. So think of it like this. If I
+wanted to buy a business, I'd go talk to
+Chris, right? Chris knows everything
+about businesses. He's like done every
+business, seen every business under the
+sun. But in order to get him up to
+speed, I've got to spend a couple of
+hours with him to tell him like, hey,
+look, this is how much the business
+costs. This is the market. This is the
+industry. This is the demand. this is
+how much money I have. And then by the
+end of that hour or so, Chris can give
+me an actual response. He can say like,
+"Oh, you should do X, Y, and Z." So
+Chris, he's the model. He's Claude. He's
+Gemini. He's been trained on all this
+data and he's just knowledgeable. That
+hour of me spending time to get him up
+to speed, that's the context window.
+That context window is pretty finite.
+And for a long time, it only went up to
+like 200,000 tokens. It finally just hit
+a million tokens. But even with a
+million tokens, if we're talking about
+tens of thousands of documents, we're
+talking about billions of tokens. it can
+it literally cannot it's not physically
+possible for it to query all of that
+data and return things and so you've got
+to organize this data in a way where you
+parse it
+>> more efficient
+>> you chunk it and you clean it and you
+tag it and you embed it whatever and
+then you set up these systems so I've
+been doing some of this stuff and I was
+like I want to build this for myself so
+I exported all my chat GPT conversations
+export all my claude all my emails
+everything and I implemented openclaw so
+openclaw has access to everything this
+is just like a these are the seven files
+in openclaw so openclaw has a soul
+because you want if you want to give it
+a personality the user MD is just like
+what you want open claw to know about
+you if you want any agents run this is
+where you would put instructions for
+agents the memory this is long-term
+memory these are things that you want
+openclaw to sort of always remember I
+work at xyz company I have xyz skill set
+tools you can go and research what
+agents and tools are the heartbeat this
+is just like jobs that come every hour
+two hours that continue to run and then
+if you want to give it an identity so
+those are like the seven basic files
+that it builds over time and like the
+beauty of open clause the more you use
+it the more openclaw builds these
+automatically. So what I built was like
+I had already had this. I added this. I
+had a people framework. So I asked it
+and like I had a whole set of prompts to
+do this where it was like how do I
+manage relationships? How do I manage
+failure? Like it knows if I showed you
+some of this stuff right now you'd be
+like that's pretty spot on.
+>> The response was just two words. You
+don't
+>> you don't Yeah. You don't.
+So when I'm talking to it now like
+literally Gary will be like Nick it kind
+of feels like you're spiraling here. Or
+like Nick it kind of feels like you need
+to get back to this person. Oh, Nick,
+you probably see I know you said you
+should take that on, but that's not a
+good idea because you take on too much
+stuff. It's incredibly helpful to have
+from from the get-go. It also build like
+a taxonomy for me. It also created a
+bunch of projects. So, I like I was
+going into this job and I was like, I
+just want to be organized and make sure
+that I'm not letting stuff fall through
+the cracks. And so, it just created all
+the projects, all the people. It took
+all the conversations that I had and it
+synthesized them into these documents.
+And so, when I started, I had OpenCloud
+that was already working. And then I
+layered Gary on top of it. And now
+literally I can say, "Hey, what do I
+have outstanding to so- and so? What did
+I say I was going to do?" It will remind
+me because I've got jobs set up for it
+to come and remind me and say like,
+"Hey, remember at the end of the day
+you're supposed to get XYZ thing to so-
+and so." It will preemptively give me a
+spreadsheet based on what I said I was
+going to do. I was like, "Hey, does this
+look good?" Or like, "Just give me a
+first draft of this stuff." But it's
+because I went through and spent the
+time so that I had the context to
+understand my people framework
+commitments, the decision framework, my
+personal context, the taxonomy, the
+extraction methodology, all that stuff.
+And so you can see like this is all the
+crap that obviously it's spit out.
+Anyways, and the way that it's built is
+like literally queryable. I can query
+just about anything that I want to know.
+So if I'm like, "Hey, what did Chris and
+I talk about the last time?" If I'm
+getting ready for a meeting, if I'm
+getting ready to give a presentation,
+like I can't tell you how many times in
+the last few weeks people have asked me
+to do something and I'll like come
+prepared to a meeting with a
+presentation and people are like, "Huh?"
+Well, you did what now? Oh my
+>> Yeah.
+>> Right. Cuz like the old paradigm is this
+took you five hours. The new paradigm is
+it took me like five minutes. All the
+setup took me a long time, but now I'm
+just able
+>> I'm able to access it. So anyways, I'm
+going to I'm going to stop talking
+because I feel like I'm just on a
+heater.
+>> Okay. So with everything that you built
+for yourself, how much of your context
+window did you use up?
+>> It depends on how it's being used and
+when I'm utilizing it. So if I'm asking
+it specific questions about people, it
+will go then and look at the people file
+and pull it. So it's not loading in the
+context every single time, but it is
+loading into the context when I'm asking
+about specific.
+>> And is that what the rag is?
+>> So no,
+>> explain what rag is.
+>> All right. So, remember how we were
+talking about how you've got all of this
+data? So, if I've got tens of millions
+of tokens of data, but I can only ever
+ingest 100,000 tokens, how do you make
+things queryable? Well, there's this rag
+approach, which is retrieval augmented
+generation. And so, what you do is you
+tag all of that data with metadata.
+So, for example, think of it like a
+library. If there's a book that's
+written on ancient Rome,
+>> like a dewy decimal system,
+>> a dewy decimal system. Yeah. It's going
+to be like it's in row 8, column B
+categorize with the rest of these
+things, right? So if you search a word,
+it's going to pull up where that might
+be located and then allow you to access
+that stuff. The
+>> Gary and open clause is a little bit
+different. It's it's on this thing
+called QMD, which is quick markdown.
+It's not a vector data. This is like way
+too technical. The gist is it allows for
+semantic searches and the results are
+much more accurate. So
+>> everything that that I would have are
+semantic searches because they're
+meetings. They're being transcribed.
+Right. If I had a big database with
+numbers like the, you know, maybe maybe
+I'm using more of a vector.
+>> You're using it like Chad GPT, not like
+a coder would use it to search it.
+>> Exactly. Exactly.
+>> A code database.
+>> The reason though that it's important is
+because now it unlocks all of that data
+that I've had sitting there, all of that
+context. I don't get to the middle of a
+conversation with Gary and all of a
+sudden he's like, "You can't use me
+anymore. I've run out of memory because
+it's constantly updating itself. I don't
+get stuck in the middle of a
+conversation with him. Like the memory
+is persistent. It's very helpful. It's
+it's fantastic." So, if I were to say
+the lowest hanging fruit though that
+I've seen, it's so dumb because I can
+show all of this stuff and there's like
+agents and skills and oh, MD files,
+whatever. I'll tell you right now,
+here's the 8020. If you want to unlock
+the most value, record your meetings.
+Period. Record your meetings, transcribe
+them, have a vehicle or a way for you to
+actually get a summary and a synopsis of
+that and then build in yourself some
+type of an accountability mechanism for
+you to then say, "Hey, this was a doo
+out that you committed to that will make
+you millions of dollars."
+>> I've seen it. No,
+>> because right now the traditional way
+within companies is like what are they
+doing? They're writing something down or
+they're like they're trying to remember
+it or maybe they use co-pilot which
+sucks. There is no way for them to
+capture what was done in that meeting,
+save it to some type of a archival
+system that you can then access and
+query later and then follow up with
+individuals. Like that's that's always
+been the hardest part, right? Follow up.
+Follow up and follow through. I said I
+was going to do one thing and I didn't
+do it. Why didn't I do it? Well, maybe
+you forgot. Maybe something slipped
+through the cracks. But if you just
+record meetings, document what was said,
+and then put it in a place where you can
+go and get back to later or build
+something that reminds you, you're ahead
+of 95% of people because they're not
+using it for that right now. People get
+so tripped up on like, I'm going to
+build this agent or I'm going to build
+this skill. No, literally record a
+meeting, summarize it, put in a
+transcript, put it somewhere that you're
+going to check in, and then all of a
+sudden you've got this superpower
+because you've got this massive database
+that you can go back to. How can people
+make money learning how to do this and
+then doing it for individuals or for
+companies? Is that a viable opportunity
+right now? Like I picture if if I'm an
+executive watching this video right now,
+I'm like trying to find your contact
+info, [laughter]
+>> right? Cuz I'm like seeing this and I'm
+overwhelmed and it's like h and this
+isn't a sales pitch. Like Nick has
+nothing to sell us, but it's like I feel
+like I wish I did [laughter]
+>> people could learn how to do what you've
+done and and charge for it. So, the
+first thing I would say is you and I are
+so freaking lucky. Like, we're so lucky
+that over the last two years, we just
+been able to like dabble, you know, like
+how does that work? Well, that's
+interesting. And we just start learning
+about it. So, just devoting the time to
+this, you're ahead of 95% of people
+because they don't they don't have the
+time and they don't want to make the
+time. And by the time they get home from
+work from doing all the things that
+they're supposed to be doing, they don't
+have the time to like ingest this
+information and then figure out a way
+that makes it applicable. So, the first
+thing I would say is just learn. Just
+learn, bro. The second thing that I
+would say is anytime that you've been
+within an organization where they're
+like, I wish there was a better way to
+do this. That's an opportunity. If
+someone's using a spreadsheet, that's an
+opportunity. If you're on a meeting that
+could have been an email, that's an
+opportunity.
+>> But like, how do we make money here,
+Nick?
+>> Chris, I promise you, we are going to
+get there.
+>> Okay.
+>> Give me a minute to finish this thought.
+>> Yes, sir. [laughter]
+>> If you're on a meeting that could have
+been an email, that's an opportunity. If
+somebody let something slip through the
+cracks, that's an opportunity. I think
+that now the cost of building custom
+code, I didn't even show you all the
+other stuff. I have like little uh
+survey software or tracking things. The
+cost of custom code is so low that you
+can build customized tools that save
+people 80% of their time and it doesn't
+have to be like on the mass corporate
+scale. It can be on the small scale. So
+anyways, first one would be learn. The
+second thing is I think there's huge
+demand for corporations just to be in
+the know. If you get educated and you
+just cold call, literally, you could set
+up a cloudbot to be like, "Here are all
+the publicly traded companies because I
+can go and scrape all of that data."
+Cold email, go and find the executive
+information because all that information
+is also public. Cold email every single
+one of those executives and say, "Hi,
+I'm Nick. Um, I've been deep into AI in
+the last year and a half. I know what's
+coming around the corner and 95% of your
+competitors don't. I'd love to have five
+minutes with you so that I can update
+you on what's coming down the pike."
+you're probably going to get rejected by
+most people and you can probably perfect
+that sales pitch month, but like you you
+would do amazing with this cold
+outreach. But if you can get on their
+calendar and just have like what I had
+with that executive team, like within a
+couple of minutes, they're going to be
+like, "Oh, I get it. I get it. I want
+this guy every single week just giving
+me an update." You may have heard, but
+Facebook just banned me completely. So
+on any platform, just like YouTube right
+here, that could happen at any given
+moment. So, if you want to keep getting
+business plans for me or business ideas
+once a week for free, check out my
+newsletter, tkopod.com.
+It's literally one long email per week
+that's very tactical about how to start
+specific businesses. tkopod.com.
+They've asked me to like, hey, would you
+just would you do a course for the next
+12 weeks, 1 hour a week for the
+executive team? They want to know. They
+just they don't know how to use it.
+They're kept from the truth because they
+know not where to find it, Chris.
+[laughter] And so,
+oh, I can't wait for like the few people
+to be like, "Oh, brother Alder." But
+just putting yourself in a position
+where you can relay yourself as a
+subject matter expert. And again, this
+is like 2010 social media where it's
+like, "Oh, you have a Facebook account.
+Will you run social for us?" That's
+that's what it's like in AI right now.
+Oh, you kind of use Claude. Can you run
+AI for us? Once a week, you could come
+in and and pay consulting services.
+Like, do you remember when you went and
+met with that unnamed billionaire and he
+was just asking you questions? He like
+just extracting information from you. I
+think just doing that session alone, you
+could charge a couple thousand dollars
+just to give these executives a taste of
+kind of what's coming around the corner
+cuz they they don't know. They don't
+have the time to do it. And that that's
+kind of where I was is like, of course
+you don't know. Of course, all of your
+day is spent managing people. The second
+you meet somebody like me, you're like,
+okay, I get it. Holy crap, the train is
+coming. I'm about to get hit. So, I
+think an executive boot camp, I think
+weekly roundtables, I think a fractional
+AI officer is 100% in the offering. It
+is more of a newsletter, but some type
+of a briefing service. You don't even
+have to be an expert in in vibe coding.
+Just like, hey, I'm going to keep you up
+to date. I do think custom vibecoded
+tools are massive. You and I have talked
+about that for an AI agency for an, you
+know, a very long period of time.
+Probably the biggest unlock though is if
+you can figure out how to get
+proprietary data sets within an
+organization accessible to that
+organization. Massive unlock. Because
+right now they have no way to do it.
+They're like, well, I can get PowerBI
+and I can do a SQL database. Like they
+that's hard. Somebody has to have a
+skill set to do that. If you can get a
+AI UI on top of that data so that people
+can just search, hey, show me where we
+have the largest deficiency in labor
+costs in the company right now. If that
+would return an answer, that blows
+people's minds and you can do that right
+now. It's not like you have to build a
+you know the SQL language in place. You
+can you can AI UI on top of this data.
+So if you can unlock the data, it
+becomes really valuable. I was talking
+to somebody about this. It's almost like
+fracking. Remember how fracking was this
+new way to extract oil out of the
+ground? So you're no longer just going
+deep, but you're going like spreading
+out. To me, that's what AI is. It's like
+you you're fracking, you're leveraging
+that data that was unaccessible before
+and doing it in a way that is much
+cheaper and much more accessible than
+it's ever been.
+>> So I think that piece in just coming
+into an organization, you could just do
+it with one. Like are you a healthcare
+expert like I am? Cool. Hey, I will show
+you how to get every single one of your
+quality reports for every one of your
+locations in the next 6 weeks. I
+wouldn't say like in a weekend, you
+know, give a reasonable time period, but
+then you have an opportunity to actually
+learn and implement it. Does that make
+sense?
+>> Yes.
+>> I can't tell if you're quiet cuz this
+sucks or if you're quiet cuz like you're
+thinking about or
+>> No, I already told you it's a banger,
+Nick. What do you want? I have a
+headache. This is good. This is really
+good. I'm just thinking all these
+things. I'm like, what will the audience
+think? What should I do right after
+this? Like how quickly can I implement
+this on my computer? I'm just thinking
+my mind is just going nuts.
+>> Like for you cold like I was talking to
+somebody about this cuz I was at this
+executive off site and one of the kids I
+was I mentioned you and they're like is
+that guy on TikTok? I was like yeah I
+like is that the Kerner office? Anyways,
+I think for somebody like you, if you
+have OpenClaw, you could be sending cold
+email campaigns 24/7 because there's
+this window of time right now where
+people aren't sick of too much AI.
+They're getting there, but like pretty
+soon everybody's going to catch up.
+Everybody's going to be doing the same
+cold email outreach and all of a sudden
+that channel is going to be flooded and
+you have no longer have arbitrage in
+that channel. Right now, you have
+arbitrage in those channels. If you set
+up a clawbot, you're very clear with who
+your customer is and you know the
+distribution channels and then hit it
+there arbitrage. You are going to find
+people in the next six months. Once
+everybody kind of figures that out,
+those channels are flooded and there's
+going to be a new opportunity. I don't
+know what that is, but like right now
+there is leverage if you know something.
+So in my mind, it's like what is your
+secret sauce? And now with Clawbot, I
+can unlock it because I could hire like
+two or three people to be my minions. Go
+all in on it. Go learn. Just go play.
+You will figure something out and it
+will be incredibly valuable.
+>> When you're talking to Gary, what model
+do you normally use?
+>> Opus 4.6.
+>> It's so good.
+>> It's really good.
+>> Is it time to leave Chad GP behind,
+>> dude? Yeah. So, like I use chat GPT for
+what I would call like the Honda Accord
+things.
+>> You're running to the grocery store.
+>> It's amazing at what it does and it's
+reliable and I know what I'm going to
+get every single time. And so if I have
+large data sets that I need to extract
+stuff from, I'm going with chat GPT.
+[gasps]
+But Frontier models like Claude, it's
+pretty incredible. Gemini's new 3.1
+model, it's pretty incredible. Like it's
+weird to say because it doesn't feel
+like it was that long ago that there's
+like weirdness with some of these
+models, but Claude feels like I have an
+expert in every topic known to man at my
+fingertips all the time. It costs a lot,
+but I yeah, I I use Claude all the time.
+Here's my stack, though. I'll tell you
+my stack. So I use Claude to plan 4.6
+And when I'm building software now, I'm
+like, "Okay, this is my idea. Help me
+write sort of my PRD, my product product
+requirement document. There we go." So,
+it writes my PRD of like what I'm hoping
+to accomplish, but then I will send it
+out to like Gemini and Codeex to say I
+tell it, "Go do an adversarial audit.
+Have them tell us what we're missing."
+And I go through like four rounds of
+that. And then after those four rounds,
+I've got something that's pretty good.
+And I start now the planning phase. All
+right, let's plan something. Go do
+another adversarial audit on the plan
+implementation, not just like the build
+spec, but the plan implementation. And
+it goes, you know, it goes through all
+those steps. So, I'll use other models
+as a way to sort of glean other insights
+that I might have missed. But once I
+have all of the data and I just need
+good analysis, opus. I mean, I just that
+opus is the one that's like incredible
+when it comes to analysis.
+>> I'm at max capacity in my brain right
+now. You got to call it.
+>> I love All right. Love you, too.
+>> [laughter]
+>> Where can people find you, Nick?
+>> Twitter. Co-founders, Nick. Uh, I have a
+YouTube channel called Nickconomics. I'm
+firing it back up. I'm uh I'm back in
+the game. This was nice. Thank you.
+>> That's the most resigned thing I've ever
+heard you say. Twitter. You knew that.
+Like it was the lowest worst value of
+your call to action. You're like, "Oh,
+Twitter." Cuz what else is there
+nowadays?
+>> Um, you can find me at Nick Consulting.
+$5,000 an hour. Uh,
+I probably should actually.
+>> I mean, seriously.
+>> All right. All right. What you think?
+Please share it with a friend.

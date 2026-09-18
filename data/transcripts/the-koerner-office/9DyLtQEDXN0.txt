@@ -1,0 +1,1060 @@
+The contract that he gave me for the
+first six months was for $50,000.
+>> Holy cow.
+>> Once I got all that set up, we're
+probably talking about it taking me an
+hour and a half every month for this.
+Didn't know anything about coding. Still
+don't. I'm still learning all of the ins
+and outs of Claude. I just started
+talking to Claude. Okay. Yeah.
+>> $3,500
+for setup and then $1,500 a month for
+six months. How many hours would you say
+you spent up front building the $3,500
+app
+>> building things in there that I've never
+built before? I would say maybe 12
+hours.
+>> Wow.
+>> This is by far the best time in human
+history to be alive and start a
+business. 5 10 years ago, small business
+owners would have jumped up and down and
+screamed and hollered. And if you would
+have told them what was coming, they
+would have told you it was fiction that
+it was not possible. Well, guess what?
+We are seeing now a day and time to
+where we can have a dream about what we
+want to build. And though we've never
+built it before, AI can help us build
+that. What the heck does it get any
+better than this? What you once thought
+was impossible is so possible now. And
+we have never had more tools at our
+disposal than we have right now.
+>> Well, Phil, why don't you just start
+from ground zero? I basically retired
+from my other work in June of 2025. Just
+been doing all sorts of things. Uh
+through listening to your podcast,
+decided to go the AI agency route. Uh
+and I'll say this, by far this is this
+is the best business decision that I
+ever made.
+>> Okay. So, what was the first thing that
+you did?
+>> Okay. So, so the first thing I did was
+started building voice agents just
+because it was super easy to build and
+I'm not that technical. I didn't have
+any history in computer programming,
+anything like that. Pitched the agents
+to some friends and they liked it.
+Pitched it to some roofing companies,
+they liked it. Through a pitch that I
+made to an investment firm buddy of
+mine, it opened the door for me to have
+a conversation with him about AI in his
+business. The guy's brilliant when it
+comes to finances and they manage like
+$1.4 billion, you know, in the Nashville
+area, nine offices. But in terms of him
+being able to trust AI to help him with
+something, he just didn't know what it
+was. And so anyway, came to an agreement
+with him the first part of March for
+initially for a six sixmonth term
+consulting, part-time consulting for
+him. We we built a I say we like it's
+there's more than me in the company, but
+there's not. Okay. But uh ended up
+building a a content creation thing for
+him. Uh that was the start of it. and
+we're trying to be able to automate
+things for him now. But that said, uh I
+mean the contract that he gave me for
+the first six months will renew after
+six month months was for $50,000.
+>> Holy cow. I want to get back to him, but
+you start by saying voice agents. What
+were you using to to build these voice
+agents?
+>> Okay. I was using go high level.
+>> Okay. So you start learning voice agents
+in goh high level for your friend
+>> and it's just like ah this is cool. It's
+kind of long-winded not really my use
+case but it gets your foot in the door
+with him. It earns you some trust with
+him. He sees that you kind of know what
+you're talking about at least more than
+he does which is the important part
+which leads you to more conversations
+over the course of months and then you
+just in March you signed a $50,000
+contract with him right to do all
+things.
+>> Correct. Just doing random automations
+for him to help him with his social
+media. And when I say helping with
+social media and marketing, this is me
+trying to help them automate things.
+Okay? I don't have any background in
+social social media or marketing or
+something, but I know enough to know
+that if you ask the right questions of
+AI, it can end up guiding you through
+the process. And he has people in his
+firm who have kind of done that before.
+So I came into it knowing how they
+functioned, how all of it worked, and
+that was it.
+>> Okay. So, did you talk to any other
+friends or family between October and
+March or was it just this investment?
+>> Yeah. No, no. Here's the thing. I had I
+had talked to I had talked to multiple
+other people. I had talked to I had cold
+called a lot of roofing companies. But
+then what the uh trigger was for me is
+Brandon had a presentation one time on
+getting new clients and one of the
+things he said was to start with those
+you know. And so I basically went
+through all of the contacts on my phone.
+I've got more than a thousand contacts
+and I just started making a list and
+just started sending texts. Hey, I've
+started this AI automation business. You
+know, I'd love to be able to sit down
+with you. And so had probably seven to
+10 sitdowns with business owners. my my
+first encounters with them looking back
+involved me talking too much sharing all
+the things that AI would do rather than
+letting them share the challenges that
+they're having share the pain pain
+points and so some of those first
+clients probably the majority of those
+first clients I didn't get and it wasn't
+because of AI it's because I was just
+too chatty I think
+>> yeah you were trying to sell and like
+the best sales is to listen it's
+counterintuitive right correct
+>> real quick please subscribe to my
+channel. I know it's kind of lame to
+ask, but it means a lot. Thanks. When
+you had these sitdowns, did you ever
+have the problem of, you know, you asked
+the the age-old question like, "What
+what are you struggling with in your
+business? What problems are you facing?"
+And they're like, "I don't know." Like,
+they don't they just don't give you
+much. Did you ever experience that?
+>> No. They were good at giving me a lot.
+Uh they were they were good at giving me
+a lot, but basically what I've
+encountered with most business owners is
+they they know they need to utilize AI.
+>> Yeah. but they don't know practically
+what they need to start with. And the
+third thing is they certainly don't know
+how. Okay. And now I'm obviously
+significantly better at it to just sit
+down with them and let them talk. Uh but
+no, uh my goal mainly normally I don't I
+don't even go with a with a list of
+questions. Uh if it's a business that I
+don't know a lot about, I'll have AI
+help me, Claude help me come up with
+some starter questions, but but my only
+goal is to get them talking. Did you
+record these conversations at all?
+>> All of them. All of them. Uh with this
+little thing I got from I heard from
+this guy.
+>> Oh yeah. By the name of Chris Corner.
+>> I got one right here, but I I put it
+through the wash and it's been ever
+since.
+>> And I'll say this, it is the best in my
+assessment. It's one of the best tools
+for an AI agency owner. One is it
+captures the entire conversation you
+have with the client. Okay? So you can
+focus on what they're saying while
+they're saying it without thinking, I
+need to write down something. Secondly,
+once you have that, for me, I plug it
+into Claude because Claude knows that
+the majority of my bills are through go
+high level or either Claude code and
+then it helps me come up with some
+solutions for them.
+>> Okay. Now, if people don't have that,
+I'm putting in the chat what it is.
+Limitless pendant. There's the Plaude, P
+L A U D. That's like their main
+competitor. Limitless got bought out by
+Meta. I think they're shutting that down
+and Meta is absorbing it or something.
+So, that pendant, support for that
+pendant is probably going away. I've
+never used plaud. It was I was like a
+religious adherent to this thing until
+it went through the wash after they
+announced the merger and so I haven't
+been able to buy another one and I just
+haven't used anything since. And I'm not
+joking you. I I leave the house and I
+touch my chest. Yeah.
+>> Because I'm like, do I have it? And it's
+been like four months. So I should get
+the the other one, but I have it.
+Anyway, my point is we all have
+smartphones. We can just hit our voice
+notes app and just record it that way
+and then upload the transcription to
+Claude or whatever. So, has that been
+helpful to like generate questions after
+the fact that you weren't able to think
+of or solutions after the fact that you
+weren't able to think of on this?
+>> Oh, well, I'll say this. It has been
+priceless prices because once I put that
+into Claude, Claude and I can talk back
+and back and forth about it and you know
+can say okay and Claude will will give
+me some solutions and then we'll work on
+pricing. I mean, literally work on
+pricing in Claude for me. Claude helps
+me draft the contracts for the client.
+helps me be able to be ready for
+potential questions that they would have
+in regards to the build. But yeah,
+>> okay. So, do you have any success
+stories from those other meetings you
+had with other friends?
+>> Absolutely. The the other success story
+is is that I have a good friend that
+owns a nonprofit
+uh and through his non nonprofit I built
+this app include called Grant Craft and
+built that for him for free. And
+basically what it does, it finds grants
+that fits his fits his ministry and it
+finds them. It drafts them. It goes and
+it does studies of the grants to find
+out what do you have to fill out to
+apply for that grant. It drafts it based
+on the content that we fed it about his
+ministry. Then you have a human go in
+and read it before it is sent in. And uh
+basically set it up for him for free.
+Wanted to have proof of concept. And
+what I what I what I told him was I
+said, "Okay, this is this is basically I
+will price this." Said, "I'll charge you
+$1,500 per grant that I fill out, $2,000
+a month for the retainer for the
+service. However, I will not bill you
+anything till until you have a grant
+come through, and my billing for you
+will not exceed 8% of the grant."
+>> Wow.
+>> Okay. And so and so what that lets me do
+with him is one is it's a
+commissionbased thing I get paid for for
+him. But two is I can I can fill out a
+lot more grants than he's going to get.
+It allows me to have a tax write off to
+his to his business. And when I first
+set this up through clawed code, I was
+able to have my open claw agent go in
+there and literally go through the
+process of filling out all the grants
+for me and sending that to me and
+letting us look through those before we
+actually sent them sent them in.
+>> Okay. And so so started out with that.
+But so through that project that I
+started with him, he is a Cairo
+chiropractor. And so about two and a
+half weeks ago, maybe well I take it
+back. It's could have could have been
+like a month ago, he had this new laser.
+It is a body toning laser approved by
+the FDA. I basically created a made deal
+a deal for him to help him launch it and
+manage it. And that was the second
+project I got. I charged him uh $3,500
+for setup and then $1,500 a month for
+six months. Uh after six months, we'll
+be able to we'll be able to re
+revaluate. Then anything more than than
+10 clients he gets monthly through this
+service. I get uh $75 per client in in
+addition to the 1,500. And then in
+addition to that, he pays for all of his
+CRM cost through uh go high go high
+level. He also gives uh $500 a month
+towards uh marketing for ads and stuff
+to push new clients into this service
+that he's got.
+>> So what did you build exactly for him?
+35.
+>> So basically what I did what I built for
+him, one is I built him a content
+creation app that is built on the Zerona
+Z8 laser. helps create content for him
+that he c that can be uh put out there.
+Two is set up uh a uh uh automated bot
+for him on uh go high level that we sent
+out to all of his existing clients. He
+had like 7,500 existing clients to be
+able to answer any questions that they
+had in regards to the bot. Then I
+created a uh a sign up form for to for
+them to sign up for the services and
+then to sign up for a launch. And then
+I'm basically just handling all of the
+monthly monthly management management of
+his social social media uh for this.
+Honestly, once I got all that set up,
+we're probably talking about it taking
+me an hour and a half every every month
+for this.
+>> And you're charging 1,500 a month? Yes.
+An hour.
+>> Yeah. 1,500 a month for the first for
+the first six months and we would
+evaluate we'd evaluate after that. But
+then that has led to some other things
+with him because he's wanting me to help
+him promote some other laser services he
+has in his practice and then
+>> yeah laser because he's literally got
+these laser treatment things. But the
+other thing that he he has never had a
+functioning CRM and he wants me to work
+on something to help him reactivate some
+of his clients.
+>> Probably the majority of small
+businesses are in the same boat.
+>> Correct.
+>> How many hours would you say you spent
+upfront building the $3,500?
+>> Uh I'll say this with me setting up
+things in their CRM and in and in uh a
+go high level building things in there
+that I've never built before. I would
+say maybe 12 hours.
+>> Wow.
+>> 12 hours for the 12 hours for the 3500.
+>> This tool it's a it's a like a vibecoded
+rapper, right? It's like
+>> it is absolutely
+>> okay.
+>> It is because I know I'll say this. I
+don't know. I didn't know anything about
+coding. I didn't know I didn't I didn't
+know anything about coding. Still don't.
+In fact, I'm I'm still learning all of
+the ins and outs of claw. Just I mean I
+didn't know anything till the last month
+about an MD file. when you're building
+in Claude. I just started talking to
+Claude. Okay.
+>> Yeah.
+>> So, and now that I' that I have built
+through these a couple times, then I've
+got a little more knowledge about it
+now.
+>> And it's kind of funny that you people
+keep coming back to content creation.
+You don't have a background there, do
+you?
+>> No. But but here's the thing that I mean
+I do not have a background in it but I
+know that for the average business owner
+who doesn't who does not have consistent
+content creation and when it's possible
+to easily build a knowledge base from
+what we know about that business and
+what it does. It is not that hard to
+create some kind of content creation.
+Okay, that is consistent with the boys
+for the I'll tell you what for the
+investment firm that I I did it has like
+this guy's been doing investment talk
+radio longer than Dave Ramsey's been
+doing his and we have 22,000 chunks of
+data in this knowledge base that creates
+content for him. We've got 570 something
+commercials. So, it is super easy to
+create quality content in the voice of
+the business owner when you've got so
+much content.
+>> Yeah.
+>> And I ended up telling him when we first
+created, I said, "Look, Paul, if you
+don't like it, it is all you, my friend.
+It's all you." Because I mean, that's
+it.
+>> If you don't like it, you don't like
+yourself. Because I built this on you.
+I'm trying to think of an analogy
+because on one hand, it's like content
+creation is important for businesses,
+for any business. On the other hand,
+it's like so hard to go viral and stand
+out. But the analogy I would think of is
+imagine imagine like a town that had
+10,000 residents and only five retail
+stores. Okay, five re that you grocery
+store, restaurant, whatever. Like way
+more demand for retail stores than
+supply. There's only five. So did these
+five stores didn't have signs up.
+Everyone just knew the red brick
+building is the grocery store, the white
+brick building is the restaurant, yada
+yada, until suddenly like there's 10.
+There's 10 retail stores. more
+competition. And so now they're like,
+"Man, we should probably get a sign,
+right? Like we don't necessarily need
+like a sign spinner, like a human out
+front to like be savvy and bring people
+in. We should actually we should
+probably just have a sign. Like we need
+a presence. People need to know that
+like we are the grocery store. We're
+grocery store number one now and the one
+that just opened is number two." To me,
+that's what content creation looks like
+in 2026 and over the next five years.
+Like you're not promising people that
+they're going to go viral or like
+transform their business with content
+and they're not even thinking that. But
+like at this point, they just need
+something. You got to hit publish on
+something or you you're just not
+relevant anymore. You need a sign. You
+just at least like bare minimum put up a
+sign, right? It doesn't need to be good
+or flashy or nice font or lit up at
+night. You just need a sign. To me,
+that's what content creation for local
+small businesses are today.
+>> Yeah.
+>> Any thoughts on that?
+>> No. Totally. Totally. Because, you know,
+all this stuff that we're creating is
+just to help them have a presence. It
+It's not that I'm we're trying to help
+anybody go viral with this, but uh but
+yeah, absolutely.
+>> Yeah. Something's just happened with
+Beehive that I think you might have
+missed. You can now connect your Beehive
+account directly to Claude, Chat GPT,
+Gemini, or whatever AI tool that you use
+through something called MCP. So last
+week I connected my newsletter to
+Claude. And now I can sit in Claude and
+say, "Look at my open rates from the
+last 30 days and tell me which subject
+lines perform best." Or, "Draft next
+week's newsletter based on the topics my
+audience clicked on the most this
+month." And Claude does it. It can see
+my real beehive data, subscribers,
+engagement numbers, automations,
+revenue, everything. And I've already
+cut my weekly production time because I
+stopped guessing what to write about and
+started letting the data decide for me.
+So instead of using AI to just write
+generic content, use AI to plug into
+your actual newsletter to make decisions
+based on what's already working. Behive
+built this MCP so your favorite AI tool
+can be your newsletter strategist and
+your data scientist all-in-one. So move
+your email list over today and try
+Beehive 30% off for 30 days with code
+Chris 30 because this might be the
+simplest, highest leverage business you
+can build right now. Okay. So this uh
+doctor physician that was a personal
+friend of yours as well.
+>> Yes, personal friend of mine. And I'll
+end up saying this. Every bit of the
+business that I have had to this point
+has been from people from either direct
+contacts, direct friends or friends of
+friends. We consistently underestimate
+this in the business culture sometimes
+that people are more important than
+money. And to have meaningful
+relationships with people where you do
+everything within your power to try to
+add value to them and for them and to
+help them and to serve them and to do
+anything you can to help them other than
+building them something for free. You
+understand what I'm saying? But and
+there's there's just such an opportunity
+that we all have in all the circles
+where we've operated. We've done
+business before, people that we come in
+contact with and businesses. You know,
+there's just such a huge opportunity for
+us to find their points of pain by
+opening up conversations with them and
+that creates an inroad for us to pitch
+them some sort of a what I would call an
+early level solution that could that
+could end up leading to other things.
+>> You know, it's interesting because
+there's like there's something anyone
+can learn from anyone, any other
+business or whatever. Like we could
+learn some good business principles from
+bad business people or from bad
+businesses like drug dealers, right? I
+think of one industry that's very shady.
+I think most people would agree and
+that's MLMs, multi-level marketing,
+network marketing. But what they are is
+very effective at selling. And they're
+also very effective at having high
+margin products because there's so many
+layers in that pyramid scheme.
+Everyone's got to get paid. But one
+thing they do really well is when you
+sit down, well like probably many of us
+have sat down with like a cousin or
+brother-in-law that was trying to sell
+us to non juice or a rubber mate or
+something. But when when you sit down in
+one of these seminars, it's always like
+write down a list of everyone you know
+and then call them. Yeah. Right. It's
+like geez, I'm going to burn all these
+relationships. And if you sell them a
+crap bill of goods, you will. You will
+burn. I know I know people that have
+done that. But if you're serving them
+and genuinely solving problems and using
+AI to help them make or save more money
+in their businesses, then you're helping
+them. Then you're being a good friend.
+So if we take that principle and like
+put an ethical twist on it, there's
+something we can learn there. Like like
+end of story, you're more likely to
+close someone that you know. Even if you
+went to high school with them 20 years
+ago and you haven't spoken with them
+since, you still know them. Like you're
+still warm. Warmer than a cold call,
+right?
+>> Absolutely. Absolutely.
+>> You said two things. I'm going to add
+one to it. You said your customers have
+all come from friends and friends of
+friends. I would think the the third
+thing would be what I call like the
+floodgate principle and that's when you
+you find a friend that you can serve.
+You solve a problem with AI and they see
+what you're capable of and then they
+come back to you and they're like, "What
+about this? I have this other business.
+I have this rental home. I have this."
+And then now like you're the guy. And
+like I have people in my life that are
+good at programming or Facebook ads.
+They're good at things I'm not good at.
+And every time I have a problem in that
+space, I go to Justin. I go to that guy
+Kevin. It's like you're my guy and
+that's like the floodgate. So it's like
+there's like the third tier of people is
+actually the the same as the first. It's
+just more jobs from the same person that
+you already gained trust from that maybe
+you went to high school with, maybe you
+go to church with. Any thoughts on that?
+>> Totally. Totally. So, and it's it's just
+let me tell you something. When you
+develop the reputation of being the type
+of person that just wants to help help
+someone out, okay, that you help out
+someone, even if they don't buy your
+product or service, you give them some
+tips. I'll say this, when I first sat
+down with the chiropractor and started
+talking about AI, neither he or his
+wife, they didn't even have any kind of
+AI accounts. They didn't have chat GPT.
+They didn't have Claude. And when I'd
+walked them through the process of just
+signing up and had them do some basic
+things, they're like, "You're you're
+just kidding me." And I was like, "No,
+it'll end up doing it." And so anyway,
+yeah, uh anything anything we can do to
+add value, anything, uh is just super
+helpful.
+>> What kind of qualifying questions do you
+ask to know if they're even capable of
+being able to afford 1,500 a month,
+3,000 upfront, etc.
+>> Well, part of the thing is in the U
+investment guy when I ended up signing
+him, first off, we talked numerous
+times. We had talked like seven to 10
+hours or more and I didn't even know
+necessarily what he was wanting. He
+didn't know what he was wanting. And
+then he just said he just said, "Well,
+hey, if I if I hired you on some kind of
+kind of a retainer for the ne for the
+next six months, what would you what
+would you charge?" And I said, "Well,
+well, first off, you need to tell me how
+many hours you'd want me working for you
+a week." And so, uh, and I said I said,
+"Well, we're talking about 20 talking
+about 20 to 25 hours a week, maybe
+helping you do some things being
+building automations. charging him
+nothing for the automations because of
+the amount that he's paying me. And he
+said, "Well," he said, "What if we what
+if we did what if we did 50 50,000?" And
+I was like, "Okay." You know, started
+out with that. And then the other one
+then the other one with the chiropractor
+with this laser. What I knew was he was
+super pumped up about it. He's got an
+established practice. It's a proven
+product. And for for him being a
+business owner to have me take over the
+entire product launch was a huge value
+for him. One is he didn't know know how
+to do it. Could he have learned? Well,
+sure he could have learned. But there
+was a huge learning curve to it. And so
+they were just pumped up with it ready
+to go. And when I just went over what
+was possible with a proposal that Claude
+helped me create. Okay. When I went over
+what was possible, I just started, you
+know, I already had the $1,500 a month
+set in there and the $3500 for sign. And
+it was not a hard sale at all. I just
+said, "Well, hey, Chris, we would do
+this, this, and this. We'd go through
+and do all." He said, "You mean you
+would do all that for $3500?" I was
+like, "Yeah." Anyway,
+>> for the investment advisor guy, is that
+50,000 over six months? What is the time
+frame?
+>> Six months. And so it started the first
+month of the first part of March. I've
+gotten two checks from him. I basically
+get a total of six checks and then we
+will re-evaluate after that. But it was
+like, you know, uh 833
+per per month. Okay.
+>> What what do you have in the pipeline
+right now? And what do you think's next?
+How how how can you scale growing a
+business on friends and family?
+>> Well, first off, I'm going to say this.
+At some point in time, you I don't
+believe you can you can only scale with
+friends and family. You got to be able
+to branch out. And so I'll say this, one
+of my flaws that I know is I have not
+settled in on a niche. Okay? And when I
+say settle in on a niche, I don't mean
+like one necessarily one type of
+customer, but one initial product or
+service that I've offered. And I don't
+know if I I listened to the video the
+guy did on uh business business
+assessments with AI and I've I've
+thought about doing something like that.
+Maybe have a tier that's free, one
+that's $250, one that's a thousand and
+that provides a foot in the door to be
+able to offer free free products to them
+that they could sign up for, but then to
+do to do different different levels.
+Yeah. Uh that's something that I have
+not yet settled in, but I absolutely
+love problem solving and being able to
+build personalized apps for a business
+that meets the specific needs that they
+have.
+>> Yeah. Yeah. I don't think it's a problem
+that you don't have a niche yet. Like
+you have revenue, right? And that's
+that's more valuable than a niche. What
+I really want to know, and I think this
+is what most humans struggle with, is it
+sounds like it was a period of months
+before you started learning these skills
+and you got your first revenue. How does
+one stay motivated? How do you stay
+grinding when you've had you've sat down
+at Starbucks with who knows how many
+people and you have nothing in the bank
+account to show for it yet? Also, Chris,
+uh, one of the things that we all know
+that we don't sometimes tell ourselves
+is that the greatest battle we all have
+in starting a business, running a
+business, learning, growing is the is
+the person we look at in the mirror
+daily. You know, you know, are we going
+to do the difficult thing? One of the
+things that I love that Stabin says, he
+says, you know, am I disciplined to to
+the thing that I know I need to do and
+not do the thing that I know I shouldn't
+do.
+>> So, am I disciplined enough to know that
+being busy does not mean you're making
+progress in your bill in your business.
+What it may mean is you're being busy
+doing the wrong things because you're
+too scared to do the things you know you
+need to do. Brian Brian Tracy wrote this
+book years years ago that says it's
+called eat the frog first. In other
+words, do the thing that you dread the
+most. And and I'll say this just in
+terms of how you have taught with your
+teachings on on your podcast. You try to
+teach people, look, learn by action.
+Learn by action. Get in there and do it.
+Know you don't know how to do it. Start
+doing it. And when it comes to the AI
+agency, we have told ourselves, I mean,
+all of us at some point, well, I don't
+know this and I'm I don't know all this
+about AI. I don't know this. There's so
+many things we don't know. Look how
+quick AI has grown. Well, that's true.
+We don't know. But guess what? 99% of
+the business owners that we sit in front
+of, we know significantly more than they
+do do. And we know enough that it's
+possible that we know where to get the
+answers that we need to help them do the
+thing they want to do, even if we've
+never done it before. And I'll say this,
+one of the things I have to continually
+tell myself because I can be the worst
+critic of me is that I have to tell
+myself, Philip, talk to yourself like
+you would talk to your kids going
+through a challenge. I would never shame
+my children. I'm not going to speak down
+to them. If they try something and it
+fails and they and they get discouraged,
+I'm going to talk to them in such a way
+that it spurs on their growth to see
+failure as as a particular event in
+their life and not as not for them as a
+person. So anyway, I'm sorry. I I kind
+of feel like I'm preaching right now.
+>> No, this is amaz.
+>> No. And so and it's just I'll say this.
+This this is something that makes me
+about just jump up and down inside. I'm
+amazed that this is in my assessment and
+a lot of others say by far the best time
+in human history to be alive and start a
+business. Never there's never there's
+never Henry Ford never imagined the
+opportunity Solomon in all of his glory
+and splendor in biblical days never
+imagined the access to things that we
+have. Five ten years ago all business
+owners would have jumped up and down and
+screamed and hollered. And if you'd have
+told them what was coming, they would
+have told you it was fiction. That it
+was not possible. Well, guess what? We
+are seeing now a day and time to where
+we can have a dream about what we want
+to build that came from a client that
+has presented something to us and though
+we've never built it before, AI can help
+us build that. What the heck does it get
+any better than this? Does it does it
+get any better? And and and and I I come
+back to the same thing with me, Philip.
+your greatest limits. You, my friend,
+are you willing to see that what you
+once thought was impossible is so
+possible now. And isn't it isn't just
+for you, it's for others. And I'll say
+this, it does something deep inside of
+all of us that we know is true and right
+and just or something to be able to help
+and assist someone else. And we have
+never had more tools at our disposal
+than we have right now. Okay.
+>> Oh my gosh, Phil. I'm like obviously mo
+most of you guys are familiar with the
+podcast. I don't get into like the
+motivational stuff, highle stuff, rah
+rah stuff. We get tactical, we get
+granular, but there is a place for this.
+I don't get into it because I don't
+think I'm very good at it. You're
+clearly good at it. So, you open the
+door. Like, I just got off the phone
+with two 18-year-olds that sell VCRs.
+They're making like seven grand a month
+selling Yes. VCRs. They buy them on
+Facebook Marketplace for $10 and they go
+for a hundred on eBay. 100 because no
+one makes them anymore. So, there's no
+there's still demand. There's no supply,
+right? Millennials want to watch movies
+with their kids. Like, there's an
+opportunity. We pulled up Facebook
+Marketplace and there were hundreds of
+VCRs for sale within an hour of me for
+like 10 to 30 bucks. Guys, I want to
+tell you about something I've been
+building behind the scenes. You've been
+watching my videos about AI tools and
+asking the same question. Okay, cool.
+How do I turn this into a business? Not
+just playing around with AI, but
+actually getting clients and getting
+paid. That's my community. It's called
+Playmakers. playmakersai.com.
+It's an AI agency program where we show
+you how to start an AI consulting
+business where you can charge local
+businesses $500 to $5,000 a month to set
+up and manage AI tools for them. It's
+not a course you watch and forget about.
+We do three to seven live training calls
+every week taught by me and 23 other
+expert AI agency owners. You get
+plug-and-play templates, Cloud Code
+tutorials, AI voice agent frameworks,
+automation templates, and a 30-day road
+map so you don't fall off track. This is
+stuff you can just copy, paste, and
+deploy for clients on day one, and of
+course, how to find clients as well. We
+also have a 5-day first client challenge
+where we can walk you through landing
+your first paying client in 5 days. You
+also get my frameworks for cold email,
+Facebook ads, SMS, cold calls, and then
+I hand you my leads galore spreadsheets
+with actual leads in your niche, in your
+area. We've already got over 200 people
+in there building real agencies. If you
+miss a live call, it's all recorded. So,
+if you've ever thought about starting an
+AI consulting business or AI
+implementation business, go check out
+playmakersai.com.
+If you guys are on Twitter, I went on
+Door Dash last week. I I don't even
+order Door Dash and I just I thought, I
+wonder how much money I can make on Door
+Dash. So, I downloaded the Door Dash for
+Drivers app. I was approved within 10
+minutes. I'm making 30 bucks an hour
+listening to podcasts. 30 bucks an hour
+with no experience, no reviews, nothing.
+And it's like I I could do this on a
+moped, a $500 moped. I could make the
+same amount of money on a moped, you
+know? And so it's like and then you're
+talking about this like there's so much
+opportunity and I I still want to be
+sensitive to people hearing this because
+there's people that hear that all the
+time. There's so much opportunity. It's
+never been it's like where's my revenue?
+Okay, I'm trying. I'm out there. I'm
+grinding. It's not here yet. Like it's
+where's my revenue? That sounds really
+great, Chris. That's a great sound bite.
+But like I'm out there meeting at
+Starbucks with my friends and family. I
+don't have revenue. And to what you said
+near the end, like not talking down on
+yourself, you open the door for a Nick
+saving quote, so I'll I'll continue it.
+I'll I'll I'll double I'll double or
+nothing you hear. He has a story and
+it's a true story. He was out fishing on
+the lake and this guy next to him is
+catching all these crappie and he's
+throwing back every other one. And he's
+like, "Why are you throwing back the big
+ones? Why aren't you keeping the big
+ones? Those are delicious." And he
+thought maybe, you know, bigger catfish
+don't taste very good. Maybe he thought,
+"This guy probably doesn't know that the
+big ones are actually delicious." He's
+like, "Well, my frying pan's only this
+big, so I don't keep the bigger ones
+because I can't cook them." And he's
+like, "Dude, you need a bigger frying
+pan. Like, get a bigger frying pan,
+right?" And so, it's like, dream bigger,
+you know? Like, if if you're talking to
+a guy and you might have a bigger fish
+on the line than you think you're you're
+capable of handling, like, close the
+deal and then buy a bigger frying pan.
+Like, figure it out. Um, and yes, like
+don't give voice to your negative
+thoughts because we all have them. But
+this the moment we vocalize them is when
+they become more real and they become
+more hardened in us. And like the
+negative thoughts compound even faster
+than the positive words, right? Like I I
+just try to suffocate all the negative
+thoughts as best as I can and verbalize
+the positive ones because compounding
+works in both directions. Like you pick
+go that way or that way. You want to go
+better or worse. It's your choice. So to
+me what it sounds like is like you
+cannot be prideful. You cannot be
+unwilling to meet with friends and
+family. If you are, you it still works.
+Like I'm the guy that's prideful. I'm
+the guy that like I was never posting on
+social media. I just started business
+number 13. I just started business
+number 19. I just because I know what
+people think. This guy this guy can't
+how is this guy feeding his family? He's
+all over the place. He's got I was never
+advertising what I was doing because I
+was ashamed and embarrassed. So I was
+never selling to my friends and family.
+So I created this artificial barrier. I
+made it unnecessarily hard for me.
+Right? So, I'm telling you guys, don't
+do what I did. Like, be willing to sit
+down with people from the mindset of
+like, I'm gonna help you make more
+money. I'm not trying to sell you a
+false bill of goods or the next diet
+pill or whatever. I want to help you
+make or save more money in your
+business. So, I feel good about texting
+you and offering to meet you at
+Starbucks or whatever because this is
+going to be a win-win for us. And then
+asking questions. Do more talking or do
+more listening than talking.
+>> Well, and I'll tell you, let me tell you
+a quick story. The first vibecoated
+thing I ever built was in replet. It was
+for my brother-in-law to manage his cows
+and sheep out on his farm that it was
+that it's possible that you know you can
+take a picture of the cow to know what
+Bessie looks like or whatever he calls
+his cow and then you know you know when
+they've blasted their vaccines you know
+which which ones they've given birth to
+and who's connected to who and told him
+I said my brother-in-law is Greg I said
+man if you wanted to put GPS trackers on
+them we could put it on we could put it
+on Google Earth and find out where the
+cows were. But anyway, so yeah,
+>> I mean I think a lot of these solutions
+that we're building for people are going
+to become products of their own, right?
+Like I think a lot of people in this
+group, they're going to go solve the
+most random problem from the most random
+business owner and then another business
+owner in the same industry is like, can
+you do that for me? Sure. Copy paste.
+Can you do that for me? Sure. And it's
+like I'm just going to start I'm not
+doing an agency anymore. Like that got
+me from point A to point B, but I want
+to go to point F and that's through
+this. I'm just gonna sell access to this
+software to every single dairy farmer in
+Northwest Wisconsin or whatever it is.
+>> What have we missed, Phil?
+>> This is the thing I would challenge you
+to, okay? Sit down with your mobile
+device, wherever it is you store your
+contacts, and just start writing down
+names of people. And the goal is not to
+sell them something. The goal is to open
+up the door to have a conversation with
+them because because really even if you
+knew their business in and out, you
+still don't know what the pain points
+are. And I'll say this just in saying
+this, I haven't thought about this. I
+have not asked any friends that I built
+stuff for to recommend me to someone
+else. Is there somebody else that you
+know of something like this would be
+helpful to? I just thought of that. I
+haven't done that. But anyway, just sit
+down, have conversations with people,
+listen to them, find out the pain
+points, find out the things going on in
+their business, and offer them things
+that will help.
+>> It's funny you said that you hadn't done
+that because that was the one thing I
+was going to add to that is always ask
+for referrals. Yeah.
+>> Because like if if there's like good,
+better, best, good is like cold calling.
+Better is like a friend of a friend.
+Best is a friend, right? But like a
+friend of a friend is light years better
+than a cold call. So do it. This is
+amazing, Phil. I'm inspired. I'm ready
+to run through a wall. Okay. Well, Phil,
+appreciate you. Thank you for sharing
+your wisdom and knowledge and motivation
+with us.
+>> Thank you, sir. Thank you, sir. You
+know, glad to be here. Glad to be here.
+>> If you like this content, please share
+with a friend. Hit a like or a comment
+below and we'll see you next time on the
+Ker

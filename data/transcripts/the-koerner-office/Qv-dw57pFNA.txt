@@ -1,0 +1,1351 @@
+All right. So, I was out on a run with
+my dog. It was freaking freezing cold.
+He wasn't walking. I had to pick him up.
+And I got a business idea. So, I
+literally turned around, came in, I hit
+record. Look, I'm still wearing my
+gloves. I'm still sweating, still
+glistening because I want to tell you
+about this business idea. And I'm going
+to launch this business over the course
+of this video in front of you. And I can
+almost guarantee you it's going to be a
+six-figure business by the end of today
+or maybe tomorrow at the worst. Okay,
+here's how my week went. I posted this
+video right here. Most of you saw it
+about making 35 grand a month on
+Facebook. I was elated. It was the most
+viral video I've ever posted. And then
+boom, Facebook bans me. You don't
+believe me? Here's proof. All right, we
+removed your page. Look at that.
+Removed. I try to post. It won't let me.
+You've been temporarily blocked. yada
+yada yada. I'm neutered. I can't do
+anything here. And then when I go to my
+emails, you can see I've been sharing
+all these emails back and forth with
+Meta and Instagram and Facebook ads. I'm
+like hedging all my bets. Here on the
+right, I'm sending them screenshots. I'm
+actively working this. It's been
+extremely stressful. A lot of phone
+calls with people overseas that can
+barely understand me. They don't give a
+crap about me. Hundreds of thousands of
+dollars a year. Disappeared overnight.
+And I need this to pay my content team.
+I have a big content team. This is not
+like a 100% profit business. There are
+real costs that go into this. They
+banned me. Why? They said intellectual
+property infringement. False. Not true.
+Absolutely not. They won't reinstate me.
+So immediately six figures of income to
+me to my family disappears overnight.
+Overnight. And it had to have been
+because of that video because I also
+posted that video to Facebook. Hours
+later, banned, which I don't understand
+because Facebook wants creators to make
+money on their platform because then
+they make money. I don't get it. But
+that income disappeared. So, I was in a
+pretty dark spot and I'm thinking, how
+can I do this? How can I make lemonade
+out of lemons? And I'm on this walk and
+then I think, oh my gosh, I got it. I
+got it. I can launch a business off of
+Facebook banning me. And I'm going to
+hit record on my screen because I've
+always wanted to do this. I've always
+wanted to literally hit record on my
+screen. I got to take these gloves off
+and launch a business so you guys could
+watch how my brain works, how I think
+through it. This is not planned. There's
+no audience plans. I haven't done
+anything. There's no LLC. I don't have a
+domain name. None of this. But I'm going
+to launch business, send an email with a
+link to pay, and I will have revenue by
+the end of this video. And then between
+the time it takes for this video to get
+edited and go live, I will post an
+update at the end of my revenue at that
+point. And I just know it's going to be
+impressive.
+So, my gloves are off, literally. And
+I'm going to launch business. This is
+going to be very meta, no pun intended.
+I hate you, meta. This is going to be a
+very meta video because it's going to be
+a video about content, but it is content
+about making money with content. You're
+going to love it. I'm going to share my
+screen and just talk through everything
+I'm doing and seeing and thinking. Now,
+anytime anyone starts a business, you
+need to go to your unfair advantage.
+Everyone has an unfair advantage. Maybe
+it's a rich uncle. Maybe it's your job
+history. you have a unique insight into
+the lawn care business, right? Because
+you worked on a lawn care crew. It
+doesn't matter. I don't care if it was a
+low paying job or high paying job. We
+all have an unfair advantage. We all
+have an interesting insight background
+experience that we can leverage. Okay?
+So, one of my unfair advantages is that
+I have a newsletter and I want to use
+that newsletter to sell to. Now, if
+you're bummed out cuz you don't have a
+newsletter, I've posted four or five
+videos like tactical beginner level
+tutorials soup to nuts about exactly how
+to start a newsletter with no experience
+and very little money. I'll link all of
+those in the show notes so you don't
+have to go search for them. Okay? So,
+don't be discouraged if you don't have a
+newsletter because 99% of people don't
+have a newsletter. That's fine. And you
+don't have to have a newsletter to start
+this business either, but this is my for
+advantage. So, I'm going to leverage it.
+So, I'm going to go to my newsletter and
+I host it on Beehive. I love Beehive. I
+talk about them a lot. Yada yada. And
+I'm going to make a segment. Now, this
+is a subsegment of my newsletter based
+on some filters that I set. Maybe I only
+want people in South America. Maybe I
+only want people that are 30 to 80 years
+old. Doesn't matter. I'll show you
+exactly how I make my segment. So we go
+to audience segments create segment. I'm
+going to call it all active because I
+want to export all of my active
+newsletter subscribers. So So I'm going
+to say attribute email
+exist. All right. So they're on my list.
+Okay. And then I'm going to click filter
+by active subscribers. So I'm going to
+make a segment of every single
+subscriber I have that is not
+unsubscribed from me ever. Boom. Now,
+another way to do this is just go to
+settings, export data, and click export
+all basic subscribers. It'll take a
+couple minutes, and I'm good. Oh, and I
+got to do this. I got to do the watch
+test. Ah, dang it. My watch is still on
+my run cuz I have another 6 and a half
+mile loop to do. So, phone test. It's
+11:38. You can see that 11:38 in the
+morning on a Saturday. I want you to see
+how long it takes to get to revenue.
+Okay, so I have my newsletter exported.
+I'm going to paste it into Google Sheets
+because I prefer working with Google
+Sheets than Excel. Boom. There they are.
+Got it? Now, very important. I want to
+randomize them. I'm going to use a
+formula called rand equals r n d open
+parenthesis close parenthesis. Hit
+enter. And then we're going to click the
+check mark. Now, the most important
+thing is we're going to filter them.
+Boom. And we're going to sort A to Z or
+Z to A. It doesn't matter. This
+perfectly randomizes my list. Otherwise,
+if I'm going to send an email to a
+sample of them, I don't want to only
+send an email to the top ones because
+that might be my oldest subscribers and
+the sample size will be skewed because
+maybe they're more loyal to me or vice
+versa. So, I want to perfectly randomize
+this list because what I'm about to do
+is what's called an AB test or a split
+test. I'm going to sell a thing for a
+price point and I don't know what the
+perfect price point is yet. So, I'm
+going to take a sample of my entire
+email list and launch not just like
+test, but launch the business with a
+Stripe link to pay uh at one price to
+sample A and then at another price to
+sample B. And I could do CDE EF. I could
+do 10 different price points to 10
+different list. But the 8020 rule
+applies. The midwip meme also applies,
+right? Everyone on this side is saying,
+"Oh, I'm going to email my list." And
+everyone, all the geniuses, all the Jedi
+on that side are saying, "Let's AB test
+A, B, C, D through Z, and we'll
+subsegment by categories, and then we'll
+find the derivative and run a Monte
+Carlo analysis." No, no, no. We want to
+be the guy in the middle who's just
+like, let's just find the 8020 of this.
+Let's just find the, you know, the best
+bang for your buck, the best value for
+our time. So, I'm just going to do two
+price ports. So, I've randomized the
+list. Now that I've done that, I can
+just delete the column. All I have are
+raw emails here. Now, I only want to
+sample less than 10% of my list because
+I don't want to waste a lower than
+necessary price point on too big of my
+list. And so, I need a big enough sample
+size to know if my data is good, but not
+so big to where I leave money on the
+table. And I'll crunch all the exact
+numbers as soon as I get a chance to
+think for a moment. Okay, so I just
+deleted about 92% of my list. Okay, so
+now we have two sheets, two lists, two
+price points. Okay. So, I'm going to
+download CSV.
+Sheet one is test A. And then I'm going
+to go over to sheet two. File, download
+CSV, sheet two. Okay, now I have my test
+list. Now I got to go to Stripe, which
+is like the world's biggest payment
+processor. And I have to create a Stripe
+link so people can actually pay me. So,
+we're going to go here. We're going to
+go payment links. I'm going to click
+[clears throat] create payment link. But
+now I just realized I have to have a
+name. I have to have a name for this. I
+didn't get that far when I was on my
+walk. I thought I thought about the
+email strategy and then at the end of my
+walk I was like, "Oh my gosh, I should
+record this. I should launch this while
+I record this and vice versa." So, I
+sprinted home, but I haven't even got to
+the name yet. You don't need a name to
+launch a business, believe it or not.
+But I just thought of the best name. All
+right, now story time. So, I was 23. I'd
+been married for two years. My wife and
+I got married when we were 21 or 22, and
+she was pregnant. And I was in class at
+the University of Alabama trying to
+learn and I was distracted. I had these
+MacBooks in front of me and I just could
+not pay attention about mitochondria. I
+didn't care. I was researching business
+ideas and someone said to me like,
+"Chris, you might have ADHD." And you
+guys are watching this. You're like,
+"Uh, duh." And so, I wanted help. Like,
+I wanted to get good grades. I wanted to
+provide for my family. So, I went and
+saw a psychiatrist. I got tested. I went
+through all these tests. And at the end
+of it, she gave me like this eight-page
+report and it said a lot of things. The
+gist of it was you don't have ADHD. What
+you do have are delusions of grandeur
+and this frustrates people in your life
+because you think that you're going to
+have a better life than your loved ones
+think for you. And I was like, could you
+say anything more offensive than that? I
+was I was like hurt. I was mad. I was
+angry. But really what it did was put a
+chip on my shoulder. I'm like, how do
+you know if I have delusions of grandeur
+if I haven't even lived my life yet? I'm
+23. Who knows what I'm going to do? I
+have plans of grandeur. Okay. I have
+plans of grandeur. Who says like tell me
+that when I'm 80 and my life's almost
+over, right? And so I've just always
+thought of that plans of grandeur. Plans
+of grandeur is not a great word from a
+branding perspective because it's hard
+to spell. It's got like a French vibe,
+but I don't care. I'm not trying to
+fully optimize this as a brand. Like I
+just want to launch because if I go hire
+a branding agency or really like do a
+survey of my friends like what do you
+think it is? What? That's friction.
+That's time. That's lack of momentum.
+Time kills all deals. Lack of momentum
+kills all deals. Friction kills all
+deals. All businesses, all startups,
+right? So, I just want to launch. I want
+revenue. That's what I preach, right?
+You guys have heard me say that. Get
+your first customer as soon as possible.
+I want to get my first customer within
+an hour because I showed my it was
+11:38. Now, it's 11:48. Okay. So, you
+can see in the time stamp of this video,
+we're not editing a lot out here. There
+it is. Little little closer. So, plans
+of grandeur. And then I just thought
+right here as I'm making this stripe
+link, like, is that domain name
+available? Now, I own like 200 domain
+names. I have a problem. It's an
+addiction, I admit. But if they're $11,
+whatever. What's one more domain name?
+So, I'm going to go to NameCheep and see
+if that domain name is available. So, by
+the way, NameCheep is not working in my
+browser. So, I have to open Chrome. So,
+I got to share my entire screen. So, I
+go to Namecheep. By the way, I kind of
+hate GoDaddy. So, don't use GoDaddy.
+This is not an ad for NameCheep, but
+it's who I use. I've used Dinad. They're
+great as well, but NameCheep is my
+favorite. Okay, so I'm logged in. Search
+for your next domain. Plans of Granger.
+plansofgranger.com. I don't know why
+it's in Canadian. US dollars. Boom.
+11.28 a year. We're going to add it to
+cart. We're going to buy it. That's the
+name of this. Because if you want to
+make content on the internet, you
+probably don't want to be famous, right?
+I don't want to be famous. I didn't want
+to be famous. I never have. But you just
+have a dream for yourself. You have a
+desire. You have a motivation. You have
+plans of grandeur of being better than
+you are today. And everyone should.
+Everyone should have plans of grandeur.
+And they may start as delusions, at
+least to the people around you. But who
+cares? So, I'm going to buy this domain
+name. There it is. Pay now. Boom. Boom.
+Boom. Okay, the domain name is mine. Now
+I know what to title the Stripe link.
+Cool. Click manage. yada yada yada. And
+I'm not going to do anything with the
+website yet. I just wanted to own the
+domain name before I publish this video
+because then one of y'all would steal
+it. All right, I'm back on the Stripe
+payment link page. I guess before I
+create a payment link, I'm getting ahead
+of myself. I need to create a product to
+sell and then I need to attach that
+product to the payment link. So, plans
+of grandeur. So, I want this email to be
+a pre-sale for the full launch and I
+want the pre-sale to be at a steep 50
+plus% discount because that works. It's
+proven to work, right? People want to
+feel like they're getting a deal and
+they want to get it and they will get a
+deal cuz I actually will increase the
+price on launch day. So, I want to make
+sure that people have a no-brainer offer
+on their hands that they feel special,
+etc. So, now I'm just like trying to
+decide what do I want to actually price
+this at. I think I want this to be
+pretty dang cheap. Like way cheaper than
+I think it should be. So, we're going to
+test $47
+one time and $97 one time. That's going
+to be our AB test. And if I send both of
+those identical emails, it's the same
+email, same subject, same wording, same
+everything. The only thing that's
+different is the payment link with the
+price, right? If I send that same email
+to the same amount of people, which do I
+sell more of? Now, surely I will sell
+more of the cheaper one, obviously. But
+what will my conversion rate be? Because
+if my conversion rate on the expensive
+one is 1% and on the cheap one, which is
+half as expensive, is 1.5%,
+then I might as well sell a more
+expensive one because my break even is
+2%. Right? Selling a $50 product at a 2%
+conversion rate to a limited email list
+is the same amount of money net to me as
+selling a $100 product at a 1%
+conversion rate. So any percentage
+points over 1% if the $50 product is 2%.
+This is all hypothetical is a win to me
+is a net win to me. So I'm going to test
+both. So we'll do oneoff $47.
+Taxes included in the price.
+Electronically supplied services. Okay.
+We'll write a quick description which
+I'll go over later. I'm going to copy
+the description. $47.
+Add product. Now I need to duplicate
+that product because I need to make it
+again for $97.
+one off 97 taxes included. Cool. Same
+name, exact same everything. Now I go to
+payment links. Create payment link. I'm
+going to do $47. They want to buy one
+for a friend. I'm cool with that. I
+don't want their names. I don't want any
+friction, right? I already have their
+names. I already have their emails. The
+more friction you add to the checkout
+process, the more your conversion rate
+will drop. I don't care what it is
+you're selling. Do not add friction.
+Sometimes it's worth it to add friction.
+You want their phone number. You want
+their email. You think the additional
+friction will be worth having additional
+data from them. Sometimes it is. In this
+case, I don't think it is. All right.
+Create link. Now, I'm just going to do
+it again. Boom. Boom. Let them adjust
+quantity. $97. I'm going to add lifetime
+into the word so they can [snorts] see
+they can just be sure it is not
+recurring. Obviously, I'm coming up with
+this on the fly, but I'm going to do the
+same thing here. Okay, lifetime. I just
+want to make sure it's not recurring.
+Who wants another subscription, right?
+47. I'm just double checking to make
+sure they're not recurring cuz I'm going
+to be in trouble if they are. Okay, so I
+have my perfectly randomized two email
+list. I have my payment links. It is
+officially 11:58. I don't know why I
+just keep checking every 10 minutes
+without even realizing it. So, it's been
+20 minutes. Well, I guess I started five
+minutes. It been 25 minutes. And now I
+need to write the email and hit send.
+Now, that is the test email. Then, I
+need to send the full launch email,
+which I'll probably do after my run
+because I still have six and a half
+miles to run. Look, my watch is trying
+to tell me to get back out there. I need
+an hour or two or three to see the
+results of my test, but I'm gonna have
+revenue within five minutes of sending
+that email. So, we're going to launch a
+business in under an hour today. I
+promise you. A profitable business, by
+the way. And we're going to donate to
+charity, too. How about that? We're
+going to do some good. So, we're going
+to go back to Beehive, the best
+newsletter platform in the world. Okay,
+we're back there. Now, we need to
+re-upload our list. So, I'm going to go
+to subscribers, and I want to tag the A
+and the B list, right? So, I'm going to
+go to tags. I'm going to click new tag,
+and I'm going to go POG 47. I'll make
+this yellow. Pog plans of Granger, $47.
+And then I'm going to go new tag, Pog
+97. And I'm going to make that yellow as
+well. Color doesn't matter. Okay, we
+have two tags. Now, we're going to go
+back to settings and we're going to go
+subscribers, import. Now, I'm not really
+importing these cuz they were already in
+my list. And you don't have to do
+everything I showed you to segment a
+list into AB test. You don't have to do
+that. Behive will do all that
+automatically. I'm just kind of old
+school and I like doing it this way
+because I like being in full control of
+the emails that I send. AB testing with
+emails is typically done with subject
+lines, right? I'm not doing that. My
+subject lines will be the same. I want
+to AB test the entire email which I
+think you can do in Beehive as well but
+I haven't learned it yet so I'm not
+trying to learn it right friction
+momentum time kills all deals etc. So,
+new subscribers, import, upload CSV. I'm
+going to click this. Now, I'm only
+uploading the emails, not the first
+names, last names, all that. Beehive
+already has that. So, when I upload an
+email address that's already in Beehive,
+it's just going to recognize that it's
+already there, and nothing's going to
+change. It's just going to add that tag
+to it, which is all I want. So, we'll do
+this one. Doesn't matter. And then we're
+going to We don't want to send a welcome
+email because we've already sent them
+that. They're already on my list. We
+don't want to add them to an automation,
+but we do want to add a subscriber tag.
+So, we will do POG 97 for this first
+one. Okay. Import. Now, we're going to
+do new subscribers. Import. Upload CSV.
+We're going to go to the second one.
+Next, no welcome email. Add tags. And
+we're going to do POG 47. Okay. Import.
+Now, I want to put both of these groups
+of people in their own segment. And I'm
+going to name the segment the same thing
+I named the tag log 47. I'm going to
+make it dynamic, which means it will
+auto update as I add new emails that
+have that tag. And I'm going to go
+condition attribute attribute. Go down
+here and we'll do subscriber tags
+includes
+POG 47. POG 47. I did do 47 first,
+right? And then only active subscribers
+as well cuz you can't email people that
+have already unsubscribed. So POG 47 is
+that. Then we're going to go create
+segment. Again, I could have duplicated
+it. Pog 97 dynamic define conditions.
+Boom. Attribute tag includes POG 97.
+Boom. Filter [snorts] by active. Save
+segment. Now, these are going to show as
+zero so far because they haven't fully
+imported yet. And then we'll have to
+click these three dots and refresh,
+recalculate the segment so they'll pop
+in. But we don't want to wait, right? We
+don't want to wait. So, we're going to
+go to post and we're going to write an
+email. So, I'm just going to duplicate
+one of my old emails and we're going to
+go up here, edit post. So, this will be
+an email sending masterclass hopefully.
+I don't put anything at the tops of my
+emails. To me, that's more friction.
+That's more space between the top of
+their email and what I want to tell
+them. So, we hide that. We hide that. We
+hide the author either even because they
+know it's me. will include the dynamic
+tag for their first name. Which means if
+I have their first name in Beehive, then
+it will include their first name. But I
+don't want to put a comma because I
+don't have everyone's first name. So if
+I put a comma, then their email will
+just start with a comma and it looks
+weird. So as I'm doing it right here, if
+I don't have their first name, then
+their email will just start a little bit
+lower and no one can even tell the
+difference. So I'm going to delete all
+this old stuff and I'm going to say I'm
+just coming up with this on the fly.
+We're not using Jad GBT. All right. So I
+just wrote this up. No help from AI or
+Chad P. I want this to be real from the
+heart, but I'll walk you through my
+thinking and why I did this. So, I had a
+pretty crappy week, but I want to turn
+lemons into lemonade. That's kind of a
+hook. It's a hook and it's a retention
+grabber, right? Hopefully, they'll want
+to know why it's crappy and how I'm
+going to turn lemons into lemonade. I
+posted a YouTube video that exploded.
+It's quickly becoming my most viral
+video ever. It was about exactly how I
+make 35K a month on Facebook. I'm going
+to put very tactical. You guys loved it.
+That's why I also wrote my newsletter
+about it this week. Hours later, guess
+what happened? Meta banned my Facebook
+page. The reason? Copyright
+infringement, which is false. There was
+no copyright infringement. I think it
+was because of that video. I posted it
+to Facebook as well. Maybe it was dumb
+to do that, but I thought Meta wanted
+more creators. Dot dot dot. That's a day
+in the life of entrepreneurship, right?
+You are way up here and then hours
+later, you're way down here. I'm going
+to put there. You're way down there. So,
+not only do six figures of income
+disappear overnight, but I can't run ads
+nearly as effectively anymore because I
+needed those 1.5 million Facebook
+followers as data points so my ads could
+be profitable. So, it was a devastating
+week to say the least. But then on my
+run this morning, I had an idea. I ran
+home early to type this out. What if I
+could turn lemons into lemonade, play
+the David to Meta's Goliath, and maybe
+donate to charity as well? So, here we
+go. I'd like to replace that missing
+income. I need to replace that missing
+income. I have a content team to pay.
+So, here we go. I have a treasure trove
+of videos, spreadsheets, and docs in my
+Google Drive account that has never been
+published. I add to it weekly. I used to
+do one-on-one consulting for creators
+trying to grow big brands. My fee,
+$10,000 a month for one-hour long calls
+per week. This is true, by the way. 100%
+of this email and video is true. All
+those training videos, guides, docs, and
+tracking spreadsheets are safely tucked
+in my drive. And it's really, really
+good stuff. And so, I'm going to sell it
+all for 99 plus% less than what it's
+worth. Make that bold. February 6th is
+when it all goes live. But right now is
+when the pre-sale goes live at a 67%
+discount. The full price on launch day
+will be $291 time. Now, this is going to
+be the $97 test. But today, the pre-sale
+price to my newsletter is only $97 with
+this link. This is a one-time lifetime
+price, not monthly. Every time I record
+more tactical content about growing a
+brand, going viral, or making content, I
+will add it to what you already bought.
+I'm addicted to learning, so this
+content will stay fresh since alos are
+always changing. I will also do 12 AMAs
+with everyone that purchased as well.
+So, if you ever maybe potentially might
+want to try to go viral, build a
+following or a brand for yourself or a
+business, faceless or otherwise,
+spending a little bit of money one time,
+will be an insane insurance policy that
+lasts forever. All AMAs will be recorded
+in the program as well in case you miss
+it. Also, I'm going to add a couple
+intentional typos in here. Not that I
+need to. There's probably some that I've
+missed just so people see it's not AI
+cuz it's not AI. Oh, and 10% of all
+revenue, not profits, revenue will be
+publicly donated to the National Kidney
+Foundation cuz it's very near and dear
+to my heart. This is the video going
+viral that got me banned from Facebook,
+by the way. Still trying to get my
+account back, but it's not looking good.
+Thank you. And then I put screenshots
+proving that my account was actually
+banned. Okay, so now I need to add in
+the Stripe link. So, we're going to go
+here. Now, don't screw it up, Chris. Go
+here. Edit. So, I added in this to the
+description of the product. Why is it
+called plans of Granger? Because one
+time I had a psychiatrist tell me that I
+had delusions of Granger, but I knew
+they were plans. That's what content can
+do for your life. Turn your delusions
+into plans. Sell your story, right? That
+is my real story. That is a true story,
+and I want people to know it. Okay.
+Update product. And we go to payment
+links. I want to look at it. Okay. So,
+now this Stripe account is for a
+different business. And so I want to
+change the business details so it
+doesn't say playmakers. All right. So
+that's changed. I've got the $97 link
+right there. Boom. Awesome. Now we'll go
+back here. Put the link right there.
+That right there. And I want to bold
+that sentence. All right. There it is.
+Now it's automatically saved. Let's go
+back here to make sure that my
+subscribers are imported. Boom. There
+they are. Let's go back to our segments.
+We're going to recalculate them so they
+refresh and show about 10,000.
+Recalculate. Recalculate. Okay. 9961
+because some of these emails aren't
+valid anymore. Pog97. Okay. So, they're
+updated. We go back to post. New post.
+Edit post. First name. Now, I don't like
+that the link is all the way down here.
+I like to put it up there because a lot
+of people won't read that far. But I
+don't know who else to do it because
+they got to know what they're buying.
+And then I didn't want to put the video
+of the Facebook video ahead of this one
+because then it would compete with their
+click, right? So also didn't want to put
+these up there cuz that's more space.
+That's more friction. I want to put it
+at the end so they can see it at the end
+to like validate what I'm saying. But
+anyway, so this is the $97 email. 97. I
+just want to double triple check the
+link works. It's a $97 link. Okay. Cool.
+Cool. Cool. Make sure that that link
+works. YouTube. Oh, cool, cool, cool.
+Okay, we want to send this only to the
+here my segments right here, right? We
+don't want it to be public to the web.
+We want my $97 people to see it also.
+And if you're thinking if I end up
+making it 47, is that fair to the $97
+people? No. So, I'll just refund them
+half. Like, I'll make it fair to
+everyone when it's all said and done. I
+can I can just do a partial refund. All
+right. Subject line shorter is always
+better. Always. Let's look at the time.
+12:28. So, what's up? in an hour. This
+is bad. Not clickbait. Okay. yada yada
+yada. Good subject. And it's true. Okay.
+It's going only to my $97 people. My
+watch wants me to go back out and run
+cuz it's just paused. Okay. 9797. We're
+going to preview it just to be sure.
+That's the awesome thing about having a
+newsletter is there's trust. They know
+I'm not going to scam them or screw
+them. They know they're going to get way
+more than what they pay for. It's hard
+to do that without a brand, right? Which
+is what I'm selling here. How to build
+your own brand. I do want to edit
+February 6. Next. Next. Preview.
+Schedule. Just make sure it's going to
+9600 people. Schedule. Publish. Now.
+Here we go. I guess I better deliver
+something, huh? Also, by the way, if
+you're watching this, I've got a special
+link in the description where you can
+get lower price. All right. So, guys,
+the email is sent. It is sent. Now, we
+have to copy the email. We have to
+duplicate it. This is That was the hard
+part. Hard part is done. We're going to
+click these three dots. We're going to
+click duplicate. And we're going to
+click edit. Edit post. We want to keep
+everything the exact same. This is a
+scientific experiment here. We want to
+go back here. We want to go payment
+links. We want to go to the $47 version.
+Okay. Not the $97 version. We're going
+to paste it. Make sure it works. Plans
+of grandeur 4747. Cool. Cool. Cool.
+Okay. We're going to close that. Close
+that. And [snorts] all we want to change
+is 47 * 3 is 141. And then I'm going to
+change the 97 to 47. And then delete
+that link. And then boom. 141 47 time
+lifetime price not monthly. yada yada
+yada. And I don't refer to the link or
+the price anywhere else. Okay. [snorts]
+Same email, different list, right? We're
+going to remove POG97. We don't want it
+to go to all free subscribers. 14147 47.
+Cool. Cool. Cool. Cool. Cool. Go to
+audience. Boom. Boom. 47. Now, just to
+be sure, I really want to make sure I'm
+almost positive this won't be the case,
+but there's no harm in going to excluded
+segments and excluding the $97 people.
+That way, they don't get it twice. Okay,
+this number didn't change, so I'm good.
+But we'll leave it there just in case.
+So, this is only going to the $47 list
+and then keeping that the same review
+and then email only to the $47 people.
+Exclude the $97 people. We're going to
+preview it. We're going to test the
+link. Make sure it goes to the $47
+product. Cool. Cool. We're good. And now
+we want to send it at the same time,
+too, because that could change a
+variable. So, we're sending these about
+2 minutes apart. Publish now. Done. All
+right. So, 12:34. Little over an hour,
+guys. I'm sorry. But now, now's when the
+fun part happens. Now, we get to see
+payments come in, hopefully. All right.
+So, it's been a few minutes since I've
+sent these emails. The top one is 47,
+the bottom is 97. I want to open these
+up in separate tabs. Performance.
+Performance. Okay. 11% open rate right
+off the bat. Clickthrough rate 1.5. Not
+bad. 62. Okay. Very similar. Very
+similar. The $97 one I sent at 1231 and
+the $47 one I sent 3 minutes later at
+12:34. And you can see that the
+click-through rate is going up as more
+time elapses. So, if it's 1.6%
+for the $97 one in the first 5 minutes,
+that's looking pretty good. I'm I'm not
+mad about that. And you can see the
+clicks. So about half the clicks are on
+the Stripe link and the other half are
+on the YouTube link, which makes sense.
+And then everything else are on like the
+footers to my social platforms. Boom.
+First sale $97. Thank you, Nata. Who is
+he? Nata P4. You are my first customer
+ever for this business. I thank you. I
+love you. So you can see the time 12:41.
+It took a little over an hour, guys. I'm
+sorry, but from the time I had the idea
+to the time revenue was generated, $97
+in this case, it was under 2 hours. All
+right, now that I know we're profitable,
+we're revenue positive. The National
+Kidney Foundation has $9.7. I'm going to
+go finish my run. I'll be right back and
+we'll see how much revenue we have then.
+All right, guys. I finished my run. 13.1
+miles. I couldn't help but peek at my
+Stripe account a little bit as I ran. I
+wanted to tell you how this is about to
+be a surprise, but I just couldn't do
+it. I had to peek a little bit. So, let
+me share my screen and see what our
+revenue is at. This is about an hour and
+20 minutes after I last recorded. So, we
+go to Stripe. Boom, baby. 1334 generated
+in about an hour and 20 minutes. So,
+call it $1,000 an hour from sending one
+email. The question is, how many were 47
+and how many were 97? So, we got one,
+two, three, four, five, six.
+Okay, six $97 payments. And then I mean
+we've had how many have we had today?
+Okay. 18. No, no, no. 16. $697 payments
+and 16 $47 payments. So roughly
+speaking, we're selling almost three
+times as many for half the price, which
+means the cheaper price is the better
+price because we sent the same price to
+the same number of people. So, if we go
+look over at Beehive right here, this is
+the $47 email. 3.7% click-through rate.
+So, 76 people clicked on the $47 email
+and 62 people clicked on the $97 email.
+Okay. But of the 62, only six purchased.
+So, 10% conversion rate on the landing
+page over here. and then 16 out of 76
+21%.
+So it's like nine verse 21%. So that is
+interesting. [snorts] Now there's two
+different numbers going on here.
+Everyone knew the price before they
+clicked. So I don't want to look at the
+conversion rate on the payment link site
+because that's not accurate. They
+already knew the price. They knew what
+they were getting. I want to look at the
+conversion rate from the email from how
+many unique people opened the email. So
+we've got 16 verse 6. So on the $47
+email we had 2056 okay 256
+in front of me. So the conversion rate
+was8%
+and then 29%.
+So when we double the price our
+conversion rate goes from8 to 29. So if
+these numbers hold, which they might not
+hold people, if people are going to
+spend 97, they might need to take hours
+or days to really think about it. So a
+week from now, if we don't do anything,
+the conversion rates could be about the
+same because it takes a little more time
+to spend a little more money. But I
+think it's going to stay roughly the
+same and we're going to net out ahead if
+we sell it for the cheaper price. But I
+want to do another AB test cuz I'm not
+satisfied. I'm not really happy with how
+long my email was. I really want to if I
+really think the $47 is superior, then I
+want to take the same $47 price point
+and send another email that's much
+shorter that has the price near the top
+and the link near the top much shorter
+story. Maybe I'll have JBT help me
+shorten that. And then I'll send that to
+the same amount of people and see if
+that's successful. Cuz after a few more
+AB tests, I'm going to know exactly what
+people need. And then I'll send the
+right price with the right messaging to
+everyone on my newsletter. But for now,
+I need to go shower and take my oldest
+son to Topgolf because he's been a
+little neglected lately. So, we'll pick
+this back up in a split second for your
+time. Okay, so it's been a few hours.
+You can see I'm wearing new clothes. I
+took a shower. I went on a date with my
+beautiful wife and I'm going to check in
+on Stripe. Okay, so very, very
+surprising here. We've had 35 new
+customers pay today. Of those 35, eight
+were the 97 and 27 were the $47. So, one
+way to look at this is if you look at
+these numbers, I made about 8 cents per
+email subscriber on the $97 plan and I
+made 27 cents per email subscriber on
+the $47 plan. So, it's about three and a
+half times more money, which is crazy.
+So, clearly, and you might be watching
+thinking, well, duh, Chris, people don't
+want to pay more. Cheaper's better. Yes,
+but I'm working with a finite number of
+people on my email list, so it is worth
+testing. And honestly, I'm going to do a
+little more AB testing. I want to try a
+shorter email and I want to try email.
+Maybe that'll be my next test. Maybe
+I'll do $47 again because I know that's
+the winning price. And I'll do an AB
+test to the same amount of people. One
+email will be shorter and one email will
+be shorter and not say the price. I'll
+say it's 67% off. I'll say it's 99%
+cheaper than the value it's that's
+offered, but I won't say the price. So,
+they'll have to click to see the price.
+So, I'll see if that makes a difference.
+And I'll use different Stripe links for
+both. so I can track exactly how they
+each perform. Okay, it's been about a
+week and we've made thousands of
+dollars. Why don't we break down how
+many $47 ones we sold versus how many
+$97 ones we sold. Okay, so we're here in
+Stripe. Okay, we're going to filter for
+$47 transactions that succeeded. There
+were [snorts] 43 of those, which is
+$2,21. Now, we're going to change the
+filter to $97. And there were 22 of
+those, which is $2,134.
+So, we made about 5% more money per
+person on the $97 plan. And what was
+really interesting to see, if you look
+at these dates here, February 5th,
+February 5th, February 5th. So, like
+from February 2nd on, we had 10
+transactions on the $97 one. What was
+interesting about this whole experience
+was that I noticed that with the more
+time that had elapsed, the likelihood
+increased of me getting a $97 sale as
+opposed to a $47 sale. So, the people
+that got the $47 email, they purchased
+it impulsively, right? It was a lower
+dollar amount. They didn't have to
+really think about it or talk to their
+spouse. But for 97 bucks, even though I
+never sent any follow-ups to either
+group, it just took them a day or a week
+or 5 days to think about it to finally
+pull the trigger. Now, there's a
+trade-off here. If I go with a $47
+option, I will have more surface area
+for upsells or for referrals. Like, you
+just have a bigger opportunity to affect
+more people. With the $97 option, I
+don't have as many people to upsell to,
+but I have a more serious audience, an
+audience that's willing to invest in
+creating content. And usually that also
+means an audience that has fewer support
+requests or fewer complaints, fewer
+refund requests. Generally speaking,
+there are some exceptions, better to
+sell a more expensive product. So, I'm
+going to go with 97 bucks. Now, I'm
+going to do another AB test. I know I
+said I wouldn't, but I really want to.
+So, we're going to do this by taking
+this $97 Stripe payment link and
+duplicating it. And it's very important
+that after they submit the payment, they
+will be redirected to the Google Drive
+link where I'm actually hosting all this
+content. Now, if we want to see how many
+people are using each of the payment
+links, we go into the payment link in
+question and then we click payments and
+analytics. And this is what enables us
+to AB test it. cuz with the 97 and 47 it
+was really easy to filter and see. But
+when they're both 97, you got to kind of
+click into the payment link and look at
+the analytics. Okay, so now I have two
+identical $97 options. I want to test
+two different things. Now that I feel
+like I've landed on the right price
+point, I want to test a shorter email on
+both the A and the B version. And then
+on the B version, I want to test not
+dropping the price in the email. I want
+the price to be a surprise once they
+click on the link and get to the Stripe
+page because there's what's called a
+sunk cost fallacy. And what that means
+is that if we've already clicked into
+something, we're more likely to just
+finish what we started even if we
+weren't as likely to buy it without
+clicking. I don't know if that makes
+sense, but let's say you go in a casino,
+you start gambling, you lose a little
+money, and you're like, I can't leave
+now because I've already wasted this
+money. Like, I got to earn it back. Then
+this will have been a total waste.
+That's the sunk cost fallacy, and it's a
+fallacy. Once you invest a little time
+or a little money, you're more likely to
+double and triple down. So, you don't
+feel like that time or money or effort
+expended was a waste. So, that also
+applies to internet marketing. Now, is
+it going to be a big difference? No. But
+if it's something, then it's better than
+nothing. So, I'm back in Dehive and I'm
+going to go to this email that I
+originally sent, the $97 version. I'm
+going to edit it and I just want to
+shrink this email down. Okay, so the A
+version will be the visible price
+version. Okay, so it's the same email
+but about half as long. Okay, there we
+go. Okay, so I am excluding the two
+lists that I emailed this first AB test
+to a week ago. And I'm sending it to
+list A. And let's yolo. Publish now.
+Okay, we're going to duplicate that
+post. We're going to click edit. We're
+going to change this to invisible price.
+We have to change the link, of course.
+All right. So, I'm keeping the verbiage
+about the same, but I'm just I'm hiding
+the price. Put it there. Video that got
+me banned. But man, I can't believe I
+made four grand from that. Just selling
+one of the folders in my Google Drive.
+Okay, let's go ahead and send it. And
+here in a minute, we will revisit what
+the click-through rate was and what the
+purchase rate was on both of these. All
+right, it's been a few days and plans of
+grandeur is up to $8,300 in revenue. And
+almost all of that is profit because
+we're selling a Google Drive folder at
+the end of the day. But I wanted to show
+you my last AB test. I promise this time
+and what I've done with uploading all
+this content into school. And when I say
+I, I mean my partner, Kamal. So,
+everyone wants receipts. So, here is the
+Stripe account. We've had 111
+transactions at about $80 per
+transaction. We've had $8,300 in revenue
+so far. And as promised, I donated 10%
+of that to the National Kidney
+Foundation. So, I sent a Loom video of
+me doing that to everyone that's
+purchased so they can see their money is
+going to a good place. And then I had
+Kimal, my business partner, create this
+school community because it's just it's
+a lot cleaner. It's a lot easier to
+justify $97 purchase if it's in a nice
+clean interface like school. So, we
+basically downloaded all of the Google
+Drive content and uploaded it here uh
+into separate folders. And then you can
+see here the members that have joined so
+far. Basically, I took the 110 people
+that have paid. I sent them all an
+invite link to school a couple hours ago
+and about a quarter of them have already
+joined. And then I just had Claude
+create a logo for me. Not the best thing
+in the world, but who cares. And then I
+made just a simple Loom video. Hey,
+welcome to plans of just showing what it
+looks like. I had Chad GPT generate the
+description and we're good. And we have
+a price point of $97 one time. And now
+I'm going to send my last AB test email
+to try and determine what the ultimate
+email is to invite my whole newsletter
+to this. So the thing I'm going to be AB
+testing on this email is email A, the
+short and sweet version of the email
+like I did last time that links to the
+Stripe page, the payment link, and email
+B will be the exact same email, but it
+will link to the school community. So
+it's going to be interesting to see if
+people trust school or Stripe more.
+Also, the results of my last AB test
+were incredibly interesting. Let me show
+you how that looks. If you remember, in
+one of them, I put the price in the
+email. In the other one, I didn't put
+the price in the email. And the results
+kind of shocked me. If we go here to our
+payment links, you'll see this first one
+was the link I put in the email where I
+did not tell them the price. So, if we
+go to payments and analytics, we got
+$2,200 uh in revenue through this link.
+23 sales. Okay. So, 23 sales from the
+email where they did know the price when
+they were clicking. And then the email
+where they didn't know the price and
+they were clicking, we only got 11
+sales, less than half, which is really
+surprising. And about the same number of
+people clicked on the email. So, the
+conversion rate was less than half.
+Very, very interesting to me. Actually,
+I take that back. 375 views on this one.
+So, the conversion rate is about 3% on
+that one. And on this one, we had 287
+views. So the conversion rate was like
+eight or nine%. Just crazy. So the
+lesson, tell them the price in the
+email. That's what we're going to do
+here. So here in Stripe, you'll see that
+I created two different segments. One
+called POG school plans of grandeur,
+potential customers that will get the
+email with the school link, and then POG
+Stripe, the email subscribers that will
+get the Stripe link. So now we're simply
+going to go to our old announcement
+post. We're going to duplicate the email
+that had the visible price. Edit. And
+we're going to say a POG school. Okay.
+So we got to delete all these links.
+Boom. And then we are going to replace
+them with the school link right there.
+So my ref. Okay. So, I just swapped out
+the links and I kept everything else the
+same because this email actually
+converted super duper well. Now, while
+we wait for that to load, I'm going to
+go to this payment link and I'm going to
+duplicate it. Update product. After
+payment, it will send them there. Create
+link. Okay. So, we're going to exclude
+POG A on the email p. Okay. Okay. So,
+what you're looking at here, these four
+purple rectangles are the segments of
+email subscribers that have already
+emailed about plans of manager pog,
+right? So, I'm excluding them from this
+one just to be sure that no one gets the
+same email twice. Okay, we're going to
+preview it. Click it. Boom. Let's hit
+send on that bad boy. Now, we're going
+to take that email. We're going to
+duplicate it. We're going to snag this
+payment link right here. Copy URL. We're
+going to go back here. Edit. Swapped it
+out with the stripe links. That's it.
+Now, we'll just go here. Pog stripe.
+Boom. All right. Let's see which one
+outperforms. Okay. This will be the
+second to last update. I want to show
+you the results from my last AB test.
+And I'm done AB testing. I am now going
+to announce this to the rest of my email
+list. So, the email with the school link
+brought in 10 sales at $97. And the
+email with the Stripe link brought in 13
+sales. So 30% more, which kind of
+surprised me because school is more
+organized. It just has more legitimacy
+than a random Stripe link. But at the
+same time, Stripe is pretty well trusted
+at this point and school is somewhat
+obscure. Also, there's a lot more
+friction on the school landing page to
+pay. You have to create a school account
+first and I hate friction when it comes
+to trying to sell something, right? So,
+I think that friction is ultimately what
+did me in because I can still
+automatically invite or add them to
+school after they pay on Stripe. I
+already have the automation set up. So,
+for my last email, I'm pretty sure I'm
+just going to send the same email to
+everyone that hasn't already received an
+email about this plans of grandeur, but
+I'm only going to use the Stripe link
+and not the school link. But just to be
+sure, I wanted to ask Claude if that was
+the right decision. So, I showed Claude
+screenshots of the A test and the B
+test. And I told it how many sales I got
+from school and from Stripe. Let's see
+what it says. It says I should pump the
+brakes on declaring Skype the winner,
+but it says what I just said. There's
+less friction. So, I'm going to do it.
+I'm going to go with Stripe. But the
+question is, what have my sales been so
+far before announcing this to my whole
+list? In school, they were $970.
+And in Stripe, I had 126 total payments
+with most of those being at the $97
+price point and the rest at $47 for a
+total revenue count of $10,22. That's
+more than I thought. So, we're almost at
+exactly $11,000 from this launch so far,
+which is basically pure profit because
+this is work I've already done. These
+are pieces of content that I've already
+created that just lived in my Google
+Drive. Not bad. So, now I'm going to go
+in Beehive. I'm going to duplicate the
+Stripe email. Edit it. We'll make a new
+payment link just for this one. Swap out
+the links. So, it looks like about a
+fourth of my list has already received
+these AB test emails. So, theoretically,
+I could expect to earn at least four
+times what I've earned so far. Hopefully
+more because of the fact that I've been
+doing AB test to come up with the best
+email, the best email length, the best
+price point, the best link for people to
+pay on. Okay, here we go. I'll touch
+base in a few hours and tell you what
+the sales are. Okay. Wow. Wow, wow, wow.
+It's only been an hour and 19 minutes
+since I sent the email to the rest of my
+list. And check out this revenue so far.
+Look at all of those $97 transactions
+and the time stamps next to them. Okay,
+so I sent the email at 9:18 a.m. It is
+now 10:38 a.m. And you know, it takes a
+minute or two for everything to go out.
+And 3 minutes after I sent it, I got
+three sales. 4 minutes after I sent it,
+I got four sales. and then five and then
+two and then two. So in the first hour
+and 20 minutes, I've had 125 sales at
+$97 per sale, which is exactly $12,125.
+Add that to the 11,000 that I made over
+these AB tests, and I've made $23,000
+almost in pure profit from launching
+this business. That all started while I
+was out on a run in the middle of the
+cold a few weeks ago. So, I'm trying to
+forecast out how many sales I will get
+in total once everyone has opened this
+email and decided yay or nay on buying
+this. So, I took screenshots of the
+sales velocity, aka the timestamps of
+when everyone's buying, a screenshot of
+my email. I told Claude how many people
+got my AB test email, and then how many
+people got the full launch email today.
+Claude says 40 to 50% of total sales
+happen in the first hour. It's been an
+hour. It says if you're at 82 sales in
+40 minutes, you're probably looking at
+110 to 140 by the end of hour 1, 200 by
+the end of the day. Long tail total
+estimate 250 to 300 sales over the next
+5 days. That's 24 to 29,000 gross from
+one email. Gross, but really it's net.
+My only costs are the Stripe 3%
+transaction fees. So then about 40
+minutes after that prompt right now, I
+just prompted it again and said, "Hey,
+here's a new screenshot. It's been 40
+minutes. I'm up to 125 sales now. What
+do you think? And it says 22 to 26,000
+from this email. But I'll do a follow-up
+email in a few days. That should bring
+in some more stragglers. And then I'll
+just work this into my email flow, my
+automations. I'll raise the price as
+promised. And I think this could bring
+in a few thousand per month pretty
+passively. Better yet, the National
+Kidney Foundation is going to be getting
+thousands, if not tens of thousands of
+dollars from sending just a few emails.
+So, including my AB test emails, I
+generated between 30 and $40,000 of net
+profit all throughout the course of this
+video. I showed you how to do
+everything. And before you write this
+off and say, "Oh, this is easy for him.
+He has a big email list." No, stop.
+There's a lot of power in small email
+lists because you can connect so much
+more closely with your audience.
+Whereas, the bigger your list grows, the
+less you're able to connect with your
+audience, the less relevant you are to
+them. I don't know if you saw this video
+with the founder of Beehive, but he
+makes $500,000 a year from a list much
+smaller than mine, and he only sends one
+email per week. Even if you only had
+2,000 email subscribers, you can make
+tens of thousands of dollars plus a
+year. Events and high ticket courses are
+the key. And yeah, high ticket courses
+have a bad rap. A lot of that for good
+reason. But think of it this way. They
+only have a bad rap because so many of
+them don't match the value that the
+salesperson promises. So, if you're
+confident in the value you're offering,
+then own it. Own your course because
+you're helping people. And if they buy a
+course from you, they're going to be
+more likely to do the thing, to be
+successful because they consumed your
+content and did the thing. So, stand
+behind your content with pride. And of
+course, if you want to join Plans of
+Granger, I've got the link below in the
+pin comment or the description. If you
+know anyone that might want to start
+doing content either for themselves or
+for their business, faceless or with
+their face, AI generated or not, please
+share this with them and we will see you
+next time on the Kerner us.

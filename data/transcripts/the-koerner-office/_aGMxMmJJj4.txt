@@ -1,0 +1,553 @@
+Okay, so this email slides into my inbox
+and this guy says, "Hey, I think your
+followers need to know about this. What
+I do is I build free websites for people
+and then I ask them, 'Hey, I built a
+website for you. Do you want to see
+it?'" They usually say yes. I show it to
+them. Then I say, "Hey, if you want this
+website, pay me 75 bucks a month."
+What's his monthly cost to maintain it?
+Almost zero. What's his upfront cost and
+time to build it? Almost zero. So then,
+he gets dozens and hundreds of business
+owners to pay him 50 to 100 bucks a
+month for their website. He's making
+tens of thousands a month and in
+addition, he's got his foot in the door
+to upsell them on more expensive things.
+And the magical thing is that with each
+new client he adds, his costs go up by
+$0 a month. So I said, "Tyler, show me
+exactly what you're doing, how you're
+doing it, how you find customers cuz I
+I'm going to record my screen and show
+my followers the exact same thing.
+You're going to love this. And I'm going
+to go ahead and find some customers
+while I'm filming this video. No
+audience plants, it's not my mom, it's
+not a second phone. I'm going to use my
+actual iPhone to text local business
+owners here in the Dalles, Fort Worth
+area and say, "Hey, I built you a free
+website." Show it to them and then offer
+them the privilege of getting charged by
+me to use the website. Let's go.
+Okay, first of all, the platform that
+all this happens in is GoHighLevel,
+okay? I'm going to log in right here.
+You can use it for 30 days for free only
+with my link right down below. Everyone
+else's link is 14 days free. With mine,
+it's 30. Cool. Then you're going to
+click this big yellow button, enable
+free AI. They'll give you 30 days to use
+all of their AI tools for free and after
+that, I think it's like 50 bucks a month
+or something. So we're going to click
+that. We're going to enable it. Boom.
+Then we're going to go to this tab over
+here, Ask AI. So you're familiar with
+Claude, Grok, ChatGPT, maybe Replit,
+lovable five coding tools and AI tools.
+That's basically what this is. But the
+magic of this is that it's fully
+integrated with your CRM, customer
+relationship management software, okay?
+Or your customer CRMs. That's what
+GoHighLevel does. It's A, like a CRM for
+your business, or B, a platform where
+you can resell hundreds of different
+software tools without knowing how to
+build software yourself. It's magical.
+Okay, so what we're going to ask it to
+do right here is to build a home service
+website for us. But we want to prompt it
+just right, and Claude, or ChatGPT,
+either one, are amazing at generating
+prompts that can generate even better
+prompts for other tools like GoHighLevel
+in this case. So, I'm going to give you
+this prompt for free. I don't need your
+email address. In the description below,
+you can copy paste it, swap out your
+location, swap out your service, and
+you're good to go. Or you can just
+generate your own and and make it custom
+to you. Okay, here's my prompt to
+Claude. You can use Grok, whatever you
+want. I'm going to use GoHighLevel's new
+vibe coding tool to make a home service
+website, but I need a really good prompt
+for it that knows how to talk to GHL.
+It'll be a handyman website based in
+Dallas, Texas. I'm going to use Opus
+4.8, and let's see. Okay, look at this.
+It tells HighLevel to integrate
+everything to the CRM, calendar,
+workflows, everything. SEO, meta
+descriptions, design, name your suburbs.
+This is really, really good. I never
+would have thought to mention all this
+stuff. And it even gives me a couple
+tips. Drop in a reference URL. Okay,
+very cool. Name your suburbs. Okay, so I
+found this random handyman website just
+by Googling handyman website. This is
+going to be my reference, so Claude
+knows what to work with. And then, I'm
+going to include suburbs. So, I told
+Claude, "Hey, smithhandymanservice.com
+is my reference website. Work that into
+the prompt, as well as all the DFW
+suburbs of over 50K people. List them
+all out for GHL to include. Make sure
+it's all SEO and AEO friendly, AI SEO."
+Oh, and you're going to love my text
+message hack
+to make sure that you get noticed, cuz
+we all get so much text message spam
+nowadays. It's hard to stand out. You're
+going to love it. And here's the
+beautiful thing about creating this
+handyman website. How many handyman are
+there in America? Over 100,000. You can
+copy and paste this website for every
+single one of them. Swap out the name of
+the business and the location and you
+are good to go. Okay.
+Done. Two prompts and I have my master
+prompt for GoHighLevel. We're going to
+switch back over here. Ask AI. Boom,
+there it is. That's it. Now, let's see.
+You can see it cooking here on the
+right. Now, first of all, why did I
+choose handyman? Of all the businesses
+out there, okay? Let me show you my data
+points. First of all, how many handymen
+are there in the US? 150,000. That's a
+lot. Cool. Now, what does Google Trends
+say? How many people are searching for
+handyman near me and is that growing or
+shrinking over time? Boom. Handyman near
+me. It grew and then it peaked uh in
+2021 when money printing was going crazy
+and everyone was remodeling their houses
+and then it dropped, bottomed out in
+late 2024, but it was still higher than
+it was in 2019 and now it is climbing
+back up again. So, what does that mean?
+It means that the handymen out there are
+probably busier than they ever have
+been, except for, of course, you know,
+mid-2021 as we see here,
+which means they're busy, which means
+they're doing well, which means they
+have money, they have a budget, they
+have time to finally check the box of
+either A, getting a website. You'd be
+surprised how many handymen don't even
+have a website. And B, getting a better
+website cuz if they have one, it
+probably sucks. So, perfect timing.
+That's why I chose handyman, but the
+biggest reason of all is that of all the
+thousands of home service niches out
+there, handymen are probably one of the
+most likely to have the owner's personal
+cell phone number listed right there on
+Google Maps for the whole world to see.
+We call a dentist, no chance. Maybe 5%
+chance. We're going to have to go
+through their receptionist or whoever.
+Lawyer, 50/50. Real estate, probably
+cell phone number, but they get hit up a
+lot. And then you get someone like a
+landscaping business,
+well, some of those are really big, some
+are small, 50/50 as well. But most
+handyman businesses are solo operators
+and we're going to get their cell phone
+number, aka the decision maker, but it's
+still a business that has a budget
+presumably for $50 to $75 a month for a
+simple website. And before you go and
+think, "Oh, I need to find people that
+don't have a website cuz they're the
+ones more likely to buy." No, you need
+to find people that have a website cuz
+they realize the value of a website.
+You're going to have a much harder time
+convincing someone without a website
+that it's valuable. They're already set
+in their ways. All right, let's check in
+on GoHighLevel. It's building the
+homepage. It's got the HTML written.
+Now, please note, I am not logged into
+my sub account right now. That is a noob
+mistake. That's how GoHighLevel works.
+You've got a master account and then a
+sub account. So, if I wanted to start a
+business just like this, and I want a
+bunch of sub accounts under me, then
+this customer would be one sub account.
+And for one of GoHighLevel's higher
+pricing tiers, you can have unlimited
+sub accounts under you, which is why I
+said that for every customer you add,
+you're able to only charge 50 bucks a
+month because it's virtually pure
+profit. There's no marginal cost
+increase for every sub account, aka
+customer, that you add. Okay? You can
+see that it's working on adding all 27
+DFW cities to the service areas page.
+Okay, boom. Everything's done. It just
+is telling me to switch into my sub
+account, so it can fully integrate
+everything. So, I'm going to go ahead
+and do that. I'm going to go here, click
+switch, go back to Ask AI. Okay? So,
+we've got like a dynamic thing going on,
+and it shows a checklist of everything
+it's going to build as it builds it.
+Looks like it's done. Okay, now I need
+some inspiration. What am I going to
+even call the name of this that
+represents this website?
+So, we're just going to go Google Maps
+Dallas, Texas handyman. I see
+Hank's Handyman Service. 1,500 reviews.
+That's probably too many for a single
+operator. That's probably a bigger
+business.
+So, what I want to do is I want to go
+find something a little more rural.
+Less likely to be a big business out in
+Farmersville. So, Farmersville have
+like, I don't know, 20, 40,000 people,
+not too far from me. There's basically
+no one out there. So, we'll look at
+Princeton. Handyman Castillo's Handyman.
+Okay, six reviews, phone number right
+there. I'm going to go to this random
+website called Phone Validator. You can
+see if a phone is cell phone or
+landline. We're going to put that in
+there.
+And we're not going to talk about
+scraping or mass texting or doing stuff
+at scale. Number one, there's a lot of
+regulations around that stuff, so we
+want to do this the old-fashioned way so
+we don't get in hot water. Number two,
+there's friction there. There's a learn
+a learning curve there, even if it's a
+little. We just want to use our our our
+iPhone or, heaven forbid, Android to
+text people the old-fashioned way. Okay.
+Mobile phone, cell phone, cool. This is
+perfect. We're going to call it
+Castillo's Handyman. So, what am I
+saying? It's called Castillo's Handyman
+in Princeton, Texas. Use whatever
+booking schedule seems appropriate.
+Build it in HighLevel, please. Fully
+integrate it into this sub account.
+Boom. Okay, boom. Yes. Build it.
+Amazing. Okay, and boom, there it is.
+There's what the website actually looks
+like. I'll show you the real dynamic
+version here in a second. There's what
+the mobile version looks like. And side
+note, I'm an idiot. I clicked the wrong
+tab to build this thing in, but no fear.
+I'm going to click copy right here on
+the actual HTML. I'm going to go here,
+AI Studio. It should look pretty
+colorful, right? I don't know how else
+to describe it. I gave it all the code
+and said, "Here it is.
+Here's the website. Show it to me." What
+I've been using this whole time is
+basically like a ChatGPT, a chatbot, not
+a vibe coding tool. This is the actual
+vibe coding tool. So, listen, if I screw
+up in real time, I'm going to leave it
+in. We're not going to edit that crap
+out. I'm human, whatever. Thankfully,
+GoHighLevel made it easy and I can just
+copy and paste my HTML into the vibe
+coding tool. So, while we wait for this
+to rebuild, let's text Mr. Castillo and
+a few other handymen as well because
+we'd be pretty naive to think that we're
+just going to text one person and get a
+paying customer. But hey, maybe we'll
+get lucky today. Okay.
+Castillo's Handyman, I'm going to copy
+his number. Oh, look at this. It's
+already done. Wow, that only took like a
+minute or two. There's the actual
+website, okay?
+>> [laughter and gasps]
+>> I hope you saw this in time. Do it in
+the AI studio, okay? Not in the chatbot.
+There it is. Boom. Beautiful. And how do
+I connect it to my GoHighLevel account?
+I click a purple button and it connects
+with my calendar. Beautiful. And
+remember, this was my inspiration site,
+Smith Handyman Service. How accurate did
+we get? Uh, close enough. Cool. All
+right, let's text Mr. Castillo. I'm just
+going to send him this screenshot right
+here. Paste his number. This is my
+personal cell phone. Now, I was going to
+see if he had a website, but he doesn't
+even have a website. No, look, he just
+has a picture of his business card,
+which is fine. It's working. But this
+city right here, Princeton, look it up.
+It's like either the fastest growing or
+one of the in the top three fastest
+growing cities in the country. This is
+going about to be really competitive for
+Mr. Castillo. He's going to need a
+website. Okay, everything's integrated
+over here. I'm going to say, not trying
+to pat my own back, but this is a
+masterclass in text messaging, okay?
+Screenshot to prove that I actually did
+what I said I did because I get DMs
+every single day from these guys saying,
+"Chris, I made a video about how you can
+improve your social presence. Can I send
+it to you?" And then if I say yes, which
+I never would, then they go ahead and
+make it. It's fine. Don't hate the game.
+It's cool. I get it. We're all out there
+hustling. But I know I know they hadn't
+already made me a video, right? It's a
+lie. So, I don't want to lie to them.
+I'm going to send them a screenshot of
+what I actually did so he can know that
+I stand out. My name is first name last
+name. I want him to know that. I'm a
+real person. I'm not from some call
+center overseas. I'm not AI. I live 20
+minutes from you. That is the most
+critical sentence of this entire
+message. I am nearby. I am a real
+person. Then I said, "I can't believe
+you have a business in the nation's
+fastest growing city and you don't have
+a website. I built one for you just now.
+Can I send you the link?"
+Okay. Now, really, I just built a
+website for any handyman. I just need to
+swap out the name and that'll take a
+fraction of a second. Swap all about the
+name and the city, that's fine. And the
+number once we have it. So, I'm just
+going to go back to here. Hey, this guy
+does have a website. Jim's Honey Do
+Heroes. I'm just going to assume it's a
+mobile phone. I might be wrong, but I'm
+going to assume. Okay, go here, paste it
+in. I'm going to assume his name is Jim.
+Now, he already does have a website, so
+I have to change my pitch up. Hello Jim,
+my name is Chris Kerner. I live about 20
+minutes from you. I can't believe you
+have a business in the nation's fastest
+growing city and you don't have a very
+good website. No offense. Now, I'm kind
+of on the fence about that one cuz I'm
+offending him, but we'll see. I test
+everything except drugs, that's what I
+like to say. So, this is just a test. I
+just built one for you. Mind if I send
+the link? Okay, go over here. Now, I'm
+going to send him a screenshot, but I'm
+not going to include Mr. or Castillo's
+Handyman in it. I'm just going to
+include that.
+Okay, boom. Let's do it again. Okay,
+that's a welder. He just has a Facebook
+page and a phone number.
+So, I'm going to redo the pitch about
+not having a website and I'm going to
+include this picture. I'm going to take
+this one a step further and I should
+have done this on the other text. I'm
+going to put the name of the city I live
+in. It's fairly small and they'll know
+what it is. So, it just adds a little
+more legitimacy to my pitch.
+All right, TB Home Improvement. Let's
+look at his website. All right, not
+terrible. Actually, that website's
+pretty good, which means he probably
+values a good website, so he's worth
+texting. I would not be surprised if
+that is a landline cuz he has a lot of
+reviews. So, he seems a little more
+established. Oh, cell phone, cool.
+All right, I'm actually shocked there
+aren't more handyman out here. Diego's
+Home Repairs. Oh, website doesn't work.
+Call by name.
+Tedious? Yes, but I'd rather do
+something tedious than not own my own
+business and this is what it takes. No
+website. Look, it is shocking how many
+business owners don't have a website.
+And We've had internet for what,
+freaking 40 years, 30? Now, I'm going to
+test not sending the screenshot because
+there's a chance that that screenshot is
+sending my message to spam and I want to
+avoid that. Now, this right here is a
+GoHighLevel website. This guy probably
+does not need my help. Now, still could
+be worth texting, but if I'm doing this
+manually one by one, then I'm not going
+to take the time to text him. Steer
+contractor, okay. Now, what do they say?
+The harder way is the better way. If I
+want to be even more effective, then I'm
+going to go do this in person. I'm going
+to go to a retail store. I'm going to go
+to the addresses listed on these
+businesses, even though most of them
+list their own home address. I would go
+to their home and knock their door and
+literally show them an iPad or a laptop
+and say, "I built this website for you.
+Do you want to buy it from me?" Or,
+again, remember, we can give these away
+for free. Free hosting, free support,
+everything for free, just to get our
+foot in the door and to earn their trust
+as an AI expert, an internet expert,
+someone who knows what they're doing.
+And someone who bought some goodwill on
+the front end by giving them a free
+website, free for life. I know people
+that are doing that as well,
+successfully. It's just a different
+model. Remember, if you sell them
+something up front, it's easier to
+upsell them because they've already
+given you their credit card number. You
+already broke that trust barrier. So,
+free is good. Free is easier than paid,
+but it's going to be harder to upsell
+them. So, it's easier to get your foot
+in the door, but it's harder to move in
+permanently. Okay. Now, why do I love
+this business model? Well, this is the
+Costco approach, okay? You start with a
+free sample and the chance of getting a
+yes or a close is so, so much higher,
+right? This website is the free sample.
+And but I do feel strongly that you need
+to charge for it. It's not actually
+free, but it's close to free cuz if you
+can get them to pay for a little bit,
+something, a free website, then it's
+much, much, much easier to get them to
+pay for something that costs 10 to 100
+times more than that, okay? Build the
+site in 5 to 15 minutes using
+GoHighLevel AI Labs, copy and paste it,
+right? It'd be really nice if you could
+only do this for handyman. That way,
+instead of spending 15 minutes each
+time, you could spend 5 minutes each
+time. Either way, it doesn't really
+matter. Try to acquire whatever customer
+you can. It's just kind of nice to stay
+in the same lane. Then you show up in
+person. Deliver it in person. It makes
+the close so much easier. And then show
+it to them. Bring a little laptop with
+you. Hey, I built this website for you.
+It's literally done. I did it for you
+right now. I want to give it to you for
+a fee. If you don't want it, no harm, no
+foul. I'll, you know, give it to someone
+else. I'll sell it to someone else. But,
+in general, potential customers are not
+creative. They have a hard time
+imagining what you're trying to sell
+them. So, this is removing that need for
+creativity or that friction for them in
+real time. You're showing them what
+you've literally already built. And they
+don't know about HighLevel or
+Vibecoding. They don't know what any of
+that means. They're assuming you put
+much more work into this website than
+you actually did, which is fine. Let
+them assume that. Here's what you should
+charge for something like this, okay?
+You can do a $400 setup fee with 50
+bucks a month and work around with these
+numbers however you want. It doesn't
+need to be 400 up front. It could be
+100, 500, whatever you want. But, they
+don't get any monthly edits. They don't
+get a custom domain, okay? So, you're
+pushing them towards the middle plan.
+You're anchoring them with that huge
+$400 setup fee. And then you're saying,
+"For only 75 a month, you don't have any
+setup fee, and you get a custom domain,
+and I'll host it for you, okay? It's
+included. And it costs you nothing,
+literally nothing, to host it because
+you pay one flat fee to go HighLevel
+every month." And then the premium
+option, yada yada yada. Few people will
+choose this, but that's fine. You're
+trying to get them to choose the $75
+option anyway. And then you've got your
+foot in the door, okay? This will cover
+your overhead. This will cover your
+costs. This, in and of itself, the 75
+bucks a month, could be a big business,
+right? 100 customers is $7,500 a month,
+almost $100,000 a year, almost pure
+profit, right? But, you're going to be
+able to convert a double-digit
+percentage of these people to buy an AI
+voice receptionist, or do paid ads, or
+content creation, or content posting, a
+booking system, lead generation,
+customer service. All of these things
+you can automate with GoHighLevel. Email
+marketing, like converting old stale
+email addresses to new jobs, new
+bookings, new leads, etc. There are
+hundreds of ways and I cover a lot of
+them in my GoHighLevel playlist, which I
+link in the description below. But, this
+is where the real real money will be
+made is on the upsell packages. So, I
+wish I got a response or a sale by the
+time I had to finish this video, but it
+is almost dinner time and I'm going to
+go eat. So, thanks for hanging out on
+the Corner Office. Please use my
+GoHighLevel affiliate link. You will get
+30 days free instead of 14. I get a
+little kickback. You don't have to pay
+anything extra. It's a great win-win. We
+use GoHighLevel across almost all of my
+businesses every day. Me and my entire
+team are truly believe in it. It's a
+great piece of software. Thanks for
+hanging out on the Corner Office.

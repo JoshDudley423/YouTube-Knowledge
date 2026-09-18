@@ -1,0 +1,389 @@
+All right, I am starting a business
+called Secret Pickle Ball. But before I
+open, I need a good-looking website, and
+I don't have one yet. So, I'm going to
+use an AI website builder to build this
+website for me top to bottom. Because
+the hope is I can save $3 to $5,000 by
+not having to pay a fancy website
+designer, and I can have AI do it all
+for me. And if I learn that it does work
+well and that the design is actually
+good and not generic, you can copy and
+use these same skills to start your own
+web design agency or to build your own
+website for your own business. But I'm
+pretty picky. I want good design. I want
+cool hover effects. I want it to be
+responsive. And I need this website to
+keep players engaged and to make me
+money. So, without further ado, let's
+get started.
+So, I keep hearing about this website
+builder called Ouijic. We gic.ai. I
+played around with it a little bit. I
+like what I see. But what you're about
+to see has never been built before. I
+don't know what this website's going to
+look like. So, anytime I use a new AI
+tool, I want to see what prompts it
+prompts me to use. That's not something
+that we think to do, but often times
+these companies know exactly how to
+massage the model in just a way that
+will help us get the best result out of
+it. So, I spent a little time doing
+that, and this is what I came up with.
+All right, build a pickleball club
+website called Secret Pickleball Club. I
+need a court booking system, a
+leaderboard so people can compete with
+their scores, and a merch section so I
+can upsell. That's it. If this works, I
+save five grand. If this doesn't work,
+I'm back to paying overpriced
+developers. All right. What is my
+primary goal of the website? I don't
+really want a communitydriven platform,
+so I'll leave that box unchecked. I'm
+looking for all three, beginners,
+competitive players, and casual players.
+And I'd prefer to upsell my members
+merch. I'm not trying to sell merch to
+people that are not members. I need a
+court booking system. I need payment
+processing integrated. And I need a
+merch store.
+Okay, it's got a structure ready for me.
+Let's start generating. Okay, while that
+website generates, let's look at
+Ouijic's commonly used prompts so we can
+kind of build our skills while we can't
+do anything else anyway. Okay, so this
+page is teaching me how I can create
+animation effects, hover effects,
+etc. This is giving me ideas that I
+wouldn't even have thought of using. All
+right, it has been two and a half
+minutes since I prompted it. Let's see
+what we got. All right, welcome to the
+pickle ball club. Explore, court
+booking, leaderboard, and more fun. All
+right, I like it. I like it. We've got
+an animation right here. I like the
+gradient texturing right here. View
+rankings. Join the club. Oh, I like this
+as well. This actually looks legit. A
+lot better than most club websites that
+I've seen. It kind of blows my mind that
+we have a full club management software
+hosted on a website all from a couple
+prompts. Let's see how much control I
+have over the design. Let's try to add
+that hover effect because I haven't
+asked it to do that yet. Okay, we'll
+exit the preview. We've got the box here
+on the right and I'm going to say
+unhover. Apply a subtle rotation and
+scale up animation to the product image.
+Animate the bottom text to slide upward
+and transform into a centered square
+menu overlay with high contrast,
+ensuring readability while maintaining
+the images visibility. Use smooth easing
+and slight delay for a refined effect.
+Just reducing the characters a little
+bit. Okay. Okay, it gave me three
+options for the hover effect, floating
+spotlight effect, seamless pop-up menu
+effect, an illuminated hover menu
+effect. I think this is more what I was
+asking for
+of the header text to say, "Welcome to
+Secret Pickleball" instead of welcome to
+the Pickle Ball Club. So, I'm going to
+throw two things at it at the same time.
+I know that other tools kind of break
+when you ask too much of it. Okay. Well,
+it changed the header sentence to
+welcome to Secret Pickleball, and it's
+asking me for more clarification on the
+hover style. I'm going to choose the
+first one.
+Okay, cool. Look at this hover effect.
+Boom. It's funny cuz you might be
+watching this and thinking, "That's
+dumb." Like, why spend time prompting
+that? But I like to call these the
+moments between the moments. It's the
+little things, the little touches on a
+website that really help you stand out
+from everyone else. So, we got a merch
+shop, club activities, homepage. This is
+a good-look website. I love it. Now, I
+know that about twothirds of website
+visitors are looking at that website on
+a mobile device. So, I want to see if we
+has like an automatic optimization
+feature. In other words, can it
+dynamically adjust the look and feel of
+the website when I'm looking at it on a
+mobile device or on a desktop device?
+So, we'll try this.
+Looking good. Looking good. It's still
+dynamic. Still moving around. Still has
+the scrolling feature. Beautiful. Let's
+build a non-pickball website real quick
+and see if we could sell something like
+this to a business owner. We'll hit
+publish.
+Cool. Done. There it is. Secret
+pickable. Of course, there's more I need
+to do before I really go live with it. I
+got to put my contact info in there and
+all that, but for now, I just wanted an
+MVP, a minimum viable product, something
+to put myself out there to the world.
+All right. Now, most of you watching
+this don't yet have a business. You
+don't need a website for your current
+business. You would like to make and
+sell websites to other businesses. Well,
+what's a big market that I understand?
+Well, pizza. I love pizza. I used to
+work for a pizza business and there are
+76,000
+pizza shops in the great United States
+of America. So, I want to make a pizza
+website and I want it to have payments
+enabled so that they don't have to go
+through Door Dash. They can make more of
+their own money. They can keep more of
+their own money by selling and
+delivering pizza directly. So, let's
+call it secret pizza. Why not? All
+right. I'm asking a lot of Ouijic in
+this. Build me a website for a pizza
+restaurant called Secret Pizza that's in
+Dallas, Texas. It needs to have payments
+integrated so people can pay for and
+order food. It needs to have a clean
+menu on the homepage. You can fill in
+the menu with placeholder text. It
+should have a delicious picture of a
+slice of pepperoni being pulled away
+from the whole pie with a great looking
+cheese pull and show a picture of the
+husband and wife founder on the
+homepage. Also highlight some fake
+fivestar reviews that I can swap with
+real ones. And the response was, "Let's
+nail this pizza perfection. What's the
+main goal?" To establish local
+credibility. So, yes, we want people to
+be able to order, but really we just
+want potential customers to see the
+founders to see that they're local to
+Dallas, to see that they're loved by
+others with their fivestar reviews. I
+love that it's asking me about target
+audience. 25 to 55
+25 to 55year-old parents. What core
+functionalities do you want to emphasize
+for Secret Pizza? I said payments, about
+us, fivestar reviews, and menu, and
+great high-res images. Check all four
+boxes. Send to Kimmy. It's 8:04 right
+now. Let's see how long it takes.
+Okay, let's start generating now. What
+industry should you pick to build
+websites for? Well, it should be the one
+that you love and understand the most.
+That is the ven diagram overlap.
+Something that you understand. Maybe
+you've worked in it. Maybe you worked
+around it and you enjoy it. It's
+scalable. You can follow your passion
+and your profit at the same time. You
+don't have to choose one or the other.
+All right. Hey, look at that. 8:05. You
+can see my watch for yourself. It took 1
+minute to create this website. We've got
+a delicious cheese pole. That was a very
+specific prompt. I mean, look at that.
+Look at the You can see the lighting on
+the pepperoni. You can see the pepperoni
+cupping. It's curling up. You can see
+grease inside the cups. Dallas's
+favorite slice. Margarita, pepperoni,
+barbecue chicken. Order online. Meet the
+founders. The heart of secret pizza.
+Look at that. Jane Doe. John Doe. That
+is really, really cool.
+Now it says spot fake reviews because I
+I asked for fake reviews. It Yeah, that
+was kind of my fault, but I could fix
+that with one prompt. That is a
+beautiful, beautiful looking website. If
+you click on contact us, look at that.
+Responsive, animated. All right, so I
+love how it gave me like a little menu
+here where I can have people order from,
+but it doesn't look like Stripe is
+integrated quite just yet. So, let's go
+ahead and fix that. So, how to even fix
+that when I don't know how to fix that?
+I'm just going to ask AI what to do.
+Okay, so I'm going to click on one of
+the four buttons and I'm going to say
+change the four order now buttons to
+four payment buttons keeping the
+original color. Let's see what that
+comes out with. Okay, awesome. So, it's
+done. Let's go ahead into preview mode
+and see if these order now buttons
+actually work. Boom. Look at that. Boom.
+Works.
+Works and works. Now, what if I want to
+change the price? Let's exit preview and
+let's go into here. Click it.
+Click the button. Click that. And we can
+edit the price right there. Awesome.
+Okay, let's dig into this contact form a
+little bit more. I'd like to customize
+it. We're going to click the edit
+button. Do I need their email for pizza?
+No, I'm going to delete that. I do want
+their phone number. Preferred pizza
+type? Yep. Pickup or delivery? Yep. Uh,
+don't want that. Additional notes or
+special requests? Yes, I like that.
+Confirm. Cool. Okay, we've got the
+contact us form, but the real question
+is how well does it work? So, I am now
+in the preview. I'm going to click on
+let's talk and let's stress test it a
+little bit,
+Chris. So, it's like a chatbot. 555
+5555.
+It didn't ask for my email because I
+removed that.
+I like meat lovers.
+Delivery.
+Gluten-free only.
+All right. It's impressive that I didn't
+trip it up there because I didn't
+pre-program it to know what to do with a
+gluten-free request. Awesome. Okay. Now,
+we're going to exit the preview. We want
+to see where that lead went. There's our
+inbox. Boom. There it is. Gluten-free
+only. work like a charm. Not sure if
+you're noticing all these outfit
+changes, but I've been a little under
+the weather lately, and I've had to keep
+coming back to this video to finish it.
+All right, I want to speak for a moment
+about how to go from zero to one with a
+tool like Ouijic. Whether you're
+building a website for yourself or as an
+agency owner for another business, you
+got to start with an industry you
+understand. Maybe it's an industry
+you've worked in before that you're a
+fan of or one that you want to work in.
+The one that you understand is the one
+that you want to pick because it's the
+one where you will have an unfair
+competitive advantage. And don't be
+married to just one industry. Be willing
+to try several because there may be one
+that you know more but you like less and
+vice versa. So keep your options open to
+start. As you start digging into these
+industries, you want to learn what their
+booking management headaches are. Maybe
+it's a pizza restaurant where they can't
+know through their current system if
+their customers want pickup or delivery
+and it's a manual process and they have
+to call. Maybe that's a headache that
+can be solved because if it's a problem
+for one pizza shop, it's probably a
+problem for others. And remember, a lot
+of business owners don't know outright
+what their problems are. So, I wish I
+could tell you could just say, "Hey,
+what problems are you dealing with?" And
+I'll help you fix them. You got to find
+a workaround to get to that point. You
+just start by asking them generalized
+questions about their business and then
+start digging in the wh questions. What?
+Why? How? When? Okay. Well, who does
+that? Okay. When it comes in, who takes
+the lead? Where do they put the lead? At
+that point, you're going to start
+hearing things like, "Oh, that's a good
+point. Well, then Mary gets it, but
+oftentimes she calls in sick, yada."
+Then you hear these problems. Don't make
+the mistake of assuming that their
+problems are top of mind because they're
+usually not. Once you identify the
+problems, use Ouijic to solve these
+problems in multiple different ways. If
+they don't like the first website you
+build, four more prompts gets you four
+new websites. Whereas before you had to
+spend four more hours building one to
+two more websites. Remember, we're
+charging for the value that we create,
+not for the amount of time that we
+spend. So, be bold with your pricing. If
+another website design agency is
+charging $3,000 and they're doing it
+inefficiently by hand, just because
+you're doing it more efficiently doesn't
+mean you should charge less. Maybe your
+speed to fulfillment is your competitive
+advantage. Maybe the customer is willing
+to pay more because you can deliver a
+website to them faster. You'll never
+know until you try. With tools like
+Weedic, you can build in minutes, not
+months. You don't need any technical
+skills at all. You just need to learn
+how to speak, how to type any word. You
+can still charge thousands of dollars
+per client. All right. Now, I want to
+play around real quickly with some of
+these little popups that appear. Connect
+and refresh content. That's cool. So if
+I embed some external content here, I
+can put the link in and the little
+assistant called Tur will autoupdate the
+content. So maybe I have a blog from
+another website that I'm adding to or a
+news feed or a Twitter feed, etc. With
+this button here, I can use five credits
+to regenerate this whole section.
+Redesign this whole section. Beautiful.
+Check the box. I can use this to drag
+sections around, reorder them. I'll move
+that one up. Cool. Batch adjust. I can
+add different filters or resizing to
+multiple images at the same time with
+that. Also, quick update. Ouijic 2.0
+just came out and it is incredible. So,
+go ahead and try that out when you get a
+chance. I'm pretty sure I just became a
+Wee user for life. You can build
+websites in minutes or in minute in this
+case. You can charge thousands of
+dollars per client. You don't need any
+technical knowledge. And also, I will
+say that we works the very best on
+desktop. So, go ahead and start with
+that and know that your first website is
+free. So head on over to ouijick.ai,

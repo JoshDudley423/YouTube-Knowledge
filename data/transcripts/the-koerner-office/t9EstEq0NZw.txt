@@ -1,0 +1,1737 @@
+so I've got a sort of a specific
+tactical question related to a B2B
+service and um very briefly the
+situation is that I work with um online
+typically online publishing companies so
+companies that publish magazines and
+such uh a lot of it's like specific
+trade Publications so print but also
+online
+and um deals are closed on the
+phone the work is performed uh performed
+virtually so to speak and so my highly
+specific question here is what do you
+recommend if anything for invoicing and
+collecting payments really to make it
+easy for the customer and for
+me is it recurring at all or is it
+onetime invoicing it can be
+um no okay yes I was going to answer too
+quickly not typically recurring um there
+can be repeat customers uh but but
+generally would be a one time once once
+at a time who do you use as your payment
+processor for like credit card
+payments well I haven't uh I haven't
+done it that way yet I've so I've I've
+uh I've done this in a very manual old
+fashion way because I I haven't jumped
+to anything so I've um you know I've
+accepted like I've provided Bank
+information for people to send me
+payments but I'm looking to expand to
+use a processor too okay so if I were
+you I would do one of two things so you
+can use stripe for your payment
+processing which is great because it has
+all the recurring you know features that
+you need but it's expensive um so if you
+want the simple way but a little more
+expensive then you stripe if you want
+something that's a little more headache
+and setup on the front end but is
+cheaper then then I would use
+authorized.net with something like I
+think it's
+honeybook um so it's not just going to
+be authorized on that you're going to
+need a payment processor as well I don't
+I don't remember the name of the site
+but there's a couple sites out there
+that will shop around for you uh what
+what you want is interchange Plus
+pricing um so stripe and Shopify and all
+the big guys they don't like that
+because interchange Plus means you
+basically don't pay anything for debit
+cards maybe a tenth of a percent uh but
+you will pay two to three plus percent
+for AMX but most people use non AMX or
+debit cards and so strip makes a ton of
+money um when people pay you with a
+debit card and then they make just a
+little bit when they use AMX or credit
+card um so I would definitely suggest
+using authorized.net which is like the
+Gateway for your processor and then
+finding a processor that will do
+interchange Plus pricing and shoot for a
+quarter of a percent or less interchange
+Plus just means like cost like the
+non-negotiable cost that they can't even
+get down plus a a fraction of a percent
+for their gross profit okay that makes
+sense and um just to to clarify one
+thing I don't know if this would change
+your answer I did include this
+information in what I sent to Heath so
+you may have already factored it in but
+I um I'm not taking orders on a
+website so very old-fashioned way of
+doing business I understand but does
+that change your answer at all no I just
+think you should integrate some some
+form of a website like use card C A rrd
+yeah um they have like a payment widget
+I like or even PayPal but PayPal's going
+to charge their own flat fees which are
+comparable to Stripes it's not cheap um
+so honestly I would go to upwork and
+just post a job for exactly what you
+need like I just need a simple website
+interface where I can send people a link
+to an invite an invoice you might not
+even need a website if you use something
+like honeybook um you'll just kind of
+use the software to send them a link and
+then that link will include a way for
+them to pay that's linked to your
+payment processor through authorized D
+that it's kind of a mouthful but that's
+what I would do not a mouthful that's
+super helpful I will look at that first
+I'm not at the point where I'm running
+ads or doing any of the stuff that I
+hear a lot of people doing so I'm I'm
+starting with without a site so maybe
+that's a good way to uh to do it at
+first but I I like your idea of card too
+so I'll keep that in my back pocket
+awesome well glad I could help thank you
+so much yep have a good day peace thank
+you all right Heath are you
+there let's see looks like he got
+disconnected
+all right there you are
+Heath all right sorry kicked me out of
+the hosting Cory Corey's up next he was
+with us last week but we couldn't get to
+him I'm still working on the other folk
+so Corey you're up Hey Heath hey Chris
+can you guys hear me okay yeah it's
+perfect awesome I um just want to say
+that last week's call was awesome even
+though I didn't get to talk I got so
+much out of it um I remember you you
+mentioned something about card last week
+and I ended up using that and set up a
+quick website uh for my business as well
+um so I already started implementing
+what you mentioned um a little bit about
+me I am the son of an entrepreneur my my
+my parents are in real estate um I know
+you guys do mobile home parks my family
+has done self storage and and single
+family homes um I'm studying Finance
+right now at University in Michigan and
+um I'm looking to do something a little
+bit outside of
+my family business
+um um about three or four months ago and
+uh that's what I wanted to get a little
+bit of advice for right now so we are
+running a cold email agency that uh
+connects uh Staffing and recruiting
+companies with uh businesses that need
+very special
+Talent um we have a a pretty good system
+set up um we started our first campaign
+last week and we got three booked
+meetings in the first uh day which was
+amazing I'm I'm so blessed and so
+grateful for that and I think that that
+was a little bit of a fluke we have not
+had that much uh success continued so
+far but the reason for my question uh
+today was I just wanted to get your
+input
+might something like that um uh we're
+targeting uh Staffing recruiting
+companies with specialized Talent we
+want to connect them with with
+businesses that might benefit from that
+okay so you did break up a couple times
+there during critical points so do you
+are you running a cold email campaign
+for your agency or you have a cold email
+Agency for
+Staffing uh so it's both uh the cold
+email is both my method of collecting my
+clients and my method of connecting my
+clients with with other companies okay
+and what exactly do you
+sell um so we've got a couple different
+ideas right now so the the first thing
+that we're running with is connecting a
+staffing and recruiting agency um with a
+company that would need specialized
+Talent um so for example we talk to a
+couple different businesses um they
+do uh like they find people who have
+very Niche uh knowledge in in law for
+example or or you know in the medical
+field um so connecting the recruiter
+that would be our client with a company
+that they can fill a space for okay and
+then what is your Revenue
+model well that's that's something we we
+haven't got to yet we have made an idea
+for that um but you know we haven't
+haven't sold anything yet um what we're
+thinking is a flat fee for setup you
+know we're thinking something very cheap
+to start off
+$500 uh for the first month as like an
+onboarding and a technology fee to set
+up that campaigns and then a price per
+book meeting um so we're thinking 500
+bucks for the setup and everything and
+then 300 bucks per um per meeting set up
+with a a client okay so it's a cold
+email agency targeted at recruiting and
+staffing companies you're helping them
+find customers with cold email right
+correct and your corre did your question
+revolve around pricing or strategy I
+can't remember what your exact question
+was you know what the question was
+trying to figure out who might benefit
+best from that um I'm thinking that like
+like targeting a law firm um is an okay
+idea I'm just curious if you had any any
+ideas about other companies that could
+benefit from very specialized Talent
+what made you choose this industry is
+this is this what your background
+is uh it's not my parents are in real
+estate they um do Self Storage um I
+wanted do something a little bit outside
+of that uh I can always come back and
+work at the family business but I wanted
+to take my stab at something new uh the
+reason I chose Staffing and recruiting
+is because I uh had a a phone call with
+someone from my local area who um is
+doing a very similar business model that
+I I met um on Twitter and he mentioned
+casually hey you should reach out to uh
+Staffing and recruiting companies uh
+because you know specialized labor is
+something since Co has been uh a little
+bit harder to find and he told me that
+they make crazy money I've talked to two
+or three different companies who do
+Staffing and recruiting and um one lady
+said that uh between 15 and 20% of their
+first year salary which you know can be
+like 5050 to 100 grand um as a
+commission for them so we wanted
+something High ticket something um
+that's going to be you know valuable to
+the customer um that we connect with
+that business okay all right got it so I
+love the idea
+um I love that you love that it's high
+ticket I if I were you the only way to
+truly know what vertical to attack is to
+start in batches of five I I love the
+legal industry um do you know
+specifically if you have any competitors
+doing this in a specific um vertical
+already with success or are you just
+kind of taking a stab at that legal well
+I know that the mechanism works I know
+that reaching cold email uh using cold
+email as a mechanism to reach staffing
+agencies works and I know that using it
+to connect the two businesses book
+meetings would work um I I don't know
+specifically the the legal aspect of I'm
+not sure about that okay so have you
+named the business
+already um yeah but it's it's always
+subject to change okay so always subject
+to change if I were you I would name it
+something broad right um and start with
+five different Industries and I would do
+a campaign of a what what are you using
+for your software for your cold emailing
+software um right now we're using smart
+leads for the sending software we use
+Microsoft for the the email um accounts
+and then we use list kit in order to get
+the leads okay I would start with five
+Industries 200 emails per day um so a
+thousand emails per day across all five
+Industries keep the offer keep
+everything the exact same right and in
+each email you're going to plug in
+like we specialize only in finding
+talent for the blank industry like the
+email will be exactly the same except
+for the industry that you're naming keep
+the subject lines the same keep
+everything the exact same and run all
+five campaigns concurrently for at least
+two weeks so if we're looking at you
+know 10 business days across two weeks a
+th000 emails per day you're going to
+have a really good sample size after two
+weeks and then just put the numbers side
+by side and you've got to be careful
+because your open rate like a higher
+open rate does not equal a higher click
+rate or a higher response rate and so
+what we found is a lot of times the
+lowest open rates correlate directly
+with a higher response rate um and or a
+higher response rate will will correlate
+directly with a lower like lead rate or
+whatever you call it conversion rate or
+you know appointment rate it it's like
+you don't want to be fooled by the
+metrics and say wow this oh this
+campaign has a 62% open rate because
+like who is actually getting to a phone
+call and how many of those phone calls
+are actually getting to a sale and
+you're not going to know that for at
+least two weeks um so don't don't be
+fooled by the vanity metrics like open
+rate and even response rate or even uh
+like appointment set rate but how many
+people after two weeks time are willing
+to actually send you money to for your
+services um and then
+just it depends on on like what your
+preferences are if if you really want to
+hone it down then pick a 100 Industries
+and do this for six months right but if
+you're happy after two weeks with the
+industry that you found maybe it's HVAC
+maybe it's legal maybe it's something
+you haven't even anticipated yet then
+just go go with that rename your website
+like I would rename your website
+something specific to the industry um
+and then change your Outreach to say
+something like we only
+like find placements for the X industry
+like that's all that we do we know you
+get emailed every day we are different
+and here's why like we know this
+industry inside and out we know what
+your paining points are we know what
+your Bot necks are going to be um but
+you you just won't like no one can
+answer that question better than data
+and you've got to figure that
+out that's awesome um okay I'll start
+I'll start the split test U that was
+really interesting I know you know like
+testing different um like like different
+body copy for the email but I didn't
+think about split testing across
+Industries so um I'll definitely go and
+apply that I I really appreciate your
+time and your Insight Chris yeah good
+luck
+manol thanks all right thanks Corey um
+little open up to any other uh listeners
+now if you want to ask Chris an advice
+just hit the request to speak and we'll
+do it uh we'll pull you in and get you
+any advice from Chris has for
+you so I'll just watch for any of those
+requests oh here we go we got
+oh Cameron asked but then he
+dropped how about Heath while we wait
+for people I've got this one question
+via email um sure I'm GNA do about the
+espresso catering business so this guy
+at def says I work for an espresso
+catering business we travel around to
+office offices and schools that want to
+do Employee Appreciation the owner has
+run it for 32 years is looking to retire
+and has expressed expressed interest in
+selling the quality of service is middle
+of the road there are others that do the
+same with higher quality product and
+better marketing I like the honesty
+there but he has great Word of Mouth
+business and plenty of clients he has
+mentioned dozens to multiple dozens but
+I have not confirmed this he charges
+about $400 to go to a school and serve
+coffee for two hours I don't have much
+insight into his expenses and income but
+I'm curious how I'd go about evaluating
+this type of business if I bought it one
+way I would do add value and improve it
+would be to just raise the quality of
+product and maybe cut those uh contracts
+that don't add much and focus on the
+ones that bring in the most 8020 should
+we do one or more or are these two good
+enough so backing up so let me summarize
+what he says he works for an espresso
+catering business um schools companies
+people corporations pay him $400 pay his
+boss $400 to go there for two hours to
+serve espresso he has the opportunity to
+buy this business he doesn't really know
+exactly how many clients they have um
+he's heard from dozens to multiple
+dozens um so less than 100 we're going
+to assume um and he says that their
+quality and customer uh support is
+middle of the pack and his question is
+after I buy the business um like what
+improvements should I make so first of
+all there's a there's a good and a bad
+here the good is that you know this
+business intimately there's probably not
+skeletons in the closet because you
+already worked there so that's great
+you've already drisk to call it 60% the
+bad is this business sounds like it's
+highly riant on the owner um so who
+knows how much of this business is
+coming because they want to see the
+owner's face again because they like him
+and they've known him for 32 years and
+they've used him for 32 years and
+they're just doing it out of habit and
+so if someone else takes over even if
+it's someone that already works for the
+company um to to be determined if they
+keep ordering at all so I would think
+that that risk is even bigger than the
+offset risk of already working for the
+company so net of net I think that this
+is a risky proposition maybe even
+riskier than just going on Biz by sell
+and buying the same um company so let's
+say you do buy the business and it goes
+okay I think there are ways to mitigate
+against that um Dave Ramsey for instance
+he talked about ndr non- Dave Revenue
+they're trying to move him out of the
+company it's a $400 million company that
+has historically been highly reliant on
+him and he says today 70% of their
+revenue comes from um non- Dave Revenue
+people not named Dave and so if I were
+this guy wanting to buy this business I
+would start a 6 to 12 month plan to move
+the owner out working alongside the OWN
+owner meeting his context uh following
+him shadowing him just because he works
+there doesn't mean he necessarily is
+shadowing the owner at all times and
+letting all of the customers know
+especially the recurring ones that a
+transition plan is in place uh because
+if if he's willing to be patient and
+wait six to 12 months then he can
+largely de risk and by the time he takes
+over it will be a surprise to no one and
+he can just keep crushing it and then at
+that point it doesn't matter what
+improvements he makes because he already
+has a great business even if he doesn't
+change anything um so I didn't answer
+his direct question um because he wanted
+to know what improvements should he make
+um I think you should start with
+customer service um I I think if the
+quality weren't good then he he wouldn't
+have so much repeat uh repeat service
+but he just needs to Brand himself as
+the younger guy that just really cares
+that wants to do uh great um by his
+repeat customers and he doesn't want to
+let them down and he has big shoes to
+fill yada y y um that's what I would do
+so hope that
+helps awesome all right we have Anthony
+wanting to ask you a question here Chris
+so I'll add him
+in if Twitter will work with
+me
+right not letting me do Anthony let me
+do Cameron oh there you are Anthony all
+right Anthony come on mute and uh ask
+question am I speaking hibody Chris uh
+thank you for the
+being we can't hear you Anthony okay
+yeah I'm here okay uh thank thanks for
+your your time Chris uh I'm in income
+tax Four Seasons um so relative new
+relatively new um but his tax season
+time and uh I'm trying to grow my my own
+client base over the last few seasons
+and I've kind of plateaued out I'm not
+getting a lot of referrals um I'm
+hearing that I'm giving great service
+and you know getting good reviews and
+you know people are always coming back
+um I I I saw about the ramsy uh um lead
+lead buy but that's kind of out of out
+of my budget so um yeah I threw up a
+site on card uh I'm not too Keen to to
+collect data on customers because of
+regulatory issues or accept a lot of
+payments through a website but I get the
+tech stack um and and I I can offer like
+some consultation um maybe paid
+consultation uh stripe links I've played
+with that but more about like Outreach
+marketing and and kind of growing this
+business to get more income tax clients
+correct but but specifically uh
+individual and um self-employed versus
+you know higher ticket clients where I I
+would need EA or CPA which I'm not
+planning on getting as I'm I'm kind of
+too far down the road age wise to go
+back to getting a degree okay so what
+does your average customer look like
+today is it a a business owner like you
+said and if so self-employed yeah
+average is self-employed uh maybe a
+newly self-employed person on like maybe
+getting Uber income for the first or
+second year um real estate agents and
+then healthc Care Professionals
+okay and what is like an average ticket
+size like what what amount of gross
+revenue can you expect from each client
+yeah uh gross re yearly basis oh uh per
+client yeah
+uh yeah gross gross revenue before
+before expenses around 350 to
+400 okay and that's basically every
+every year per per customer yes every
+season and what does your turn look like
+how long are people staying with you on
+average uh zero um I it very little um
+I've had one client who just didn't uh
+return uh other than that I've retained
+all my clients out
+of out of 15 okay and what percentage of
+your business do you think you could
+grow before really having to invest in
+the business like what percentage would
+you like to grow
+realistically I I mean the total revenue
+is quite small so it's not it's not
+money that I I used to live on per se um
+because
+I so uh yeah I could I could reinvest
+what I make per per season into it okay
+and what are you used to is this not
+your main thing what are you using to
+live well I do it's it's parallel a
+former recruiter so I and I pinged Cory
+because I have some insights for him uh
+recruiting in overseas in China and and
+Asia for design positions so I still do
+a bit of that and then um I work for uh
+a Nationwide Tax preparing software uh
+platform and I do like products product
+help on that online remote okay are you
+able to leverage that experience with
+the the tax prepare to to acquire new
+income tax customers yeah I can't like
+fish for clients through through them
+directly um so oh sorry so I did join
+into it new Revenue share 50/50 Revenue
+share whereas they drive they drive
+traffic to you and you do a a 50-50 rev
+share with into it but that's that's a
+pilot program so there's no data to go
+off there okay and of all your customers
+which which customer profile do you like
+the most like what type of customer
+would you like to get most yeah self
+self-employed um you maybe at at at the
+most complex level maybe in a in a
+partnership but preferably self
+proprietor one to one to three
+businesses maybe some passive income
+through real
+estate and in and on an industry basis
+do you like real
+estate uh I don't I'm agnostic about it
+but they have unique specific needs um
+and so uh one of my clients kind of
+pushed me towards that because that was
+her situation but uh yeah I like I like
+uh clients
+who um are organized and have records
+yeah yeah yeah make makes your life
+easier what are your clients mostly
+local or Nationwide uh mostly clustered
+between Oregon and California but I I
+reside in AR Arizona
+okay okay
+so you don't have a website then correct
+I do the card site I just popped one up
+correct with um my domain tax and.pro
+okay do you do you get any referrals
+from people no I I have not surprisingly
+uh well not through my own Client List
+no but when I was working at the H
+Jackson hu Tax Franchise yes in fact we
+grew year-over-year was mostly referral
+okay so if I were you I would start
+brainstorming um let's take an Uber
+driver or real estate agent for example
+start brainstorming where are those
+people living uh online when they first
+become an Uber driver or first become
+become a real estate professional
+because it sounds like that's when
+you're most likely to acquire them is
+that
+correct um I that or when they get a
+1099 in the mail and then they they're
+confused okay looking for help okay I'm
+thinking have how do you feel about cold
+calling
+oh yeah I did tons of it in recruitment
+it's all cold calling okay if I were you
+I would get a list of brokerages in an
+area pick an area that you have the
+highest uh concentration of customers
+call it let's say it's Salem Oregon I
+would get a list of real estate
+brokerages there and it's it's great
+because you can get their numbers super
+easily we talked about this last week
+and I would just cold call the Brokers
+and say hey this is who I am uh I do tax
+prep I do income taxes I specialize in
+real estate agents I've basically never
+lost a customer at least due to
+satisfaction do you have any new agents
+that might need help with this um and
+just like just be very transparent like
+we have a bunch of customers or have a
+bunch of customers in Salem Oregon like
+I know the industry or I know the area
+do any Agents come to mind that might
+need help with this and just see what
+they say like just talk to five Brokers
+specifically Brokers and see what they
+say because it's a lot easier to find a
+person that can refer you five to to 50
+different customers versus calling
+agents um directly another thing you can
+do is go to Zillow and just start
+browsing you can do this yourself or you
+can do this at scale and sort by the
+date they were added to Zillow or real
+through.com or wherever or sort by the
+lowest number of reviews and those are
+either going to be Brokers or agents
+that are brand new to the business um
+and if you can find someone ideally you
+can find someone that is new to the
+business and has a disproportionate
+amount of reviews
+that's probably going to tell you that
+they're like a a rock star like they're
+new to real estate and they're crushing
+it um because let's say you learned in
+Salem Oregon the average agent has five
+reviews total and you found three that
+have been at it for six months and
+already have seven reviews like those
+would probably make for a great client
+um a because they're more likely to
+become a client B because they're
+probably going to have higher income
+therefore I'm assuming they could be a
+little more complex therefore you could
+charge a little more what do you think
+about that yeah spot on I like all those
+ideas um I also think maybe I could also
+do that in the healthcare space as
+well oh yeah are you familiar with what
+bcbas are no I'm not so it's a board
+certified behavioral
+um analyst I don't know pretend that's
+that's true don't look it up but it it
+it's basically the license that you need
+to open an autism clinic and what's
+great about bcbas is that they're
+publicly listed online um and their
+licensed renewal date is listed online
+and it's a super in demand profession
+that is growing double digits year over
+year and so anyone in the world can see
+when there's a new bcba and they're
+going to make good money um and it's all
+like their cell phone is listed online
+in every state and so you could you
+could even say hey
+like I assume that you have someone in
+your family or life with autism you
+could refer to that and say hey like I I
+I hear great things you're doing great
+work um and I want to help you I want to
+help you with your with your income tax
+do you have anyone already doing
+that great or dentist D I I I assume
+that you know being publicly listed in
+the healthcare spaces is more common
+than not but all their data is right
+there and I I bet they've never been
+cold call cold called by you know a
+savvy recruiter who's comfortable cold
+calling that now is selling Income Tax
+Services right like that's just not a
+cold call people get which is good for
+you yeah thanks Chris uh amazing uh
+journey and just keep keep doing what
+you're doing thanks thank you again
+thank you appreciate that right thanks
+Anthony um just a reminder everyone
+anyone's welcome to get some advice
+Chris um the things that we're he's
+happy to help with are how to grow a
+business so he should you start or quit
+a u job or business or not is this a
+good business idea or partnership help
+employee help or even if you just want
+to brag about how awesome your business
+is um we are welcome to have that just
+you can hit the request to speak button
+and uh I'll add you in and we'll get you
+going anyone's welcome to do that best
+Texas barbecue restaurants um all of the
+best emo bands from
+2003 also the best year for Emo music
+yeah why Tesla Superior to uh n or
+internal combustion engines all they
+absolutely I want to hear all of
+it all right we got Chris we got Chris
+Cool
+Chris see if you can there you go go
+ahead and unmute yourself I'm gonna ask
+away hi Chris can you hear me yes sir hi
+there um I work in the software space as
+a software engineer doing um Contracting
+on a sort of six to 12 month basis I'm
+looking at what can I do besides just
+selling my time um previously I've uh
+created online courses that have done
+reasonably well like low six figures um
+but I'm I'm interested
+in maybe buying or selling something uh
+so I've been looking at stuff on
+acquire. comom and flipper.com
+do you think that's a good way to go
+like I'm I'm talking about sort of low
+ticket um existing websites that are
+making I don't know $500 to $1,000 a
+month so they'd have a a sale price
+between say1 and
+$30,000 um and then looking to to grow
+them because they've effectively already
+got product Market fit now I know
+there's probably you know and there are
+a lot of um bad deals out there but do
+you think it is worth sort of trolling
+through to find a diamond in the rough
+or do you think that's potentially just
+more trouble than it's worth curious
+about your thoughts on on that sort of
+approach I absolutely think it's worth
+doing that and I think I know exactly
+what you should do so if I I I wish I
+had your skills okay so you have an
+amazing skill set and I love that you
+want to put it to work outside of just a
+9-5 so if I were you I would go to a
+choir or Flippa as you've been doing and
+I would find some sort of a SAS product
+maybe it's a Plugin or Chrome extension
+or just a just a SAS product on the
+WordPress site or whatever and find one
+that fits these
+criteria it's low ticket it's really
+cheap and it has very low churn and the
+owner has not raised the price uh in a
+long time if ever um now you also want
+to make sure that their reviews are good
+um it could have low churn because it's
+$3 a month and people just don't think
+to cancel but we're assuming that it has
+low churn because it's just a great
+product
+that people rely on that has 10x the
+value of whatever the owner is charging
+um and then you're you're really not
+going to know until you start due
+diligence and talk to the owner and
+maybe even see if you can talk to some
+of the customers like ask if he can show
+you his customer database that's
+anonymized um you know maybe just
+partial email addresses and just pick
+out five at random and say can I talk to
+these guys can I just say like hey I
+work with owner name and I'm doing an
+audit and I just want to see how how
+happy they are get them on the phone and
+ask them like how integral is that
+product into their life like how much do
+they rely on it is it top of Mind do
+they just forget to cancel or somewhere
+in between and if you were to buy
+something like that raise the prices if
+you can ab test it even better right I
+don't know what the platform looks like
+but if you can take a 10% of the
+customer base and raise the price from
+$5 a month to $30 a month and maybe 10
+to 20% churn like wow you you've got a
+winner right I would take another 10% of
+the customer base and raises to $50 a
+month and maybe the same percentage of
+people churn or maybe 80% of people
+churn and you and you think wow okay I
+found the sweet spot I found the
+pressure point um I would do exactly
+that like you're going to drisk
+partially by asking these questions and
+going into it um with that strategy but
+you're not really going to know until
+until you get in there you actually buy
+the thing and you and you raise prices
+and then literally like you could talk
+about improving features and all that
+but just just raise the price that's it
+and just keep it going yeah that's that
+definitely makes sense um one one
+follow-up question uh what what do you
+think about businesses like websites the
+making money majority through AdSense
+like you know Google ads is that just a
+too much of a tricky type business do
+you prefer the SAS sort of um sites
+instead I don't mind that at all because
+there's a huge opportunity to turn off
+AdSense and turn on like a more Niche or
+Boutique uh what's it called like adte
+platform because AdSense is like the the
+lowest payer out there so if they're
+wholly relying on AdSense and you can
+buy it at a decent multiple then it's
+really the same strategy instead of
+raising the price you just swap AdSense
+to a provider that I can't remember the
+name of right now but that's something
+that do you follow James camp
+no no I I'll check him out is he like a
+a AdSense kind of guy he's like a um he
+buys small SAS products and does exactly
+what we're talking about and probably
+80% of everything I told you I learned
+from him so he's pretty active on
+Twitter James Camp um and he I would do
+an advanced search for James camp and
+look for times that he's talked about
+AdSense because he's specifically
+mentioned this strategy before awesome
+Chris I love what you do uh thanks so
+much for your help really appreciate it
+thank you yep hope this
+helps right thanks uh thanks Chris I
+approved Jack here we got Jack coming in
+now to ask some
+questions oh Jack just come off mute
+there you go hey is that me yes sir
+awesome Chris I have a couple of things
+man so I live in Louisiana I'm from
+Mississippi
+Tigers I I work in the oil field so I'm
+gone 14 days at a time back here 14 days
+at a time and I've been trying to figure
+out how to get out of the oil field
+getting something a bit more lucrative I
+have four daughters the oldest is 15
+youngest is
+11 okay they live they live with their
+mom so uh first off I don't have any
+real estate experience but I have been
+following you in a bunch of Real Estate
+a SMB Twitter um if I if I beat the
+bricks and I find a mobile home RV park
+and reach out to you anyway you could
+kind of help me along with that first
+one maybe even partner with me yeah I'm
+happy to okay down there in
+Mississippi yeah yeah I noticed when you
+were down here and bought the one what
+was it outside of Baton
+Rouge yeah yeah okay awesome we uh I'll
+start looking for those now your Tweet
+and I went back and referenced it about
+a month ago about starting the tree
+company you laid out what you would do
+with links and so forth so I you know I
+kind of tried looking around I've been
+trying to figure out a crew a sub
+basically because I don't care what
+field it's
+in um well at
+work a guy I was talking to him about a
+month ago at work his stepfather passed
+away about a year and a half ago but he
+had a little roofing company and he was
+telling me about this crew all they do
+is uh repairs they don't do any new
+construction
+anyway I went ahead and got on name Che
+got the domain I've talked to this uh
+roofing
+contractor and I think I'm about
+to I think I'm about to go live with a
+website and start a roofing company what
+do you think good for you um I think I
+freaking love it you're starting with a
+great crew is that am I hearing that
+right that specializes in repairs yeah
+yeah and and I'm G to go 5050 with this
+guy from work okay I'm gonna go 5050
+with him it's his his crew now this crew
+works for several contractors MH I put
+in for a a a a home improvement license
+got the domain registered the uh
+LLC I've even priced the insurance here
+in Louisiana now be being in Louisiana
+but from Mississippi he lives in
+Mississippi but he's from Louisiana I
+plan to go both States
+and and just start with the website with
+some
+SEO uh beat the bricks get a couple of
+jobs built get some Google
+reviews and and I'm hoping the internet
+does internet and Word of Mouth does
+most of the work for me so let's back up
+a little bit you're you're partnering
+with the guy that already owns a roofie
+business that that he has this crew yes
+so he has the crew he doesn't he doesn't
+necessarily have a business his
+stepfather that was working this crew
+never had a license or anything like
+that well when I went he he would do
+Cost Plus right so the the uh the guy
+that has the roof and Pro Mario he
+charges say 75 bucks a square this guy's
+stepdad was just telling the
+homeowner go buy these shingles from
+this place and then you're going to pay
+me you know 125 whatever it was and
+that's how he made his money was just
+tacking on top of the labor
+okay and you want to partner with him
+why do you want to partner with him just
+because he knows this crew yeah it's his
+crew we were talking about getting out
+of the oil field trying to figure out a
+company to start and then he brought
+this up do you trust him I do okay how
+long absolutely do uh three years okay
+and how active is he going to be in the
+business uh pretty he he also wants to
+get out of the oil field I mean that's
+we've been talking about but uh he
+already has a couple of jobs lined up
+okay so you guys are both going to have
+like equal roles with regards to
+activity yeah and we both and we both
+have TI to Louisiana and also
+Missippi
+okay okay all right so here's what I
+think I think you should spell out your
+operating agreement very clearly that's
+something that's easy to overlook and I
+would find the third party mediator just
+in case since you are an an equal 5050
+just in case you can't agree on
+something obviously legal documents are
+planning for the worst planning for the
+outlier um events um if I assume he
+would he agree on a mediator absolutely
+okay so find a mediator someone that
+either both of you know or preferably
+someone that neither of you know just
+literally hop on Google side by side
+find a mediator Yep looks good okay
+that's the person um that'll be as good
+as anyone now with regards to growth I
+wouldn't count on SEO to bring you any
+results anytime soon particularly
+because Roofing is super comp
+competitive industry when it comes to
+Home Services um next to pools and just
+home building it's it's about as high
+ticket as you can get and so that's you
+know smart people have taken notice and
+there are companies that are dedicated
+solely to generating leads for roofers
+for that reason um so unless you invest
+a lot of money in SEO and are willing to
+wait like three to nine months for
+result I wouldn't count on a CEO but
+that's not to dissuade you from starting
+this business I think it's sounds like a
+great business especially if you already
+have an affordable reliable crew because
+that's like 70% of the headache um did
+you have any other ideas for finding
+jobs and did you want to specialize in
+only repairs or do Replacements as
+well oh no he do he does Replacements
+I'm sorry if that wasn't clear he just
+doesn't do new construction he does uh
+full Replacements and repairs but he's
+shingle uh he he dabbles in the metal
+roof uh
+I think the new construction would come
+down the road with other Crews and and
+so forth and so on I just want to get
+started with this crew I've been trying
+to find a crew in anything around here
+where I live uh and then boom I have a
+crew they just happened to
+roof uh I don't want to take too much of
+your time I appreciate no you're but
+you're good and you're going to see a
+listener here his name is John Moore and
+he he does a lot of roofing lead
+generation he can help you with that
+think of some ideas I know that he set
+up a good um referral system with
+Realtors and this is in Utah so there's
+no competition here he could probably
+give you some good tips on getting uh
+referrals from Realtors because he's
+been in the Weeds on that okay uh before
+you let me go going back to that do you
+think I need to hire a Salesman I mean
+me and the guy that I'm partnering with
+I wouldn't say that we're the best
+salesman in the world as far far as door
+too walking into a realtor's
+office uh do you think I need to hire
+somebody like that as opposed to relying
+on the SEO no I think you need to start
+off being being your only salesman so
+you can really learn what the objections
+are learn how to do it even if it's not
+your Forte that's okay uh like whatever
+discomfort you have in selling will be
+partially offset by the passion that you
+have for this business that you own
+right and that's to be said for any
+industry so I would get at least five
+jobs under your belt or under his belt
+or your company's belt combined and just
+learn what the objections are because
+the the chance that you're going to find
+just a killer Roofing salesman uh that
+leaves his cushy job to come work for a
+startup is lower than average so when
+you do find a Salesman it's probably
+going to need to be someone that's just
+young dumb and hungry that you need to
+train and you're going to need those
+skills yourself uh to train even if like
+you don't have to be a Salesman you just
+need to know what the objections are and
+what the the pain points are with these
+customers when you do talk to them got
+it got it awesome thank you of course
+yeah good luck and good for you for
+starting this business yeah look forward
+to reaching out to you man thanks for
+your time absolutely cool thanks Jack
+awesome I think we have what Chris 21
+minutes or so yeah okay so yeah anyone
+who would like to get advice from Chris
+go ahead and uh hit the invite or
+request to speak and we'll add you again
+looking for how to grow a business
+should I start or quit my job why are we
+not this a good business idea uh
+employee help partner help or just brag
+about your business so um I'll add you
+in and while we wait I think I'm going
+to teach everyone how to order most
+strategically at Chipotle so there was a
+viral blog article that went you know
+that went pretty crazy a year or two ago
+but and that's not mine I read it but I
+have some better ways so first of all I
+literally have a spreadsheet where I
+track the weight of my Chipotle orders
+um if they're in person or if they're
+mobile orders and I promise you you're
+going to get about 23% more food if you
+order in person all right you want to
+get there to the front of the line you
+want to smile you want to ask how
+they're doing and then right when they
+put the rice in the bowl that's when you
+want to ask for extra rice okay it's
+very strategic if you ask at the
+beginning then they're probably just
+going to give you the same amount of
+Rise you have to ask them after they've
+already put it in the bowl okay and then
+you've got to get half meat half chicken
+half Barbacoa whatever it is because
+they're going to give you about 75% of
+each which means you get 50% more meat
+for free okay those are the two biggest
+things and you want to make eye contact
+because if they don't give you enough
+food they're going to feel guilty as
+they give you a tiny bit of steak as
+you're looking in their eyes it's all
+big psychological mind
+game I like it all right we got Jean
+here Jean why don't you come off mute
+and ask Chris your
+question hey guys that's actually
+awesome yeah you got to do it man you
+gotta do it learning all kinds of stuff
+here so uh I just had to chime in I got
+a great question I hope um but we're
+coming off the back of a SAS caller and
+a Louisiana caller and so my topic is
+SASS and Louisiana
+um I've got a uh SAS startup software
+company that's been in stealth mode for
+a couple of years and we are ready to uh
+go hard at the market now and so what
+would your recommendations be for
+finding lead generation it's businesso
+business software very specific
+Industries it's not something like I
+don't think SEO or even targeted
+emailing and stuff is going to be the
+best thing but just what what are your
+thoughts on trying to get out of the
+gate we've got a paying customer for a
+couple of years the software has been
+tested for a couple years that's just
+ready to get out and get
+sold what is the industry like are you
+able to say what you're selling yeah I
+don't mind it's a law
+enforcement law enforcement B2B software
+huh yeah yeah and and there there's two
+two versions there's law enforcement and
+then there's private security groups so
+there's all kinds it's basically
+incident field
+reporting incident field booring and are
+you already selling this or is this
+brand new we've got a couple of
+customers um it's we've been in stealtho
+for a couple years we've got two paying
+customers for four years and um
+bootstrapped and
+um uh just now starting to to you know
+it basically the sales is me making
+calls you know visiting people picking
+up the phone cold calling but I need to
+scale that okay so what how much is a
+customer worth to
+you um we target small and medium
+businesses so 500 to ,000 a month um uh
+is probably a typical really good sale
+for us and they don't they don't
+typically churn you're not losing
+customers I haven't lost one yet no
+again I've only got a couple and sure
+and how long is the sales cycle and or
+like the integration phase of this
+software sales cycle probably
+uh a good a good one would be uh zero to
+yes we'll buy you 30 days okay um uh
+more typical 60 days probably on average
+if the if you get if if we get a an
+inperson demo and meeting um it's yeah
+it's pretty much over at that point and
+then uh implementation another 30 days
+okay and is it pretty closely tied into
+their their daily workflow is that why
+your turns low yes that's all their
+daily workflow and and generally once we
+we get a customer um they're going to be
+a customer really long term okay and
+then of your two customers or three
+which Industries are they in are are
+they police agencies or private
+investigators I got one in each one in
+each side actually I've got a casino
+Security Group and a police department
+okay and what which one would you prefer
+like if you could wave a magic W and get
+10 more one of the two
+industries right this second would be uh
+let's say let me ask you this which one
+would I prefer like I
+could cash flow immediately on or which
+one still takes more work to build out
+um which is just a better net customer
+All Things Considered right this second
+would be the the casino guys because
+it's it's easier to sell to a private
+business than a government agency yes
+and and there's also additional things
+to build out and integrate and and and
+migrate old data and that sort of thing
+on the police side of things okay okay
+it's just a more involved customer on
+the police side gotcha and what what
+exactly is fuel incident reporting what
+does that look like to them how does it
+make their life better field incident
+reporting not not fuel oh okay I've got
+a little bit of a cold so if I'm
+sounding funny that's uh um tell me what
+a what how a casino would use it on a
+regular basis exactly they um they are
+tracking incidents uh slips and Falls
+counterfeit money incidents lost and
+found stuff um basically anything that
+that uh that they feel like they may get
+sued on they're gonna they're goingon to
+create an incident report and they're
+gonna uh and they're GNA document it
+and and how much work does it take you
+to maintain these customers like what
+what is your cost on that five to 100500
+to$ th000 a month
+very little very little it's uh support
+requests or maybe a few a year and um
+the actual cost of goods so to speak in
+terms of what it takes
+to uh Prov it's it's a you know a
+cloud uh Cloud oriented thing is
+probably I'm looking at about 70%
+margins okay how did you acquire this
+Casino
+customer um they were a part of a
+company that I worked with many many
+many years ago and I called him and said
+hey would y'all want to beta test some
+new software we're developing that was
+several years ago and
+um so it was a little a little bit of a
+previous relationship uh I wasn't an
+unknown entity at that point but and is
+it what are these companies doing today
+for field incident
+reporting um some of them are doing
+things by uh pen and paper still um uh a
+lot of them are doing things in just
+Microsoft Word um you know nothing you
+know uh especially on the police
+department side um you know they they
+might be using systems that are older
+ours is is very very mobile it's all
+real time interactive it's got a ton of
+cool stuff um the you know what they've
+been using for the last you know that
+they put in 10 15 years ago it's just
+outdated it's web based the support
+costs are high
+um okay um all right I've got some ideas
+so they're obviously a lot more police
+agencies than casinos right yes
+but would you say is it fair to say that
+it's going to be easier to acquire like
+a smaller Casino customer than a big
+one
+um yes and I would say a small casino
+with a hotel attached is probably the
+best okay um not like these little like
+driving casinos at a um you know at a
+gas station or something I don't okay if
+gas buiz is here I don't mean to step on
+you buddy
+but do you do you watch the
+office actually uh uh sporadically yes
+okay so there's there's an episode where
+uh Michael fires Pam uh as a joke and
+it's a joke fire and it's hilarious so I
+here's what I think you should do I
+think you should use direct mail I think
+you should find someone maybe a VA maybe
+outscar
+docomomo and I would send letters like
+formal letters to the owners or managers
+or whatever the title is of the person
+that's going to be buying from you or
+the title of the person in charge right
+maybe it's general manager maybe it's
+owner and I would send them a really
+scary looking letter uh with like big
+bold red letters on the outside on the
+outside that says something like lawsuit
+enclosed or you're getting sued or
+something scary and I know this is this
+is untraditional but you you want to get
+them to open the letter and they will
+definitely open the letter and they open
+it and they see it like right in the
+beginning like just kidding calm down
+but this could happen you you if you're
+not properly documenting your incidents
+like have you ever had a slip and fall
+of course you had have you ever had an
+employee that was fired that was angry
+about it of course you have like and I
+would list out the things that you know
+that they're doing maybe it's Microsoft
+Word maybe that's a standard maybe it's
+pen and Pad list those out just like
+this is a fear tactic right let's call
+it what it is and say please don't tell
+me you're using pen and Pad please don't
+tell me you're using Microsoft Word like
+what happens when your computer dies
+what happens when your hard drive
+crashes is it in the cloud like what
+happens when your your piece of paper is
+thrown away like that
+little that little incident that was an
+afterthought that nine times out of 10
+nothing happens with like that is an
+insane liability to your entire company
+like one lawsuit could be could bring
+down your entire company and you know
+you don't want to word this too harshly
+you want to kind of Le lead with humor
+and then kind of make it a little more
+serious yeah and then and then just you
+know have the call to action your phone
+number QR code website whatever and
+statistically most will never do
+anything but at that point you need to
+start calling them you know a week two
+three four weeks after they get that and
+just just blow up their phones until
+they answer and reference the letter own
+the letter apologize for the letter and
+then ask them like are they
+interested gotcha that's a that's
+definitely a method I hadn't thought
+about it you know I I have had somebody
+um uh do some uh a a bit of lead
+Gathering and stuff so I've got I've got
+a list of of kind of where you started a
+list of some names some casinos
+primarily uh primarily in California um
+which is where my my first customer is
+and so I've just been calling him myself
+but that just doesn't scale right now I
+and and calling him myself but then also
+getting lists in Arizona and list in
+Kentucky or whatever else you you said
+you feel like a VA is a way to go maybe
+to work on that I do or just
+outcraze timing got like this letter
+will put the fear in their head which
+will mean it's now time for them to
+solve this problem that they didn't know
+was a problem before they got your
+letter so manufacture the timing and
+then and then do the cold Outreach right
+after that thought is planted in their
+head I like it I like it well outs
+scraper.com I'm gonna check that out uh
+that's appreciate that yeah of course
+good luck right anyway awesome guys
+thank you y thanks
+y all right what do you say Chris got
+time for two more one more uh do we have
+anyone waiting no one waiting currently
+all right well we can wait a little bit
+I don't know if I have any more Chipotle
+tips like H I've exhausted all of my
+expertise already we got SJ here right
+yeah I just approved him hopefully it
+works there you are all right shaj
+you're up thanks I don't know what
+happened but looked like I get I got
+kicked out and sorry about that but I've
+got kind of I'm a tech guy I've gave up
+my job in 2022 at a big tech company and
+uh just wanted to look for different
+businesses to do um so I've looked
+through a bunch of different either
+franchises I tried starting a tech
+startup but something that's been really
+scratching my itch lately is uh like
+home decorating and one thing I've
+noticed I've known people that have done
+Christmas lights and they make quite
+good money you know if you can nail some
+good contract tracks within your city
+but one thing that I've noticed that
+I've been wanting to do with a buddy of
+mine is uh it's Ramadan coming up and a
+lot of people need to decorate interior
+wise and I've been thinking about a way
+to do maybe something from thew Lunar
+New Year and Ramadan which usually
+happen every year sequentially so that's
+about two quarters of decor and a lot of
+people would probably go over to
+Christmas lights but it's coming up next
+month and I'm thinking about a way to do
+that I know it's kind of acid intensive
+with a lot of Decor that you have to buy
+but it seems very doable at least good
+margin
+wise and is this stuff that they would
+decorate outside their homes then so
+that's the thing I I think it would
+probably be more of an interior Play
+Just Because I know HOAs can get kind of
+dicey and I don't want to be on you know
+the news or anything for yeah anything
+like that so probably you do want to be
+on the news that'd be good customer
+acquisition yeah yeah I I grew up in
+Texas and we had some issues uh for some
+holiday stuff in the past so like for
+Easter so is this something that people
+are paying for right now no that's the
+thing it just people do it on their own
+but if you look at kind of how the
+markets turning you know asian-americans
+5% growing population average income
+about 100,000 DFW I think where you live
+if you go out to Irving um you can go to
+every other house and probably find a
+customer and most the time people are
+just buying stuff for themselves but as
+the generations get younger I think
+you'll see a lot more people wanting to
+do interior decorating and you'll
+probably see a lot more of uh stuff at
+Target which has already been showing up
+a lot of decoration so there's a lot of
+ways to do it between Drop Shipping and
+things like that but I feel like it's a
+pretty solid business um just to do for
+at least two
+quarters so all right so I have one
+fundamental problem with this idea and
+that's the fact that you're kind of
+inventing it right but I I think there's
+a way for you to prove me wrong so in in
+my opinion I only want to invent an idea
+when I'm going big right like uber like
+raise money this is brand new we're
+Boomer bus we're shooting for the moon
+or nothing um I think this is that same
+type of idea but without as much upside
+because people aren't paying for this at
+least that you don't know of and that
+makes me fundamentally nervous to to
+charge for something that people aren't
+currently paying for it it could mean
+that you have a monopoly and you're
+crushing it and you keep the secret to
+yourself and you silently print money
+but 90% of the time it means that
+they're not paying for it because
+there's there's not demand to for it to
+be paid for right even if they're
+decorating there's a difference between
+something that people do and something
+that people are willing to pay for but
+the good news is I think you could you
+could prove me wrong or right by just
+asking people yeah absolutely yeah I
+mean like would you pay for this and how
+much would you pay for it and then
+there's a third question that you can't
+skip will you pay me for it because I if
+you especially if you're talking to
+friends and family oh yeah that's a
+great idea oh I would pay for it okay
+it's gonna be $400 I'll be there on
+Thursday oh well uh uh well you know so
+you have to ask all like you literally
+can't know the true intent or the true
+outcome of this business until you pitch
+them at the end of the survey or else
+totally result I definitely agree First
+Step was Outreach but just wanted to get
+the feasibility on kind of Home Services
+in general and I know it's very seasonal
+but you know some of the folks I know
+that have done Christmas lights they're
+breaking in 200k a year yeah I I know a
+guy that does that as well the reason I
+don't like Christmas light specifically
+is because if you do want to make good
+money then you do need like a municipal
+contract and the amount of work it takes
+to get a municipal contract for
+Christmas lights for something that's
+not seasonal is the same right so if if
+you're going to if you're going to spend
+all this time money and effort and
+headache into getting a contract with
+the city then do it for something that's
+recurring or year round right right it
+you know it's unless there's for some
+reason there's no one pitching them
+Christmas lights and you own the market
+like you're in a specific Market with
+low Supply um all else equal I would
+rather pitch something this year round
+yeah absolutely okay I appreciate that
+my biggest fallacy is always coming up
+with things that
+don't exist yet but that's kind of why I
+like doing it yeah no I got you it's
+definitely exciting awesome thanks Chris
+yep no problem all right thanks Raj
+Chris we have one more request we have
+time for one more let's do it all right
+I'll approve you now Rick and then you
+can get get a get going when you drop
+in there you are Rick go ahead hey Chris
+thanks for doing this man I'm a big fan
+of course hey um I dm'd you about this a
+few weeks ago I'm sure you get a million
+of them so no worries I'll just uh
+rehash real quick but
+um Wheel Repair Mobile wheel repair
+people are keeping their cars 12 13 15
+years interest rates are liable to stay
+higher long for longer um new vehicle
+purchases are getting prohibitively
+expensive people are going to try and
+hold on to their car longer keep it keep
+it looking nicer longer there's a guy
+I'm involved in the Tesla Community as
+an owner of two Teslas here in the
+Midwest and there's a guy who does
+everybody's rims for Teslas in the um St
+Louis metropolitan area same guy and
+I've had him out to my house twice he
+does it in my
+driveway uh they look like brand new
+when he's done I'm like bro like why
+aren't we like let's roll this out let's
+find some help like I'll fund you let's
+go like uh you go all over the area you
+repair somebody's car make it look like
+new sitting in their parking spot at
+work or in their driveway at home the
+work's done in an hour two
+tops um what do you think is it scalable
+how busy is that guy is it a nonstop
+this is all he does and and any if he
+ever has slow time through um just
+business he gets organically through you
+know the St Louis uh Tesla fan page on
+uh Owners Club on Facebook which is
+where most of his business comes from he
+just um he has relationships with
+dealers so if they take in a used
+vehicle that they want to put a couple
+hundred bucks into a used vehicle and
+make it look like new and and fix curb
+you know curb rash on a on a rim or two
+he does that when he's slow just to keep
+him busy does the dealer work but the
+private you know just private
+individuals who find him organic later
+is he's he's busy 247 I'm he's like he's
+like no I can't find help I've tried you
+can't keep anybody you train somebody
+then you can't keep them then they don't
+show up for work and he's like it's just
+it's just not worth it so I'm you know
+he's just like resigned himself to just
+doing it himself
+yeah are you still there I think are you
+there
+yeah I'm here okay you broke up for a
+minute all right so a couple other
+questions what is his average ticket uh
+size and is he only doing
+Teslas oh no he does anything um it's
+just the honestly I think just the Tesla
+group keeps him super busy here in the
+St Louis area but don't he'll do
+anything um average ticket I think is
+probably about 300 bucks for about an
+hour hour and a half worth of work okay
+is that what you paid him and he does a
+good job like you can't even tell it's
+unbelievable if I sent you pictures
+you'd never know and I and my rims are
+powder coated and both the vehicles he's
+done for me you'd never even know they
+were they looked like they just rolled
+off the showroom floor okay all right so
+I've got everything I need to know I
+love this business and for so many
+reasons and I I could be biased so I'll
+just put all out there so first of all
+my mother-in-law was in town two weeks
+ago and uh bless her heart I I have a
+Model S and I I let her drive it and
+she she floored it over a pothole and I
+have the upgraded Wheels like the wheels
+and she popped a tire and I was very um
+angry because I'm like I I read in all
+the message boards like these wheels are
+so sensitive like so I know where every
+pothole is in town I like my car has
+never touched anything yeah like it it
+has never brushed up against anything
+and so I I was a little angry um and so
+she she popped two of my tires and she
+bent the wheel uh Discount Tire told me
+it was bent I it doesn't look bent I
+couldn't tell it was bent but they're
+like you know you're going to have
+uneven wear on this one rear tire I
+still haven't fixed it I don't know if
+he does uh bent wheels or just curb rash
+but that's that's not the point my point
+is like I I know there's demand for this
+and it's not just because of my sample
+size of one it sounds like there's
+insane demand in St Louis um I I love
+businesses that are built up around
+Tesla because I don't know what it is
+about that fan base like they are rabid
+yep if I tweet about Tesla it goes viral
+like I I don't know what it is like I
+like my Tesla it's great sure but even I
+I don't get it right it's the most
+polarizing car brand out there and it's
+not even close and so their growth is
+clearly insane they're dropping prices
+they're they're they're putting out a
+bunch more cars um I I think one could
+crush it only doing Tesla starting that
+way at least even naming the business
+like bolt wheel repair or something and
+then as you expand and you do non- Tesla
+vehicles no one cares that it's called B
+right you just change the copy on on
+your website to say you do all vehicles
+but I'm surprised this isn't more of
+like a more of a of a thing like
+pressure washing is a is a thing right I
+I feel like it's the secrets out um yeah
+maybe I just don't know many other
+places in terms of Roi for car ownership
+where you know you and especially when
+we're talking about Teslas Chris they
+all come off the factory with black rims
+now you know like you you Cur rash them
+like it's an ISO immediately mhm and
+just the ROI you get for somebody to
+come to your house and do it on in your
+driveway or while you're parked at work
+just sitting there anyway couple hundred
+two two three hund bucks and it looks
+like new again well and here's the thing
+mobile tire replacement and tire repair
+is also becoming more and more within
+there's franchises with Vans growing
+like crazy and so if you build a
+customer base over a couple years then
+you can start you can start doing tires
+as well right why
+I've always wondered around Tesla too um
+speaking about you know how how Rabbid
+Tesla fans are why aren't there some
+young enterprising kids out there
+somewhere who are washing cars at at
+superchargers oh like if I'm sitting
+there I'm sitting there for 35 minutes
+why don't I have why don't I have two
+buckets and a truck with a water tank in
+the back and hey how long you charging
+oh I'll be here another half an hour
+yeah I'll wash your car for 25 bucks
+Rick I apologize for seeing your DM
+because you're like a good tweet gold
+mine like I'm getting so much content
+from this one segment that should
+totally be a thing I don't know how it's
+not I mean eventually maybe somebody
+with from the city or municipality
+wherever the charger is would come run
+you out of there but for crying out loud
+you could probably wash 10 cars a day at
+one supercharger before you get run out
+of anywhere go well not just not just
+that but a lot of Tesla owners myself
+included are afraid to take it through
+an automatic watch yeah so mine's always
+dirty for that reason yep like I hate
+Wasing it there are products you know
+like Optimum no Rin onr most people call
+it Optimum no Rin you don't even need a
+you don't have to rinse it you just have
+a two bucket system one with clean water
+one with the dirty water you don't even
+you don't even have to have a power
+washer or you know a power wand or spray
+hose or anything that could be an upsell
+at the supercharges they watch right man
+that is a good idea I'm all in on that
+idea all right yep you you validated
+everything I came to you for today okay
+good have a great weekend thanks Rick
+you too thanks your
+steon all right Chris why don't you wrap
+us up all right well uh thank you
+everyone for joining this was fun I
+enjoyed it um you're satisfying my
+Curiosities and um let's do it again
+next week so we've got eight more of
+these this is a 10-week test and uh if
+we're growing in six seven eight weeks
+then we'll keep it going if not then I'm
+going to shut it down so thanks for
+joining anyway love you guys thanks
+everyone bye

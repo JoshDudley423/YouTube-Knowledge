@@ -1,0 +1,952 @@
+Home service business owners have one
+huge problem and they are begging to pay
+people like you and I, aspiring
+entrepreneurs, to fix that problem for
+them. The problem is that 78% of
+customers will hire the first company
+that gives them a quote. So, if you
+don't respond to that lead quickly
+enough, you've lost it. They don't want
+the best company or the cheapest
+company. They want the one that gives
+them a quote the fastest. So, if they
+take 24 hours to get back to you because
+they're busy on a job site, they're
+losing money. We're going to help them
+fix that today in two ways. Number one,
+we're going to use a no code tool to
+build a solution for them. And number
+two, at the end of this video, I'm going
+to show you exactly how to find business
+owner customers that will pay you
+upfront and every single month to use
+this tool. And as a little bonus, I'm
+even going to find a customer right here
+on camera in front of you live. No
+audience plants. And another problem
+that business owners have is that they
+don't know how much money they're
+making. So, in this video, I'm also
+going to build a job profit tracker that
+you can sell to the same business owners
+that you're reaching out to about the
+instant quote builder that you're
+building for them, too. Get your foot in
+the door? Sell them more stuff. Don't
+know how to code? Great. Neither do I.
+Luckily, we can use AI for that.
+First thing I'm going to do is go over
+to lovable.dev. If you're unfamiliar
+with Lovable, it's an app where you just
+describe what you want built and it
+builds it for you. the front end, the
+back end, the database, authentication,
+payments, everything, all from a
+conversation. It's a great tool for
+nontechnical founders such as myself.
+They've had over 40 million projects
+built on the platform. Companies like
+Apple, Microsoft, Uber, HubSpot, they
+all use them, and so do independent
+entrepreneurs such as ourselves. Okay,
+so what you're about to watch is from a
+nontechnical founder with no coding
+knowledge, and you can use the same tool
+at the link in my description. Okay, in
+my experience, the best way to prompt a
+vibe coding app like lovable is to first
+ask ChatGBT to give you the best prompt
+for it for that specific tool. And
+that's the only thing we're going to do
+in ChatGpt today. Okay, I'm going to hit
+thinking on the drop down. And this is
+my whole prompt. Considering everything
+you know about Lovable, give me a very
+thorough prompt that I can give to
+Lovable to build an instant quote
+generator tool that I plan to sell to
+garage door repair business owners. I
+want it to know that I'm not a garage
+door repair business owner that I'm
+selling it to them because that's going
+to build a different product. And I also
+want it to know that I'm going to give
+this to Lovable, not to a different vibe
+coding app because it knows exactly how
+to massage Lovable to get the best
+possible result. I'm also going to say
+this will be a web app, not a mobile
+app, but it must be mobile friendly. I
+hit thinking on the drop down and I'm
+going to go. Okay. Boom. I'm not even
+going to read this. Looks good to me.
+Hit copy. Back to Lovable. I'm logged
+in. I have an account. Paste it. Oh
+jeez, this is huge. Holy crap. Okay, not
+only did it give me a huge prompt,
+thousands of words, but it told me what
+to prompt it with afterwards. It gave me
+five additional prompts as follow-ups
+once it starts building the thing from
+the original prompt. So, let's copy
+that, paste it to Lovable Build. And you
+know what? I'm kind of impatient. So,
+I'm going to open a second Lovable tab
+and prompt it to start building that
+profit tracker for garage door repair
+businesses at the same time. And yes,
+I'm going to use JHBT to prompt that as
+well. So I said perfect. Now I also want
+to build a job profit tracker for garage
+door repair businesses on Lovable as
+well. Give me the prompts needed for
+that as well. Mobile friendly, etc.
+Okay, there's my prompt. Copy it back to
+Lovable. Paste. We'll get it cooking.
+Okay, now we go back to the original
+one, the instant quote generator. And it
+just wants approval to start building.
+Boom. Approved. And we'll go ahead and
+enable uh browser notifications so I
+don't waste any time. And same deal over
+here. We'll approve the job profit
+calculator as well. So remember, this
+quote builder is going to live on the
+business owner's website. It'll ask
+potential customers a few questions
+about their garage, their home, their
+needs, and it will provide an instant
+ballpark quote form while also capturing
+them as a lead so the owner can retarget
+them if they don't close. You can see
+right here it's doing phase one,
+enabling lovable cloud database schema
+RLS. I don't know what that means, but
+it looks cool. And then on the other
+app, looks like it's stopping to think.
+It's migrating things, editing the logo,
+site header, footer, marketing layout,
+etc. It's like it's an AI agent that's
+doing stuff for us while we browse other
+websites. Okay, that took about 8
+minutes and we have a preview here.
+Instant garage door repair quotes for
+your website. Free trial. See demo quote
+form. That's awesome. So, not only did
+it build the app for me, but it built
+the website for me to sell the app from.
+I'm assuming that was in the prompt from
+Chad GPD, but I wasn't expecting it
+because I didn't read the whole prompt.
+But that's huge because, you know, you
+can't just sell a web app without a
+website. So, let's click see demo quote
+form. Step 105. Name, phone, email,
+street address. Continue. Continue.
+Okay. Let's say I have a door off track.
+You know what? I might want to check
+more than one of these. So, I'm going to
+ask the app to fix that. This is great.
+Within 24 hours. Wow. Okay, there it is.
+Request call back book service. Super
+clean. I love it. Okay. And if we check
+on the profit calculator, we're going to
+look at preview. Know your profit on
+every garage door job. Okay. Kind of the
+same thing. You can see the website
+where you'll be promoting it and then
+see the demo. Start your free trial.
+Okay. I don't know what I would change.
+It's done with phase 1 through three. It
+took about 12 minutes for that. Okay.
+We're now to the billing portion. It's
+recommending paddle. Cool. I'll just say
+yes. Okay. So, it's going to enable
+payments for me. Uh, accept payments
+globally. Sales. It's just like I just
+want to take a minute and say how crazy
+is it that with one click I can have all
+of these things right here done for me
+without knowing anything about any of
+them. Okay, of course it needs my my
+business name, legal info, etc. Now, I'm
+assuming it's recommending Paddle
+because that's one of the only payment
+platforms that already has a built-in
+integration with. It probably cut a deal
+in the back end, but whatever. It's easy
+for me. It's frictionless. I've never
+used Paddle before for anything, but
+it's worth it to me if I don't have to
+worry about what an API document is or
+how to integrate something that I know
+nothing about. Okay, it's asking if we
+should add products in a checkout. Sure,
+click that button. Okay. What should
+happen when a customer's 14-day trial
+ends and they purchase a plan? Do we
+want to unlock plus a welcome email or
+just unlock immediately? Let's say
+unlock immediately. When a customer
+cancels their subscription, when should
+access end, the end of the billing
+period? How should upgrades and
+downgrades work? Immediate. I'm just
+going to go with its suggestions for all
+of them because they seem to be pretty
+good. Now, if we go to the instant quote
+generator, see what's happening there.
+It said it's done with phase two. Say
+the word and I just said go. So, now
+it's going through the whole payment
+provider process. Okay. Same thing over
+here. Enabling payments. It wants names
+and prices for the two plans.
+Let me get a little aggressive.
+Come up with it yourself. Now, here's
+something cool that I like. It's asking
+me if it wants me to ask it each time
+it's going to make a change or if I
+should just always allow it. I'm going
+to go allow. I'm a trusting guy. Boom.
+The apps are ready to publish. We're
+going to click that. Publish the domain.
+Make it public. Door quote pro. It came
+up with that name itself. Publish. Door
+profit pro. Same thing. Let's go live.
+All right. Now, all we have left is the
+door profit pro to publish. And it looks
+like during the readiness check,
+something broke. So, I'm just going to
+click ask lovable to fix. Okay, we don't
+want to buy a custom domain for this.
+We're just going to click public,
+continue, publish. Okay, we are now
+published live on the internet for
+anyone in the world to see. If you were
+to go to this domain or to the other
+domain, you would see exactly what I see
+here. We can use the app right here with
+the demo form or we can start a free
+trial. We can pay. We can accept
+payments, everything. We can make edits
+if we don't like the design. We can take
+a screenshot from a better-looking
+website, add it to the level and say,
+"Hey, make it look like this." We can do
+whatever we want. We just wanted to make
+this quick and dirty so this video isn't
+longer than it needs to be cuz your time
+is valuable. Of these two apps, I think
+I prefer the instant quote generator
+more or the one I'm about to show you,
+which we're going to use to acquire
+customers. I think I like the profit
+calculator the least of the three
+because I think it's just going to be
+the hardest to sell. And here's the
+profit generator. Okay, same thing. We
+can make changes to the user interface,
+to how it functions, to whatever we
+want, but it's all ready to go. Okay,
+two apps are done. We've got our profit
+per job calculator and our instant quote
+generator, both built for the garage
+door repair guys out there. But that's
+all fine and good, okay? There are a lot
+of videos that do what I just did. I'm
+not going to lie. But what you don't see
+on YouTube is people showing you how to
+actually find customers live. Like not
+just hypothetically, here's how I would
+do it. Here's how I'm doing it. And I'm
+going to do it by the end of this video.
+You don't have to cold call. You don't
+even have to cold email. You don't have
+to go knock on doors. It's not that
+hard. I'm about to show you. It's
+actually very, very simple. You can do
+it in just a few clicks in a few
+minutes. This is something that you
+could charge $ 20 to $200 per lead for,
+as in every time they get an after hours
+call, you swipe their card. Or you can
+charge hundreds of dollars per month for
+this. And it costs you close to nothing
+per month. So without further ado, let's
+get started. I had to start by
+brainstorming some high ticket home
+service businesses that are likely to
+get after hours calls. Why high ticket?
+Because they can pay more for leads. Why
+after hours? because those guys are more
+likely to need my service. Like, if your
+toilet starts spewing water at 10 p.m.,
+you're going to call a plumber. But
+plumbers are actually a lot more
+sophisticated than you might think
+because private equity has already
+gotten a hold of the big three:
+plumbers, HVAC, and electrical. So, I'm
+not going to go there. I'm going to go
+for something high ticket, something
+that gets after hours calls, but that
+hasn't already been attacked by private
+equity. And I chose garage doors. It
+costs between $400 and $2,500 to get
+your garage door fixed. And if you're
+trying to go somewhere at 10 p.m. and
+that thing won't open and you can't
+leave, you're going to call a guy and
+most likely that guy's sitting at home
+with his phone on silent watching
+Netflix with his wife and he's losing
+out on hundreds and thousands of dollars
+until you come in, until I come in. So,
+I'm going to start by scraping a
+database, removing all the landlines cuz
+I want to text these business owners.
+And then only after I have an interested
+fish on the hook am I going to build an
+AI voice agent and it's literally going
+to take me seconds. Okay. Now, before we
+reach out to owners in this industry, we
+need real phone numbers. Let's scrape
+them. So, once we're an outs scraper,
+we're going to go to brand Google Google
+Maps data scraper. And I'm going to say
+garage door,
+not supplier. I'm going to go to Dallas.
+So, I'm in DFW and I want to choose DFW
+cities because it's going to be more
+likely for me to close customers here
+even if I never have to meet them in
+person because they people want to buy
+from people that are local. So, I'm just
+going to type in a handful of DFW cities
+for Worth McKini
+and Allen. These are like some of the
+biggest suburbs in Dallas for Worth
+area. All right, maximum results. I'm
+gonna do a thousand. And
+you can choose one of these packs. I
+just want their phone numbers. Honestly,
+phone is not blank. That's all I want.
+All right. We're going to click get
+data. Now, it'll give me an estimate of
+how much this costs. $928. Boom. 8 to 30
+minutes. Now, it was interesting that
+Google Maps doesn't have a garage door
+repair category. I was kind of surprised
+by that cuz they have thousands of
+categories. But if you at least search
+the keyword, it's going to show me some
+garage door suppliers and some garage
+door repair companies. So, I'll just
+have to filter out the irrelevant
+results. Now, I'm going to go to tasks.
+Says it's in progress. Okay. While the
+scrape is running in the background,
+we're going to start on building the
+voice agent. All right. So, I am going
+to log into my highle account and I'm
+going to use their AI employee feature.
+And they do have like a 30-day free
+trial for AI employee, which means you
+can test and launch and validate this
+business without spending hardly any
+money. You're going to spend a little
+bit on the scrape, a little bit on the
+texting software, but we're talking
+under a hundred bucks and you can know
+if you're in business or not. All right.
+So, I'm going to go down and do explore
+voice AI. Okay, look at this. This is
+brand new. I've not set up anything
+beforehand. I'm going to click create
+agent and I'm going to create custom
+agent. I'm going to say Chris's YouTube
+video,
+business name, Chris's garage door
+repair, voice, Jessica. Jessica sounds
+good to me. My time zone, we're only
+setting this up for inbound calls. And
+we're going to change the welcome
+message to just say, "Hey, you have
+reached Chris's garage door repair. How
+can I help you today?" Okay, knowledge
+base. Now, in time after we actually
+launch this business, we do want to
+import a knowledge base, which you can
+use Chad GBT to generate. A knowledge
+base is just going to be something like
+here's our price for a double garage
+door repair, a single garage door
+repair, here's our search charge for
+afterhour calls, or maybe the whole
+knowledge base is just like, let me get
+your info, we'll call you first thing in
+the morning. Or it responds with, let me
+patch you forward to the owner real
+quick, which you can also do with this.
+Most of these people will know that
+they're speaking to an AI, but they'd
+rather speak to an AI than nobody. And
+when they call your competitors, they're
+not speaking to anyone. They're just
+going to voicemail. So, in a perfect
+world, you use the AI to get their
+generalized data, name, phone, email,
+address, and then you patch them through
+to the owner, especially if the AI can
+discern that they are highly motivated
+to get a job done ASAP. All right, names
+to collect. Name. We don't need their
+email address. And we're already gonna
+have their phone number. So, let's just
+do name and address. I want to receive
+an email when the call is over. And I'm
+not going to mess about triggering a
+workflow with this cuz that gets a
+little complex, but it's not even
+necessary for this. Okay, let's go to my
+phone number pool. I have a number saved
+in my highle account that's a local area
+code number, which is another reason why
+I want to scrape people here local to
+DFW. And my working hours for this agent
+is going to be 24/7. All right, now
+let's go ahead and test this thing out.
+Let's see if it works. I'm going to put
+in my number. This is my personal cell
+phone number attached to this iPhone
+right here. And I saved the number cuz
+my phone normally ignores unknown
+callers. So, I saved it. Let's see how
+it goes. All right, it's calling. That
+didn't take long.
+>> Hey, you have reached Chris's garage
+door repair. How can I help you today?
+>> Yes, my garage door is not opening and I
+need someone out here as soon as
+possible.
+>> Got it. That sounds frustrating. Let's
+get this sorted out quickly. Can I get
+your name, please?
+>> I'll make sure everything's set up for a
+prompt call back.
+>> My name is Chris.
+>> Thanks, Chris. Just to confirm, that's
+CH R I S, right?
+>> Yep.
+>> All right. Thanks for confirming, Chris.
+Could you please give me your address so
+we know where to send our technician?
+>> 123 Maple Lane.
+>> Thanks. Just to confirm, that's 123
+Maple Lane, correct?
+>> Yes.
+>> Thanks for confirming your address. A
+team member will reach out to you as
+soon as possible to get this taken care
+of. We always aim for a quick response.
+Is there anything else you need help
+with right now?
+>> Nope, that's it.
+>> Thanks again, Chris. Someone from our
+team will be in touch shortly to help
+with your garage door. Have a great day.
+>> All right, 1 minute 14 seconds. It got
+my information. Let's see what got
+captured here in High Level. There's the
+exact transcript. The recording is
+available. It's just hasn't been
+uploaded yet. So it will be there.
+There's a summary. Then you click save
+and then I will get an email summary of
+the call as both the agency owner, the
+business owner and the garage door owner
+would get an email of that as well. So
+that's literally it. We talked about
+these AI voice agents. I just created
+one. It took a couple minutes. What's
+crazy is like 6 months ago, I emailed
+this guy from this company that was
+Silicon Valley funded and it's an AI
+voice agent for small businesses like
+these. And he raised a ton of money.
+He's got employees and he's doing great.
+He's crushing it. And I'm sure his
+calling service has a ton of other
+features that we can't create in just a
+couple minutes. But what's crazy is now
+just a few months later, we can recreate
+that same experience, almost the same
+experience with just a few clicks under
+a 30-day free trial. But let's get back
+to my scrape and see if I have this list
+of all these garage door business
+owners. All right, it says it's going to
+finish in about 10 minutes. Okay, quick
+pause. This is the detail that most
+people miss. So, when you actually set
+up this AI voice agent for a business
+owner, you're going to want him to have
+his own dedicated phone number or you
+can port in his existing phone number.
+Use high level to create a workflow
+after that call is made to forward the
+homeowner directly to the business
+owner, but only if the homeowner asks a
+few questions in a certain way. So,
+maybe they say, you know, it's not
+urgent. I just wanted him to know that I
+have this problem. Cool. I'm not going
+to forward you. But if they say, "My
+pipe is burst. My house is flooding.
+Please let me talk to the owner. I need
+him here now." Then you would just tell
+the AI in this very simple workflow
+builder to forward the call on to the
+owner. And if he doesn't answer, then
+you can set up secondary and tertiary
+people for the AI to forward on the
+number two. Okay, we're going to do one
+more thing to set this up and then start
+texting. Now, if you click switch to
+advanced mode, you can go into chat GPT
+and say, "Hey, I need you to make a
+knowledge base or script for my AI voice
+agent. You are an after hours AI voice
+answering service for a garage door
+repair company called Chris's garage
+door repairs. And you can plug in this
+exact prompt that you see here with the
+background info, instructions for
+handling callers queries, general rules
+for handling callers queries, and script
+instructions. You don't need to think of
+all these things yourself. Just have
+Chad GBT do it for you. That's your
+knowledge base. It doesn't need to be
+complicated. It's basically one prompt.
+And then every time a call is made, it's
+going to refer to that prompt and answer
+accordingly. All right, let's see if our
+scrape is done. Boom. Okay, here's what
+we're gonna do. We're gonna click the
+Google Sheets button and transfer all
+this data into Google Sheets. Boom. Look
+at that. How beautiful. How many results
+do I have? Highlight the column. Look
+down here. 513 results. Awesome. What
+did it cost me to run this scrape? $111.
+$111 for over 500 results. Can't beat
+that with a stick. Now, this is a very
+important part of the process. We need
+to clean up this data because there's
+too much going on here. 90% of these
+columns we don't need. So, I'm going to
+show you exactly how to clean these up
+in the most efficient way. These are all
+the columns I'm going to delete. A C. I
+mean, really, I'm going to delete almost
+all of these columns. I want the name of
+the business. I want the website. I want
+the address. But most importantly, I
+want the phone number. There's the phone
+number in column Q. There's another
+phone number in column A. That one's
+going to be more accurate because this
+one came from Google Maps which is more
+exhaustive and this one came from
+company and insights which is probably
+some database like Manta and those are a
+lot more hit and miss. I mean you can
+see that only about 60% of the numbers
+are present. So we're going to delete
+column AB and then we're going to delete
+all of these other columns. Boom. Let's
+put filters on here. They're all
+categorized as garage door suppliers
+because there is no category for garage
+door repairs. But here's what you can
+do. Highlight column C and column B. Go
+to format, conditional formatting,
+format cells if text contains repair.
+Boom. Now we can see in green all of the
+businesses that have the word repair in
+their name. And we're going to start
+there. Now granted, there will be a lot
+of other ones that don't have the word
+repair in their name that still repair
+garage doors, but we're just trying to
+keep this simple for now. Then you can
+sort by color, fill color, green. Okay,
+so now we're only left with 144, which
+is okay. And some of these companies
+just have multiple locations, but it's
+the same company. To keep this simple, I
+want to identify the repair companies
+more easily, but I'm still going to
+enrich all of the data cuz I only have
+542 leads. So after I remove all the
+landlines and bad data, I don't want to
+be left with too few leads. So the most
+important thing I'm going to do here is
+I'm going to go to column A where the
+phone number is and I'm going to go find
+Ctrl+F. Click these three dots and I
+want to find plus one space. I want to
+remove all of the plus ones and all of
+these phone numbers because I want to
+standardize them. And then I'm going to
+find all the dashes and replace those
+with nothing because I want to
+standardize them. So now on all the
+phone numbers, you can see they're
+standardized. But some of these
+businesses have one phone number but 10
+locations. So I want to remove all the
+duplicates. So now I'm going to
+highlight all the cells. I'm going to
+click data data cleanup. Remove
+duplicates. Data had his header row.
+Unselect all. Go to column A phone. And
+I'm going to remove duplicates based on
+everything found in column A. Boom.
+There are only 10 duplicate rows. That's
+good. Now, also I'm going to do
+something very important here. I'm going
+to sort them all by phone number. And
+I'm going to make sure that there are no
+blanks. And this will be important for a
+reason I'll show you here in a minute.
+I'm going to delete all of these
+columns, even that phone number. I don't
+need any of this stuff. Now, remember,
+this data cleanup process will be the
+same no matter what industry you're in.
+This is not just for garage doors. So,
+don't skip over this part. This is
+important. All right. Now, I'm going to
+sort these numbers by fixed line,
+landline, or mobile. And I'm going to
+delete everything else. See, a lot of
+these, it doesn't know if it's fixed
+line, landline, or mobile. So, I'm going
+to delete them because I don't want to
+take the risk. I'm only going to keep
+these cell phone numbers. Now, we
+started at 512 or 540. We're left with
+153 cell phone numbers. So, I'm going to
+delete these columns. I don't need them
+now. And I'm left with all these. Okay.
+Cool, cool, cool. Okay. 50 strangers,
+cold text. Let's see what happens. And
+remember, 50 is not all that much. A 1%
+close rate from these texts would be
+huge. So, if that number is true, then
+we might not even get one person. So,
+we'll have to expand the scope from
+there if we don't. So, we're going to go
+over to straight text. And this is my
+favorite app for doing bulk texting. I
+love it because it sends your text from
+your MacBook or from your iPhone. You
+don't have to have an iPhone or MacBook
+to use it. You can use Android, you can
+use PC, but it is statistically proven
+that texts have a higher response rate
+and higher open rate if they're in blue
+because about 2/3 of Americans use
+iPhones and they trust text more if it's
+in blue. Don't kill the messenger. So,
+we're going to click new broadcast. And
+we can put in custom variables like
+first name or last name, but we didn't
+scrape those. We're not worried about
+this for this. So, I'm going to
+duplicate this sheet and I'm going to
+randomize.
+If you still don't believe that there's
+no audience plant after this, then I
+just can't help you. If you use this
+formula equals rand open and then close
+parenthesis and then double click it,
+that will add a perfectly randomized
+number into each cell. And then if you
+sort it smallest to greatest, greatest
+to smallest, it will perfectly randomize
+this list. Okay? And so I did that here.
+And then I'm only going to text 50
+people. Now remember, actually, let me
+do this. I want to sort by the ones that
+have repair in the name and then
+everything else is random because I want
+to text people that are more likely to
+be my customers. So, I'm going to delete
+everything after this row because I'm
+only going to text 50 people. And then
+if we want to go back and text the other
+80 or so, we can go to this tab right
+here. So, about half of these have
+exactly half of them have the word
+repair in their name and the other half
+don't. So, we're going to go file,
+download CSV. Back to straight text.
+We're going to do this. Upload CSV.
+Choose file out scraper. 50 valid phone
+numbers found. And then I'm going to
+type my message.
+So, you don't want the message to be
+over 160 characters because then it's
+going to be two SMSs. And then if it
+does go out via Android and not
+iMessage, it's twice as many. It It just
+breaks up the text. it doesn't look as
+good. Also, the best reason to not make
+your first text too long is shorter
+texts have a higher response rate.
+That's just a fact, right? You're going
+to want to tell them everything all at
+once cuz you're excited. Don't. I'm just
+trying to validate that they own the
+business that I think they own first.
+We'll get to the sales pitch later. So,
+here's my pitch. Hey, I'm here in
+Dallas. Do you fix garage doors? I found
+you on Google Maps, Chris. I'm going to
+say, do you still fix? Because that's
+going to like cause them to be like,
+yeah, I still do. Yeah, I'm still. Why
+wouldn't I still be in business? I'm
+putting my first name in there so they
+can see it's coming from a real person.
+I'm putting the word Dallas in there so
+they can see that it's someone local.
+So, yes, they are thinking that I need
+my garage door fixed. But that's just
+how the pitch has to be if we want them
+to respond. So, this is all going to be
+in real time. Okay, it's 10:23. We've
+been at this for about 42 minutes so
+far, and we're going to send a text to
+50 people. It does say undifferiated
+messages. Your iMessage could get
+blocked. It is good to put like a city
+name or a first name in there. I highly
+recommend that. I'm not going to because
+I didn't take the time to scrape the
+first names and only some of these had
+city names. You know what? I take that
+back. I'm going to add city names. I'm
+going to do something a little tricky.
+I'm going to add a handful of different
+city names just to make the text more
+personalized. All right, we're going to
+download CSV. Boom. All right. Now that
+we have 50 phone numbers, they're all
+cell phones. Half of them have the word
+repair in their name. Half of them
+don't. We've added city names so we can
+personalize the text message. We want
+them to be somewhat unique. They won't
+all be unique because there's not 50
+different cities, but they'll be more
+unique than not having any custom
+variable in the text. So, we're going to
+click upload CSV and I'm going to say,
+hey, I'm here in Dallas. I'm here in
+first name because remember I put the
+city name under first name. And then I'm
+going to click save broadcast. And then
+I need to see that they look okay. So
+you can see that it successfully
+imported the first names or the city
+names as first names. Now let's do it.
+Let's see. All right. Look, you can see
+here as they send, is it blue? Is it
+green? Android vers iPhone. And is it
+putting in the right custom variables?
+This says it's putting in Plano in this
+case. So, what's cool is if I go over to
+my iMessage, boom, there's the text
+right there. They're sending green,
+green, that one was red. Boom. First
+response. So, I am surprised to see so
+many Androids. Maybe because they're
+Google voice numbers or something. But
+look at these responses I'm getting so
+far. 1 2 3 4. Four responses out of 12
+sent. Go over here. Now, I'm not going
+to respond at all until all 50 are sent
+out. All right, let's hit the fast
+forward button on this.
+We're done. Look at this. 50 cent. All
+done. Here we go. Boom. Look at our
+analytics. Boom. Let's see what our
+response rate is in the first 5 minutes.
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+16 out of 50. That's like 30% over 30%
+in the first 10 minutes, which means
+we'll probably end up around 60 or 70%,
+which is insane. I mean, look at all
+this. Okay, let's get to responding. All
+right, so I just kind of made this up on
+the spot. Awesome. Do you answer your
+phone after hours? The reason I ask is
+because I created an AI voice agent that
+will I'm going to say for garage door
+repair companies that will answer your
+calls 247 and you only pay me 50 bucks
+when you close a lead from one of those
+calls. No contracts, no money upfront,
+no risk, free setup. You have nothing to
+lose.
+And the AI agent sounds like a real
+person. All right, that's my pitch. I
+haven't optimized it. I haven't AB
+tested it yet. I just made it up on the
+spot. I want them to know it's for
+garage door repair. It's for them. I
+want them to know that I'm local like
+them. They have nothing to risk. They
+don't have to pay me anything up front.
+They don't have any contracts. Now, if
+this business grows and it's successful,
+then I'm probably going to change this
+pricing. I might require a contract. I
+might require money upfront. I might
+require a monthly retainer in addition
+to per lead or maybe only a monthly
+retainer. I don't know what I don't know
+yet. But anytime I'm launching a
+business, I don't want the price to get
+in the way of the business being
+successful or not. If this business
+doesn't work out, which most don't, I
+don't want it to be because of the
+price. I want to have a killer offer,
+even if it doesn't make me a lot of
+money, so then I can adjust and raise my
+prices later on. So, I'm going to copy
+this. And don't get me wrong, if there's
+demand for this, I will start this
+business today. Like, you don't need to
+twist my arm to get me to start a
+business. I'm going to put my full name
+in there.
+Boom. All right. I'm going to count how
+many times I send it. Two. Three. Four.
+Five. They said no. Six.
+7 8 9 10 11
+17. That guy said he doesn't fix them.
+18. All right. I've sent my pitch to 18
+people. That's 18 out of 50. About 20 21
+have responded so far. We're closing in
+on a 50% response rate. Only a couple of
+those said they don't repair. So, as
+suspected, we can rest assured that most
+of those garage door supply companies
+are actually garage door repair
+companies. And maybe about 10 to 15% of
+them are actual supply companies. All
+right, let's count our no thankses here.
+No thanks. Oh, that's another pitch.
+That's 19. 19. Yes, I repair. Oh, any
+interest? Yes. Okay, that's a good sign,
+guys. I don't know these guys. I don't
+know anyone that fixes garage doors. Go
+Google this guy's phone number. It's an
+actual garage door repair business owner
+here in DFW. I'm like, I have tingles. I
+literally I don't know if you can see
+that. I literally have tingles on the
+back of my neck right now because I just
+got a yes. Like, no, I don't have his
+money. Yes, he probably won't close.
+Most deals never close. But I got a yes
+in under an hour, guys. Look, 10:39. You
+see my clock? We started at 9:41. It's
+been under an hour. Okay, that's 20. Not
+interested. Okay, so these are really
+good numbers. Let's extrapolate real
+quick. 550 uh garage door companies,
+like five cities in DFW, but that was
+probably half the population. Okay, so
+let's say there's a thousand garage door
+companies in DFW. DFW is about 2%. It's
+really closer to three. Let's say 2% of
+the US population. Okay? So a,000 * 50
+because to get 50 is 2%. Just take my
+word for it. 1,000* 50 is 50,000. So
+we're talking about 50,000 garage door
+repair companies in the US. Let's be
+conservative. Let's say there are
+30,000, 20,000. It doesn't matter. Okay?
+And already I have one of 50 to say yes,
+I'm interested. I want that. I don't
+know that he'll close, but one of 50.
+Okay? That's a 2% yes rate. Not response
+rate, but yes rate, that's massive. If I
+can close one out of every two of those,
+which I really think is conservative,
+then that means I can close 1% of
+everyone I text. Okay? So, if there's
+20,000 in the country, I text all of
+them. That's 200 customers. They each
+pay me $500 a month for this. That's
+$100,000 a month. $100,000 a month. $1.2
+million a year. Your costs are almost
+nothing. You don't need employees. If
+interested, we'll reach out at a later
+date. For now, we handle everything in
+house. It's not a no. And here's the
+thing. All those other people that
+didn't even text back at all, they don't
+know what I offer. I could easily
+convert them at the same rate, right?
+So, I'm getting a 2% yes rate after only
+40% of people have responded. So, to
+think that I could convert 1% of these
+is very, very conservative. So, today
+I've shown you how to build three
+different things in two different tools.
+Two apps with lovable, one app with go
+high level. So, go build something. more
+importantly, go sell something. You now
+have the playbook. You could have done
+this same outreach method with the
+profit calculator app or the pricing
+calculator app. It doesn't have to be
+led with the voice agent. That's just
+how I chose to do it here. Guys, Lovable
+just works. They support the channel, so
+I support them. I use their app on a
+regular basis. You just describe what
+you want, and if you don't know how to
+describe what you want, ask Chad or
+Grock or whatever to describe it for
+you, and you build it. It has
+self-healing code. You just click a
+button. Fix this. You own everything.
+You can export it from lovable so you
+don't have to keep it like locked within
+there. You can put it in GitHub,
+WordPress, whatever you want. Lovable
+has an amazing mobile app. So when
+you're on the go, you can make edits to
+these apps. You can publish. You can do
+whatever you want to do on the mobile
+app that you need to do on the web app
+as well. It has all the security sock 2
+compliant, ISO compliant. This is built
+for people, not for developers, not
+engineers, people with ideas like me and
+you. So, if you want to build something
+for yourself, please use my lovable link
+below and you'll get a free month if you
+use promo code TYC creator26. Please
+share this with a friend and we will see
+you next time on the Kerner

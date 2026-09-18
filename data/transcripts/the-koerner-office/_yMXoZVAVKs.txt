@@ -1,0 +1,1618 @@
+just saying I want to implement AI into
+your business you're going to get sales
+right out the gate because no one else
+is really trying to help the small
+business on AI just leave the tools
+there cuz there's no cost to me walk to
+the next business my hit rate was over
+85 90% walking into a local business how
+much are your biggest sass preneurs
+making per month definitely High eight
+figures we heard one that's getting into
+the nine fig range one big customer that
+could change your life I would go find a
+franchisee customer that's part of a
+small franchise or like 30 40 locations
+crush it for them and then then get
+[Music]
+everyone high level comes up a lot on
+this podcast and for good reason high
+level has over a 100,000 customers and
+most of those customers they call SAS
+preneurs which is basically just a guy
+running a marketing agency and that
+marketing agency is entirely built on
+and powered by high level you want to do
+automated text back an automated voice
+answering service cold emailing agency
+website agency anything you want you can
+build it all on top of high level and so
+instead of talking to someone that's
+built a business on High level I wanted
+to peel back the curtain and talk to the
+guy that built high level that sees from
+the inside who is having the most
+success on High level and what are they
+building what types of businesses should
+you be building on High level where
+you're most likely to have the most
+success and so I had one of the
+co-founders on Rob and Alex and I asked
+them all these questions so whether you
+already own a business and want to
+seamlessly integrate AI or just a
+cheaper CRM or you want to start a
+business that can charge between $500
+and $55,000 a month month to small
+business owners you're going to love
+this episode high level is an all-in-one
+AI CRM platform and a lot beyond that so
+we've basically taken everything to help
+grow a business from top of funnel down
+to lead management down to operational
+things from automations connecting to
+other software applications that you use
+for your business down to like sending
+invoices and managing your finances and
+stuff like that so we're trying to take
+over the world as far as what businesses
+need but what we're known for uh for
+many is like being the CRM automations
+platform it's a zapier that is more fit
+for small businesses Andor marketing
+agencies that's kind of one aspect of it
+right yeah yeah exactly so the way that
+we started I came come from a marketing
+agency background as well as
+entrepreneurship and stuff I've had many
+business over time but prior to high
+level I was actually running a marketing
+agency and what I would do is go into
+small businesses and do the traditional
+marketing like oh we're coming in we're
+running Facebook ads or Google ads or
+whatever we're driving you leads and the
+problem that I would have is after a
+couple of months the business owner is
+like what do I do with this like you
+gave me a list of names or I'm getting
+these emails that people interested but
+they're not showing up to my door and it
+was like this weird thing of like yeah I
+don't know your business on how to sell
+like your actual Services I know how to
+drive interest to it you have to pick up
+your phone and call them or try to
+engage with them and book an appointment
+and I ran into this pivotal point with
+my company of like do I have to ramp up
+a sales team because our turn number
+we're losing customers as fast as we're
+gaining them so I need to ramp it up on
+that side or do I spend time and
+understand why my customers are leaving
+and really turning into more of a
+consulting company and so I decided to
+go the route of being a Consulting uh
+firm and we were actually helping
+businesses you know like how can they
+manage their contacts or leads and
+really grow their businesses from ad to
+Z and at that time my team we basically
+created this infrastructure and you
+mentioned zapier and it was like
+learning apis coding things to
+connecting 15 different applications to
+help the management of these businesses
+so that when leads and opportunities
+come in how do you reach back out to
+them how do you track it when that the
+lead comes back in how do you make sure
+that conversation is fruitful to get to
+an outcome and in many cases that
+outcome was like booking an appointment
+or getting a sale or something what
+happens after that experience you know
+you gotta get reviews and so we built
+this crazy infrastructure and what was
+crazy about my journey in the agency
+space I mean we had about 25 team
+members about 200 clients on its peak I
+received a random phone call from one of
+my customers who are saying hey I got
+approached by these two guys they're
+launching a new software and they're
+asking me questions I don't know like
+how to log into things you're you're my
+marketing guy Robin can you talk to got
+on a call with them and got them set up
+on what they needed and just started
+talking to them and and they were
+building reputation management
+application and through that
+conversation I was like well what does
+your software do here's what I'm doing
+in my business and I remember we had a
+picture of the Whiteboard of like this
+crazy schematic of what we're doing in
+our business ran in there took a picture
+and sent it to to them it's like well
+what do you guys think and I'm like well
+this is really cool it's like yeah you
+know just hypothetically like what would
+it take to build something like because
+there's nothing online that has it and
+know I have a little bit of a
+development background you know built
+stuff in the past but I was just like
+what do you guys think and both Sean and
+verun were like give us a couple days
+we'll call you back and I thought they
+were kicking me off the phone and you
+know you never know you're they're just
+being nice yeah being nice just give me
+ah this guy just won't leave us alone
+and you know they be working for megga
+Corp right like so I don't know who
+these guys are he's a project manager
+and enough Sean called me two or three
+days later and like hey do you mind
+getting on a zoom call we going to show
+you something and I remember when he
+called me I was driving to the office
+like 8 am here in Dallas driving to my
+office and yeah give me like 20 minutes
+and I'll call you back and of course I
+forget to call him back get him my
+coffee and you know just get my day
+going he called me back Charles later
+like hey where are you at you told me
+you're gonna call me back jumped on the
+computer and they had built out kind of
+the version one of what high level is
+today of what your whiteboard showed
+yeah yeah and at that point it was you
+know the leads coming into some sort of
+kind of an initial version of CRM you
+could do some basic automations and
+communicate back and forth from a
+Communications perspective conversations
+aspect into it and then we were talking
+about building a calendar tool at that
+time and then you know how do we do some
+automation stuff there but it was a very
+initial version of high level rolled it
+into a couple of customers that I had
+internally an amazing success and then
+it was like let's get to all my
+customers and I just went back to Shan
+and ruin saying hey this is incredible I
+owe a lot to you guys you guys solved a
+major problem for me can I get it out to
+other agencies kind of dealing with the
+same problem or other business you
+wanted to resell it basically no I was
+just like I just I'll refer them to you
+like I just you guys you were just like
+an evangelist I was just so happy that
+they saw something so important for my
+business and I know other businesses
+dealing with it so go talk to them and
+then they're like yeah go ahead and from
+that point on you know I just kept
+referring more and more people to them
+and you know we ended up getting invited
+to a conference for to speak and they're
+like Robin you know everyone knows you
+in that space so once you come and then
+invite Sean so Sean and I flew out there
+in San Diego and verun who's on the
+other side in Guitar couldn't make it
+but we met for the first time literally
+on the flight there I'm creating a
+landing you know kind of the the first
+website this landing page and stuff so
+that we can collect orders we get there
+we present what high level is and
+everybody in the room loved it it was it
+was amazing and what was this conference
+it was like a small business conference
+about 20 people in person and 20 people
+virtually it was you know oh that's it
+coach so was really small so we had no
+idea what to expect we've never really
+presented it you know anything like that
+it's a new product I it was just we just
+did demo in person and I remember we
+were trying to sit back down people
+called us back up like no no no no come
+back up here we got more questions and
+then you know people started asking us
+question does it do this what about this
+where you guys going with it and then
+you know people are looking at the
+website like okay hey do you guys offer
+any discounts if we buy for a year or
+anything like that and it's like we I
+remember looking at each other and then
+veron's on the screen behind us on zoom
+and we're like sure we'll do it and I'm
+like sneaking the way back to the the
+computer like adding new products and
+you know what's crazy we're now seven
+years later we're about to hit 100,000
+customers worldwide about 1700 employees
+representing about two and a half to
+three million businesses five million
+users worldwide like the numbers are
+just insane but it all came from you
+know just word of mouth because we never
+really did true sales and marketing it
+was just provide as much good value as
+we can to our customers and what
+happened to me in my experience of like
+wow this solved a major problem I want
+to tell other people about it that's
+been our mod in our philosophy since the
+beginning and that's honestly how we're
+here today all right so let me see if I
+can recap this so you had a marketing
+agency with a couple hundred customers
+presumably doing great right I mean 23
+employees for a marketing agency is is
+awesome but you kind of became a victim
+of your own success because you you were
+acquiring leads for your customers but
+then they didn't know what to do with
+them so they were churning but you were
+doing your job you're like okay I don't
+want you to churn so I'm gonna help you
+figure out what to do with these leads
+so that kind of pivot helped you acquire
+200 customers and then one of your
+random customers said hey these two guys
+they're starting a reputation management
+platform that's how they started
+basically with that one kind of product
+yeah a reputation management
+communication tool okay so you got on
+the phone with them just to connect apis
+or whatever right and then you just got
+to talking and you're like this is
+interesting here's my vision for your
+product I think there's actually much
+more to it than this and you know which
+people say all the time and it's like oh
+cool thanks kid okay have a nice day
+yeah we'll we we'll talk later but
+instead they're like this is brilliant
+yes and then they just built it and then
+you're like okay this is amazing I want
+to share it with the world and you did
+and then that in turn added so much
+value to them that they went to a
+conference to present and they're like
+shoot let's get Robin over here he knows
+the product better than we do and you
+weren't even like a part of high level
+right no I mean yeah like I just enjoyed
+the journey like yeah you know I've
+always had kind of the the the Mantra of
+you're just going to do stuff for free
+and as as you do good stuff for free
+things will come back toold if you
+provide good value it's honestly how I
+started the marketing agency right so I
+was just my whole thing like I don't
+know where this is going to go or
+anything but I'm just enjoying it and if
+people pay me along the way that that's
+great too we just kept going and it was
+like honestly a good year and a half
+before we decided to actually legitimize
+the company of like formalize because it
+was just all beta test you know like
+just threw a product up and wow people
+are buying it we never thought of like
+let's slow down and like formalize a
+company and at that point you know Sean
+verun asked me to officially on paper
+join the company and become a co-founder
+of it so who was building out all the
+tech was it Sean and oraron both of them
+they both have a engineering background
+as well okay and then what was the
+revenue model in those early days how
+much were you charging it's same as what
+it is today we have $97 a month for one
+location unlimited for 297 what about it
+like at that conference what was the
+feature the feature that just blew
+people's minds like how was it so much
+different from like the Hub spots and
+the clickfunnels of the world one aspect
+behind it was we took a lot of different
+tool like at that point it was leads
+come in and so you would have to figure
+out some crazy way through zap year to
+like pump it to a Google sheet and then
+well you needed to do text messaging so
+you need to pump it out to another
+texting tool the interesting thing about
+that is the cost of some of these
+thirdparty texting tools was so tlio no
+not not actually twilio but like think
+of the software applications that set on
+top of it like a skipio or like a call
+rail or yeah like they charge a premium
+on top of toio so what we said within
+our software is well we're going to hook
+up to toio because we know that's one of
+the largest backend providers we'll just
+give it to you at cost like that was our
+whole model it's like instead of you
+spending 50,000 cost yeah we're give it
+to a wholesale rate and yeah and
+actually you talk about the cost code
+that is actually our business model you
+know it's you pay for high level as
+which is the membership fee and then
+we're going to give you all these tools
+super inexpensive or cheap or free and
+give you the best value there and we're
+just creating this massive store of
+different products and so that was the
+initial stuff that we built and then you
+know we quickly rolled out the
+opportunities board which a lot of
+people were leveraging Trello at the
+time like that was the hot product to
+put you know what the opportunity board
+was or pipe Drive which is pipe Drive
+yeah and then it was instead of using
+Le we have it built in the software
+so just from those four or five tools
+everyone in the room was like you're
+telling me it's just one click you set
+up a customer and all of this Tech stack
+is there and I get to save money like
+that was kind of the the big aha moment
+for everybody there yeah well like gez
+my I pay like 300 bucks a month for
+zapier I've used pipe Drive in the past
+I've used Trello in the past Callen Le
+really adds up or like $18 a user and
+then per team what's crazy for me about
+high level that just broke my frame is
+my entire life I've been saying you know
+if you're everything to everyone then
+you're nobody to No One you can't you
+can't be the Jack of all trades master
+of n y y and like I log in and you're
+doing all those things and well like so
+how are you able to break that that mold
+like The Stereotype you know one of the
+things that we talk about technology
+mostly in this space is becoming a
+commodity it's like corn The Innovation
+curve has slowed down at such a level
+that it's more about the execution of it
+like there's distribution yeah and so
+for us it's you know when a contact
+comes in into a CRM it doesn't matter
+what CRM tool that that's out in the
+world it's all doing the same thing you
+can see the contact record and all the
+like there's there's nothing crazy about
+it know of course there's visual
+differences and things like that but
+it's it's the same and so I think you
+know no no one was clamoring when we
+came out of yet another CRM tool it was
+just the fact that we Consolidated
+essentially all the different you know
+things at the grocery store we just put
+it all into one place yeah that was kind
+of the unique thing thing I and I think
+just you know globally speaking in
+software 10 15 years ago into what
+you're representing it was like you need
+to be the best of one thing and the one
+thing only and be the premier product
+behind it but you know I think we were
+on The Cutting Edge of consolidating it
+and now you see a lot of these tools
+that were once the best at what they are
+are now starting to go back saying we're
+losing we need to now start building
+these other functions and tools so I
+think just as a world where we're
+starting to figure out how do you
+consolidate as much as possible have it
+for an inexpensive price and then the
+mation cost you know you mentioned
+having different team members and stuff
+like that you got six different tools
+and when it doesn't work and you got to
+teach them all the different tools
+that's actually costly and you just
+don't even realize that how much you're
+spending from a Time perspective and
+focusing on that so you yeah all those
+things is what makes us special what's
+the 8020 of what you guys offer like
+what are people using the most I love
+the 8020 rule you know that's what we
+think about from a feature set when new
+product right 80% of the feature set is
+actually 20% of what you build out so it
+it works really well there you know for
+us it's definitely the top of funnel so
+when leads come in say have the CRM
+function doing the automations and then
+the funnel Builder which you know if you
+think about it you got to have a website
+up any way that you think about it needs
+to be able to collect data and then from
+there when you collect the data it needs
+to do something that is really the three
+pieces that really pivot out to
+everything else in the software okay is
+your SMS feature growing in in
+popularity oh 100 perc and so that's one
+of the biggest products here in the
+United States
+now I will say as the larger that we've
+gotten you know we're starting to see a
+larger contingency internationally of
+small businesses getting onto the
+platform and WhatsApp is the bigger
+player there so we're seeing a lot of
+growth on that front and SMS is getting
+more costly worldwide and it's becoming
+very much more
+restrictive you know unfortunately
+there's two types of Bad actors you have
+people who are going out with good
+intention but are spamming people for
+their product services with massive
+paragraphs which no one wants to hear
+and then you have the actual Bad actors
+which coming with bad intention where
+they're trying to do the scans and
+things like that and so all the
+providers are trying to figure out how
+to stop it and you know it's now
+increasing charges or just making it
+more challenging to do it so WhatsApp is
+becoming very popular same with
+messenger Facebook Messenger as well so
+of your 100,000 plus customers roughly
+what percentage of them are end users
+versus white label Partners agencies
+yeah so we call the a white label
+partners and and agencies you know put
+them in a bucket of being sass preneurs
+that's like your Awards category yeah
+and it's basically like you know you're
+coming into our platform it's going to
+be one to many and you're trying to
+represent yourself as being a software
+Provider from that outcome so we call
+that sers that's probably about 60 to
+65% of our customers um today it used to
+be a lot higher I mean closer to 90% of
+our customers um if not even higher but
+it's slowly uh decreasing because what's
+happening is a lot of small businesses
+are coming to us who are really taking
+taking on their own operations and
+marketing themselves or they graduated
+out of you know the SAS preneurs they
+were introduced to high level through
+their agency and now they want to do it
+themselves they want to do it and what's
+fun it is like you know I was working on
+this agency I see the value of it I
+wanted the agency to do more but they're
+too busy trying to acquire new customers
+so I worked out a deal with them I'm
+coming straight to high level and
+they're trying to now leverage it they
+hire someone internally and they start
+using it for their own business and then
+over time they're like you know what I
+love this model so much I now want to
+become a SASS preneur and go tell my
+friend so it's really fun to to watch
+what that's happening and so like more
+small businesses are coming to us kind
+of in this dual fold situation now well
+as an entrepreneur myself like it's it's
+so hard to learn a really cool piece of
+software and then not want to like build
+a business on that like you you learn it
+for your own use and then you're like oh
+man it gets really tempting like oh I
+could charge a thousand bucks a month
+for this huh yeah it's I see the
+business model and it's like I have a
+little bit of extra time that I can
+people that might want it you know it's
+a little side money and then it just
+turns into a thing right yeah it's like
+I'm kind of sick of cleaning pools all
+day like I can just hop on demos and
+charge a thousand bucks a month yeah
+that's the fun part about it it's and
+that's I I think to the core of high
+level it allows people to operationalize
+their business that they thought wasn't
+even possible you know like that pool
+cleaner example that you gave it's
+you're you're waking up super early and
+you're working the the the list of
+places you got to go all the houses and
+then you try to hire more people and
+things like that in that Daily Grind and
+you just think it's like you know it's
+just a labor Rich business and that's
+the business I'm in but then when you
+start get playing you know not working
+in the business but working on the
+business and you start seeing how it
+could be operationalized you realize
+that your life can be a lot easier and
+like well I can't keep my existing
+business and maybe do something else
+here so I think that is the fun part
+about you know operationalizing business
+are you seeing business owners that do
+that just abandon their act their
+original business altogether and just
+being agency owners yeah I mean it
+definitely happens I haven't seen a lot
+where they just end up giving up their
+business I think they kind of look at it
+as I've operationalized my business I
+have now a new team member who is now
+going to own kind of the operational
+side of it but now I want to be a little
+bit of an evangelist of what I built so
+video is cool but you know what's better
+long form audio via podcast and my
+newsletter TKO pod.com go there to
+subscribe for free to my newsletter it's
+one email a week very tactical and then
+go to my audio podcast three episodes a
+week stuff like this you're going to
+love it all free no sleazy sales
+TKO pod.com so now it's I want to be
+more like a business consultant or
+implement this for other businesses
+because you know I've seen the model and
+I know that it's possible there and so
+we're we are seeing a lot of that which
+is really fun to see so if someone
+approaches you and says Robin I want to
+start an agency on a high level I'm sold
+tell me what to do like what product do
+I offer to what market like am I doing
+SMS automation to agat guys or what's
+like the the least path of resistance to
+starting an agency on High level yeah so
+prior to this year what I would tell
+people is walk out of your house go to
+any small business that you can just
+walk into Main Street USA and just say I
+want to put a chat widget on your
+website and put a form on your website
+those are two things that I can collect
+leads on very quickly and what what for
+free like I would I I mean I've always
+been the person of lead for free and I
+always do is like give you a little
+taste of it and then i' come back and be
+like hey you know I've been doing this
+for free what do you think and if you
+like it I'm thinking about charging x
+amount of dollars but I'll you know what
+would you pay me and that that's
+actually how I do market research on
+figuring out like here's what my vision
+of the price but what you're willing to
+pay you know some people oh you're gonna
+charge 500 bucks I mean you did you
+started for free and I know you're
+starting out yeah I'll pay you 200 bucks
+like perfect you know I would collect
+that revenue and now I kind of knew like
+what the market would be right I do the
+same thing it's like I want you to tell
+me an answer I will not hold this
+against you I promise I'm going to
+charge you $100 a month for this which
+is like below my cost like it's
+unsustainable but like I'm learning be
+honest based on the value you've seen me
+add what would you pay and I'm going to
+use that to charge other people you know
+so it's like wink wink I'm not going to
+charge you but what is it worth
+genuinely and I will charge you 100
+bucks is that kind of what you're saying
+yeah yeah exactly and then you know what
+what I would do is I I've always had
+this thing of like I want to almost make
+you feel guilty of me doing hard work on
+your beh and so that in in that same
+situation debted yeah and they they've
+already told me what they're willing to
+pay so they're almost like fine Robin
+here here's the $200 that I told you i'
+pay like you you killed it so keep going
+and then I would just take that as a
+reference to go to you know as go to the
+next business and say I'm working with
+Street and Sally over here is also using
+me and they're paying this much you can
+call them if you'd like you would you
+like to get my services so that's what I
+would do to scale it but in the business
+today I think one of the big things is
+doing missed call AI so when somebody
+calls a business after hours it is very
+costly because there are very important
+leads that come through after hours and
+no one's answering it so you're missing
+the opportunities there and if you were
+to hire a company you know the call
+centers and stuff like that become very
+costy as well well with high level we
+actually built a lot of AI tools and so
+you know there's this concept of Miss
+call textb so someone called and you
+could text them back saying hey sorry
+we're after hours how can I help you and
+at least you're keeping that lead active
+but now people if someone's making an
+actual call with AI and sophistication
+that it's there you can actually have a
+full-on conversation and drive that
+person to the outcome that you would
+ultimately have to do via text or or
+whatever and we're actually seeing a
+significant response rate into it mostly
+with the outcome like booking an
+appointment or you know getting it to a
+salesperson or whatever but I think it's
+so Cutting Edge and you know just when
+you use that term AI walking out to that
+business and just saying I want to
+implement AI into your business and it's
+something tangible that they understand
+you're going to get sales right out the
+gate because no one else is really
+trying to help the small business on AI
+it's always about the big companies and
+Enterprises that I think most business
+owners are seeing so before this AI
+answering service you would have said
+form and a chatbot on the website get
+your and then sorry the third one was
+the missc call textb sorry okay okay
+yeah very like
+tactically speaking how should someone
+approach that business owner is it
+literally walking into a business is it
+a cold call a text what do you have you
+seen be the most effective not just for
+you but for your customers all tactics
+work I think that's something that's
+important for everyone listening you'll
+hear people like they'll give you
+strategies on how to do cold calling and
+how to talk to businesses or email you
+know like you could send cold emails out
+to people or Instagram DMs like all
+those things work but it is a little bit
+of I mean it is hard work because you're
+going to get a lot of NOS before you get
+the yes now for me it's always been I
+you know I I love looking people in the
+eyes I love you know when I have a
+one-on-one conversation I want you to
+feel my passion because that's the
+passion I'm gonna put in my delivery so
+for me it was literally just walk up to
+businesses that I either knew or had a
+small relationship or I knew the owner
+something like that so then once I
+expanded that Network it's well there's
+a random you know clothing store down
+the street let me just walk in and see
+who I can get a hold of and just can I
+talk to you about your business I looked
+on your website you know my phone you're
+missing these things can I do it for
+free and if I get results you know then
+we'll talk yeah then we'll talk and you
+know that's where I get into that pitch
+of like you know hypothetically if I
+were to charge for this service what
+would you pay and I'm thinking about
+this and you know kind of working down
+that way but more it's just how do you
+get the conversation and you know for me
+I remember at that time starting the
+agency it was I had to kind of build the
+the the strength to kind of say I need
+to go chase more Nos and you know it was
+just like I'm expecting a no here
+but I tried and so I got those Cycles in
+and then over time you just build that
+comments of like I got it yes what do I
+say there how do I do this again right
+and you start chasing the dog that
+caught the car exactly Chase more nose I
+like that phrase that I need to buy that
+domain name so let's say what if they
+have a website that just doesn't get
+much traffic and you install the widget
+in the chatbot and nothing happens or
+the second question is what then you
+install it and then they do get traffic
+they do get leads what's the next step
+in my experience with Mo mostly
+businesses that's been around you know
+in local towns and things like that
+anytime that I put the chat widget and
+you know all the tools on the website
+and the Miss call text back they
+actually got a decent amount of traffic
+that they just didn't even know like a
+lot of people are Googling for this
+business and trying to go to their
+website to find them the phun like the
+local plumber or the pizza shop or
+whatever people are always looking out
+for them because they just have that
+local Authority I'm not saying to go to
+the the big you know franchises like the
+local the localist businesses they've
+been around for a while people know them
+and they're just trying to figure out
+how to get in contact so I've always had
+success on that front now for the a few
+that don't have enough traffic or
+whatever that's where you know I just
+come into that business and saying look
+you're not getting a lot of traffic
+that's why there's not anything going on
+but are you would you allow me to
+actually run some traffic for you and
+this is where I would you know try to
+partner with somebody and resell their
+services or try to figure out how to
+compensate another person who's an
+expert in driving traffic whether it's
+Google ads or things of that nature now
+if you don't have that relationship it's
+okay okay just say I tried right and
+then I would just leave the tools there
+because there's no cost to me walk to
+the next business but but like I said my
+hit rate was over 85 90% walking into a
+local business the local furniture store
+that's been there for 10 years they just
+get traffic and they just don't realize
+that the traffic exists and you know you
+gotta kind of Coach them through like
+hey you got a lead in there call them
+yeah people just be so fascinated and
+surprised by it so are you're saying
+your hit rate 85% that was like your
+clothes rate when cold contacting in
+person or that was the percentage of
+people that had traffic to their site
+that was my success rate of them having
+traffic on their site my close rate was
+probably you know one out of every 25
+you know mostly when I was starting like
+one out of 25 customers who'd be willing
+to give me a shot but that progressively
+got better you know once you have more
+testimonials and being like I talked to
+Bob I talked to Sally and all that and
+then over time you kind of there's
+levels to it right after you walk out to
+a couple businesses people start telling
+you like hey I see what you're doing you
+should go talk to the Chamber of
+Commerce and then you start getting in
+front of that Network and then somebody
+in there will invite you to uh something
+else right like but it's just a lot of
+it is just getting the Cycles in just
+keep keep trying to talk trying to talk
+to more people and have those
+conversations what kind of price point
+could you be able to charge for this
+like not to start but like to finish at
+well the crazy part about it is I know
+customers that are selling it for tens
+of thousands of dollars a month what
+yeah mostly when you get into businesses
+that have just High Revenue like you got
+put a perspective of one lead that
+you're able to provide to this company
+could be massive so like in the pool
+space right if you're able to take a
+lead and they're able to convert on a
+pool that pool project could be anywhere
+from 50 to 100,000 maybe even half a
+million dollars so you know being able
+to say oh I'm only charging $50 a month
+right that balance doesn't really Jive
+over time now when you're starting out
+initially yes I mean you're just trying
+to figure out pricing mods but once you
+build that confidence it's like I'm
+going to go to Every Pool Company and
+show them the model that here's the
+reason I'm trying $3,000 a month or
+$5,000 or $10,000 a month because I know
+that the average Pool Company when I put
+this widget on or Miss calls or whatever
+20 calls in a month close five of them
+yeah like you just run the math of it
+and just that's why I charge this much
+because my value is so important to your
+business that you were missing out on
+this whole time well people don't
+realize how undercharging can do them
+more harm than than good because of the
+perceived lack of value in the price so
+we're we're both on the same page you
+start cheap dirt cheap embarrassingly
+cheap but don't finish there right yeah
+do not finish there feel comfortable to
+incrementally go up and you know it is a
+slow approach and there's a little bit
+of internal conflict that you're
+probably dealing with of like will
+people pay for this I like this guy you
+know I don't want to offend him yeah
+yeah I mean these are the mental battles
+that every entrepreneur deals with but
+you need to figure out ways to continue
+charging more and the fun thing about
+high level that is you know it's very so
+much the Costco model of you come in and
+you can charge your customers a platform
+fee but on the other side of it is we
+give you access to companies to resell
+as well so think of like the text
+messaging and the emailing things like
+that you as the person who is a high
+level offering to other businesses you
+have a little slider that says I want to
+charge my customer maybe 4X the cost of
+this product so like texting is like
+point 00 675 cents per message you know
+fractions of a penny and so being able
+to say like half a penny you know you
+get to win on that Delta and so every
+time that the customer spends $20 you
+can make $5 off of it without having to
+change your base fee and so all in all
+you may end up making the three to four
+or5 thousand doar a month but at the end
+of the day it's you know how do you
+continue to figure out expanding your
+customer's wallet making sure that they
+make money and you should be able to
+make money on the back end as well what
+about a pay per lead model do you do you
+have guys successful with that we
+definitely have guys that that are
+successful with it I think the challenge
+with pay per lead is that I've seen
+businesses tend to turn it on and then
+turn it off right like for whatever
+reason they they just don't consistently
+buy the leads over and over again you
+say your customers like in your platform
+that's what you're seeing or oh no sorry
+like as an agency if you're selling the
+paper lead model to the small business
+down the street you know usually people
+are like I have this fixed budget i'
+I've done them math so that equals about
+you know 45 leads and then once they hit
+that point they typically stop um
+because they're like well I pre you know
+I paid for this or I mentally prepaid
+for it um whether it's upfront or just
+in my mind and then it's like well I've
+already made an x amount of investment
+let me see if I can work these leads and
+the problem is good job in working it
+and all that and so it's more about the
+outcome for me not so much of just the
+the lead and then good luck it's no
+different than Facebook or Google ads
+like
+you know I'll run a campaign 100 a day a
+thousand a day and then it's like okay
+this is working but I need to let's
+catch up pause it right and then a lot
+of times I never restart it because
+something happens right yeah so so
+you're saying like you know there are
+exceptions to everything but on the
+whole flat fee per month is the way to
+go and I think just as you know think
+about life in general right like don't
+you like to have just your Netflix bill
+like you you like to have it just nine
+bucks a month and then when they try to
+do the price increase it it hurts a
+little bit but you end up sucking it up
+because it's I know for the next 12
+months it's going to be this fixed rate
+when you have something that's
+utilization based you need to make sure
+that it is being used for a positive
+outcome and if it's just used for
+something that is unknown on how well
+it's GNA do then it feels like a tax
+versus an investment right and so that's
+kind of the the trade-off that you got
+to think through okay I just had this
+idea like you don't know what I would
+give Robin to export all your customers
+you're like having anxiety just me even
+saying that export all your customers or
+your customers customers and run a pivot
+table of all the industries that your
+agency or your SAS preneurs have
+customers in and then scrape every
+single small business in America 30
+million of them and look at the
+percentages right like wow okay you know
+HVAC is the the most popular home
+service but that's only the 17th most
+popular home service that our SAS
+preneurs have or you know what I'm
+saying I would love to see those
+inefficiencies because that's going to
+tell me I need to launch a marketing
+agency in I'm randomly making this up
+concrete ceiling because there's a
+thousand concrete sealing companies in
+the United States and 400 of them are on
+High level you know what I'm saying yeah
+so we definitely look at that data and
+and I'll kind of tell you kind of the
+highlights of of what you're saying like
+the number one types of businesses that
+come into high level from a volume
+perspective a percentage are the
+independent business owners so think of
+like Insurance a agents real estate
+agents mortgage you know where they're
+solopreneurs in many ways
+prosumers yeah you know think of you as
+an agency or someone who wants to start
+a SAS company or whatever it's very easy
+to have a conversation with that person
+and like well let me see if I can help
+you grow your business now the step
+above that after you get into those
+independent things is actually fitness
+Fitness is actually pretty popular you
+know and sorry coming back to the
+individual side you know you have real
+estate as number one mortgage like so
+you have those categories then you get
+into fitness and then home services is
+is a great one as well and the fun thing
+about Home Services you do have kind of
+the independent owners but they scale up
+so quickly because they end up having to
+create a network right like plumber
+who's coming in and they pick up a big
+job they might be an independent owner
+but they need to partner with the
+sheetrock guy or the you know the other
+framing you know woman who's the expert
+in that and then designers and stuff
+like that so they have kind of access to
+build a big team but they're still an
+independent owner themselves so you can
+have that conversation but know that you
+know the revenue that they're able to
+bring in is actually significant enough
+with kind of the smaller the real estate
+agent and things like that you know just
+as a whole I think there's a lot of
+potential for real estate agents but not
+every real estate you know a lot of
+people get it as a side gig or you know
+they don't have a budget I think the
+statistic for a lot of real estate
+agents is that they will do a half
+transaction in their whole yeah lifetime
+of doing a a real estate deal and it's
+only because it was like a referral
+their own property that they were a part
+of outside of that they really don't
+pursue it it's a great idea it's just a
+lot and then they're coming off as a
+secondary part-time job not as a
+full-time so there's different levels on
+that why not basically going to Zillow
+to all of their real estate agents and
+scrape the ones by number of reviews
+right and just presume Whoever has a lot
+of reviews they're a high volume agent
+I'm going to only target them yeah yeah
+th those are the ones that you know
+typically have a team themselves they're
+willing to spend a little bit more they
+understand the value of leads they
+understand the value in what you're
+trying to do and so I think that's a
+great I never thought of you know
+scraping things to kind of sort by rank
+that way now what about on a percentage
+basis because there are two million real
+estate agents you know hundreds of
+thousands of of mortgage brokers or
+attorneys or insurance agents is there
+any kind of random Home Service Niche or
+local business you know gymnastics
+studios art like whatever
+that you just kind of keep seeing
+anecdotally you're like man those people
+are really willing to pay for agency
+Services you know definitely the Home
+Services space roofers are a big one I
+think the tick they've got a budget for
+it yeah solar is another one they have a
+budget and and it's kind of what we were
+talking about earlier right like it's
+the they're willing to pay knowing that
+the outcome is significant right and so
+you know Roofing it's average ticket
+size is what I'm sure like 15,000 to
+50,000 you know construction remodelers
+is a popular one and then yeah in the
+home service pool companies plumbers
+like all home services do extremely well
+because you know while they do some
+small jobs here in there like the AC
+repair person is probably doing small
+jobs but what they're really looking for
+is when someone needs a replacement $100
+service job to now $10,000 project and
+so the opportunities just get bigger
+over time so high ticket definitely the
+way to go yeah finding businesses who
+have a high ticket and need a lot of
+production to make it meaningful and you
+can kind of see that they're doing lot
+of production would be the best way for
+me to is this a business that I want to
+work with Okay so that was the idea for
+a year or so ago uh widget a form the AI
+answering service what about today is
+that changed the only thing that I would
+change is just instead of the Mis call
+text back changing it's called
+Ai and I like that angle a lot better
+one is it you know I think it solves a
+better use case than just doing a Mis
+call textback because what what happens
+is in the missc call textback world
+someone calls the business the business
+doesn't answer and as a consumer when
+you're searching for a business you go
+down the Google listings right the top
+three businesses and the first person to
+answer is when I stop when I do the Mis
+call text back the premise there and
+what made it so great is somebody calls
+the business no one answers the person
+hangs up and they're starting to look at
+the next result to call them but all of
+a sudden you get the pattern interrupt
+you get a text message saying hey sorry
+Mr call how can I help you now the
+problem there is the person responds
+back saying hey my
+toilet is overflowing or whatever it is
+no one is there to then keep the
+conversation going as a small business
+doing a job now on The Voice side of it
+remember they picked up the phone and
+called so now if you have an AI bot and
+it's a really good AI bot I mean a lot
+of the new AI stuff that we're rolling
+out feels like a human I mean it's just
+really incredible yeah and it's oh yeah
+okay so I let me go ahead and collect
+your address let me go ahead and get all
+the details so it's a little bit more in
+you know the intent is so strong and
+then you actually get the outcome right
+which is booking the appointment or
+saying that I got your address we have
+someone call you back immediately
+basically doing that next leg of the the
+sales flow and so that's what makes the
+AI part so you know so big and like I
+said it's also sexy right now have you
+heard of any of your of your sass
+preneurs launching like a a high level
+implementation agency where like let's
+say a medium-sized company is spending
+four grand a month on HubSpot and they
+kind of move in there transfer
+everything over train the team is that a
+thing that is a a massive thing and
+actually internally with my my my team
+we're talking about like what are the
+different Paths of using high level and
+you know kind of in our whole ecosystem
+and that is actually one of those
+budding economies that we have where
+it's like thirdparty Consulting
+companies where the whole job is you
+know they specialize in migrating things
+over creating custom development like
+really shaping up the automations how
+you're using the tool you know we've
+been talking a lot about like you know
+the top of funnel right helping people
+take leads and how do you get them to
+book an appointment but like what these
+companies are doing is taking once it
+gets to a certain stage we needed to
+send out an invoice and send out a PDF
+and once they sign the PDF we needed to
+put it into our other system to model
+out what it needs to do from a costing
+perspective and then when it we need to
+send it back to high level so you can
+see you know kind of produce estimate
+like just doing all sorts of crazy
+operational things and so this is a
+crazy market and so what we've been
+supported is actually we created a
+certified directory so create a
+certified program that was my next
+question yes you're going to do
+something like that yeah so I mean it's
+been taken off and it's doing incredibly
+well where you need to sign up to it we
+want want to have the barrier of Entry
+of like someone who's going to take it
+seriously it's low cost it's 100 bucks a
+month and it's about 30 to 40 hours of
+content that you go through to get
+trained you take a test and if you pass
+that first test you then have to take a
+second test that's actually being
+proctored by someone at high level so
+we're actually watching you on Zoom we
+give you a case study and we want to see
+you build it because we we don't want
+people to just blow through it and get a
+fake and then walk around on Main Street
+if we're going to put our name behind
+you we're going to make sure that you're
+legit and then from there we actually
+put you on a public directory and it
+actually you give them customers we give
+them leads we give them customers and
+the certification is so real that it
+expires and so if you're out in the
+world say that I'm certified well that
+employer can look it up saying oh yeah
+you were certified years ago you're not
+certified now so you don't know the
+newest latest inra technology so it
+gives it a lot lot of validation and so
+people really like it and yeah that
+directory is starting to generate leads
+of businesses you know my vision has
+always been sales force has grown to
+this massive level and done incredibly
+well and now just gonna talk about that
+certified you know Salesforce developers
+and it's now an economy so my goal is
+how do I turn our certification program
+so that when I go to indeed or jobs.com
+people are asking for I need someone
+certified in high level and that's a you
+know creating massive salary
+opportunities and things like that and
+so that's we're really time to take it
+but right now the Consulting companies
+is kind of the first level into it and
+we're trying to support them with the
+certified program people don't realize
+there are eight nine plus figure
+companies out there that just Implement
+Salesforce or Cisco or netsuite or
+you're saying like you're getting to
+that point where you're starting your
+own Marketplace for that right 100% the
+world exists that you know that piece of
+our economy exists today the amount that
+they're commanding and the amount that
+they're supporting is just getting
+larger and larger that you know these
+groups these individuals are certain
+make significant amount of of salaries
+and and jobs as well as creating massive
+agencies in this development
+implementation world but then the
+businesses that they're supporting it's
+not you know sure there's the local
+businesses that they're supporting and
+stuff like that but now they're getting
+into mid-market businesses you know the
+hundred million dollar companies the
+$500 million billion dollar companies
+are also looking for you know these
+resources and you know the power of high
+level plus the Consulting Group people
+don't care about what the technology is
+underlying it's about the outcome so if
+you can get to the outcome
+they're willing to pay for it they don't
+care what it's going to take so it's in
+the early days of this directory would
+you say as of today is there more demand
+or more Supply like is there more supply
+of these high level certified guys or
+more demand from companies looking for
+guys like that right now we're at the
+perfect balance where there's a good
+amount of supply and we're matching up
+the Demand right now one of the
+challenges on our side is we didn't
+realize how fast it was going to take
+off and one of the biggest uh
+constraints that we have is the live
+proctoring so being able to make sure
+that we can keep up with that volume
+it's just one of the challenges that
+we're working through we'll solve it in
+the next month or two but I think the
+second half of this year that's going to
+be one of our big pushes is really
+making the certified program a real
+thing you know from a public perspective
+and there's G to be two one is you can
+actually get certified and be in the
+marketplace so that you can receive
+leads and opportunities and we want to
+help you get jobs and opportunities
+create businesses that way but then also
+it's having the certified program where
+you know Chris maybe for one of your
+businesses you hire somebody and you
+want them to just learn the platform
+they can go to the certified program and
+maybe they don't need to get tested and
+all that you just want to make sure that
+they get the right training they go
+there to learn yeah exactly and so now
+it's how do we evangelize high level for
+all the end users and so that that's
+really where I want to kind of take the
+next stage of that certified program so
+if there's someone out there wanting to
+already start a marketing agency on High
+level is it fair to say that they could
+kind of hedge their bets and potentially
+get leads from two different places if
+they got certified through you and and
+listed on your directory like they could
+do that maybe get a lead or two every
+now and then while they go try to find
+their own customers at the same time
+yeah definitely the only caveat that I
+will say is it's one thing to get the
+leads there is the fear of execution
+that kind of stop a lot of new
+entrepreneurs mostly close it to some
+they might close it but then it's they
+get into analysis paralysis to making
+sure that they set up this perfect thing
+and so my thing you know if I was going
+to advise anyone is like yes you have
+that as your maybe your next phase of
+going a certified program and getting
+leads that way but just go find the easy
+layups and progressively work your way
+up because remember it's about the
+outcome not about how you build it but I
+feel like when you go to the program you
+get in your own head the expectations
+are so high on execution because the
+complex needs and stuff like that do you
+have any sass preneurs using paid ads to
+just crank crank through new customers
+if they don't want to go door too oh oh
+yeah I mean I think the challenge is you
+know when you're starting up it's the
+capital to put up ads but once have
+revenue and you know it we see it quite
+a bit with a lot of people who come from
+traditional marketing agencies who know
+how to run Facebook ads know the the
+cpls the you know the cat cost how much
+to reinvest back in but yeah there's a
+ton of people who focus on that and what
+they do is they're not trying to sell
+the product to anybody and everybody
+they try to get hyperfocused with this
+with an angle right like I'm taking what
+I built within high level I'm going to
+specialize it for dentist so now you're
+just running ads to go find more
+dentists or plumbers or whatever
+industry I I did a video on you guys on
+I went to your SAS preneural Awards site
+and I just started reverse engineering
+these guys making a 100 Grand a month a
+million dollars a month and one of them
+was like Chiropractic leads for Spanish
+speaking chiropractors making like 130
+Grand a month massive what yeah and it's
+kind of the same thing right like you
+actually don't need a lot of customers
+to make that Revenue you know you can do
+that with 20 30 customers because such a
+specialized market and you know in the
+Chiropractic space very similar it's
+like somebody coming in the treatment
+lifetime value of it it's in the
+thousands right so if I can help you get
+one mostly in the specialized market and
+you become the authority into it you
+could do incredibly well and yeah I mean
+it is so surprising for me and like I
+when I started the company with Shan
+like we had no idea what we were
+building it like from the outcomes so
+hearing stories like that like it's just
+mindboggling to me and it's like it
+lights me up when I hear more of these
+stories and how creating these new
+economies how much are like your biggest
+sass preneurs making per month or year
+Topline definitely eight figures I mean
+I heard one who actually sold which is
+awesome in the high eight figures I we
+heard one that's getting into the nine
+figure range um from an exit perspective
+from valuation perspective I should say
+I think for even you know you do a lot
+of investing um you know it used to be
+about so focused on what are the tools
+that you're using do you own it and the
+IP behind it and stuff I think now you
+know investors are looking at does it
+have a predictable sales model it's cool
+you're using these tools we understand
+you know the relationships that you have
+to build it and you know and how you're
+accomplishing it but really it's we want
+to buy the sales model we want to put
+more gas into it to sell it so the
+valuations is more about that not so
+much about the underlying Tech anymore
+and so that's why the opportunity is so
+right for people to grow it to a decent
+size and flip it to the next person
+actually one example that I got
+individual going after after dentist and
+selling it for the dental practices and
+he actually approached one dental
+practice that was a part of a network of
+30 like a DSO yeah exactly and it was I
+think one of the dentist or a group of
+dentists turned it into essentially a
+private Equity Firm and he just picked
+up one dentist two dentist three dentist
+four dentist and um started making
+really good money and then finally you
+know upper management you know the
+organization was like what what is this
+you guys are grow we see the numbers you
+guys have grown what do you guys do oh
+we're partner with this guy well they
+approached him saying we want to buy you
+out and then you know now it's they
+thought you know their thesis was we can
+buy that marketing agency that sasper
+software implement it to all 30 and our
+business would 10x fold and we don't
+have to pay their fee and so he got a
+massive exit out of it you know I think
+it was like a $6 million exit and he
+only had the business for 18 months I
+was like wow wow they just walk away and
+and that private Equity company will pay
+more than anyone else because of the
+value it is to them they saw it right
+like they saw so and I think it was like
+$6 million and then you need to stay on
+for another 12 months to help us
+implement it to all three and he
+backfilled it so that they were able to
+bring it house but they were like the
+way that he was explaining it to me was
+like they think that they can make $30
+million by implementing it in all their
+locations plus they're plan on acquiring
+more this is just an investment right
+it's a no-brainer yeah it's like buying
+one more dental clinic that's the crazy
+part about you know how interesting the
+Dynamics of business is changing and the
+opportunities that that's coming up now
+I mean I love talking about the concept
+of uh finding a white whale right one
+big customer that could change your life
+and so if I were launching this today I
+would probably like people don't know
+there are thousands of franchisors out
+there thousands of franchisors and
+millions of franchises right McDonald's
+alone there's 30,000 right I would go
+find and most franchisors most people
+have never heard of right like a random
+mosquito control franchise or in the
+northwest with 24 locations you know
+there's so many out there like that I
+would go find a franchisee customer
+that's part of a small franchise or like
+10 to 30 40 locations crush it for them
+crush it like the word spreads in the
+franchise crush it for someone else and
+then get everyone like why would the
+franchise or not want to force like
+literally force all his franchises to
+take them on if it's making all of them
+more money therefore making the
+franchise or more money now you have 30
+customers from One customer right sell
+the one to sell the 30 I love that model
+and you know one caveat that I would say
+is the larger franchises actually are
+easier to find the local person who owns
+the local franchise you'll hear the
+objections of like oh you can't go to a
+franchise Network because the franchisor
+restricts using third-party companies
+and things like that but when you just
+have an entrepreneur who's a part of the
+franchise they're not hitting the
+numbers or whatever you know they're
+Scrappy they're like I don't care I
+gotta make my business work I'm not
+getting the support or it's not working
+you're able to get into that
+conversation everything else just starts
+hitting and you actually that white
+whale component right sure you have 30
+40 but if it's a 200 I've seen a couple
+stories like in the fitness space where
+someone approached one and it was like
+you know just a random location that
+wasn't doing well and then that person
+had a little bit of a support group of
+other people kind of in that same thing
+overall the franchise network is great
+but the small network of the small ones
+that individual picked up 200 locations
+out of a
+wow and then he got a call from
+corporate saying we need to talk in in a
+positive way and the fun thing is you
+know from a leverage perspective if the
+top franchise or says your outs we're
+taking over they're pissing off all the
+locations right their life's miserable
+yeah and so they're basically saying we
+we need to partner with you because we
+see the positivity and so 100% agree
+with your approach I didn't just like
+pull that out of thin air I was that was
+just one of the many examples I found
+reverse engineering your sass preneurs I
+found a I don't even remember the
+company and if I did I probably wouldn't
+say them but it was just some guy that
+had like an eight-month old highlevel
+agency and he was just bragging on
+LinkedIn to everyone like hey we just
+got our 100th customer our 500th
+customer and I'm like what the heck and
+then I saw they just had this
+partnership with one franchisor and
+they're an eight figure company and the
+fun thing about it it's like oh like
+what I was saying earlier about the
+local businesses now it's like almost
+close to Heart where it's like oh I'm
+working with Chris who owns this
+fitness group which happens to be your
+fitness group I got success for him so
+that Authority level just goes up even
+higher so then you just start picking
+them off one by one and it be the fun
+thing about growing it from a
+scalability perspective just becomes
+TurnKey you're just doing the same thing
+over and over again all the only thing
+that you're doing is adjusting it for
+that new address yeah everything else
+stays the same oh man that's so
+beautiful well we're out of time he
+probably need to drive home to your
+family at this point oh yeah lost track
+time is a great conversation yeah this
+was awesome thank you for your time
+Robin obviously we know where to find
+you go high.com when when are you g to
+get the high l.com domain name like
+surely you've been trying you know
+what's funny is we got go high l.com
+when we started because you know someone
+want a lot of money I've reached out
+periodically throughout the years
+actually earlier this year I reached out
+you know all right it sucks I don't want
+to have to do this but I'm will in off
+first no response and so you know we're
+now leaning into the go High Level side
+of things that people just kind of know
+us that way even though the official
+company is high it's officially high
+level but you know we're testing it
+around actually on the website right now
+we're split testing like if we change it
+to go high level and we have a different
+version of it with a piece of tape okay
+it's like handwritten go on it yeah yeah
+testing it out to see if it's gonna help
+us from a slit testing perspective but
+yeah you know at the end of the day it's
+not about us here at high level it's
+about your brand I want to see the you
+know Chris Corner CRM platform and you
+support you with your brand so call us
+whatever you want it really doesn't hurt
+us at the end of the day I just love it
+when I I call you high level because if
+you know you know I love it when people
+correct me they're like it's go I'm like
+no shut up they just wanted to pay $10
+for a domain name not 10 million exactly
+right but you know like I said it's fine
+we go by anything you can just say hey
+we love you that that work you don't
+need to call me my name gotcha okay well
+thank you Robin this was awesome all
+right well thank you so much for having
+me on all right what you think please
+share it with a friend and we'll see you
+next time on the ker office

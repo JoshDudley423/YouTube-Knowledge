@@ -1,0 +1,1221 @@
+All right, everyone is talking about the
+newsletter business, specifically the
+local newsletter business. And guess
+what? Last time I checked, there are
+hundreds of thousands, if not millions
+of cities, states, towns, geographies
+all around the world. So, I'm going to
+use Chat GPT to autogenerate a random
+city in the United States, and I'm going
+to build a local newsletter for that
+city. All within the course of this
+video, I'm going to take you all the way
+from I know nothing about what a local
+newsletter is to I have my first local
+newsletter subscribers. You don't need
+an audience. You don't need that much
+money. You don't need any skills outside
+of what you're going to find in this
+video. So, come right here, hold my
+hand, and I'll show you exactly how to
+do this over the next this many minutes.
+First of all, why do we want to start a
+local newsletter? Because this is one of
+the most approachable businesses in the
+world. What's the hardest part about
+starting a business? Acquiring
+customers. In this case, your customers
+are your newsletter subscribers. Well,
+guess what? In the local newsletter
+business, it's very straightforward. You
+just post meta ads. Instagram and
+Facebook, you post ads, you get
+subscribers, you send them emails, and
+then you find sponsors from those same
+subscribers that will pay you money to
+put their ads or their affiliate links
+in your newsletter. That's the name of
+the game. I've done it. My friends have
+done it. It's very straightforward.
+Let's do this. Okay. Now, I live in the
+Dallas Fort Worth area, but I want to
+start a local newsletter anywhere.
+Anywhere there's at least, call it
+50,000 people. You can do it with less,
+but let's say 50. So, here's what I'm
+going to do. I'm going to open chat GPT
+and I'm going to say, give me the name.
+Give me the name of a city in the US
+that has 50K to 100K people. Any state,
+totally random, preferably somewhere I'm
+unfamiliar with and have never spoken
+about.
+Gallup, New Mexico. [laughter]
+Okay, I'm laughing because New Mexico in
+my family, I'm sorry. I'm sorry to
+everyone in New Mexico. It's just not
+our favorite state. We've seen all 50
+states in 60 days. It was not our
+favorite. I won't go into the reasons
+here, but I just think it's hilarious
+that Chad Jubdy gave me a city in New
+Mexico to do this. So, I've driven
+through Gallup. Let's do this. Let's do
+this.
+How many people give me fun facts about
+Gallup? Demographic data, jobs, growth,
+culture, unique quirks, etc. Okay. Okay.
+First of all, Chie, you're an idiot. I
+said between 50,000 and 100,000 people.
+[sighs]
+I said over 50k people stay in New
+Mexico.
+Okay, so Teddy did not understand the
+assignment. Okay, Roswell, New Mexico,
+48K. Still not over 50, but we'll roll
+with it. You can do some fun alien
+branding with Roswell. So, we're rolling
+with Roswell. Rolling with Roswell. That
+could be a good name. Okay. I just want
+to know a little bit about Roswell. 53%.
+white, 22% other. Okay. 23% poverty
+rate. Household income is modest. Okay
+guys, if we can make a local newsletter
+work in Roswell, New Mexico, we can make
+it work anywhere. Job growth isn't
+great. Economic prospects not great.
+Median household income not great. But
+we're going to do it cuz I want to paint
+a realistic picture for you. So, where
+are we going next? Obviously, we're
+going to Beehive. I've used Beehive for
+2 years. I freaking love Beehive. I'm
+trying to convince them to let me invest
+in them. So, we're going to pretend like
+I've never used Beehive before. We're
+going to say, "Start your free trial."
+We're going to say, "I don't have a
+newsletter yet." Okay, we're not going
+to use Chad GBT for the branding and the
+naming of this cuz that's lame. We're
+going to think of it ourselves. So,
+let's just keep it basic and say Roswell
+Dispatch. Okay. But is the domain name
+available? Okay. So, we're going to name
+right here
+Roswell Dispatch.
+What's the newsletter about? We're going
+to say cities. How often do you plan to
+publish? Let's just say weekly. Now,
+here's a little tip. The more you
+publish, the more you can charge. But
+the more you publish, the harder it is
+to maintain. It's more work, right? If
+you publish five times a week, Monday
+through Friday, you can charge five
+times as much for ads because we're
+charging for ads on a CPM basis. CPM
+equals cost per mill equals cost per
+thousand eyeballs. Okay, let's say we
+have 10,000 subscribers. That's not
+eyeballs, that's subscribers. I send out
+the email. I have a 50% open rate. 5,000
+opens pairs of eyeballs. Okay, cost per
+thousand. So that's five, right? And for
+newsletters, it's all over the board.
+You can charge between 20 and $100 CPM,
+cost per mill, cost per thousand
+eyeballs. Let's say it's 50. Okay, so
+that's $50 time 5 as in 5,000 eyeballs,
+50% open rate on 10,000 emails, that's
+$250.
+So every time I hit send on an email
+that's going out to 5,000 people, I can
+make $250. That's before affiliate
+links, that's before merch, that's
+before events, that's before vertically
+integrating and starting another
+business that your newsletter promotes.
+We're not going to get into all that.
+We're trying to keep it simple, Chris.
+Focus. All right, that's on me. If we're
+only putting ads in the ding newsletter,
+which is the most straightforward way of
+monetizing a newsletter, and if we use
+behive, behive can do all that for us.
+I'll get into that in a minute. Then
+we're just going to look at the CPM. So
+10,000 subscribers, $250. We send that
+once a week, we make $250 a week. We
+send that five times a week, we make
+$1,250 a week, which is awesome. Who
+wouldn't want to make more money? But
+you still have to sell those sponsors.
+You got to find the sponsors. You got to
+manage the sponsors. And you got to send
+five times as many emails. So, we can
+get there. The worst thing you want to
+do is to start out super gung-ho,
+saying, "I'm going to email seven times
+a week or five times a week or whatever,
+and then you lose steam and then you
+drop to three to one." And then it's
+like, it's really just the mental aspect
+of that. Your subscribers don't really
+care that you dropped your frequency,
+but you care. And it feels kind of
+demoralizing. So, we want to start small
+and pick up some quick wins along the
+way. And we can add a few more sends per
+week as we go, should we choose to do
+so. So, for now, let's say weekly. Where
+do we hear about us? We're going to say
+influencer. That's me. We're going to
+start our 30-day free trial. Now, here's
+what I could do right now. I could walk
+you through all the settings. How to set
+up your social profile, how to make a
+great logo or profile picture. Those are
+advanced forms of procrastination. Okay?
+We want to get subs, subscribers. We
+need fuel. We need gas in our tank. And
+a newsletter is not a newsletter without
+subscribers. So, all this stuff is
+secondary. It's fluff. These are boxes
+that we often check to make ourselves
+feel good, like we're making progress.
+But as far as I'm concerned, we haven't
+made any progress until we have
+subscribers. So, we're going to skip all
+this crap. Now, reason number 82 that I
+love Beehive is the website, the
+monetization, everything. It's all fully
+integrated. So, we do need some sort of
+a website to get started because many
+people will read our newsletter on a
+website, not within their email. They're
+going to want to share it to others. We
+want the search engines to pick us up.
+We want ChatGpt to pick us up. We need
+SEO, search engine optimization to get
+cranking on this stuff. So, we do want
+to publish this stuff to a website.
+Also, you know, like all those link and
+bio services that you see influencers
+have. This is now integrated within
+Behive. You can do that as well, which
+is awesome. We're going to go for a news
+site because this will be more similar
+to a news site than a blog. They've got
+a bunch of cool templates here. I'm not
+going to be too picky with it. I really
+like this one that looks clean. It looks
+fun. It's not too cluttered. We're going
+to go with standard, which is kind of a
+boring name for such a beautiful
+template. I like it. I like it. You know
+what? These colors are kind of like
+southwestern vibbey. I'm thinking like
+Breaking Bad. I'm thinking Better Call
+Saul. I'm thinking New Mexico already.
+So, I'm not going to change any of the
+colors. I could with a couple clicks I
+could generate other color palettes with
+AI, but I'm just going to stick with
+what works. Remember, advanced forms of
+procrastination. We don't want to do
+that. We don't want friction.
+Topography. I'm gonna keep it. Boom.
+Boom. Publish now. Heck yes, we're gonna
+publish now, dude. Boom. Now we have a
+website. Okay, we don't have any posts
+to sync yet, but those will come in
+time. You got the subscribe field. All
+right, there. Roswell dispatch. You can
+edit this stuff. Bum, bum, bum. But
+we're not going to worry about it. We're
+just going to click next. Publish to
+live site. Okay, we're live. That's our
+domain name. Boom. Okay, we got a
+website. Now, let's design the
+newsletter. Okay, once again, I'm not a
+design guy. I wish I were. I'm gonna
+pick a template. That one looks cool. I
+like how readable it is. I like the
+different colors. That one looks pretty
+cool, but let's not overthink it. Let's
+go with community pulse. And this is
+kind of a community newsletter because
+it's people that live in Roswell. Bless
+their hearts.
+Now, on Beehive, you've got right mode
+where you're literally editing it.
+You're changing the text. Boom. Z. We'll
+put that back. And then you have design
+mode where you're changing the the
+formatting, the design. You're moving
+blocks and moving sections around,
+changing colors, etc. You're usually
+going to live in right mode because the
+template is probably going to be the
+same week to week. So, I'm just going to
+click finish. Check the box. We don't
+worry about settings right now. You can
+book a time with a beehive expert. I
+finished the steps. Okay. Now, I have
+zero subscribers, 0% open rate, etc. All
+right. Now that we're all set up, the
+responsible thing to do would be to
+write our first newsletter, right? But I
+never said I was responsible. What I do
+is I sell it before I have it. I want to
+find customers. I want to find
+subscribers first and then we'll send
+something to them. Again, that's usually
+kind of like the scary hairy thing that
+we have to go through when starting a
+business is how to find subscribers. So,
+let's do it first. Let's get the OBT,
+the one big thing out of the way first.
+So, I'm going to do this from scratch.
+No cheating. I will not use my influence
+or my audience to find these
+subscribers. And I'll show you exactly
+how I'm going to do that. I'm going to
+go to Google and I'm going to go to the
+meta ads manager. Cool. Go to ads
+manager. We're going to go to campaigns
+and we're going to click create this big
+green button right here. Okay. We want
+leads. We want emails. So you could do
+awareness, traffic, engagement. There's
+not a specific right or wrong way to do
+this, but in my experience when looking
+for newsletter subscribers, I want to go
+through leads. Okay. Now, remember, in
+any lead generation, in any form of
+marketing, there's going to be a push
+pull between friction and effectiveness.
+And a third variable, the quality of
+leads. So, if I throw up a landing page,
+that's beautiful. There's only one thing
+to click. There's no friction. It's
+super easy. I only need your email.
+Don't give me your name. I don't need
+your number. Just your email. I'm going
+to get so many leads. Let's call it a
+10% conversion rate. For every 10 people
+that hit that landing page, I'm going to
+get one email. Awesome. Now, when I
+start adding, what's your phone number?
+What's your name? What's your budget?
+That 10% conversion rate is going to
+drop to 5 4 3 2 1% conversion rate. Oh,
+bummer. Why would I add that? Because
+those leads are going to be way more
+qualified, way higher intent. That's the
+trade-off. Now, I wish I could tell you,
+well, you always want to go with lowest
+friction, yada yada, or you always want
+to go with more friction to get higher
+intent. It depends. It depends on the
+industry. It depends on your goals. It
+depends on the price point of whatever
+it is you're selling. It depends on do
+you have a local newsletter or a tech
+newsletter. You got to test everything
+except drugs. Okay? So, I'm going to go
+for super ultra low friction because I
+want momentum, right? Focus is
+overrated. Momentum is underrated. We
+want to do everything possible to get
+this ball rolling and to keep it rolling
+because objects in motion stay in
+motion. So, I don't care if these are
+lower intent leads. I just want leads,
+emails, subscribers. Going to go to
+continue. Okay, what's my budget? Now,
+I'm hoping I can get these emails for
+like two bucks a piece. Now, let's break
+down the math of that. Remember when I
+was talking about how much money you can
+make from a local newsletter? Let's say
+we send five emails per week and we have
+10,000 subscribers at a 50% open rate.
+Same example as before. Okay, that means
+I can make $250 per send or $1,250 per
+week. Four weeks in a month, that's
+$5,000 a month. So $5,000 a month from
+10,000 emails. Okay, that's at a $50 CPM
+cost per mill. So in other words, every
+email I acquire is worth 50 cents a
+month. 10,000 emails get me $5,000 a
+month. Lots of ifs. We still have to
+find the sponsors. We have to close the
+sponsors, collect money, yada yada yada.
+I don't want to oversimplify this, but
+let's just say one email address is
+worth 50 cents a month. And let's say,
+and this is like an industry standard,
+each email stays subscribed to you for
+two years. Okay? 50 cents a month time
+24 months is $12. So with that in mind,
+if I spend $1 to acquire an email
+address, then I'm receiving a 12x
+rorowaz 12 times return on ad spend. I
+put a dollar into the money machine, I
+get $12 back. Now, not right away. I get
+$12 back over the course of two years.
+So, you have to manage that cash flow,
+but these numbers are all very realistic
+for the newsletter industry. So, $2
+should be pretty conservative for a
+local newsletter. Local newsletters are
+great because the cost per email
+subscriber is very low because it's so
+specific. It's so relevant. You can
+target people only in Roswell or people
+from Roswell or people about to visit
+Roswell or people that are most likely
+to read their news from an email, right?
+People 25 to 45 years old. We can do all
+that. Now, I don't want to do $100 a day
+forever, but I want to do $100 a day for
+day one because I want to see traction
+fast, right? Cuz your first emails might
+cost you $5 to $15, which is going to be
+demoralizing. But just be patient, have
+faith, be willing to wait it out because
+that will drop over time, right? We need
+the algorithm to learn what an email
+subscriber looks like. So, I'm going to
+put 100, but this is only going to be
+for a day. Then, I'm going to drop it
+down to about 20 bucks. I'm not going to
+deal with AB testing. I'm going to keep
+this very simple. We don't have any
+special ad categories.
+We're not selling financial products or
+services, jobs, housing, gambling, etc.
+So, we'll just skip that. Go to next.
+Okay, I'm gonna call this ad set.
+Now remember, there's three tiers to
+Facebook ads. Campaign, ad set, ads.
+Now, under campaign, you're telling Meta
+your goal. You're telling it big picture
+stuff, right? The meta meta stuff, if
+you will. What's my budget? What types
+of leads do I want, etc.? You come a
+tier down to the ad set level. This is
+where you tell Meta who I'm targeting.
+What are my settings for these ads?
+Where are the ads going to appear? How
+much money do I want to spend per ad?
+Not just for the whole campaign. What
+time of day or night or week are these
+ads going to run? And then on the lowest
+level, this is the most granular level,
+the ad level. This is the actual ad with
+the creative, the picture or the video
+or the text, the headline, the
+description, everything. This is what
+people actually see. So the campaign is
+the game plan. The ads set is the
+players and the positions, quarterback,
+linebackers, etc. And the ad is the play
+that you're running on the field with
+those players. Now,
+what kind of a conversion do I want? Do
+I want to send people to my website? No,
+cuz it's not optimized yet. Do I want
+people to call me? Nope. Not on a
+newsletter. We just want instant form
+leads. And Meta's telling me, "Hey, you
+could spend less money per lead if you
+did website." I know. I know meta, but
+I'm optimizing for momentum right now.
+Now, you do have to have a Facebook page
+for the newsletter. So, in this case, I
+need to go create a Facebook page
+because that's going to be tied to this
+ad. Now, I could post ads from any
+number of Facebook pages that I already
+own or manage, the Kerner office, the
+Kerner office highlights, archive, etc.
+But that's not relevant. Like, my
+conversion rate won't be nearly as good
+because they're going to see in the
+description and in the creative Roswell
+dispatch local newsletter and then it's
+going to be from the Ker office. What?
+Who's that? Right. So, I'm going to go
+ahead and create a Facebook page. I'm
+going to go to my personal Facebook
+account. Okay. These are all the pages I
+manage. I'm going to click create new
+profile or page. Public page. Next. Get
+started
+Roswell Dispatch. I'm going to call it
+media/news company. I'm not even going
+to add a bio because guess what? People
+aren't going to click into the page and
+like make sure that I'm a real thing or
+a real person before they subscribe.
+It's not that deep. They're not sending
+me thousands of dollars. It's just a
+newsletter. So, I'm not going to I'm not
+going to overthink this. Now, I will ask
+Chad GPT
+to make me a profile picture for my
+Facebook page because I don't want it to
+look empty. That will prevent people
+from subscribing. I want there to be
+something there, a placeholder. So, I
+asked JBT, create a simple logo, create
+a dimple logo for my Facebook page
+called Roswell Dispatch, a local email
+newsletter for Roswell, New Mexico
+residents. Now, the reason I told it
+this was a logo specifically for my
+Facebook page is because I wanted to
+make sure the dimensions would work for
+Facebook. Now, while I wait for that
+logo to generate, because it is taking
+forever, I'm going to go back to Beehive
+and I'm going to make a poll. Polls are
+maybe my favorite thing about Beehive.
+I'm just going to call it,
+"What do you want to know?"
+Okay. What kind of stuff should I write
+about in this newsletter? best places to
+visit, best local deals, local news,
+opinion pieces, stories from residents.
+Now, I don't have to pick one. I could
+take the top three most popular poll
+responses and do all three of those in
+every newsletter, and I could order them
+by most, second most, and then third
+most popular in the email. There's no
+reason you shouldn't be constantly
+soliciting feedback from your
+subscribers to improve the quality of
+your email. Everyone has access to the
+polling feature. Very few people
+actually use it. Okay, save. I'll show
+you how to insert that into the
+newsletter. KAGPD is still taking
+forever. I'm just going to go to Google,
+type in Roswell, New Mexico logo. I'm
+going to take this one. Boom. I put in
+the website. I'm going to say it's
+always open. Go to next. Profile
+picture.
+Let's get a cover photo.
+Sure, that looks awesome. Cool. Does the
+profile picture fit? Nope. Don't care.
+JBD failed me. Took too long. But we're
+moving on. Don't need a phone number.
+Don't need to invite friends. Don't want
+notifications.
+Done. That's how easy it is to create a
+Facebook page. Now, we're going to go
+back to ads manager. I'm going to
+refresh. There it is. Roswell dispatch.
+Boom. View the terms. I agreed to the
+terms. Cool. Now, dynamic creative. What
+this means is Facebook, if I check this
+box, Facebook will change my creative,
+my pictures or videos based on what it
+thinks is best optimized. I don't really
+trust this yet. I've seen some bugs. I'm
+not going to check it. It can work. I'm
+just not going to use it. I'm going to
+set an end date to these ads for
+tomorrow because I'm spending $100 a
+day. I don't want to forget audience.
+This is very important. Advantage plus
+basically means it's going to use AI to
+find out who your audience is. and it
+knows that the word Roswell is in my
+Facebook page, it can kind of presume
+I'm showing this to people in Roswell,
+but my gut tells me that if I don't rely
+on AI, I will save some money in the
+testing phase. It's going to get there
+eventually. I want it to get there now.
+I'm impatient. So, I'm going to show you
+how to target your ads. I'm going to go
+to United States. I'm going to do
+Roswell, New Mexico. Boom. There it is.
+include Roswell, New Mexico. That's it.
+Now, I could choose the age, the gender,
+etc., but I don't want to do that. I'm
+going to trust Meta to do that, right?
+But I want to tell it the geography of
+where to show these ads. And then this
+box is important. I will leave this box
+checked. Reach more people likely to
+respond. So, maybe they use a VPN to
+mask their location. And they're always
+reading Roswell news, but Facebook
+doesn't think they're in Roswell. Well,
+it'll show them the ad anyway. Maybe
+they're about to move to Roswell because
+Facebook knows it's searching for, you
+know, best restaurants in Roswell. It's
+going to show it to them even though
+they're not within that radius. I've had
+a lot of good luck with checking that
+box. Now, placements. This is what type
+of devices to show the ads on. Do I want
+them to be shown on Facebook and
+Instagram or just one or the other? Or
+audience network? That's basically
+Facebook showing Facebook ads all over
+the internet, not just on the meta
+platforms. I'm just going to say run
+wild, Facebook, right? Show these ads
+wherever you think they'll be
+successful. Now, I'm going to keep this
+very simple. I'm going to use my iPhone
+to take a quick video and then I'm going
+to edit it in the Instagram app. It's
+called edits, but it's owned by
+Instagram. You don't need any editing
+skills. I promise you. I'm just going to
+make one ad. In my experience, really
+short video ads just crush. But before I
+do that, what do I want my ad to say?
+What is a good local newsletter ad?
+Well, let me show you. I'm going to go
+to Google. I'm going to type in meta ads
+library. Meta will show you every single
+ad that they're running in the world.
+Okay, go there. Click all ads. I'm going
+to type in the word newsletter. Okay,
+hit enter. Now, how do you know which ad
+is good? Which ad isn't? Well, I'm going
+to find the ads that have been running
+the longest. I'm going to click filters
+and I'm going to say only active and I'm
+going to set the date back in September.
+This shows me ads that are active today
+that started running before September
+1st. Why is that important? Because
+Facebook ads go stale quickly, right?
+Sometimes within a month or within a
+week. And so if an ad is just crushing,
+then the owner is leaving the ad up for
+months at a time. You're not going to
+leave up an ad that doesn't perform
+well. You just won't. And so this is
+telling me that these ads probably, not
+definitely, probably perform well. Now,
+since I'm committed to making a video
+ad, I'm going to find other video ads.
+Media type videos.
+Boom.
+So, I'm only looking for ads in the
+United States that are active right now
+that started running on or before
+September 1st, that have the word
+newsletter, that are a video. Okay.
+Okay. How about this? KCRW. If it's
+happening in SoCal, you'll hear about it
+first. From soldout concerts, yada yada.
+The free KCRW local newsletter bundle
+keeps you ahead of the crowd. This has
+been running for 3 months. It's a video
+ad. It's a local newsletter video ad.
+So, I'm going to see what it looks like.
+Okay. So, it's just static text with a
+generic image behind it. We could do
+better than that. I want to find a
+talking head video. If you've been on
+the hunt for real straight leg jeans
+that don't taper into So, we have a lot
+of exciting new releases for you this
+week. For starters, I'm wearing our
+brand new Jack.
+>> Okay, so I didn't see anything that I
+love, so I'm just going to wing it. I'm
+going to play on the FOMO angle. Got my
+phone out here. I'm just going to take
+it live. Did you know that there's more
+to Roswell than just silly alien memes?
+Believe it or not, there's a lot of cool
+stuff happening in Roswell every week
+and you have no idea about it. Why?
+because you don't subscribe to the 100%
+free Roswell Dispatch email newsletter.
+Find the link below. You're going to
+love it. All right, that was 16 seconds,
+which is pretty perfect.
+>> More to Roswell than just silly alien
+memes.
+>> I'm going to show you my screen. I'm
+going to the free Instagram edit app.
+I'm going to click plus gallery. There's
+the video. Add it. You always want
+captions because many, if not most
+people watch ads with their audio off.
+So, I'm going to click CC for captions.
+That's all you got to do. Okay. So, I
+added captions. Now, I'm going to add
+some intriguing text to the first few
+seconds. It's a different form of a
+hook. So, we're going to click text. I
+want it to stand out. First of all, I'm
+going to split this cuz there's like a
+half second before I start talking.
+That's just wasted time. So, you split
+the video and then delete it. And then
+I'm going to drag this over so it starts
+with the video. Did you know that
+there's more to Roswell than just silly
+alien memes? Believe it or not, there's
+a lot of cool stuff happening in Roswell
+every week and you have no idea about
+it. Why? Because you don't subscribe to
+the 100% free Roswell Dispatch email
+newsletter. Find the link below. You're
+going to love it. I'm going to take away
+you're going to love it because there's
+just fluff I wanted to end abruptly.
+Newsletter. Find the link below. Right
+there. Find the link below. Hit the
+video. Click split. Delete. Email
+newsletter. Find the link below. Did you
+know that there's more?
+>> And then I'm going to take that out.
+>> Dispatch email newsletter. Find the link
+below.
+>> I'm gonna edit that last caption to say
+find the link below. That's it. I cut
+myself off in the last word below.
+>> That there's more to Roswell than just
+silly alien meme, but it doesn't matter.
+All right, done. We're done. That, you
+know, that took three minutes to edit
+that ad. We're going to click export.
+Boom. We're going to click download.
+Finish downloading. I'm going to airdrop
+it to my computer. So, we're going to go
+back to the ads manager. We're going to
+go single image or video setup creative
+video ad.
+Click that. We're going to go click
+upload. There it is. We'll click next.
+Now, here's the part that trips me up. I
+always forget what's the primary text,
+what's the headline, what's the
+description, what goes there, what's the
+best strategy. Okay, so here's what
+we're going to do. This is where Chad
+GPT does a great job. All right. I have
+a local email newsletter for Roswell,
+New Mexico residents. I'm using Facebook
+ads to find subs. Give me three
+headlines, primary text, and
+descriptions to promote this with
+Facebook ads via AB test. Keep them
+short and simple using best practices
+for finding local newsletter subs, new
+events, and deals in town news, etc.
+Boom. Now, we're just going to tediously
+copy that. Copy. Copy. We go. Primary
+text.
+Okay. Here's what I did. All I did was I
+pasted all three of the primary text,
+the headline, and the description. And
+then Facebook said, "Hey, our AI thinks
+that you could improve those with
+these." And you know what? I'm going to
+keep these because Facebook knows better
+than anyone what type of text I should
+have to get email local newsletter
+subscribers. So, I'll roll with its
+suggestions. It may use them, it may
+not. It's certainly going to test them
+all. And then the call to action is
+going to be subscribe. So, we'll leave
+all these boxes checked and then click
+next. We'll leave those checked. Click
+done. Cool. There's my ad. There's what
+it's going to look like. I'm not going
+to do testing. We're going to keep it
+simple here. Now, we do need to create a
+form.
+All right. We want more volume. Remember
+what I was saying about more volume,
+more intent, etc. We want more volume.
+We'll click next. Stay up tod date.
+Now, this is the headline of the form. I
+don't want their name. I just want their
+email. That's it.
+Where can we send this free newsletter?
+That's it. Next. All right. Now,
+Facebook wants to see a privacy policy.
+I can add one to the website. I don't
+want to wait, right? It's dumb. So, I'm
+just going to find a random privacy
+policy from the internet and link that
+because the amount of people that will
+actually click and read that is exactly
+zero. So, after I get their email, I'm
+going to go ahead and forward them to my
+website to the Roswell Dispatch. So,
+I'll go over here. I'll copy the domain
+name. Go back here. Link. View website.
+Okay. Create form. All right. [sighs]
+This is the most plain, boring, ugly
+form you've ever seen. So, if this
+works, anything will work. Now,
+tracking. If we were sending people to
+our website to get their emails, we
+would want to set up tracking. Beehive
+allows you to do that very seamlessly,
+but we're not going to worry about it
+right now. We're going to hit publish.
+And guys, like we're already published.
+So,
+let's say we want to see how these are
+looking. We're going to check the box.
+And it's going to take a little bit to
+get approved in draft processing, etc.
+Now, while we wait for these first
+subscribers to come in, we are going to
+go ahead and write our freaking
+newsletter. Let's go back to Chad GPT.
+I'm going to ask it, what are some of
+the coolest places and restaurants in
+Roswell? Now, while I do some research
+on what to write about in this
+newsletter, I'm going to go look at my
+friend's newsletter. He is in Annapolis,
+Maryland. It's called the Naptown Scoop,
+and it's an awesome newsletter. Of
+course, it's it's hosted on Beehive. And
+I just want to look at some of his
+recent additions. What do they look
+like? First of all, he's got a sponsor
+up here, which means he's making money.
+Got some news here. Another ad,
+announcements from local businesses.
+Now, we do want a welcome newsletter.
+This is going to be the first thing that
+people see when they subscribe to us.
+So, I'm going to have JGP write it for
+us. So, to add that, we're going to go
+back to Beehive. We're going to click on
+settings.
+We're going to go to emails,
+welcome email, configure, welcome email.
+Now, hey there, thanks for popping in.
+You're just showing the only yada yada
+yada. Here's what you hear from us every
+week. I don't know why it's all
+lowercase. I think I told chatt to write
+about to write like that. I can't
+remember. Subject line, hey.
+Preview text is welcome. Author
+doesn't matter. Click save. Now,
+everyone that joins the Roswell dispatch
+is going to get that welcome email. And
+yes, I can make the design super pretty,
+but I'm not going to worry about it
+right now. Make sure it's turned on. We
+don't want double opt-in. That means
+they have to confirm their email address
+after subscribing. Reply to email
+address. We want to make this personal.
+So, my name will be the sender name for
+these emails.
+And boom, we've got a local newsletter.
+Now, let's write our first post. We're
+going to go start writing. We're going
+to go back to the community pulse
+template that we chose. I don't like
+images at the top of my emails unless
+it's an ad that I'm being paid for.
+We're going to say,
+"Here's what's happening this week." I
+mean, all of you design freaks, you're
+going to be cringing at this email cuz
+it's not going to be good. But that's
+not the point. That's not the point of
+this video. We're just trying to get
+started. Okay. Now, let's just pretend
+this is the email we're going to send
+for now. I'm going to show you some cool
+ways that you can grow your newsletter
+within Behive without even having to use
+Facebook ads. You can use
+recommendations where you can recommend
+other newsletters and in exchange they
+will recommend you. So, basically after
+someone subscribes to you, you will say,
+"Hey, check out these newsletters."
+Other people will do that to you as
+well. It's like a marketplace or a
+network of newsletters helping other
+newsletters, which is awesome. You can
+do boost where let's say there's an
+Albuquerque newsletter, okay? And after
+someone subscribes to the Albuquerque
+newsletter, it says, "Hey, do you want
+to also subscribe to the Roswell
+Dispatch?" And if they click yes, then
+the owner of the Albuquerque newsletter
+will be paid and you will pay them. It's
+a way of acquiring newsletter
+subscribers that doesn't rely on
+Facebook ads. It is basically just like
+recommendations except it's paytoplay
+referral program, right? You can have a
+little widget at the bottom of your
+email that says, "Hey, if you refer five
+people to the Roswell Dispatch, I'll
+send you a bumper sticker or I'll give
+you a coupon code to Mary's Diner."
+Referral programs are huge. My tip here,
+have your lowest threshold be one email
+referred, right? Not five, but one, cuz
+that's attainable to everyone. And maybe
+they get a free PDF download of like the
+best things to do in the spring in
+Roswell. Then you got magic links. with
+a magic link. Someone can subscribe to
+your newsletter just by clicking it. Not
+clicking it and typing in their email,
+but just by clicking it. I don't know
+how it works. It's magic, but it's
+awesome. And then if you want to
+monetize, you can use their ad network
+where basically companies go to behive
+and say, "Hey, we love local
+newsletters. We've got a presence in
+Roswell. Find us someone with a local
+newsletter in Roswell and they can put
+our ad in there and for everyone that
+clicks it or for everyone that sees it,
+we'll pay them X dollars or cents." Then
+they've got boost, which is basically
+like you putting in an ad for someone
+else's newsletter inside your newsletter
+edition and vice versa, them doing it
+for you. So this person is paying $4 per
+new subscriber.
+Pretty significant. And then paid
+subscriptions. Maybe people want
+exclusive access to events or something
+that free subscribers on the Roswell
+Dispatch don't get. Well, you can charge
+five bucks a month, three bucks a month,
+10 bucks a month for people to subscribe
+to your newsletter. At least a paid
+version of it. You can convert everyone
+to paid or at least attempt to or you
+could continue to have a free newsletter
+and a paid newsletter side by side. And
+then with products, you can create and
+sell physical products like that are
+fulfilled from a third party. If you
+want to sell Roswell Dispatch t-shirts,
+you can use Beehive and other thirdparty
+print ondemand businesses to sell those.
+Super cool stuff. And then don't forget
+to use the survey feature where after
+someone subscribes to you, they will get
+a survey saying like, "Hey, how long
+have you lived in Roswell? Hey, what
+kind of a job do you have? What industry
+do you work in?" In my experience, over
+50% of people fill those surveys out
+because they're hot to trot. They're
+excited to be joining it and they're
+willing to put in a little more work
+right in that moment. If you send them
+the survey even an hour later, they're
+gone. Out of sight, out of mind. So, you
+really want to capture that right when
+they subscribe for the first time. Okay.
+Now, I kind of did something a little
+more advanced with these meta ads. The
+easier way to grow is just to do it
+through all through Beehive through
+their boost or recommendations or
+referral feature, but I want to show you
+everything. I want you to have all the
+tools. So, if you are using instant
+forms on Facebook ads, you need to
+connect those to Behive, and I'm going
+to show you how to do that really
+quickly.
+You're going to go to zapier.com, which
+is a piece of software that is perfect
+for connecting other pieces of software.
+We're going to click create zap. Create
+zap right here. Now I can describe with
+AI what I'm trying to do and it will
+build it for me. But I want to show you
+how the sausage is actually made. So
+we're going to do trigger.
+So we're going to go Facebook lead ads
+trigger event. New lead. I already have
+my Facebook account connected. You just
+do that with a couple clicks. page
+Roswell dispatch form Roswell the only
+form I have. Super easy. Test the
+trigger. Boom. Done. This is an example.
+Wait, do I already have a newsletter
+subscriber? There's no way I already
+have a subscriber. What the crap? I
+don't know if this is like test data,
+but it's showing me I already have a
+subscriber. And if that's true, I'm
+freaking amped right now.
+>> [gasps]
+>> Let's go back to Facebook. We're going
+to go to the Facebook leads center.
+That's where these email addresses are
+going to go after people subscribe.
+We're going to go to the meta business
+suite and you can just Google that.
+Click all tools. I'm going to search
+leads lead center. Now remember, these
+people are not subscribing because they
+follow me or they know the Kerner office
+or like no, this is not connected at all
+to my content or influencer stuff. Guys,
+we freaking we legitimately have 1 2 3 4
+5 6 7 8 We have eight freaking leads
+already. I'm shocked. Like, it usually
+takes hours for Facebook to even approve
+your ad. I'm completely floored right
+now. Not only is my ad approved, but I
+already have eight subscribers. Look at
+this. You can see lead added 659. Look
+at my watch. 702. I'm getting a lead
+every minute. I'm completely floored
+right now. These are not test data
+leads. These are real. Okay. So, this is
+this is awesome. So, now this is Zapier
+showing me recent leads that I've got
+in. And look, Suzanne Gonzalez. These
+all match. See, Hector
+77. Go back to Zapier 777 right there.
+Boom. [laughter] I can't believe this. I
+just started a newsletter. Like this was
+supposed to be for demonstration only.
+Okay. I don't even know. I don't even
+know what to do here. Okay. Sorry. The
+trigger is the lead coming in, right?
+Every zap on Zapier, every automation
+needs a trigger and an action, right?
+What triggers the automation? And then
+what action should the automation take
+once the trigger is hit? So the action
+is add the subscriber to Beehive. Okay,
+new lead. Beehive action event. Add a
+subscriber. Create a subscriber right
+there. Boom. Account. I need to connect
+a new account. So, it needs my Beehive
+API key. So, I'm going to go to Beehive.
+Okay. I'm not just like acting here. I'm
+I'm not just saying this for the
+purposes of this video. I have run
+dozens, hundreds of different Facebook
+ad campaigns over the last decade plus.
+I've never seen an ad approve this fast
+and leads come in this fast. I mean, it
+was within 10 minutes. I'm legitimately
+floored that that happened. I've never
+started a local newsletter. Like, I've
+interviewed several people that have I
+have a bunch of other newsletters, RV
+Park Investing, Business. I' I've had
+half a dozen newsletters. Never a local
+newsletter. I'm completely shocked at
+how easy that was. The ad that I made
+wasn't even based on another winning ad.
+Remember, I didn't even find anything
+that good. I don't know how long this
+edited video is, but I've only been
+filming this for an hour and 22 minutes.
+So, within an hour and 22 minutes, I
+have completely launched a local
+newsletter and have subscribers. And I
+don't know yet what I paid to acquire
+each subscriber, but I'm guessing it's
+going to be very, very good. Okay, my
+identity was verified. I'm going to
+create an API key. Boom. Copy it. Go
+back to Zapier. There's my API key.
+Boom. Save the key. Share my screen
+again. Okay. So, Zapier has my API key.
+Continue. Publications. Roswell
+dispatch. Email right there. Boom. You
+just click that email. Done. Don't worry
+about this. Send welcome email. Yes. UTM
+source. This basically tracks where it
+came from. So, I'm just going to put
+Facebook ad. That way, I know within
+Beehive where that email subscriber came
+from. Double optin setting off. Don't
+worry about any of this stuff. I don't
+even need to do that. Test step.
+Publish. Now, here's the cool part. I'm
+going to rename it.
+With just a couple clicks, I'm going to
+put all the leads that I've already
+received from this ad into Beehive. This
+is going to tell me right here. I'm
+okay. Eight late leads. That's what I
+just counted. Awesome. I'm going to
+check all of them. Select all. Next.
+Send data.
+Exit. Transfer.
+Let's go to Beehive to make sure that
+they're in here. Look at that. Eight
+subscribers. Now, I'm gonna make a
+segment because I want to know which one
+of these came from Facebook ad. I'm
+going to create a new segment. Click
+dynamic. That means it will auto update
+as new people come into that segment.
+Click condition attribute
+UTM source. Remember, I made it FBA
+Facebook ad. Save segment. Boom. It's
+processing eight people. eight people in
+the segment. The open rate is 0% because
+I haven't sent them anything yet. So now
+I'm gonna send them a freaking email.
+I'm gonna do this. Actually, I'm gonna
+go to emails. Oh, I have 10 subscribers
+now. [laughter]
+Holy crap. [sighs]
+Now we want to send them that welcome
+email. I'm just smiling. I'm just
+sitting here smiling because I just
+started a business. No revenue, but it's
+this is a business now. Now, I don't
+think that the welcome email has pushed
+yet because these are brand new
+subscribers and I just set all this up.
+So, I'm going to manually push it to
+them. So, to do that, I'm going to go to
+automations, new automation.
+I'm showing you how to use basically
+everything in Beehive right now. Also,
+I'm a huge Beehive fan. I've used them
+for two years. Please use my uh
+affiliate link. That would be a huge
+benefit to me. You get 30% off for 3
+months. I think a significant discount.
+I get a little kickback. It's a win-win.
+This isn't something that I'm just like
+shilling because they paid me. Like, I
+love Beehive genuinely. And you would be
+idiotic to start a local newsletter on
+any other platform. That's a really mean
+way of saying that. I apologize. It
+would not be wise of you. I'll say it
+that way. All right. So, the trigger,
+this is kind of like Zapier. We need a
+trigger for this automation is manual. I
+want to manually send people the welcome
+email. Click activate. Done. Boom. Save.
+Now, what is the action?
+action, send email, configure step,
+create new email, and I'm just going to
+do blank draft. I got another
+subscriber. I'm going to go to emails.
+I'm going to view the welcome email. I'm
+going to click edit, and then I'm going
+to click write and I'm going to copy it.
+Okay, so I'm copying the welcome email.
+Then I'm going to go back to the
+automation. We'll click blank draft.
+Boom. We'll make it purple because why
+not? Okay. So, I'm going to click
+activate. Now, this is an automation,
+but in this case, it's only going to run
+if I manually add subscribers to it.
+Okay. So, we're a little redundant. We
+have the automated welcome email. That
+will work great for subscribers coming
+in from now on. But for subscribers that
+have already come in, the welcome email
+didn't trigger because we hadn't set it
+up yet. So, we're going to go to
+segments. We're going to click these
+three dots and click recalculate. That's
+going to refresh it. This will go from 8
+to 11. Awesome. Then we're going to
+click into the segment and we're going
+to click this drop down arrow and we're
+going to say add to automations.
+We're going to click welcome email
+enroll. So now all 11 people. Oh, look.
+And the open rate is was already 10%
+because the most recent person that
+joined open the welcome email. It only
+showed us 10% cuz it was only one out of
+10 people. But now we're going to see
+this open rate start to go up. So, let's
+go check in on Facebook. We're going to
+refresh. And then look at that. Eight
+leads, $9. Okay, first of all, I'm going
+to pause this ad because it's working,
+right,
+guys? Okay, $1.15 per meta lead. No
+audience plant. We didn't do funny stuff
+with the timing of this. This was all
+filmed in one sitting. The lighting's
+the same. My wife's cooking meatballs
+out there. It's 7:17. We started this.
+We've been recording for an hour 31
+minutes and we've got subscribers. It
+still says eight, not 11 because it
+takes a little while to update, but we
+spent a dollar per sub and we just
+started. Guess what that means? Over
+time, this will get even more and more
+optimized and we'll be acquiring subs,
+subscribers for 40 to 50 cents. That
+means we'll be paid back in full in the
+first month. Okay? In the first month.
+Cuz remember, 50 cents per subscriber
+per month if we're selling sponsorships,
+etc. How do you find sponsors? Well,
+guess what? The people in your
+newsletter are business owners. 10% of
+all human beings are business owners.
+Okay? So, your sponsors are your
+subscribers. So, one day you just send
+an email to all your subscribers and
+say, "Hey, who wants to put an ad in
+here?" You get some responses. You get
+them on the phone and you sell the first
+out of 50 bucks, 100 bucks, 200 bucks
+until people start saying no. Guys, I'm
+freaking amped. This video was a banger.
+We started a local newsletter. What can
+I say? If you live in Roswell or you
+live anywhere and you want this
+business, this local newsletter for
+free, subscribe to my newsletter,
+tkopod.com. Go to tkopod.com, subscribe
+to my free beehive newsletter about
+business ideas and I will hold a drawing
+and I will give away this setup,
+everything 100% for free because I want
+you to own a business, to start a
+business. So check out Beehive. They're
+a great partner. It's a great business.
+Please use my referral link and share
+this with a friend because you probably
+know people that would like to start a
+local newsletter. You're the bomb. Hope
+you enjoyed this.

@@ -1,0 +1,1158 @@
+Why would you pay Salesforce thousands
+of dollars a month when you can build
+exactly what your business needs or your
+customers businesses need [music] for a
+fraction of a fraction of a cost? It's
+exactly what you need for pennies. It
+helps you look like a nationwide brand
+for next to [music] nothing software. If
+I want the Jobber account that has like
+the SMS functionality, it's like 4 or
+500 bucks a month. It's crazy. And the
+vast majority of businesses might need
+three [music] of Jobberers's hundred
+features, right? They're paying for all
+this stuff that they don't even use.
+This could be free. This could be your
+lead magnet. This could be your foot in
+the door to start charging them for
+other stuff. Totally.
+>> The same logic can be applied to so many
+industries.
+>> All right, Brandon. Well, thank you for
+coming back on the pot.
+>> Thanks for having me. Excited to be
+here.
+>> Okay, so what I've done is I have asked
+Chat PT, give me all of the vibe coding
+tools. Boom. Done. And then I'm going to
+share my screen. I just Googled random
+word chooser. Okay, here we are. And you
+can just enter in a list of words. You
+click choose and it's going to pick one.
+So, there's a lot of vibe coding tools
+out there. A lot of them are about the
+same. You and I, what we're going to do
+on this episode is we're going to
+perfectly randomize a vibe coding tool.
+Pick that. And then we're going to
+perfectly randomize an app to build with
+said vibe coding tool. And then we're
+going to build it at the same time. So,
+the same app on the same tool at the
+same time, but with our own brains, our
+own background, history, experiences,
+prompting, and then see who spits out
+the better product at the end. How does
+that sound?
+>> I'm excited.
+>> Okay. Cuz you and I are both vibe coding
+afficionados.
+>> Yes.
+>> And we're okay at it, you know, and
+we're not coders. We don't have a coding
+background.
+>> I don't know anything about code. I
+think what this video will serve to do
+for at least some people is show you
+what can be done in minimal time without
+expert prompting engineering, you know,
+strategies.
+>> Yeah. And you know what, Brandon, I'm
+just going to get on the soap box for a
+minute. We see all these tweets about
+like, "This prompt will change your
+life. Be sure to prompt chat GPT just
+like this." And it's like 3,000 words
+with like, "You are an expert resource
+for me. I'm trapped in an Iranian
+prison. And it's you don't need to do
+all that. Like just like garble together
+a like a poorly worded sentence riddled
+with typos. Ask it to do something and
+then just go from there. Like don't get
+hung up on how perfect your prompt needs
+to be.
+>> Hold on. Has somebody said the Iranian
+prison thing? Cuz if not, that's
+amazing. The only way I'll get out of
+this prison is if you if you code this
+perfectly for me in the next 30 minutes.
+Well, [laughter] I saw one Palmer Lucky
+said that like his trick to get Chad GBT
+to do what he wants is to say like
+you're like a university professor
+that's been
+>> Yeah. Yeah.
+>> in incorrectly accused of impropriy with
+a student
+>> like your life depends on the output of
+this prompt or something, right?
+>> Yeah. Yeah. I said that.
+>> Those are fun sound bites. It's just not
+necessary. Just talk to the dang thing,
+you know?
+>> Yeah, for sure.
+>> All right. So here are the vibe coding
+tools. We got bolt, replet, emergent,
+cursor, chipt, and then we just click
+choose.
+>> I think what it's doing is it's picking
+like the blank lines. Maybe I just need
+to remove the spaces. Let's click
+choose. All right. Emergent. Have you
+heard of emergent?
+>> I've heard of them. Never used them
+though.
+>> Okay. Well, let me let me ask chat GPT
+real quickly for a few facts about
+emergent. What is emergent? Let's see.
+It is only platform in competition to
+rank twice number one globally in
+benchmarks for coding agents. One of the
+fastest growing growth tools. It looks
+like they've raised a couple rounds at
+like insane valuations.
+And Agentic no platform lockin. One
+thing they have different is it looks
+like you don't need to use like
+superbase for your database. It's like
+they have their own built-in superbase.
+So, I think there's like less
+integrations you have to do.
+>> Sounds cool.
+>> Now, it sounds cool. Now, let's go ahead
+and I've had chat GPT generate a bunch
+of app ideas because we don't know what
+we're going to build here. All right,
+here are some choices that chat GPT spit
+out for apps that we can vibe code.
+Roofing quote bot, landscaping estimate,
+dog grooming reminder app, yada yada
+yada. You get the idea. We'll click
+choose lawn care biz quote generator.
+>> Sweet. Okay.
+>> Okay. I guess that's what we're
+building.
+>> I'm going to a merchant right now.
+>> So, we're each recording our screens,
+but we're obviously looking at our
+screen. Let's see who can build it
+fastest and who can build it best. With
+emerging, it looks like we can choose
+our own model. So, that's another you
+and I can decide. Yeah.
+>> Yeah. That's cool.
+>> All right. Ready?
+>> Yeah. I'm using the Iranian prison
+thing. [laughter]
+>> I'm in an Iranian prison. Okay. You are
+not You are free. You're in Texas. I'm
+in an Iranian prison.
+>> So, there's there's one differentiator.
+>> We'll see how this turns out. All right.
+You ready?
+>> Yes.
+>> Go. And this is with the free account.
+>> I signed up. It's 20 bucks and it was 10
+bucks off. So, I just signed up for the
+10 bucks.
+>> Okay. So, both of us got the $20 a month
+plan, but we're welcome to choose
+whatever model we want to choose or
+prompt it however fancy or simply that
+we'd like. And uh should we go?
+>> Let's go.
+>> Okay. All right. Here we go. Okay. So, I
+just finished my first prompt. I pressed
+enter 30 seconds ago. It told me that
+it's going to build it. And now their
+agent is asking me a few details to
+clarify what I want. So I'm going to
+review those and see what I need. Okay.
+So the details it asked me are pretty
+good. It asks it wants to clarify what
+services specifically am I offering? How
+should the quote calculation be
+designed? How should quotes be managed?
+Whether it's instant or is it more of
+like a lead form thing? And then if I
+have any design preferences on how this
+little web app, this little website
+thing is going to look. So, I'm going to
+answer and I'm just going to say mowing
+and hedging are going to be my services
+and
+okay, quote calculation. How to
+determine the price? Yes. Square
+feet or acres.
+Service frequency. Good call. Whether
+that's, you know, weekly, every other
+week, or monthly. Quote handling. Uh,
+I'm going to do instant quote display
+and a lead form below that on the
+results page. Also, my contact
+information so they can get a hold of me
+if they want to. Fun fact, 80% of the
+people that watch my YouTube videos are
+not subscribed to me. And most of them
+think they are. They see them in the
+feed, but they're not subscribed to me.
+So, please, it'll take half a second,
+just click subscribe, and it would mean
+a ton to me. For anyone watching, a
+famous one that people like to say is
+sort of like use the aesthetics of
+Airbnb. Airbnb is like a super famous
+Well, everybody knows Airbnb, I'm sure,
+but they're well known for just being a
+very welldesigned, pretty, you know, app
+and website. So, I'm just going to do
+that one for fun. I'm going to say model
+it after Airbnb style, but with
+different colors. I'm going to do greens
+cuz lawns should be green. Okay, let's
+see what happens. Also, the waiting
+screen uh very much has Matrix vibes, so
+it's kind of fun.
+>> My original prompt is now officially
+sent off and it's working. What were you
+going to say?
+>> So, I gave my prompt and then it asked
+me questions. I answered the questions
+and then it's been working in the
+background, which obviously if I was
+doing this, I don't have to actually be
+watching the screen while it's working
+in the background because emergent makes
+nice little noises. So I can just come
+back and check when I hear a noise and
+do something else, you know, check my
+email, whatever, while I'm waiting. So
+just a little side note there for
+people.
+>> It is nice.
+>> Yeah,
+>> I like that.
+>> Okay, you go then. I'll be ready cuz
+mine just gave me an output. All right,
+it just asked me four clarification
+questions and I just answered those. It
+took about a minute to send me those
+questions back. Now it's working again.
+>> Mine gave me its first output. It looks
+good. It does have the vibes of Airbnb
+like I asked for, but with greens. So,
+that's nice. It looks looks pretty. It
+looks simple, which is also what I want.
+It said that it gave me the front end.
+It took some screenshots, as you can see
+on my screen, to show like how the quote
+process would work if I were to go
+through it, which I will. It gives me a
+nice little recap. And then it gives me
+sort of a, you know, just the details of
+what it did. It says I created I won't
+read it all but it said I created the
+front end only version of your quote
+generator using mock data that reflects
+Airbnb with the green you requested and
+then it shows me what is working the
+quote calculator the instant quote
+display the lead form business contact
+info and then the site and then it notes
+which is good because some people kind
+of forget about this the pricing logic
+is currently just with mock data and
+doesn't have any you
+real thing to go off of yet. So I
+because I didn't give it any dollar
+number of any kind. So I'm going to have
+to do that and I'm going to start
+testing it just to make sure it actually
+works. Also, if you see on my screen, it
+lets me choose as a as a user, you know,
+the square footage or acres. So I can
+choose either one. And then it says if I
+want lawnmowing and or hedge trimming.
+And then it also asks if it's going to
+be a one-time service, weekly,
+bi-weekly, or monthly. So, it gave me it
+it set it up to where the user can have
+all those options.
+>> That's pretty cool. Yeah.
+>> So, is yours kind of like a chatbot and
+not like a form?
+>> No, no, it's a form.
+>> Okay.
+>> But it's like a dynamic form. So, that's
+good. So, I just did a test and so I
+just I put that my lawn size is 600
+square f feet. I said I wanted mowing
+and hedging. I said I wanted it weekly.
+It gave me the quote, which is $7.80 per
+service because it doesn't have any real
+data. So, obviously, I need to change
+that because I would, whoever would do
+this would be losing money. It shows a
+nice little breakdown of what's included
+for that $7.80,
+the form below, as well as contact
+information.
+So, I'm going to now work on adjusting
+the pricing logic so it spits out
+correct pricing here. Also, for anyone
+noting in the top right of my screen, I
+started with 11 10 credits in my account
+here.
+>> Mhm.
+>> With Emergent and I'm at 109.67.
+So, I haven't even used one credit
+total.
+>> 67.
+>> 67. Okay. So, on my end, it was
+basically saying like, "Hey, what kind
+of a database do you want?" And I'm
+like, "Uh, just Google Sheets." And then
+it's like, "Okay, how do you want to
+integrate Google Sheets?" And like, I
+mean, for the purposes of this video, we
+want to launch this fast. I was like,
+"Nah, never mind.
+>> Just email me the lead." And then it was
+like, "All right, do you want to use
+Send Grid? Do you want to use SMTP or
+whatever?"
+>> And then I started to log into my Sen
+Grid account because I have one and it
+wanted two-factor and I was just like,
+"Nope, too hard. No integration. Just
+generate quotes. Yeah. So,
+>> okay. I mow my own lawn, so I don't know
+how much lawns cost to um mow these
+days.
+>> Okay. I've got a quote here. I did not
+give it any design specifications. Mine
+says lawn care quote calculator. It's
+green, I'm assuming, cuz it's lawn care.
+It asks for full name, phone number,
+property, acreage, and house square
+footage. So, now I'm going to test it
+and see how it goes. Okay.
+Okay.
+Interesting.
+So, mine worked perfectly. It did
+exactly what I needed needed it to do.
+>> It's awesome.
+>> Now, the math, like I need to adjust the
+math, and I'll get to that in a minute,
+but it works. So, I'm going to keep
+tweaking it. Since I didn't do this
+earlier, I just put in the pricing. So,
+I just chose 50 bucks per thousand
+square feet of mowing. And then I told
+it to adjust for smaller or larger lawns
+>> and to adjust for to you know change to
+acres and do the calculations for that
+if needed. And I said that that's for a
+onetime mow. I said if they want hedging
+too just add a 25% additional cost. And
+then I told it that if the customer
+signs up for monthly instead of one time
+they get a 5% discount bi-weekly an
+additional 5% discount. and then weekly
+an additional 5% discount. So, it's now
+adding in that pricing logic and it'll
+give me the updated version shortly.
+>> I like that. How many credits are you
+at?
+>> 108.37.
+>> I just feel like with these vibe coding
+tools, customization is going to be the
+name of the game. Like why would you pay
+Salesforce thousands of dollars a month
+or HubSpot or whoever when you can build
+exactly what your business needs or when
+you can build exactly what your
+customers businesses need for a fraction
+of a fraction of a cost where you use
+all of the features. There's no features
+that you're paying for but not using.
+It's exactly what you need for pennies,
+>> right?
+>> Yeah. Oh yeah, totally. Okay, quick
+thing on my end. If you uh see my screen
+here, this is tkowners.com. This is a
+community that Chris uh runs that I help
+him run. It's amazing. If you want to do
+anything in the world of
+entrepreneurship and business, you got
+to get in this community. We're doing
+stuff like this every day. Yeah.
+>> So, it just spit out it spit out my
+pricing update, which was great. So, it
+did it and it did all the ratios and all
+that. And then it asked me if I wanted
+to like build a robust back-end database
+and stuff. And I just said, "No, just
+email me the quotes, you know, once
+someone fills it out. Just email me the
+quotes to brandwaller media.com. And can
+you also launch this on a live test
+URL?"
+>> So, let's see what happens.
+>> It's funny because it's like in using
+these tools, you kind of have to retrain
+your brain, right? Like
+>> let's say you get to this point and
+you're like okay let's say we've never
+used a vibe coding app before right we
+get to this point where we have a
+working prototype and we want it to be
+on a website but we don't even know like
+how to ask it that right like all right
+I've never used emergent before so like
+the gut instinct is to Google like how
+to deploy emergent app onto a website
+but no like just use the chat interface
+that you're currently using to build the
+app to ask it questions about the app,
+you know, okay, ready to deploy. What do
+I click next? And then it will switch
+from being like a coder to a customer
+support agent all within the same chat
+window. But yeah,
+>> you just have to start thinking along
+those lines.
+>> Yeah. Yeah, totally.
+>> Look at my screen. Like it just asked me
+a bunch of questions. Some were
+technical, some not that technical. I
+asked it. I said, "Email me the quotes."
+And then it said, "Okay, what um API do
+you want to integrate?" And then it gave
+me some choices. And I'm like, "You know
+what? Just put the lead forms on a
+Google sheet to make it faster."
+>> Mhm. [clears throat]
+>> And then and it it had asked me like all
+the info that I want, blah blah blah.
+And I was like, just include whatever
+the person enters in lead form and the
+instant quote. Like I'm not doing me,
+Brandon. I'm not doing anything fancy
+here. To your point, I'm just chatting
+with this thing and I'm like, "Yeah,
+just do this." Like I'm like,
+>> yeah,
+>> just commanding it like a, you know,
+entrylevel employee who happens to be
+amazing in AI.
+>> Yes.
+>> Okay. So, I like how it gives you an
+option to deploy it right within the
+chat window with a big green button. You
+can't miss it. You can preview it um by
+clicking that. I don't want to talk you
+through what I've done so far, but I
+want to test it first. All right. Can I
+walk you through what I've done?
+>> Yeah.
+>> All right. All right. So, I'm not going
+to tell you yet what my original prompt
+was. But here's the logic of how I'm
+looking at this. So, I wanted the name
+and phone number because this is a lead
+magnet, right? This is accomplishing two
+goals at once. It's saving me time
+because it's quoting a job for me
+because the these guys probably spend a
+lot of time on the phone. And if they're
+mowing a lawn, like the average business
+owner in this space at least is out
+there mowing lawns all day. They're not
+like they don't have a receptionist,
+right? So, they're losing money ignoring
+calls from people that want a price
+because they're probably already very
+targeted and like it's probably a very
+hot lead that they're ignoring, right?
+And so, if they could just have an
+autoresponder say, "Oh, I'd love to
+offer you a price. Just fill this out
+real quick." Then, a they get the lead
+and b they save time, right?
+>> So, [clears throat] that's kind of how
+I'm looking at this going into it. So, I
+want the name. I want the phone number.
+I don't care about email because this is
+a very phone-based business. I need to
+know the acreage and I told emergent or
+I just reminded it like you know we're
+using acreage as like 43,500
+square feet per acre, right? So if they
+put in 0.1 it's going to be 10% of that
+and then we're using house square
+footage because they're going to
+subtract that from the acreage. And then
+I also told it subtract 10% of the
+acreage from the square footage as well.
+So let's just say it's a 0.1 acre lot.
+That's roughly 4,300 square f feet. And
+let's say it's a,000 foot house.
+Subtract that. We're at 3,300 square f
+feet. But then we also need to subtract
+10% of the lot size to account for the
+driveway, which is going to be 430. So
+that leaves us with uh what, like 2,600
+square ft, right? And then I know based
+on the last neighborhood I lived in that
+like a a small house on a small lot like
+that is going to be about 40 50 bucks.
+So I just said multiply the the square
+footage by 1.6 cents because that's
+about how you get to about 40 50 bucks,
+right?
+>> So it spit that out for me and then it
+worked and then I said, "Whoa, whoa,
+whoa." I I tried like half an acre and
+it gave me like $300. And I'm like, I
+know that's way too much for half an
+acre. So then I went back and I said,"I
+need to scale the pricing for larger
+lawns. A half acre lawn and 2,000 foot
+house should not cost 281. Your math is
+right, but that price is way too
+expensive." Okay, so like do a discount
+against the 1.6 cent rate of 20% for
+every quarter acre.
+>> So obviously I did a very poor job
+explaining that, but don't get hung up
+on doing a good job explaining it. It's
+going to figure it out, right?
+>> Yeah. And then it spit out something
+that worked and it said, "The tiered
+pricing feature has been added to the
+calculator incorporating volume
+discounts for larger properties," yada
+yada yada. It breaks it all down. Guys,
+I have started dozens of businesses at
+this point. And every once in a while,
+I'll see some random fee in my bank
+account that makes zero sense to me. And
+when you're dealing with international
+stuff, you see it all the time. It's not
+uncommon for currency conversions to eat
+3 to 5% of every transaction. It's
+insane. But Airwalk fixes this with
+things like multicurrency accounts
+across 60 plus currencies. No double
+foreign transaction conversions killing
+your margin. You can collect payments in
+euros, hold them in euros, pay suppliers
+in euros. None of that converting back
+and forth. Over 150,000 businesses use
+them across 160 countries. They've got
+corporate cards and expense management
+built right in. So stop bleeding fees
+and go check out airwalls.com.
+your global business without borders.
+And then I said add a field for asking
+how many mos per month if once full
+price twice equals 20% off the total per
+mo three or more equals 40% off the
+total per mo per mo. And then it did
+that quite perfectly. And where I'm at
+now is I said work in a minimum because
+I I played around with it and one of the
+quotes it gave me was $0. And the math
+was right. Right. I did like a 5,000
+foot lot and a 5,000 you know square
+foot house $0. Yeah.
+>> So I said work in a minimum where it
+will never quote any job less than $40
+per mo. It will override all math and
+then add in a check box that says add in
+weed eating for insert price more per mo
+and then the price should be 20% of the
+total mo amount.
+>> Sweet.
+>> So that's where I'm at right now. Where
+are you at? Okay. So I asked it to just
+house all the info on a Google sheet and
+so it says that it just finished that.
+So it's got all the quote generation
+built. It says the backend has been
+tested and all API endpoints are
+responding correctly. It says it's all
+ready to go. It says I need to follow
+the Google Sheets setup.m MD little
+thing that it gave me to create the
+Google sheet basically that it will
+connect with and it has that above. So
+I'm going to do that really quick and
+then launch it. I think one thing that's
+worth noting is like depending on what
+industry you're in when you're watching
+this, we're building lawn care quote
+generators. The same logic can be
+applied to so many industries whether
+you're a roofer or a painter or in
+fencing or whatever like calculating fee
+and you know logic and spitting out the
+correct pricing y and then using this
+for lead genen and spitting out a quote
+right away which is not the norm these
+days right the norm is me if I want a
+new roof I have to call roofers and then
+they say they're going to come out or
+maybe they didn't even answer the phone.
+So, like this is a good way to get
+around that, get some instant feedback
+and hopefully quick leads. And what I
+would do if we had more time today or if
+I really wanted to build this out once
+the thing is live, I would probably also
+structure it to where I get pinged or I
+would for sure structure it to where
+every time someone's fills out a form
+and they submit their contact info that
+I would get a text. I wouldn't just want
+the email. I'd want to text with their
+info and I would text and call them
+right away saying, "Hey, I got your
+thing. It's, you know, the quote says it
+would be 80 bucks uh a week, but
+actually if if we start this week, I'll
+do it for 75." So, you're like double
+overd delivering over any normal
+competitor, which is transparency of
+pricing upfront and speed to reply. In
+the home services industry, those two
+things are not that normal. So, this
+strategy helps you stand out with both.
+>> Yeah. It helps you look like a
+nationwide brand for next to nothing
+software,
+>> right?
+>> Yeah.
+>> And one thought that I had is like, no
+shade to Jobber, but if I want the
+Jobber account that has that has like
+the SMS functionality or a lot of these
+things, it's like four or 500 bucks a
+month. It's crazy.
+>> Yeah. Like the vast majority of
+businesses cannot afford that and the
+[clears throat] vast majority of
+businesses might need like really need
+three of Jobers 50 features 100 features
+right so once again I already said this
+but they're paying for all this stuff
+that they don't even use but with
+something like this maybe like this one
+little feature is a gamecher for them it
+helps them close more deals it helps
+them save time right not miss out on
+stuff for a tiny price and then like
+this could be free this could be your
+lead magnet and this could be your foot
+in the door to start charging them for
+other stuff to start charging them for
+their own version of Jobber, right?
+Yeah. Or for a lead genen service or for
+anything.
+>> Yeah. Yeah. Totally.
+>> Hey, quick note for some commenters out
+there. You don't need to say the Malcolm
+in the middle comparisons to me anymore.
+Malcolm in the middle all grown up.
+You've been you've been sharing that in
+the comments.
+>> I don't want to hear they're saying that
+about you.
+>> Yeah, I'm just joking. But yeah, on
+every YouTube video of yours that you
+posted of me, people make Malcolm in the
+Middle comparisons.
+>> Oh my gosh.
+>> I've never seen the show actually, but I
+heard it was good.
+>> Have you heard that before from others?
+>> I never, but it's just in your YouTube
+videos that I appear on.
+>> That's amazing.
+>> Yeah. Okay. Mine is live. I'll show the
+URL.
+MoMaster-6.emer.host.
+Check it out. So, enter your lawn size.
+So, I I did do it differently. So, I'm
+counting currently on people knowing how
+big their lawn size is, either in square
+feet or acres. Lawn mowing, hedging,
+bi-weekly, instant quote. Boom. 2,000
+square feet, 112 bucks. Discount
+applied. Awesome. What's included? Okay.
+Okay. Okay, so I just entered my info to
+receive the quote. Thank you. You know,
+it gives me the thank you page and that
+I'll be contacted shortly. Also,
+business info here, which obviously I
+could customize if this was real. Yeah,
+it all looks pretty good, pretty quick.
+Then I would just get the contact lead
+and contact them. So, it spits out the
+thank you confirmation and then that
+information, the lead form just goes to
+my Google sheet. And so, now, you know,
+the $112.50
+is there along with their contact info.
+And if I was Greenscape Lawn Care, if I
+was the owner of that company, I would
+just, you know, call and text them right
+away and I would probably offer them a
+discount off this 112 to get started
+this week and to close them and um good
+to go.
+Oh man, yours looks better than mine.
+[laughter] Dang it. [gasps and snorts]
+>> I I do like the little the blurb they
+gave me and the little sub thing.
+Professional lawn care instantly quoted.
+Get your personalized lawnmowing and
+hedging quote in seconds. Quality
+service, transparent pricing. Beautiful.
+>> Okay, so that's a little it's a little
+different. It's almost like yours is
+like its own standalone business, right?
+Whereas mine is like a little widget
+that I'm sending customers that's not
+meant to be like publicly facing. You
+know what I'm saying?
+>> Yeah. Yeah. Yeah. I guess my thought
+process is this. I would have like this
+would be a landing page or a homepage of
+a live website that I would try to drive
+traffic to to get customers with.
+>> Okay.
+>> Yeah.
+>> That was the approach I took. Whereas
+the approach I'm taking is like kind of
+like mis call text back right you're
+mowing the lawn someone calls you or
+someone texts you if and this would be
+an additional automation we'd have to
+build u probably outside of emergent but
+if it's not answered let's say if the
+phone isn't answered at all and if the
+text isn't answered in 5 minutes then
+auto text a link to this and say so
+sorry I'm actually mowing a lawn right
+now I assume you want a quote happy to
+do that fill fill this out. It'll only
+take 30 seconds and then I'll call you
+back like in person. That was kind of my
+intent for this.
+>> Yeah. So, you could probably use Lindy
+plus emergent to do that, right?
+>> Yep. Or Zapier or go eye level or
+whatever.
+>> Yeah.
+>> Maybe you could even use emergent to do
+it, you know? I don't know. I don't know
+it well enough.
+>> Okay, mine is ready. So, there's mine.
+There's yours. Yours is like kind of a
+landing page. Looks super nice. You've
+got these boxes right here are
+responsive. You've got a shadow
+gradient. It's nice and like it's green
+but not too green. It's different
+shades. It's not shouting at me. You
+have two different check boxes here for
+lawnmowing. Hedge trimming. Service
+frequency. I like that. I like how you
+have square feet in a separate box. Lawn
+size, service frequency. I'm going to go
+ahead and Okay, this is cool. I'm going
+to do one acre. We're going to do
+lawnmowing and trimming. We're going to
+do bi-weekly. Get instant quote. Okay.
+It was literally instant, which is
+awesome. Your custom quote, $2450 per
+service. So, that's a lot.
+>> That seems high.
+>> Yours that seems high. $2,400 to mow an
+acre. But on the like visual side of
+things, I think yours is a no-brainer.
+What's included? I like that. and then
+they fill out the lead. I don't prefer
+the fact that you don't get their
+information until because if they if
+they don't like the price, you're never
+going to get their number, right?
+>> Yeah, that's true.
+>> Contact information. That's nice. I
+don't have that. So, I guess my favorite
+things about yours, if I look at it
+holistically, is it looks better. It's
+better design. I like that you
+incorporated Airbnb into the prompt,
+which we'll get to in a minute. And I
+like just the UI of like the check boxes
+on the homepage and all that. What I
+don't like is that you don't get their
+information unless they like the price
+and the fact that the pricing doesn't
+seem quite dialed in. Whereas I spent
+less time on the look of it and more
+time on the math of it on the back end.
+That's my gut take.
+>> Yeah, for sure. Yeah, I need to fix that
+cuz I said I think I started at 50 bucks
+for 1,000 square feet, but 1,000 square
+feet is not that much for a lot. So
+scaling that up to an acre adds up
+pretty quick. So I didn't do any like
+scale down pricing logic and all that
+kind of stuff. I more just did ground
+>> up and go from there. So I need to fix
+that. And I think what you said on the
+info on the lead information side is
+everyone needs to decide like I'm
+counting on the instant price in which
+case I need a fix. But can I deliver an
+instant price so good that they'll give
+me their contact info? So, I'm I'm
+willing to like lose some people that
+won't give it to me regardless
+>> because I know because the ease and
+speed I'm hoping will make up for it.
+>> Well, a thousand%. I mean, that's the
+age-old
+>> trade-off when it comes to lead
+generation. The more friction you
+implement, the fewer leads you get, but
+the higher quality those leads will be.
+the less friction there is, you're going
+to get a lot more leads, but your closer
+rate will go way down. And there's no
+right way. It depends on the industry,
+you know.
+>> Yeah. So, I just broke down yours. Why
+don't you share your screen? Okay. Wait,
+what's yours? Moid.
+>> mobid.emer.host.
+Quick question. What if there were a
+private community out there of people
+that were building businesses based on
+this podcast? Well, I just made it and
+it's only for business starters and
+business builders. It's called TK owners
+and it's basically like having me and a
+hundred other business geniuses as your
+business partner. Also, there's going to
+be exclusive new trends, growth hacks,
+business ideas, and a database of
+everything I've ever talked about.
+You'll find thousands of startup case
+studies. You'll have weekly ask me
+anythings with me while I'll answer your
+questions directly. You can join now at
+tkowners.com. Link in the show notes.
+>> Well, I like it. It's very simple.
+There's only literally one thing I can
+do here. So, let's see here. acreage.
+I'm gonna do I'm gonna do 1.5.
+Actually, I'm gonna do 2.2 house square
+footage. I wonder how it calculates this
+cuz it like is it like the footprint?
+You know, what if it's two stories?
+>> I thought about that and I did not
+incorporate that into the math. So,
+>> yeah, I don't even know. That's fair.
+I'm just curious. Okay. Calculate.
+>> That's another trade-off, right? Like I
+could add that question in. I could add
+that question in and I might get 5%
+fewer responses because it's more
+friction,
+>> you know, right? But it could be a more
+accurate quote,
+>> you know.
+>> Yeah. So, lot I did do 2.2 acres, so
+it's obviously a big lot. Takes away the
+house, takes away the driveway, mobile
+area, 40% with 3x monthly service. I
+like that cuz that's what I chose, but I
+like the extra call out in a separate
+color on the discount. I did want weed
+eating, so it adds that 500 bucks per
+cut. Yeah, that's pretty sweet. And, you
+know, I didn't work in a pay now thing
+because, you know, we had different
+thought process processes with what we
+were trying to build here, but I like
+that you already set that up because
+yeah, that would if you were to, you
+know, fully integrate that then that
+would be uh that'd be awesome.
+>> Yeah. One of the last prompts I gave it
+was put in a blue pay now link that I
+can add a Stripe payment link to.
+>> Yeah. So, right now it leads to a dead
+stripe link. But
+>> yeah,
+>> what I don't like about mine now that I
+see it is it doesn't it doesn't scale
+the discounts enough based on the
+property acreage. 512 for 2.2 acres is
+still too much. Like I know in Texas
+>> there there have been a few times when
+I've gotten two of my acres mowed and
+weed eated and it was like 200 bucks.
+>> Yeah. Well, because I
+>> maybe in some markets
+>> Yeah. I mow mine and I I I probably
+actually have something like I have a
+decently big back lawn. I I probably
+have like an full acre plus of lawn that
+I mow with a riding lawn mower and it
+only takes me like an hour and a half.
+So like I wouldn't pay, you know, five
+four 500 bucks
+>> for an hour and a half. My time is still
+worth more than that in my head. Also, I
+enjoy mowing. So yeah, that's that's a
+good call out. I think the only other
+call out that I would say as far as how
+to improve cuz I like everything else
+would be include more like what are the
+benefits? What are the things that are
+included in the job? You know,
+>> clean up.
+>> Mhm. Yeah.
+>> All that kind of stuff.
+>> That's true. Because if I'm trying if my
+goal is to save time here, then that
+would help accomplish that goal,
+>> right?
+>> Yeah.
+>> It's too simplistic.
+>> Yeah.
+>> And it would have just been an extra
+sentence in one of my prompts to add
+that. It wouldn't even have had to have
+been its own prompt that takes time to
+load and everything, you know.
+>> Yeah.
+>> So, I want you to approve of this. I
+don't want it to be a leading question.
+>> Yeah.
+>> If you were a busy lawn care business
+owner wanting a simple web app that
+quoted jobs for you, which one would you
+use? Is that pointing people towards
+mine too much?
+>> No. No, I don't think so.
+>> Okay. Option A, option B, and then I
+have a simple poll here.
+>> Is that good?
+>> Yeah.
+>> All right. I'm curious how much Twitter
+suppresses it or not because it's too
+late.
+>> Yes.
+>> But I'll just delete it once we get some
+results here. All right, we got option B
+right here. We got option A right here.
+I mean, I'm kind of asking a lot of
+people like click on two different
+links, play around with them.
+>> You're dominating me already.
+>> I am.
+>> Yeah.
+>> Oh, interesting. Oh, you commented on
+it. Did you vote on it? I voted on mine.
+>> Look at that.
+>> You're up. So that's your only vote
+then.
+>> Yeah. [laughter] Yeah.
+>> What the heck?
+>> All right. You got a couple votes.
+>> Okay. Well, I'm going to hurry and make
+a Twitter bot. Just kidding. [laughter]
+>> When does it become statistically
+significant?
+That's what we need to decide on.
+>> It won't be until I'm ahead. So,
+whatever that number is. [laughter]
+>> Well, there's a good question. 50,000
+votes.
+>> Yeah. Okay. Well, it's not uh
+statistically significant yet because
+I'm not winning yet. So, keep keep it
+going. It's moving in your direction. I
+should end it right now. Oh, I won.
+>> All right.
+This is fun. This is good. Why don't we
+take this time while we wait for votes
+for you to read what your first original
+prompt was and then I'll do the same.
+>> Okay. Yeah. So, my first prompt in an
+effort to um show people that you don't
+have to be a genius of any kind to to
+get good vibe coding platforms going.
+Mine was simple. I went off Chris's joke
+about the Iranian prison. So, I typed
+that in for fun. I said, "I'm in an
+Iranian prison and need you to build me
+an app perfectly so I can escape. I need
+you to build me a web app for a lawn
+care business. It will be a quote
+generator." That's all I said. like
+literally almost no I would say no
+details of any kind and uh I worked
+through it a little of course over time
+but the first one was very simple and it
+already you know got me going on the
+journey pretty dang good so I was happy
+with it I think that's great I'll read
+my original prompt mine was longer I
+want to build a web app for lawn care
+business owners to use to enable
+potential customers to quote a job it
+should be a simple form with a
+calculator on the back end the form
+question should be one name two phone 3
+acreage four square footage of the
+house.
+>> Yeah.
+>> Then the calculator should subtract the
+square footage of the house from the
+acreage and then subtract another 10%
+off the size of the lot to account for
+the driveway. And I just totally made up
+that 10% number. I have no idea how big
+a driveway is in relation to the lot.
+>> Yeah.
+>> Then the quote it spits out should be
+1.6 cents for every square foot of the
+property. And once again, I got to 1.6
+cents by just getting to $50 for a small
+lot. For example, a 0.1 acre lot is
+about 4,300 ft². Let's say the house is
+1,000 ft². The driveway is going to be
+430 ft² or 10% of the lot size. So, the
+quote should be 4592 per cut, which is
+4,300 minus 1,000US 430 multiplied by
+1.6 cents per net square feet of lot.
+Make sense? So, I I wanted to like show
+it my math just to hopefully save me
+another prompt or two on correcting a
+mistake. Yeah, if somebody were to judge
+us based off of our prompts, your IQ
+would be approximately four times higher
+than mine off of our initial prompts.
+>> Whatever. I looked quite
+>> That's okay. I'm I'm okay though. But
+yeah.
+>> Okay. I calculated how many words I
+typed in in total to emergent over the
+course of my six prompts. So, six
+prompts in total and 211 words is how
+many words I typed in. That's very very
+low.
+>> Seems very efficient.
+>> That's like incredibly low. I'm guessing
+>> it seems efficient though.
+>> Yeah, cuz fewer words equals it it could
+it could equal more time, right?
+>> But it it could also equal fewer
+credits, like less cost on building this
+thing.
+>> Yeah.
+>> All right. So, my count here's my final
+count. I had one, two, three, four,
+five, six, seven, eight, nine. All
+right. I had nine prompts for 354 words.
+What was yours again?
+>> Six prompts for 211.
+>> Very interesting. So, I had like
+60 70% more words and 50% more prompts.
+>> Yeah.
+>> Than you. I mean, I would say both of us
+with one more good prompt could make all
+the changes needed that we would want to
+make on ours before making it fully
+live, right? Like some slight
+adjustments to pricing logic on both of
+ours and some other things. And
+obviously we took different directions,
+but in I don't know under 400 words for
+you and 10 prompts and in under 250
+words for me and seven prompts will have
+something live
+>> and working in the span of under an hour
+as well.
+>> So my prompts had 40 words per prompt
+and yours had 35. So pretty close.
+>> Yeah. Interesting.
+>> So it's it's almost like we net it out
+the same. You know what I'm saying?
+Yeah,
+>> like same amount of time. What were your
+credits?
+>> I'm at currently I've got 51 left.
+>> So I have 42 left. So which track? So
+like I had a
+>> few more prompts, few more characters,
+few more credits, but we did them both
+in about the same time.
+>> Yeah.
+>> So if we go to our poll,
+>> Yeah. you are winning.
+>> 64% to me,
+>> 36% to you.
+>> It's not statistically significant. And
+I want everyone to be reminded of that
+because you're [laughter]
+>> I got to screenshot this for posterity
+sake.
+>> Well, should we call it?
+>> Yeah. No, this is good. You could do let
+us know in the comments which one you
+think won if you want.
+>> Yes, please.
+>> The comments might disagree here, but
+yeah, we we can put these URLs in the
+the description of the video. You can
+let us know which one you think won. I
+won't be offended if it's not me. No
+worries.
+>> Yeah. And if you're a landscaping
+business owner, go to uh mob
+bid.emer.host
+or what was yours? Like momonster.
+>> Mo-6.
+>> Yeah. Mo-6. Great domain names.
+>> Yeah, great domain names.
+>> Well, this was fun. Emergent seems like
+an awesome tool. If we wanted to keep
+this app on emergent, it would cost 20
+bucks a month. Or we could export it and
+take it somewhere else. But it cost us
+about about 10 bucks to launch these
+apps. Not bad. super fun, easy to use.
+If you guys are liking this video,
+please subscribe. Brandon, where can we
+find you?
+>> Yeah, I'm on Twitter, Brandon Doyle. And
+um yeah, check out tkowners.com if you
+want to learn more about this kind of
+stuff or just scaling your business or
+networking with entrepreneurs. It's an
+awesome community that Chris and I are a
+part of. All right, what' you think?
+Please share it with a friend and we'll
+see you next time on the Kerner

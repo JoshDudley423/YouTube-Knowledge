@@ -1,0 +1,773 @@
+monthly recurring revenue exceeded any
+salary that I had up until this point.
+>> Yeah.
+>> My company that I was working with laid
+off 20% of its [music] employees
+unannounced. And so we had a decision to
+make at that point cuz we have [music]
+families and households that were taken
+care of. It was either going to be going
+out and finding a job. I had done that
+and somebody else's poor financial
+decisions put my family in a vulnerable
+position or I was going to go make it
+happen myself. We said yes to anything.
+We were saying yes to design work and
+then outsourcing it. marketing work and
+outsourcing it. We kind of just said yes
+to [music] the whole scope and the whole
+range of things.
+>> I like to say say yes to everything
+until you can afford not to. [music]
+>> Many customers coming to us since then
+saying chat GPT sent me or I was
+chatting with Claude and they sent me
+your way. [music] We just now started
+running Google ads after we crossed
+10,000. It's [music] super inspiring
+that you guys both were effectively
+knocked out on your butt, right? Lost
+your job, company went bankrupt, and
+rock [music] bottom can be a very
+powerful thing. I think most people, not
+all, but the vast majority of people
+will not do what they need to do with
+their life until they're at their own
+personal [music] rock bottom, which
+looks different to everyone. Some
+people's rock bottom might be sitting in
+a federal prison. Some people's rock
+bottom might [music] be they didn't get
+the promotion they needed for that year.
+It looks completely different. But when
+we hit that rock bottom, only then are
+most of us able to truly just grab life
+by the horns and [music] make exactly
+what we want of it. Okay. So what's the
+playbook that people could implement if
+they're not technical to start a pure
+software as a service business?
+So I come across this guy on Twitter
+named Caleb. And Caleb has an
+interesting story. Him and his buddy
+business partner both lost their job
+around the same time, but they had
+families to feed. They had people to
+support. And they'd always kind of
+wanted to be entrepreneurial to start a
+business, but they weren't really ready.
+But they thought, shoot, let's do it
+anyway. So they did. They wanted to
+launch a software business, but they
+didn't have any followers, which is
+probably true for most people listening
+to this. So, they came up with an idea
+for an app that can help people post
+their content to social media. You heard
+of Buffer, PostBridge, there's a bunch
+of apps that do this, but this app is
+pointed towards more technical people,
+developers, and that wasn't really being
+done. So, when they first launched their
+app, they tweeted about it. That tweet
+got about 200 views. It flopped. They
+got some friends and family to sign up,
+couple people from Twitter, but it was
+crickets for the first month or two.
+$300 monthly recurring revenue, then
+500. In fact, after 5 months, they had
+$500 in monthly recurring revenue. But
+they were stoked about this. On January
+1st, Caleb, the co-founder, was at
+dinner with his wife and they were
+celebrating $500 in monthly recurring
+revenue. And he said, "You know what? I
+don't have any Twitter followers, but
+I'm just going to start posting
+screenshots to Twitter every time I get
+another $100 in MR, monthly recurring
+revenue. So, he did. And then things
+started to change for him. Even though
+he had no audience, no followers, people
+liked that and they noticed. And without
+even meaning to, he developed a playbook
+for building a software business on
+Twitter without really any Twitter
+followers. Even to this day, he has like
+1,200 followers, but it's still driving
+him a ton of business. And then his next
+inflection point was learning about AI
+SEO. How can you get Claude Grock Chad
+GBT Gemini to start suggesting you to
+people asking about things that might
+relate to your software tool? Well, he
+cracked the code and he's going to give
+us the playbook today. He shares his
+Stripe screen. He talks about his churn,
+good, bad, and ugly. The big
+breakthrough he had in pricing that
+changed everything for him. This is a
+playbook for starting a software
+business, whether you're technical or
+not. And of course, how to get customers
+for your business. And yes, also how to
+come up with the right idea. Please
+enjoy.
+>> So the story for us, I mean this to me
+is all like education. Everything that
+happened in 2025 for us was really just
+like learning how to launch a product.
+I'll never forget it was actually on
+January 1st. Uh my wife and I put the
+kids down. We were up visiting my my
+parents out of state and uh they said,
+"All right, we'll hang out with the
+kids. You guys go out and like enjoy a
+night out on on New Year's Day or
+whatever." And while we were sitting
+down, I pulled up I pulled up Stripe and
+my wife just said, "Okay, so like how
+are things how are things going?" And I
+said, "Well, let's check." And we were
+closing in on $500 in monthly recurring.
+And I was like, "Wow, this is insane."
+You know, at 10 bucks a month, I was
+like almost 50 people like want to use
+something that that I built. And so my
+wife and I made a deal for every $100 of
+monthly recurring that we added, her and
+I would each do one extra push-up. So,
+we got back to my parents that night and
+we each did our five push-ups. And then
+I had seen I'd been really inspired by
+the level of transparency that guys like
+Jack or Mark Lou or Peter Levels were
+[clears throat]
+>> putting out into you know Twitter
+posting their journeys along the way.
+Like if if their journey helped me, why
+don't I just for fun grab these
+screenshots for every $100 that we make
+in monthly recurring. My wife and I are
+going to do our push-up challenge and
+I'll go ahead and and post the progress
+along the way on Twitter. So, starting
+on January 1, I started posting our our
+MR journey, you know, throughout the
+course of us growing.
+>> I mean, even though you found Peter
+Levels, Jack, and all these guys like
+when they were making like hundreds of
+thousands a month, you knew that they
+had been doing that for years. Like, you
+could tell that they had been doing that
+when their numbers were not impressive
+at all. And a lot of the reason they
+were impressive was because they were so
+public about their success when it
+wasn't that impressive.
+>> Right.
+>> Exactly.
+>> Yep.
+>> And so it doesn't they don't need people
+to follow them for years to finally give
+them a dollar. Like people start giving
+them dollars immediately because they're
+being so transparent and that's so rare.
+Okay. So you correct me if I'm wrong.
+You launch late July, early Augustish
+2025. You spend five months getting to
+$500 in monthly recurring revenue.
+>> Yep.
+>> January 1st you make a goal. I'm just
+going to post screenshots to Twitter to
+my at the time 500 Twitter followers,
+which is the average that most people
+have on Twitter. Believe it or not, just
+because you're watching this doesn't
+mean you're subscribed to my channel.
+YouTube's going to show you stuff even
+if you're not subscribed to it. Over
+half of people that watch my videos are
+not subscribed. It would mean the world
+to me if you just hit subscribe. Thank
+you so much. I'd love if you could also
+share your screen of some like an
+average update, $100 MR update
+screenshot tweet so I could see what
+kind of engagement you get. average and
+then the $5,000 one as well.
+>> Yeah. So, here's our uh just Twitter
+post analytics. This was the big one. I
+I haven't seen
+>> I think I saw this one. I think I saw
+this.
+>> Yeah. Oh, it looks familiar.
+>> Yeah. I mean, I haven't seen a tweet get
+nearly this many impressions. Even when
+we hit,000, it didn't get. So, we ended
+up getting 24,000 impressions. The
+biggest surprise to me was the 114
+replies. And I went in and unless you
+know unless people have replied since
+then for at least the first like week, I
+was responding to every single reply
+that came in. Good. Um, one because I
+thought it would be good just for the
+algorithm, but two because I really
+genuinely wanted to like thank those
+that were taking the time to
+>> Sure.
+>> celebrate the milestone with us um, and
+hopefully convert some customers as a as
+a result.
+>> Man, 6.4% engagement rate. Super good.
+All right. So, can you can you open the
+actual tweet so we can read the whole
+thing?
+>> Yeah, totally. All right. So, this was
+on let me see if I can get the date here
+for you.
+>> Uh, so this was on April 8th of 2026.
+>> Okay.
+>> And my first SAS just hit 5,000 MR. This
+is insane. Wow. I can't believe that we
+built a product and grew it to over 5K
+in 8 months. So crazy proud of this. And
+we're going to be making some really
+exciting announcements shortly. New
+marketing channels, new product lines.
+post for me is the best way to handle
+social media integrations in your app,
+hands down. So, like, wow, what a
+contrast to your first announcement
+post. You're post like, "Hey guys, I
+know this is stupid. Like, nobody likes
+me, but you're like, here, I I did a
+thing, I guess, but like maybe care
+about it, but you don't have to."
+Whereas this one's like, "We're awesome.
+This is amazing. We're launching all
+these things. Buy it." [laughter]
+>> Yeah. Absolutely.
+>> It got a hundred times more actually,
+sorry, a thousand times more views.
+>> Yeah. No, it really did. And I mean, you
+could even see in some of the other
+posts, like for example, I was uh
+posting every 500 in MR. And what I
+would include was the number of days
+that it took for us to increase. So, at
+that point in time, we were seeing
+anywhere between $500 to $1,000 in
+monthly recurring being added week over
+week. And so, like the jump from 4500 to
+5,000 only took us 5 days. So, we we
+really started to see like a pickup in
+momentum. I think it was about the time
+that we hit $2,000 in monthly recurring
+that our search engine optimization kind
+of our our strategy for organic
+marketing had gotten really really good
+and we had earned a lot of trust with
+the likes of Google and we structured
+content in a way that we started getting
+picked up by the LLMs and we have gotten
+many customers coming to us since then
+saying chat GPT sent me or I was
+chatting with Claude [clears throat] and
+they sent me your way and I I think that
+it was because of some of those
+strategic changes that we had made
+around the new year that we really
+started seeing pay off around this time.
+>> Okay. Well, I'd be doing everyone a
+disservice if I didn't ask what those
+strategic changes were. Like, how did
+you structure this content?
+>> So, I'm going to pull up our uh website
+here for a second. And we have a tab on
+our website that says resources. And if
+you click into all resources, it looks
+like a little bit of a mess, but it's
+basically just categories and then
+standalone articles. And these articles
+are really specific to how to achieve
+this one specific goal based on this one
+specific problem. We integrated a
+chatbot into our website and we turned
+off all of the AI features. So every
+single time that you came to the chat on
+our website, you were chatting with
+either myself or my co-founder Matt. And
+we had to sleep. So we didn't have 247
+coverage. But it was it was really we
+were really really adamant to always
+being available on our phones or on a
+computer to at least get that first
+response to people within the customer
+service chat really really quickly. And
+it was like clockwork. Then what we
+started to do was anytime we noticed
+that a problem was felt by one of our
+customers at least twice, we would make
+a note of it inside of Linear and then
+we would use AI to generate a resource
+article based on that problem that
+somebody was experiencing. So a couple
+of things were happening. One, we had
+gotten really good at structuring our
+metadata on our website so that we were
+kind of primed to get picked up by
+search engines. and two, we were
+providing real customer value for
+people, users that were actively using
+our service. And so I think it was that
+one-two punch, the like structure the
+website in a way that's good for the
+chat bots and structure or choose the
+type of content that we write based on
+what's relevant to users. And the
+combination of that really started to
+see our organic search volume grow
+pretty exponentially. And um we ended up
+seeing a a pretty it it wasn't a spike.
+It's just been a consistent growth uh
+since that point.
+>> Well, I want to say consistent growth is
+the best kind of growth.
+>> Yep.
+>> Big spikes equal big dips. Period. And
+right that which goes up fast comes down
+even faster. Obviously that breaks the
+laws of physics, but you know what I
+mean. So if if I were to summarize
+everything you just said,
+>> you were very intentional to be your to
+be manning the the website chatbot for
+support yourself. You were your partner,
+right? Very intentional. And then you're
+taking those questions and you're
+saying, I assume that this question is
+representative of a question other
+people have that they're not asking. In
+fact, people are probably churning from
+our website because they're not taking
+the time to ask the question. Right? And
+that's a key that's a key learning here
+is like if someone mentions a problem,
+if they especially if they go out of
+their way, and in this case they are,
+they're having to click a button and
+then click again and then start a chat.
+They're going out of their way to report
+a problem. That means that they probably
+represent 10 to 30 more people that are
+not bothering to go out of their way.
+And so you need to take that one sample
+size of one, which normally we would
+discard, and say, "There's something
+here. Let's use a tool called linear to
+make a resource article on our website
+because those 29 people that are never
+asking the question, hopefully they can
+find their way to us or people that are
+like them can find their way back to us
+through Chad GPD or Claude or whatever,
+recommending them to us because they're
+scraping these resource articles that
+we're posting
+>> that answer questions that we're getting
+from real people. Guys, it doesn't
+matter what you do or what you sell
+because the average person is going to
+Google you before they ever commit to
+your business. And if your domain looks
+sketchy, it doesn't really matter how
+good your product is. Now, dots are
+amazing, but most of the good.coms have
+been taken for years. So, you've got to
+pay hundreds or thousands to buy it from
+someone else, or else you have to settle
+for something weird that no one's going
+to remember. But theonline version of
+your domain name is probably still
+available. And the word online gets
+searched over 500 million times per
+month. So having it in your domain name
+gives your website a little more
+visibility and a few more chances to
+actually get clicked. So you can grab
+this domain at GoDaddy Namecheeper,
+whatever domain provider you prefer. Or
+you can use the link below plus code
+kerner to get your online domain for
+just 99 for the first year.
+>> And this isn't anything that's new and
+there's probably a bunch of your users
+that are like, "Yeah, man. Like this has
+been around for ages." And yeah, but it
+it actually works. And it's something
+that we were preaching to our customers
+like or our clients that we were working
+with all the time, especially those in
+like a physical service business. I
+remember like one client in particular
+was a local piano repair shop. And I'm
+like, man, every single time that you do
+a bit of repair or a bit of maintenance
+on a piano, that's an opportunity for
+you to provide an educational commentary
+around how to play piano, how to maybe
+design a piano in your house, how to
+maintain a piano in your house so that
+you get longevity out of it. And those
+same principles that applied to the
+service businesses, the mechanics, you
+know, the repair individuals, the people
+that are, you know, out cleaning, that
+same thing applies to your digital
+product.
+>> So, are you're using AI to write these
+resource articles, I assume?
+>> Yeah. Uh, what we did, we the way that
+we do AI integration is really boring,
+but it works. We do things by hand, note
+how we do them by hand, and then apply
+the by-hand notes to AI in order to
+automate it in the future. So, the first
+handful of these are painstakingly
+written by by Matt, my co-founder. These
+first ones over here, social media
+platforms, and it's really just like a
+commentary on each of the individual
+platforms that we are, you know,
+integrated with. And then he got a
+really good system down pat to where he
+was able to I think he uses Google's
+notebook LM
+>> to basically just take like a bunch of
+his notes and findings and consolidate
+it into a single place. Then he'll go
+through our support chat, find a bunch
+of commonly felt problems or felt needs
+and now we have Discord as well that we
+pull from. He feeds it into that and
+then it spits out an article. He does
+some light editing on it and then um
+yeah, early on this year he was posting
+you know a minimum of one per week and
+sometimes you know two three of them per
+week.
+>> Okay. All right. Can you go back to
+Stripe?
+>> Absolutely. I think the best week, if I
+remember correctly, the best week that
+we had was like $1,000 in MR in one
+week. And it was it was somewhere around
+this time. I'm sure we could we could
+find it if we dug into it. But at that
+same time, the like relative MR being
+like the percent increase started to
+taper off, which has kind of been our
+our journey recently is really just
+around like solving churn. That that's
+kind of been our our base focus.
+>> Okay. Can you show a chart of what your
+churn has done over time?
+>> Yes, that was fun. The more we started
+posting about our MR, the more people
+started asking, "Yeah, but nobody's
+talking about churn." The lowest our
+churn was at was 10%. And this year,
+specifically within the last two months
+or so, churn started to increase. First
+it hit, you know, 13% and then 16%, now
+it's at over 17%. And all of our focus,
+again, that big fancy road map that we
+had, we were like, okay, there are
+customers who are either losing value or
+not experiencing the value that we have
+to offer. So we need to put a pause on
+net new and really focus in on asking
+the question of like why are people
+leaving the service after they sign up.
+And so now we are at the point you know
+10 11 months in where we are investing
+really heavily in uh telemetry and
+metrics in analytics. We just now
+started running Google ads after we
+crossed 10,000. We started to run Google
+ads lightly as an experiment. And it's
+it's really all for the sake of trying
+to understand and ask the question of
+where are people finding value, where
+are we losing people and is it possible
+for us to recover people, you know,
+after they run into problems. So
+>> any recurring product or service will
+eventually hit there's probably an a
+name for it. I call it like churn
+equilibrium where your monthly recurring
+revenue basically stays flat because
+it's offset by your churn, right? And at
+that point, I mean, you're obviously not
+anywhere close to that, but hopefully
+long before that point, which is what
+you're doing, you really try to figure
+it out. In my experience, it's usually
+happening, you know, in the first 10
+minutes that you like they just don't
+fully on board. They don't fully grasp
+the product, you know.
+>> Yeah. Yeah. Absolutely. The other thing
+that we're experiencing, it's kind of
+neat because like we're experiencing an
+increase in churn. We're experiencing an
+increase in just net new users, which
+not all of them convert. At the same
+time, we do also have legacy users who
+are now scaling up their businesses and
+they're beginning to go through our
+upgrade pads. Uh, so we start at $10 a
+month, but you can scale unlimited on
+our pricing model. And we are uh within
+these last couple of months walking our
+first set of customers through the
+process of upgrading to, you know, a $25
+plan, a $50 plan, a $100 plan. So it's
+it's a lot of new these are new
+experiences for us being that it's our
+our first product. And you know of
+course our our aim is just to make it as
+simple and and seamless for people as
+possible. Making sure that we're really
+like locked in and focused on providing
+the right value to the right problems
+and you know like anybody else out there
+making sure our solution is the best
+one.
+>> Yeah. Okay. So what what's the playbook
+that people could implement if they're
+not technical to start a a a pure
+software as a service business?
+>> Okay, so uh playbook whether you're
+technical or non-technical, the very
+first place that I'm starting at is
+identify a problem that you've
+personally felt and ideulate on a way
+that you could provide a solution to
+others who would experience that
+problem. I think that this is going to
+drive the most amount of authenticity
+and as a result the highest quality of
+something that you can bring to market.
+So yeah, I mean if I'm launching a
+product today, I' I'd really focus on
+that. Like find a solution to a problem
+that I've personally felt ideulate and
+get everything out popcorn style on that
+whiteboard. Chisel it down to the
+smallest first step that I can take in
+order to ship it as fast as humanly
+possible. and then iterate every single
+day one small improvement driven
+obsessively focused on making sure that
+you're providing value based on the way
+that customers and users are actually
+using the product on a daily basis.
+>> Yeah. What about uh tech stack outside
+of like tools to build? I mean Stripe,
+what else would you prefer?
+>> So we have a standard playbook that we
+roll for everything that we do. We host
+on UN key. Now, they also provide us
+with some additional tools when we're
+building APIs. We use React Router for
+our front-end applications. We use Shad
+CN as the baseline for UI. It's a
+really, really great way to get really
+high quality UI components that are 100%
+customizable. We're using Stripe for
+payment processing, Post Hog for
+analytics, and Versel is also a great
+one to throw out there. They're really
+convenient for if you're just like if
+you want to throw together like a quick
+marketing site overnight. I mean, I'm
+throwing it up on Verscell to to host
+it. It integrates really well with all
+of our tools. And then if you're going
+to start a digital product today, please
+create a GitHub account. Stop storing
+code in Google Drive or just like
+locally on your computer. Like you don't
+even have to understand what GitHub
+does. just tell your chat assistant that
+you have a GitHub account and get that
+code up on GitHub because forbid your
+computer crashes, you don't want to lose
+all of the the work that you've uh been
+working on.
+>> Okay. Anything else we didn't cover that
+we should have covered?
+>> Um man, I'm sure our entrepreneurial
+journey, like starting a a software
+development company, we weren't these
+like courageous individuals who just
+went all in on our own thing. We started
+our software development company because
+my company that I was working with laid
+off 20% of its employees unannounced and
+Matt's company shut down entirely. They
+like filed bankruptcy. They just like
+shut the whole thing down. And so we had
+a decision to make at that point of
+whether we were going to go and pursue
+other opportunities of employment or try
+and figure it out ourselves. And we
+didn't have any immediate opportunities
+for employment. So, as a way of kind of
+saying like we're not going to do
+nothing because we have families and
+households that we're taking care of.
+We're going to go ahead and we're just
+going to pursue doing our own thing. We
+always knew that we wanted to build and
+launch products, but it took us 2 years.
+Yeah, it took us 2 years of working on
+other people's stuff. By the way, I have
+a new private YouTube community where I
+post exclusive interviews and videos
+that no one else in the world will see.
+All you got to do is pay five bucks a
+month. You know what? YouTube takes 30%
+of that. So, I'm hardly getting anything
+from that. In addition, you're going to
+get every single 25 plus page business
+plan that we make from every episode we
+publish. And we sell these for 19 bucks
+and we do 15 episodes a month. So, this
+is about $300 a month worth of value,
+plus extra interviews and videos that
+you'll never see anywhere else for five
+bucks a month, and you can cancel
+anytime. You'll also get my previous
+backlog of every business plan I've ever
+published. So, you can get the link
+right down below. It's all done right
+here on YouTube, and you'll even get
+little custom emojis or stars next to
+your name when you comment on videos, so
+you can get priority replies from yours
+truly. Thanks a lot.
+>> We said yes to anything. We were saying
+yes to design work and then outsourcing
+it, marketing work and outsourcing it.
+We were saying yes to, you know,
+updating WordPress websites, building
+out Web Flow sites. Like, we kind of
+just said yes to the whole scope and the
+whole range of things.
+>> Yeah. I like to say yes to everything
+until you can afford not to. And it's
+super inspiring that you guys both were
+effectively knocked out on your butts,
+right? You lost your job, company went
+bankrupt, and rock bottom can be a very
+powerful thing. I think most people, not
+all, but the vast majority of people
+will not do what they need to do with
+their life until they're at their own
+personal rock bottom, which looks
+different to everyone. Some people's
+rock bottom might be sitting in a
+federal prison.
+>> Some people's rock bottom might be, you
+know, they didn't get the promotion they
+needed for that year. It looks
+completely different. But when we hit
+that rock bottom, only then are most of
+us able to truly just grab life by the
+horns and make exactly what we want of
+it. And I'm guessing that if you guys
+don't have that own personal financial
+rock bottom, you're probably somewhere
+worse off today. You might have got a
+different job and make more money per
+month, but not building equity in a
+thing that's growing as it is today.
+Right. Like you're objectively in a
+better position today than where you
+might have been had you went and just
+got another job or sat around and said,
+"Oh, poor me." Right.
+>> Yeah. Yeah. I agree with that
+completely. Post for me is making a
+monthly recurring revenue that is
+exceeded any salary that I had up until
+this point. So that's kind of exciting.
+And I don't know if it's relevant to
+your audience or relevant to like this
+conversation, but the start of the year,
+we had two boys. We had decided that we
+were going to go through with our second
+adoption, um, which was going to cost us
+$50,000. As a kind of result of that
+decision, my wife had decided to put in
+her notice at work because she didn't
+want to be working anymore. And then
+that happened on Monday, on Wednesday,
+and then Friday, I was laid off. So, it
+it really kind of just like set a fire
+up in me where I was like, "Okay, I'm
+either going to keep a level head,
+recognize that it's hard, recognize that
+on paper it's not convenient, it's not
+easy, it's not conducive to, you know,
+comfort or whatever." Um, but I just had
+a really stubborn conviction that like
+what I'm going to do here is I'm going
+to serve my family and and maybe for
+you, you don't have a family yet or
+you're living on your own. Well, you're
+I'm I'm here to set myself up, set up my
+future. There's something that we're all
+there's a why for what all of us are
+doing. And for me, it was it it was my
+family and and the foundation in the
+life that I wanted to set for them.
+>> And it was either going to be going out
+and finding a job. I had done that. and
+somebody else's poor financial decisions
+put my family in a vulnerable position
+or I was going to go make it happen
+myself.
+>> Amen. Caleb, super inspiring. Thank you
+for coming on. Where can we find you?
+>> You could find me on Twitter, Caleb
+Panza. It's the most active place that I
+am. If you do have a need to integrate
+social media posting into a SAS or a
+product, if you want to automate your
+marketing or enable your agent, the
+fastest, easiest, most scalable,
+cheapest way to do it is to go to
+postforme.dev and get started with our
+$10 a month plan. And uh maybe you're
+listening and you're like, "Hey, that
+sounds great. I don't have the time or
+the ability to build a product myself,
+but I'd love for you guys to build me a
+product." Great. I would love to build
+your product. Um, our software company
+is called Dayoon Development. You can go
+to dayon.dev and schedule a call with me
+and I'd love to hear your idea and see
+if there's a way that we can serve you.
+>> Okay. Thank you, Caleb. Thanks for
+coming on.
+>> Thanks so much, Chris. If you like this
+content, please share with a friend, hit
+a like or a comment below, and we'll see
+you next time on the Kerner

@@ -1,0 +1,720 @@
+Okay, one of my most popular episodes
+ever was this one right here where
+within 56 minutes I went and started a
+business and found a customer. But it's
+been a few months and the voice agents
+have only gotten better and I want to do
+it again, but with a twist. I want to do
+it in a different industry that sells an
+even more expensive product and I want
+to see if the business owner will test
+the voice agent themselves because once
+they call their own business and see
+that AI is answering questions on behalf
+of them, I think that they will be much
+more likely to pay me hundreds or
+thousands of dollars per month for this
+exact service. And I want to show you
+just how easy it is to find the
+customers and to build the thing. So,
+let's freaking go.
+All right, first thing I'm going to do
+is go to Outscraper and I'm going to
+look for roofers. Why roofer? Well, they
+tend to be more tech-savvy. We want to
+fish where the fish are. Roofers are
+used to paying other agencies hundreds
+to thousands of dollars a month for
+stuff like this, especially if it can
+help them get more jobs. Last time we
+did garage door repair owners, which is
+great, but this is much higher ticket
+and much more advanced of an industry.
+So, we're going to do something a little
+tricky here. We're going to go roofing
+contractor, but then Google also has
+subcategories that roofers mistakenly
+list themselves in when they first
+register their business without knowing
+better.
+These are categories that other dirty
+marketers like myself are not targeting.
+They're only targeting the most common
+ones. So, we'll probably have much less
+competition in this category. Roofing
+service. Now, if you look how Outscraper
+works, it lists all of the Google
+business profile categories from most to
+least popular. So, number one, doctor,
+dentist, insurance, attorney, real
+estate. Makes sense. If you scroll way,
+way down and there's thousands of these,
+thousands of categories. You've got
+Norwegian restaurant, dance restaurant,
+recycling container location, you get
+the idea. So, when I start typing in the
+word roof, roofing supply store is
+number two, waterproofing,
+auto sunroof shop and roofing service.
+So, this is even less common than auto
+sunroof shop, which I love. There might
+only be 200 roofing companies per state
+that mistakenly listed in this category,
+but it's something. Okay, now I want to
+text people that are close to me
+geographically. I live in the
+Dallas-Fort Worth area. I want to be
+able to honestly tell them that I am
+near them. I'm one of them. I'm a local.
+If they want to meet me in person and
+shake my hand, that is possible. This
+stuff goes a long way in helping your
+close rate go up up up. So, I'm going to
+go Dallas. I'll do all the zip codes.
+We'll do Fort Worth, all the zip codes,
+and then let's go Plano and Frisco.
+Those are basically four of the biggest
+cities in the metroplex. McKinney,
+Richardson, they're both up there, too.
+Now, I want to cap the results because I
+don't want this to take forever and I
+don't want to spend a bunch of money.
+So, I don't need to change anything with
+these lead gen packs, enrichments, etc.,
+but I do want phone numbers. So, I'm
+going to go to advanced parameters and
+I'm going to check with phone. It has to
+have a phone number. Get data.
+All right, it's going to cost me between
+a buck 50 and 10 bucks. Oh, I forgot to
+show you my watch. So,
+you're just going to have to see it
+upside down.
+It's 9:23 and I started this video about
+5 minutes ago. So, let's say 9:20. I
+started this at 9:20. We're going to go
+to tasks. All right, it's running. While
+it's running, let's make good use of our
+time and let's create a voice agent in
+GoHighLevel. Okay, so I log in to
+GoHighLevel and then I'm going to go
+into one of my sub accounts. I'll pick
+this one and then I'm going to click on
+AI agents. Create your first AI voice
+agent. I'm going to build one from
+scratch
+because it's quite easy.
+I'm going to name it Roofers 1 TK Anders
+LLC voice. Let's listen to Jessica.
+>> Hey worldly 11 Labs friends, let's talk.
+Let's have a conversation about
+anything. My name's Jessica and I'm
+looking forward to chatting with you.
+>> Not bad. Not bad. How about Christopher?
+Christopher's probably a good one.
+>> Chris Maguire here from Chicago. I turn
+complex ideas into
+>> No, he sounds like he's from Chicago.
+>> Sharing kindness is like a
+>> No. No. No.
+>> Um
+Okay, so this might sound silly, but I
+just got this weird
+>> Ooh, that one sounds real.
+>> Here's my super conversational Scottish
+voice.
+>> No. No Scottish voices. We're going to
+go Hope. Hope gives me hope. I like the
+sound of that. Very conversational.
+Time zone is central. GPT-4o.
+Two cents per minute with 4o. Yeah, if
+it's recommended, I'll go with that. All
+right. So, here's the tricky thing. I'm
+not going to send the roofer the link or
+the phone number to this AI voice agent
+until I have a roofer say yes.
+Because I want it to be customized and
+personalized to them and their business
+and their business name, location, etc.
+That's what's going to make their minds
+explode. So, right now I'm just going to
+say
+"Hey, you've reached Greg's Roofing. How
+can I help you today?" Okay? But then,
+when I get someone to say yes, then I'm
+going to plug in their personal info.
+Now, I could do this in a less
+personalized way. I could just create a
+generic roofing voice agent and send the
+number to people, but it's just not
+going to pop as much. It's not going to
+wow them as much. Now, you can also go
+into advanced settings and set some
+parameters so you don't accidentally get
+charged too much. Like, what if the
+person on the other end of the phone
+never hangs up for some reason and you
+have an 8-hour call that cost you 100
+bucks. So, we can do a max call time,
+idle time, reminder frequency, agent
+behavior. We want the response speed to
+be fast. LLM temperature, just leave
+that at zero. Don't even worry about it.
+Voice settings, voice speed, voice
+temperature. I'm going to leave all of
+that as just the default settings.
+Okay. Now, HighLevel still needs a
+knowledge base. The app, the voice agent
+needs something to work from. What does
+it talk about? How does it answer
+questions? So, we're not going to spend
+2 hours thinking up all the FAQs,
+scraping them from websites. We're just
+going to ask ChatGPT, okay? So, I'm
+going to ChatGPT and I'm going to say,
+here's my prompt. I'm creating a simple
+AI voice agent within HighLevel to sell
+to roofing businesses. Create a
+knowledge base based on everything you
+know about the roofing business.
+Basically, a ton of FAQs you can answer.
+Most questions will revolve around
+getting a quote and setting up an
+appointment for an inspection. I want to
+be able to easily swap out the name and
+location of the roofing business, so
+make that part of the knowledge base
+easy to find and access. And then, I'm
+going to say,
+"If this prompt isn't good enough to
+create this knowledge base, then just
+return the perfect prompt to provide you
+to get this knowledge base, okay?" So,
+I'm asking it how to ask it in a better
+way. All right, so clearly my prompt
+wasn't good enough cuz it's now giving
+me the perfect prompt. I'm not going to
+read all of this cuz it's a lot, but
+it's giving me the structure, the
+customization section, the format, the
+goal, roof leak repairs, insurance
+claims, emergency calls. If you paste
+that next, I'll generate the entire
+AI-ready
+roofing knowledge base structured for
+HighLevel voice agent use. I'll all
+include this in the show notes so you
+guys can use this, save you some time.
+All right, so now I'm just going to copy
+this prompt
+and I'm going to try two things. I'm
+going to paste this prompt in this
+window and then I'm going to
+open it
+a new window and paste it there as well
+and see if the output is different.
+Okay, so here's the output when I asked
+it to give me the prompt, this one, and
+then here's the output when I just
+pasted the prompt in a brand new chat
+window.
+This is so cool. They look about the
+same, honestly. So, I'll just go with
+this one.
+So, it puts these custom variables in
+brackets here, so I can swap these out
+with whatever roofing customer decides
+to respond to me and then the agent will
+swap them out here within the actual
+knowledge base. So, I'm going to copy
+that. We'll go back to the voice agent,
+create new, create knowledge base.
+Roofing one. Create. So, this is
+awesome. I honestly didn't know it could
+do this. You could just add a web
+crawler, you could add a link. Like, I
+could just add a link to the FAQs page
+on the roofing company's website, which
+would actually be a a lot easier than
+what I just showed you. So, add source.
+File upload. So,
+I'm just going to do rich text. Boom,
+there's the variables. It allows up to
+25,000 characters. I have 7,600.
+Call it roofing one.
+Now, remember, the more
+characters you put in your knowledge
+base, the more tokens you will spend cuz
+it's more work that the LLM, that the
+agent has to do. This is not money that
+HighLevel's charging you. This is money
+that HighLevel, therefore they're
+passing it on to you. So, it's important
+that the knowledge base is thorough
+enough to get the job done, but we don't
+want to put more in there than necessary
+or else we'll spend more money than
+necessary. And right now, it's not that
+critical because I'm just using this for
+example purposes. But, if I were to
+actually get, or should I say when I
+actually get, a roofing customer to buy
+this from me, it will matter very much
+because he's going to be
+taking calls with this voice agent on a
+regular basis. And I'm going to be
+passing on those costs. Okay, my
+knowledge base is done. Okay, so I've
+connected the knowledge base.
+The agent is active 24/7. That's the
+default. We'll leave it there.
+We want to have a number that is local
+to DFW. Okay, so choosing your phone
+number is a very important part of this
+because we want to choose a phone number
+that is local to the area that we are
+marketing in. So, 469 is an area code
+that's local to Dallas-Fort Worth. We're
+going to use this number here. We're
+going to set the default for the agent
+to work 24/7.
+And then,
+let's test it.
+Take my phone off Do Not Disturb.
+All right.
+Let's see if this works.
+There it is. HL for High Level. I
+already have this number saved.
+>> Hey, you have reached Greg's Roofing.
+How can I help you today?
+>> Yes, I need a quote on my house. I think
+I might have some hail damage.
+>> Got it. We can definitely help with
+that. The best way to get an accurate
+quote is to schedule a free roof
+inspection. Our specialist will check
+for hail damage and provide a written
+estimate on the spot. Would you prefer a
+morning or afternoon appointment?
+>> Let's do 3:30 in the afternoon on
+November 29th.
+>> All right. Let me confirm that for you.
+You're looking for an appointment at
+3:30 p.m. on Wednesday, November 29th,
+correct?
+>> Yes.
+>> Perfect. You're all set for a free roof
+inspection at 3:30 p.m. on Wednesday,
+November 29th. We'll confirm the exact
+arrival time closer to the date.
+Anything else you'd like to go over?
+>> Where are you guys located?
+>> We're based in Dallas, Texas, and we
+serve the entire Dallas Fort Worth area.
+Let me know if you need anything else.
+>> How long have you been in business?
+>> We've been serving Dallas Fort Worth
+homeowners for years with trusted,
+high-quality roofing work.
+>> What's the name of the owner?
+>> The company is called Kerner Roofing,
+but I don't have the owner's name on
+hand. If you'd like, I can connect you
+with someone who can provide more
+details.
+>> All right, I'm good. Thank you.
+All right, pretty dang good. Remember,
+on my knowledge base, I hadn't like
+customized it with location and all
+that. It said Dallas. I'm not sure why.
+It might have been in the knowledge
+base, but works great. Then, you can
+even rate the call to fine-tune your AI
+right here. So, I'm going to give it a
+thumbs up. There's the transcript, very
+cool. There's the recording. And just
+like that, it's saved. Okay, look, if
+you look at the variables here, Chad GPT
+called it Corner Roofing. I didn't
+notice that, but it's pretty cool. All
+right, let's go check on our scraped
+leads. There we go. It's all done. We're
+at 947 so far. We're 27 minutes into
+this. We already have a voice agent. We
+already have our leads. We're going to
+click on the green button to open up
+these leads in Google Sheets, cuz who
+uses Excel anymore? I mean, come on. All
+right, now here we are. First thing we
+want to do, highlight all of them by
+clicking this button in the top left,
+data,
+data cleanup, remove duplicates. We do
+not want duplicate phone numbers, okay?
+So, we're going to click column H,
+that's where the phone numbers are,
+remove duplicates.
+23 found and removed. All right, 978
+leads left. Now, the next thing we want
+to do is we want to filter this. We'll
+highlight all of them, click the filter
+button, and we only want mobile phones.
+No toll-free, no landline, no unknown,
+no VOIP.
+Only mobile phones. All right, so now we
+only have cell phones,
+and we only have non-duplicates. So,
+these are all unique roofing companies
+in Dallas, Frisco, Plano, and Fort
+Worth. There's 431 left, which is
+awesome.
+Now, here's what I'm going to do. I'm
+going to remove I'm going to do a
+control find. You click the three dots.
+I'm going to do space LLC. I'm going to
+remove all of the names that have space
+LLC in them. 95 of them did.
+Basically a quarter of them.
+That way it looks a lot more
+professional. Look, l.l.c. That's still
+there.
+Yada yada yada. So, we'll just
+fix that one manually.
+Okay.
+I'm going to rename that to first name,
+and then I'm going to fill in all of the
+city names if they're not there. So, I
+want this to look personalized.
+So, if for whatever reason their
+business does not have a city name
+listed on their Google Business Profile,
+which is where we scrape these from, I'm
+going to fill it in with DFW because
+that's going to be
+another variable. And this will make
+sense why I'm calling these first name
+and last name here in a minute. Delete
+all of those columns that are
+unnecessary.
+All right, first name is the name of the
+business.
+Last name is the city they're in and
+then phone number. We're going to
+duplicate this again. I don't want to
+text 431 of them. That's too many to
+text. I'm going to only text
+100 of them. We'll see if that does
+anything. That should keep me pretty
+busy. So, to text 100 of them, I always
+like to do this little trick here.
+I want to randomize the list. I don't
+want to accidentally text only the 100
+people that are in Dallas. Like if I
+just removed everything after 101 here,
+then I would only text people in these
+cities. And that's not a pure study.
+It's not a pure sample size, right? So,
+I'm going to perfectly randomize it by
+doing the formula equals rand open and
+then close parentheses, and then I'm
+going to sort it. Sort it any way you
+want. Doesn't matter. And then I'm going
+to delete everything after 101.
+Also, this was edited out, but I had a
+ton of issues formatting the
+spreadsheets. Our time-sensitive
+experiment here has been somewhat
+delayed by stupid Microsoft Excel. Okay,
+we have 100 leads here. They're
+perfectly randomized. We know the name
+of the business. If we wanted to make
+that proper and not all caps, we could,
+but we're not going to worry about it.
+Then we're going to download that as a
+CSV file. And then we're going to go to
+this texting software. By the way, if
+you guys are loving this so far, which I
+hope you are, you need to check out
+playmakersai.com.
+That's my business. That's my community.
+I'm in there every week, and it's a
+little different from TK owners because
+it's only for people that are starting
+an AI implementation or automation
+business from scratch. Or you could just
+call it AI consulting. I genuinely think
+that is the biggest opportunity right
+now is to help small businesses
+implement AI and to get paid thousands
+of dollars a month for it. So, check out
+playmakers.ai.com
+and we'd love to have you join our
+community. All right, well, that sucks.
+It's been a few days since I filmed what
+you just watched and my computer stopped
+recording my screen right then, right
+when I was ready to start using the
+texting software. So, I'm going to
+recreate that as best as I can so you
+can still see how to do this. Okay, I'm
+going to open straight text. That is my
+go-to texting app here. It's a little
+interesting. It works with Androids as
+well, but it probably works best with
+iPhones and MacBooks. It will sync your
+iPhone to your MacBook. It will send
+them from both iMessage on your MacBook
+and on your phone and you'll see in real
+time the messages getting sent out.
+Okay, so I'm going to click new
+broadcast and I'm going to go to upload
+CSV file, choose file, roofing
+contractor tasks,
+100 valid recipients found and now I'm
+going to type my message to them.
+I'm going to say good morning.
+Do you still own and then insert first
+name here in insert last name cuz
+remember their quote and quote first
+name is their business name and their
+quote and quote last name is their city
+name.
+And then I'm going to put dash Chris so
+they can see this is coming from a real
+person. We're going to click save and
+then we're going to click start sending.
+And look right here. It looks like my
+custom variable import worked. That's
+the name of the business
+right there and that's the name of the
+city. And then I'm just going to click
+send all. And then it's going to take
+about 7 to 8 minutes for all of these to
+send and I can see on my phone that they
+are sending successfully. It pulled in
+the business name and it's going to send
+like one every 5 seconds. So, I'm going
+to see here in a second if it's pulling
+in the business name and the city name
+wow where and how I need it to. Okay,
+looks like it works. So, if you look at
+my phone here,
+you can see that these texts are being
+sent from my phone. No responses just
+yet. It's 10:04. We've been at this for
+46 minutes. Personalizing the text
+messages is done for two specific
+reasons. Number one, our response rate
+will be higher because it will look more
+personalized. Number two, our phone
+won't flag us for sending the same
+message to too many people all at once.
+Every message will be unique. All right,
+first response, who's this? I told them
+who I am and where I live. Second
+response said yes. Now, keep in mind, it
+goes both ways. There is a trade-off
+when reaching out to roofers because
+everyone wants to reach out to roofers.
+So, it will be more competitive. The
+question is, is the additional
+competition worth still going after this
+industry? And the answer to that is it
+depends. How much are roofers in your
+area getting beat up by marketers? You
+won't know until you try. You don't have
+to start with roofing. This is just for
+the purposes of this video. There are
+over a thousand different home service
+verticals or local business verticals.
+Roofing is just one of them. If I were
+you, I would take exactly what I'm doing
+and do it across three to five different
+industries. Keep track of every single
+response, what your response rates are,
+what the sentiment is like. Are people
+mad? Are they saying mean things? Are
+they generally nice? Do they not have
+any money? And then whatever industry
+seems to show the most promise, just go
+there. Okay, and we are done. Four of
+them failed for some reason. They were
+probably bad phone numbers. Now, let's
+see how many responses I got. 1 2 3 4 5
+6 7 8 9. Okay, nine out of 100, which is
+not great. And I think I know why. I
+think that my approach should have been
+less personalized in this case. I should
+have said something like, "Hey, do you
+inspect roofs? - Chris." That's it. Cuz
+that would have sounded more like a
+potential customer. Whereas I definitely
+sound like a marketer here.
+If I had their first name, which you can
+get from Outscraper, but it takes a
+little more time and I didn't take the
+time to do it. If I had their first
+name, I would have had a much better
+response rate. Oh, there's 10 10%
+response rate. Now, for email, this is
+incredible. For text, this is pretty
+low. But, we're going to work with what
+we've got. All right, here's what I'm
+saying.
+Awesome. I know this is random, but I
+created an AI voice agent for your
+business. It'll help you quote more jobs
+and never miss a call. Can I just have
+it call you real fast so you can see how
+well it works? You don't need to pay me
+for it. It's literally custom-built for
+your biz. I'm hearing Dave W as well.
+So, if I can get him to use this for
+free, then I can get him to pay me for
+something else. Right now, before I have
+zero yeses, zero customers, I need to do
+whatever I can do just to get them to
+pay attention to me. And so, yes, I'm
+telling him it's free because this can
+be free. It will be free. It could be
+free for 100 calls a month, free for 10
+calls a month, free for this, but paid
+for something even more custom. I just
+want to get them to respond and to try
+it. Okay, my response rate is up to 13%
+by now. All right, here we go. Even
+though I'm just texting, it still makes
+me a little nervous, I'm not going to
+lie.
+There's three, four,
+five. One of these guys is a little
+angry, so
+I'm not going to give him the pitch.
+All right, I just got an idea.
+I just got an idea. This is a little
+risky, but I kind of just want to have
+the AI voice agent call all of these
+guys proactively and then I will follow
+up with them whether they text me back
+or not and say, "Hey, that call you got,
+I built that." Oh, man. Is it devious?
+Is it genius? Yes, to both, maybe. But,
+I think it might just work. And guys,
+you got to believe in what you're doing
+here. Okay, you got to actually believe
+that what you're offering them will help
+them. It'll help them make more money or
+save more money. It'll help them in
+their lives. And I do. So, I'm going
+into the knowledge base for the agent
+and I'm changing the name to example
+roofing company. And then I'll be able
+to see in the transcript the
+conversations that these guys had with
+it.
+>> Okay. Okay.
+Thanks for reaching out. Before we
+schedule a call, could you please share
+your company name, website, and a bit
+more information about your AI voice
+agent? I'd like to review your business
+first.
+>> Hey.
+Okay. I'll take it. By the way, guys,
+I actually do do this as a business. So,
+I am actually looking for customers
+right now.
+And also making a video at the same
+time. All right. I said, "No problem at
+all. My business is Repeat Leads,
+repeatleads.com. My name is Chris Kern.
+You can Google my name." Now, I'm going
+to take it a step further. 0843. And I'm
+going to go here. I'm going to find this
+phone number. 0843.
+There it is.
+Creation Roofing & Foundation. And I'm
+going to send him a little call. I know
+you're busy, but the AI voice agent will
+call you from a 469 number if you'd like
+to see how it works. It's 100% AI, not
+me.
+Also, I'm not a woman. All right. He
+didn't answer, but I'm going to do it
+one more time, and I'm going to swap it
+out with his business. We're going to
+try it one more time. Fortune favors the
+bold, I guess. I actually put his real
+business name in here this time. Guys,
+let me just recap. I texted 100 people,
+and I got two warm leads. Well, news
+flash, guys. Update. I got another lead,
+aka my warm lead rate went up by 50%
+from two to three. Let me show you what
+he said. There it is. He said, "Not
+today, next week." Okay? Boom.
+So, in case you're not counting, 96 text
+messages were delivered, four failed. Of
+those 96, 15 have responded to me so
+far. Of those 15, three of them are
+leads, warm leads. They already know
+what I do, and they've shown interest in
+it. That's huge. That means 20% three
+out of 15 20% of the people that
+actually know why I'm texting them, cuz
+the other 82 people or whatever don't
+know why I'm texting them yet. 20% are
+interested in what I'm doing. That is
+insane, guys. That's massive. Could I
+close one of those three? Absolutely.
+Two? Maybe. Three? Probably not. We are
+in business here. One of them said,
+"Hey, would love to hop on a call, but
+just share your name first. I need more
+information about you. The next one
+said, "Not today, next week." And guess
+what? It's 10:29. I've been doing this
+for an hour and 9 minutes. My response
+rate is already 15%. That's probably
+going to double because usually my
+response rate in the first hour is half
+of the response rate I get once it's all
+said and done. So, call it a 30%
+response rate, not bad at all. If we can
+extrapolate that out, I'm going to have
+4% of these become leads. And this isn't
+even optimized. I could have done this a
+lot better. Just imagine how many of
+those remaining 96 phone numbers would
+become leads if I proactively sent them
+a call from the AI voice agent, whether
+they respond to me or not. So, if you're
+watching this and you're discouraged
+thinking, "Only 2% are leads and of
+those maybe you'll only close one."
+Yeah. Cuz if this is a thousand dollars
+a month, then I just know I need to text
+a thousand people to make ten thousand
+dollars a month, or ten thousand people
+to make a hundred thousand dollars a
+month. This is awesome. Now we know how
+the math breaks down. If I didn't have
+all these tech issues, I could have
+gotten these leads in about 45 minutes
+flat. So, what are you waiting for?
+Please use my Go High Level affiliate
+link. They give me a little kickback if
+you use them. I use High Level every
+day. I have multiple of my businesses
+built on it. I can't say enough good
+things about it. You can build this
+entire platform on top of Go High Level.
+You can even send out these text
+messages through Go High Level. And
+again, if you guys become AI
+consultants, if you want to ride this
+massive tidal wave called implementing
+AI into small businesses, then check out
+playmakersai.com.
+We'll see you next time on the Career
+Office.

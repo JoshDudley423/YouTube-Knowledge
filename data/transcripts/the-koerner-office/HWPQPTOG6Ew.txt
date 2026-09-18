@@ -1,0 +1,473 @@
+Guys, I'm no conspiracy theorist, but I
+just found 67 businesses making between
+50,000 and 500,000 per month, and
+they're all white labeling the same $300
+software. But here's what's freaking
+insane. I just spent the last 3 hours
+reverse engineering all their marketing
+channels, their funnels, their ad copy.
+I used some AI agents. I used some
+common sense. And I'm about to open the
+kimono and show all of this to you. I
+want to show you how to copy any of
+these business models with tools that
+are literally free. We're talking Meta
+Ads Library, Wayback Machine, and three
+other tools that I promise you've never
+heard of. One of these companies went
+from 0 to 1.8 million in 11 months. And
+another one is charging $500 per month
+for something that cost them almost
+nothing to deliver. We're talking about
+six figures a month using software that
+you don't even have to build. You want
+to see how they're doing it? Let's dive
+in.
+So, don't ask me why, but the other day
+I found myself scrolling this awards
+ceremony page in the middle of the
+night. I'm on my second can of Dr.
+Pepper Zero. My wife's asleep and I'm
+just hunting, looking for patterns. And
+what I saw almost made me jump out of
+bed. Let me share my screen real quick.
+So, my first thought is, cool. Another
+software awards page that has nothing to
+do with me. But then I start looking at
+what it takes to win a diamond, gold, or
+platinum award using High Level. You
+have to have either 100, 500, or 1,000
+sub accounts, aka SAS customers,
+software as a service customers. And
+these aren't 8 to 12 a month Chrome
+extensions. These are $100 to $2,000 a
+month services that are all delivered
+with someone else's software, someone
+else's code, because I don't even know
+how to code, and you probably don't
+either. Okay. So, then I take this URL
+right here, and I go to Claude, which is
+like Chat GBT except better in my
+opinion, and look at the prompt I gave
+it. Look at some of these company names
+and find me some that reach seven
+figures in a year or less. And Claude
+goes to the URL. It scans and scrapes
+all the company names and it just starts
+digging. All right, Claude just crashed
+on me, so I updated the prompt, made it
+a little more detailed, and hit search
+again. I told it to go scrape the
+internet looking for articles, LinkedIn,
+or Reddit post. All right, while we let
+the AI cook, let's go ahead to this
+website and just start googling around
+real quick and see what some of these
+companies do. Now, remember, most of
+these companies are charging at a bare
+minimum $100 a month. Some of them
+charging three or $4,000 a month. So,
+back of the napkin math says, okay, the
+diamond award winners have at least
+a,000 customers. Might have 10,000 for
+all we know. Let's say they have a,000
+exactly and they charge the bare minimum
+$100 a month. That's $100,000 a month
+without even knowing how to write code.
+Let's just start seeing what some of
+these guys do and what their websites
+look like. Agent CRM, insurance agent
+CRM, that's customer relationship
+management software. Let's see what they
+charge. $97 a month and they have over
+a,000 customers. HubSpot is the biggest
+CRM. Salesforce, these are 30,50 billion
+dollar companies, but with High Level,
+you can use their CRM, white label it,
+and resell it with your own branding and
+everything. So, some guy just went out
+and did that for insurance agents. It's
+positioning and framing. Cuz if you're
+an insurance agent, are you more likely
+to go buy HubSpot, which is a CRM for
+everyone and their dog, or are you more
+likely to use the CRM that is only built
+for insurance agents? So, there's one
+idea. Instead of insurance agent, say
+real estate agent, lawyer, veterinarian,
+dentist, orthodontist, podiatrist, CRM
+for insert whatever profession you feel.
+All right, let's see what Push Press
+Grow is. Gym management software. It's a
+good looking website, but this is
+literally just highlevel white labelled.
+You could use something like
+useoutscraper.com. You could scrape
+every gym in the country and just start
+doing cold outreach to them. Get them on
+the phone. See what their pain points
+are. All right, let's see what the AI
+brought us. 7figure Docs, which is one
+of the businesses on this awards page.
+They serve over 3,000 medical clinics.
+Let's see how much they charge. All
+right, let's ask Chad GBT what 7igure
+Docs charges for their service because
+it's not publicly available on their
+website. Okay, I couldn't find any
+pricing. yada yada. Try this prompt. Dig
+deeper. Reddit X, Facebook, etc. Boom.
+1,500 a month. 3,000 medical clinics,
+1,500 a month. That's $4.5 million per
+month. Now, they've been around since
+2017, but sure, yes, I would wait eight
+years to make $4.5 million a month,
+especially when I'm outsourcing all the
+heavy lifting to high level. Dear doc,
+4,500 doctor's offices served. Jim Lead
+Machine, one of America's 5,000 fastest
+growing companies. So, Claude is telling
+us an AI focus, a healthcare focus,
+rapid scaling through partnerships. I
+saw another one of these guys that just
+partnered with a franchiseor and
+immediately tapped into a,000 customers
+paying $1,000 a month. These guys are
+all white labeling the same software and
+selling it as their own. They took
+existing technology, they slapped their
+brand on it, and they said, "Buy this."
+In this case, the marketing is the
+harder part, but I'm about to help you
+with that. These companies aren't
+geniuses. The owners aren't geniuses.
+You just have to borrow some
+inspiration, and you got to start
+grinding. Now, let's get into the tools
+that these guys are using to succeed and
+the tools that we can use to reverse
+engineer them even more specifically.
+All right, here's what I call the
+reverse engineering toolkit. And all of
+these tools I'm about to show you are
+100% free. All right, the first tool I'm
+going to show you is called the meta ads
+library, as in the Facebook ads library.
+You've got to learn this. You need to
+spend hours in here just fishing around
+looking for ideas because there is more
+inspiration on this page right here than
+almost anywhere on the internet. You
+know all those guys you see on Twitter,
+Facebook, Instagram that are flashing
+their Rolexes and flexing, most of them
+only got there because they found
+winning Facebook ad combos that just
+worked. But everything they're doing is
+right there on the meta ads library for
+you to see and reverse engineer. You can
+search by exact company, by industry, by
+geography. And if you look at the
+Facebook ads library in the UK, you can
+even see how much money is being spent
+on those ads because of disclosure laws
+that exist in Europe that don't exist
+over here in the US. Let me just show
+you how to use this real quick. We're
+going to go all ads. We're going to
+search for marketing. Very broad. Now,
+this shows us all the ads that are
+currently running today that have
+anything to do with marketing. Maybe
+it's a marketing agency. Maybe it's a
+videographer. Doesn't matter. But the
+key is in the filters. We don't want to
+see ads that just went live today,
+yesterday, last week, or last month. We
+want to see ads that have been running
+for months because it's very common to
+kill an ad after just a couple days
+because they aren't performing. In
+Facebook, the name of the game is
+creatives. Refreshing creatives. So, if
+you see an ad that has been up for
+months, then it is a banger ad. And you
+should copy everything about that ad and
+change as little as possible. So, here's
+how we're going to filter this thing.
+We're just going to set the two date to
+about let's say 4 months ago. We'll say
+March 1st.
+Right now, it's late July. All right.
+All of these marketing ads have been
+running for months. But let's filter it
+out even more. Let's get a little more
+greedy. Let's go to January 1st, 2025.
+So, another thing you can look for are
+companies that have multiple ads running
+and have had multiple ads running for a
+long time because that's an indication
+of scale. That means their ad strategy
+is really crushing. So now what you
+could do, you could screenshot all of
+these ads. You could take them over to
+Manis Chat GPT operator or any other AI
+agent, which is basically an AI tool
+that goes one step further for you and
+does the digging for you. Screenshot
+them. Give it the screenshots and say,
+"Find me all of these businesses that
+run on a high level because then you're
+going to have a much easier time reverse
+engineering exactly what they're doing.
+Not just their pricing, not just the
+design of their website, but their
+offer. That is the key. The key to
+scaling a big business is having a
+killer offer. An offer that people feel
+stupid saying no to. Now, we're going to
+look at my second favorite tool, the
+Wayback Machine. All right, let's see
+how long Agent CRM has been around. How
+long did it take them to get a,000
+customers? And what did their website
+look like when they first launched?
+Because that's going to save us x number
+of years of heartache and trial and
+error. Okay, here we go. Marketing
+software built especially for insurance
+agent and financial planners. only $47
+per month. So, I like what I see.
+They've since doubled their pricing and
+they've simplified their language in
+their headline, which is critical.
+That's a mouthful. Marketing software
+built especially for insurance agents
+and financial planners. And then this is
+what their landing page shows today. The
+AI powered CRM built for insurance
+agents. And if AI didn't exist, it would
+probably just say CRM for insurance
+agents. I can see that they're still
+offering a 14-day free trial, which
+means that that is part of their killer
+offer. They've never changed that. And I
+can see that their website has gotten a
+lot prettier. It used to be pretty
+cluttered and ugly. But look at this.
+This form right here, this is classic
+highle. This is the highle form. Let's
+go to tool number three, similar web.
+You do have to create an account on
+similar web, but it doesn't cost
+anything. So, I'm going to go ahead and
+check agentcrm.com.
+And I want to see how much traffic
+they're getting. and where the traffic
+is coming from. That's also the key.
+They are getting 12 to 16,000 visitors
+per week. 12 to 16,000 per week for a
+$100 a month offer is insane. Let's see
+how fast they're growing. Let's say very
+conservatively, okay, 15,000 visitors
+per week equals 60,000 per month. You
+take 3% of that and you've got 1,800
+free trials per month. But these are
+very likely highly motivated, high
+intent visitors to this website. 1,800
+trials a month. Let's say only only 20%
+of them convert to paid. That's 360 new
+paid customers every month. Times 100 is
+$36,000 of MR, monthly recurring revenue
+every month. Could be more, could be
+less, I don't know. But tools like
+Similar Web get us pretty close. 82% of
+their traffic is coming from the United
+States. 72% of it is direct, which is
+the highest intent of traffic. They
+didn't just stumble upon this website.
+They went there purposefully.
+1 and a.5% is paid, which means they're
+probably not running very many paid ads,
+which is also very interesting. 19%
+organic, which is encouraging because
+it's hard to get organic traffic, so
+that's going to be harder to copy. And
+6% at referral traffic. So, this tells
+me that whoever owns this business is
+doing a ton of outbound call, text,
+email, voice agents, ringless voicemail
+drops, and they're willfully pulling
+people to their website, which I
+actually love that. That's how I've had
+the most success in my business cuz I am
+way too impatient to wait for SEO to
+work, and I'm way too cheap to pour
+thousands of dollars a day into Facebook
+or Google ads. All right, let's go to my
+fourth tool, BuiltWith. Builtwith has a
+free Chrome extension where it will show
+you what any website you're looking at
+is built with. WordPress, Shopify, is
+there a Stripe pixel? Is there any
+Stripe code on the website so you can
+see if they accept payments or not? Do
+they have a Facebook pixel, which would
+probably indicate they're running
+Facebook ads. It will tell you all of
+these things. Now, BuiltWith is very
+expensive. for free. You can see with
+the Chrome extension what any website is
+built with is running on. But for $450 a
+month, you can scrape millions of
+websites to a spreadsheet to your
+computer and get contact info for all of
+them. But there's a cheaper and a better
+way. Builtwith does not want me to be
+saying this. Obviously, they're not
+sponsoring this, but go to upwork.com
+and post a job looking for someone that
+already has a $450 BuiltWith account,
+likely a marketing agency or something.
+post a $20 job saying, "Hey, can you
+just run an export on your bill with
+account for me?" It doesn't cost them
+anything if they're already paying the
+monthly fee. So, it's like, "Hey, for 30
+seconds of work, just click export on
+this scrape of Shopify stores or highle
+websites or whatever it is. I'll send
+you 20 bucks or 50 bucks. Then you can
+save 95% on your built-in
+agent CRM right here. Clickfunnels
+highle. A lot of people see Clickfunnels
+and Highle as competitors, but they
+often work hand in hand. But if I had to
+choose one or the other, it's high level
+any day of the week. Google Analytics,
+not surprising. Facebook Pixel, Twitter,
+Authorized.net, which means they're
+accepting payments.
+PayPal, YouTube, Snapchat, LinkedIn X,
+GoDaddy, Amazon. Pretty standard stuff.
+But tool number five, now this one is my
+favorite. LinkedIn Sales Navigator. Now,
+yes, LinkedIn Sales Navigator can be
+expensive, but they do offer a 30-day
+free trial. What you want to do is put
+in your credit card, sign up for the
+free trial, cancel it immediately so you
+don't forget. You'll still have access
+for 30 days. This tool is amazing
+because you can see what customers these
+high-level businesses have. No, you're
+not going to be stalking people, but you
+can see what industries they're serving,
+what size companies they're serving, and
+what their messaging is to all these
+different segments. But if we go back to
+where we started here, this award
+ceremony page, the thing about these
+guys is they're not special. They're not
+geniuses. They didn't go to Harvard.
+They just took a brilliant piece of
+software that took years and years and
+many, many millions of dollars to build.
+They slapped their logo on it. And we're
+talking High Lee cost 97 bucks a month.
+There's a free trial. It's 300 a month
+if you want to use their white labeling
+service with some AI features. But if
+you want to have unlimited sub accounts,
+which means unlimited white labelled
+customers, it's $500 a month. But you
+don't have to commit to that until you
+have enough customers that are paying
+you at least $500 a month. You could
+work your way up. All right, let's get
+to the brass tax. How exactly do you do
+this to build your own business? You're
+going to start by going here. This link
+is in the show notes. And you want to
+use this link A because it's my
+affiliate link and I'll get a kickback
+and it's a great way of saying thanks. B
+because you get a 30-day free trial of
+High Level instead of a 14-day free
+trial. Anywhere else will offer you 14
+days. My link will offer you 30 days. It
+gives you twice as much time to test all
+these things. So, you'll see the link
+below. You're going to start an extended
+free trial. Choose the white label
+account. Use an AI generated logo. Pick
+some colors. And boom, you've got
+software that looks like it costs
+thousands of dollars a month, but really
+it's free for the next 30 days. Step
+two, pick your niche based on data.
+Before you even do this step, you'll
+probably have already done some level of
+research. But the real research happens
+in this 30 days cuz the clock's ticking
+until that free trial turns paid. dental
+practices, real estate agents, fitness
+coaches, e-commerce brands, coaches.
+Pick one. Pick one that A you have some
+level of passion in and B you have some
+level of experience in. Ideally, both.
+Or you could scrape the entire awards
+page, send it over to Chad GPT, and say
+which one of these industries has the
+least amount of competition and start
+there. Step three, copy their proven ad
+angles, their pricing, their offer, the
+structure of their website, everything.
+Do not try to reinvent the wheel. Good
+artist copy, great artist steal. These
+guys have already tested these things
+over years. Why would you try to do it
+better? Step four, the onboarding
+system. Copy this as well. You got to
+get this part right. The welcome emails,
+the setup calls, and the training
+materials. Get this right. You can use
+AI to generate it. And it's all there in
+the wayback machine now that you know
+where to look. See, anyone can white
+label this software. But the real magic
+is in copying their positioning, the
+messaging, the client success systems.
+All right, let me be brutally honest for
+a second. This isn't your passive
+income. Make money while you sleep bull
+crap. This is going to be work. Of
+everything I'm known for, I'm not known
+for preaching passive income. This is
+active income. But it's predictable and
+reliable income. You're going to have to
+learn sales. You're going to have to
+learn marketing. You're going to have to
+deal with difficult clients. Things will
+go wrong. Things will break. But in any
+business, things will break. And I like
+my problems in this business much more
+than most other businesses I've started,
+which is almost 80 at this point. But as
+difficult as this is, you can do this. I
+promise if this idiot can do this, you
+can do this. I use High Level every
+single day. I love HighLevel. Pick one
+company from this awards list. Spend a
+week learning everything you can about
+them. And then start putting out
+feelers. Talk to potential customers.
+Get them on the phone. Do the hard
+thing, not the easy thing of just
+researching until you're glue in the
+face. Analysis paralysis to the gills.
+Get these customers on the phone. Use my
+affiliate link. Get to work and have
+fun. Oh, and share this with a friend
+while you're at it. Thanks for hanging
+out on the Kerner

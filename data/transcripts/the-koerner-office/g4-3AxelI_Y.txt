@@ -1,0 +1,471 @@
+57% of sales goes to whoever responds
+first, and that's not my opinion. That's
+data. As of right now, most small
+businesses are letting calls go to
+voicemail and hoping people call back.
+Side note, they don't. So, today I'm
+going to build an AI agent that texts
+back missed calls automatically, has a
+full conversation, answers questions,
+and books the appointment without your
+involvement. And I'm going to show you
+how to sell this to small business
+owners. Because statistically speaking,
+you're probably not a business owner
+yourself. So, we're going to figure out
+how make money from business owners so
+we can be a business owner ourselves.
+And literally just yesterday, this
+16-year-old girl that's in a high school
+for entrepreneurs emailed me this and
+said, "Hey, it works. I use ringless
+voicemail drops to find a plumber that
+wants AI integrated into his business,
+and I got it on my 16th birthday." You
+can do it all inside of GoHighLevel, and
+then I'm going to show you something
+even more interesting. You ever heard
+the phrase dog fooding, aka eating your
+own dog food, aka using the marketing
+technique that you're selling to small
+business owners to find those exact same
+small business owners. We're going to be
+dog fooding today. I'm going to show you
+how to use this exact same setup in
+reverse to find and close small business
+customers who will pay you to run this
+for them. We're going to cover the full
+build step-by-step inside GHL, the exact
+prompt that makes the AI sound human
+over text, and how to land clients using
+ringless voicemail and this same agent.
+And most importantly, I'm going to share
+my screen, my phone, I'm going to get a
+live fish on the line. I'm going to find
+a customer by the end of this video.
+Guys, this is a $500
+a month per client service, so let's
+build it.
+So, missed call text back is not
+anything new. We're not inventing it
+today, but if business owners are using
+it, and most aren't, it's just a static
+one single text. Let's say you're a
+plumber, you miss a call, and an
+automated text goes out to the person
+that called you. This says, "Hey, sorry
+missed your call. Anything I can help
+you with?" Or "Our operating hours are
+between 9:00 and 5:00." Yeah. And then
+there's no interaction, there's no
+engagement. That doesn't really do a lot
+at all. But we're going to add AI to it.
+We're going to make it seem very real so
+that one static text can be converted
+into a two-way conversation that books
+appointments and gets you or business
+owners more sales. So, we're going to
+log into GoHighLevel right here and
+we're going to click on automation on
+the sidebar. We're going to click this
+big blue button, create workflow, select
+from template, and we're going to search
+missed call text back right there. Okay,
+let me explain to you what you're
+looking at right here. This first step
+is called the trigger. That's what
+starts this workflow/automation.
+And in this case, the trigger is an
+incoming call. And right here, it shows
+if the call is busy, has a voicemail, or
+no one answers it, then the trigger will
+be activated. And then the next step
+right here down the line, down the
+workflow, is slide delay. So, SMS
+doesn't feel like a bot. We want to give
+it 1 to 3 minutes before that text goes
+out so it doesn't feel automated. And
+then on this third step right here,
+we're going to assign it to a user. So,
+if you or the business owner you're
+working with has a team, they don't want
+to be the one that manages this, we can
+assign it to a user. But I think in most
+cases, this won't even be necessary cuz
+most business owners don't even have
+employees, believe it or not. This next
+step adds a contact tag. So, GoHighLevel
+also functions as a CRM, customer
+relationship management platform, where
+you basically store all your leads, all
+your contacts, customers, data, phone
+numbers, addresses, etc. So, we want to
+know which of those contacts in our CRM
+used this workflow. It's good to know.
+That way you can sort by them, you can
+filter by them, etc. So, we're going to
+use that to add a contact tag. You can
+name this whatever you want. I named it
+missed-call.
+And then this step right here turns a
+text into a lead. Now, this is how
+GoHighLevel categorizes the contact as a
+lead. And in the same step is also where
+this text will finally be sent. So, it
+took about five steps to actually get to
+the point to where we're sending the
+first text to the customer that called.
+And then right here, let's say that the
+business owner or the employee wants to
+take over for the AI at any given point,
+we set up a push notification to the
+assigned user, which was assigned right
+here in step three. So, if they want,
+they can take over and start texting as
+themself. And then this last step right
+here basically does the same thing,
+except through an SMS and not through a
+push notification. So, this has a time
+delay of 0.2 minutes. That's not long
+enough in my opinion. I like to do 1 to
+2 minutes. So, we'll save that.
+Okay, now very important, this is the
+most important part. Remember this step
+right here, where you first send the
+text to the customer? We're going to
+delete that, okay? We're going to
+replace it with AI. So, we're going to
+click the plus, we're going to click
+conversation AI. We want to hit this
+toggle button right here, advanced bot
+configurations.
+Let's say hypothetically, we are doing
+this as a service, we're getting paid to
+do this for a tree trimming business
+owner. So, this was the generic template
+that GoHighLevel gave me, but let's just
+say I'm going to market this to tree
+trimming business owners, cuz I own a
+tree trimming business, so I know that
+industry better than most. So, I'm going
+to copy this prompt, take it over to
+Claude or ChatGPT, Grok, whatever you
+use, and I'm going to say replace this
+personality in the conversation AI on
+GoHighLevel with an AI agent
+representing Fast Tree Care, a tree
+trimming company in DFW that is
+engineered to book appointments for
+quotes. Okay, about you, your friendly
+assistant for Fast Tree Care,
+objectives, find out what tree service
+they need, rules, be warm and casual,
+talk like a real person, not a robot,
+questions to ask, what's going on with
+your tree, yada yada yada. So, you don't
+have to like upload this huge repository
+of FAQs, just have AI create that
+knowledge base for you. Now, I'm going
+to go to Claude, I'm going to take all
+of this, these additional instructions,
+and say, "What you gave me was great, go
+ahead and swap out this with something
+that matches Fast Tree Care." This
+basically just says how to handle the
+questions and the objectives, how to go
+in order, some examples of things that
+you can say, what types of phrasing to
+use, etc. And then we're going to leave
+this last section blank right here. So,
+we want the bot to wait for a reply for
+like 24 hours, okay? And channel is
+going to be SMS. We'll skip the question
+if already answered. Now, what's the max
+number of responses that we want the bot
+to give? This is like an insurance
+policy, a safeguard against the bot is
+going crazy and not leaving the person
+alone. I think five is a good safe
+number for this. This is the amount of
+seconds that you want to wait in between
+each response. I think 10 is not enough.
+I'm going to say 35. So, question, this
+is the simplest one there is. I'm just
+going to say, "Hey, sorry we missed your
+call. What's going on with this tree?"
+And I'm just now seeing these top two
+need to be 300 words or less, so I'm
+asking Claude just to trim it down for
+me. And same here with this one, trim
+that down to 213 words with just one
+prompt. Okay, so after the conversation
+AI starts, it's going to send the same
+push notification to the same user or
+business owner and the same SMS so they
+can take over should they want at any
+point. Also, very important, remove your
+quote marks from this question. Trust
+me, it's embarrassing. Hey, if you find
+yourself driving much or working in the
+yard or doing the dishes, check out my
+audio podcast The Corner Office cuz
+you'll see episodes there that don't
+make it to YouTube on all podcast
+platforms. Okay, now we need to add some
+branches. This is basically an if this
+then that scenario. And really what we
+want to do is log the customer's info
+once we get it from them. So, we're
+going to click add condition. We're
+going to call this booked and the
+condition is customer provided their
+tree service need, address, and
+preferred day for the estimate. Now,
+we're going to do another one called
+emergency because sometimes here in
+Texas there like ice storms and someone
+might literally have a huge branch on
+their roof. So, we're going to call this
+one emergency and the condition will be
+customer mentioned a tree fell on their
+house, yada-yada, and needs immediate
+help. And then the third and final
+branch we're going to add is called
+unqualified
+for the times when a customer is asking
+about something other than tree services
+or is outside of our service area. Okay,
+let's go ahead and submit. Okay, so now
+you will see all of these different
+branches. If they time out, aka they
+never respond, the automation will end.
+If they book a time for us to come
+provide a quote or for the business
+owner to come do that, we want it to
+notify us. So, I'm just going to take
+this one right here. I'm going to copy
+it. I'm going to click control V, I'm
+going to paste it, and then I'm going to
+drag it over here. I don't need a push
+notification and an SMS. An SMS will do
+it. Same thing over here, if there's an
+emergency like a tree on their house,
+we're going to copy it. We're going to
+paste it right there. The text is just
+going to say emergency. And then I don't
+want to be notified, the business owner
+probably doesn't, if someone's
+unqualified, so we're just going to tag
+them. We're going to copy this tag and
+we're going to paste it right here. And
+the tag that we attach to this user is
+just going to be canceled. If I wanted
+to waste an extra minute, I would just
+create a new tag called unqualified, but
+I'm too lazy, so canceled does it. This
+is it. This is how it works. This is the
+whole thing, okay? And this step right
+here, this is the meat of it. This is
+where people are going to have
+full-blown conversations with our AI
+agent. And here's the secret beautiful
+thing of all this. Now that you have
+this one workflow, you can copy and
+paste it over and over and over for
+multiple customers. They're not all tree
+trimmers, fine, you just swap out the
+tree trimming info with the plumber
+info, or the HVAC info, or whatever type
+of business it is that they own. Now, of
+course, we got to hit publish and then
+save. Now, we're going to go back here
+to the list of workflows, click the
+three dots, and click duplicate
+workflow. And then we're going to call
+this dog fooding.
+Okay? So, same trigger, we get an
+incoming call, and I'm going to show you
+how to generate those incoming calls. We
+still want the same delay. We still want
+to assign it to a user. Now, keep in
+mind, this would be me or my employee,
+my user, because this is me trying to
+sell this service to other business
+owners. And everything I just showed
+you, that is something we're building
+for the business owners that we're
+trying to sell this to. We still want to
+add a tag just to stay organized, and we
+don't need the emergency branch anymore,
+cuz there will be no emergencies. So,
+we're going to delete that, and we still
+want to book appointments with them, so
+we could talk to them as humans and try
+to close them either in person or over
+the phone. And there's still going to be
+a lot of people that are unqualified.
+They're unwilling to pay or whatever, so
+we're going to leave that. But, the
+magic needs to happen right here. So,
+what I'm doing is I took a screenshot of
+all this, drug it over to Claude and
+said, "All right, I'm going to use the
+same workflow to dog food it to try to
+find business owners that want this
+missed call text back feature. So, give
+me new instructions for this, and just
+know that the agent is going to act as
+me, as like a sales agent, to answer
+questions for the business owner, and
+tell them how it will make them more
+money, that it'll cost 500 bucks a
+month, and if it doesn't pay for itself
+in the first 90 days,
+then it's free. Okay, you're a friendly
+assistant, Chris Kerner. You're texting
+a business owner who just heard a
+voicemail from Chris about an AI-powered
+missed call text back system, yada yada
+yada. And remember, we want to remove
+the quotations from these questions.
+We're going to add one more condition
+here that says, "Hot lead. Customer is
+very interested, asking detailed
+questions, or wants to start immediately
+without a demo." And then again, we're
+going to send an SMS for that. Now, if
+you go in here, these are called
+conditional tags. This will put in the
+customer's first name, so I know how to
+address them if I were to actually call
+them. So, I'm just saying, "User first
+name is a very hot lead. Contact them
+here with phone and name."
+Save. Then we're going to click publish.
+So, every business has two functions:
+find customers, fulfill those customers,
+aka do the service or the product that
+you're promising them. We just did both
+of them with the same workflow. Or at
+least we just set up the ability to find
+the customers. So, let's go ahead and do
+that real quick. Okay, so who do I text?
+Well, I went to outscraper.com. I typed
+in tree trimming businesses in Dallas,
+Texas. It gave me this info and all I
+care about is the phone number. That's
+it. But I need to standardize them. So,
+I'm going to do control F, control find.
+I'm going to do plus one space. I'm
+going to get rid of all those, replace
+it with nothing. And then I'm just going
+to do a dash, replace all that with
+nothing. So, now I have 181 phone
+numbers for tree trimming businesses in
+Dallas, Texas. Okay? Now, I'm going to
+go file, download CSV. Okay? Then you
+can use any number of services for
+ringless voicemail drops. I use slide
+broadcast, not an ad. I'm going to go
+create a new campaign. I'm going to put
+in the caller ID. This needs to match
+what's in GoHighLevel. This is the
+number that the voicemail is coming
+from. Also, I haven't even described
+this yet. A ringless voicemail drop is
+when you upload a voicemail to a piece
+of software like this, and you upload a
+list of phone numbers, and it will send
+that voicemail to those phone numbers,
+either cell or landline, without their
+phone ringing. It's magic. Sometimes
+people will see a missed call, sometimes
+they don't. It's kind of random, but
+what it is going to do is generate a
+bunch of calls back to you. Okay, now
+I'm going to record a voicemail.
+So, I'm going to open my voice memos
+app. You've probably seen it before, and
+I'm just going to hit the big red
+button. Hey, this is Chris Kerner. I'm
+here in Dallas, Texas, and I'm looking
+for a tree trimming business. So, please
+give me a call back. Thanks. Kept it
+broad, kept it vague. We're going to
+incentivize for a callback here. I'm
+going to airdrop this to the MacBook
+that I'm recording on right now. Upload
+recording. Boom, it's uploaded. I'm
+going to upload my list. Doesn't matter
+what I name it. 173 numbers. It
+obviously scrubbed eight because they
+were probably invalid phone numbers. We
+want to send it immediately, and that's
+it. We're going to start getting
+callbacks, and then once GoHighLevel
+recognizes that callback, it's going to
+text them back, and then it's going to
+start a conversation as long as they
+text back to my text back. Also, to sync
+up your phone number with GoHighLevel,
+you just do it in the settings. It's
+pretty self-explanatory. Now, all there
+is left to do is click submit. All
+right, and look at this. You can see
+they've all gone out. A lot of them
+failed. Most were successful, and you
+can see the carrier that they're on and
+the phone numbers over here. Now, let's
+see if we get any uh callbacks. Okay,
+got one. This is wild. I'm like I'm
+watching my AI interact with this
+business owner. Says, "Hey, I know this
+is random, but I'm using a missed call
+text back on you right now that will
+have a full conversation with you with
+AI. It feels real, doesn't it? I want to
+install it for you on your tree trimming
+business so you can close more jobs.
+What questions do you have?" Oh, and it
+just says "Cost." Great question. It is
+$500 a month, but if it doesn't pay for
+itself in the first 90 days, then I'll
+give you all your money back. Can we hop
+on a call so I can explain it? It'll
+only take a minute. There it is for
+proof. So, I haven't closed them yet. I
+don't have money in my pocket yet from
+this, but you can see that this works.
+And literally just yesterday, this
+16-year-old girl that's in a high school
+for entrepreneurs emailed me this and
+said, "Hey, it works. I used ringless
+voicemail drops to find a plumber that
+wants AI integrated into his business,
+and I got it on my 16th birthday." So,
+that wasn't like the same thing. She
+wasn't using GoHighLevel at all, but
+these principles work. And if you can't
+tell by now, yes, GoHighLevel is an
+amazing supporter of this channel. They
+usually give 14 days free to use it, but
+with my link only, you can get 30 days
+free, and if you end up paying for it,
+it will support me and my channel, so
+I'd appreciate that at the top link in
+the description below. Go do this. There
+are 33 million small business owners in
+the United States, and basically all of
+them could use missed call text back.
+Now, you know how to install it, and now
+you know how to find them with the same
+thing, missed call text back. Also, I
+have a community of people building AI
+businesses that sell into small
+businesses just like these. It's called
+Playmakers. You can find us at
+playmakersai.com.
+We'd love to have you. If you like this
+content, please share with a friend, hit
+a like or a comment below, and we'll see
+you next time on The Kerner Office.

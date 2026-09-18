@@ -1,0 +1,438 @@
+This is the best time in history to make
+tens of thousands of dollars a month
+publishing content that's inspired by
+someone else's content. Thousands of
+people out there, myself included, are
+making real money just by posting about
+stuff they're already interested in. I
+got over 5 million followers posting
+about business ideas because that's what
+I'm interested in. But you can share
+anything and build a following. Local
+events, hacks for tired parents,
+motorcycle reviews, power washing
+videos, anything. The formula is simple.
+You pick a niche, you post consistently,
+and you build an audience, then you
+monetize. But most people get stuck on
+finding fresh content ideas every single
+day, multiple times a day. It can be a
+grind. And after this video of mine went
+viral, I realized that's a problem that
+people have. They need more inspiration.
+They need to know where to look
+consistently so they don't have to turn
+this into a full-time job. Because
+without good systems, getting inspired
+by content to repurpose is exhausting.
+So today I'm going to build two
+automations using AI tools that will do
+all the research for me in my sleep.
+These tools are going to find what top
+creators in my niche are posting about
+and it'll send me a weekly report and
+you can copy everything I'm doing for
+whatever niche you're interested in. So
+today I'm going to show you exactly how
+to set this up. Takes about 30 minutes.
+It costs about five bucks a month and it
+will run forever. So think about it this
+way. Every successful niche has creators
+that are already crushing it. They've
+done the hard work. They've figured out
+what works. I don't want you to reinvent
+the wheel. So instead of just guessing
+what to post, we want to watch what they
+post and use it as inspiration. For
+instance, if a top healthy recipe
+account posts 5minute protein breakfast
+and it crushes, maybe you should make
+your own version of a 5minute protein
+breakfast. Your spin, your personality.
+But the problem is that manually
+checking 10 different accounts every day
+is exhausting. and we want to hang out
+with our kids or our spouse. We don't
+have time for that. We don't want to be
+glued to our screens. So, we're going to
+automate it.
+All right. So, to get started, we're
+going to go to hostinger.com/kerneroff.
+Hey, that's me. We're going to click
+claim deal. This plan is 61% off, so
+we're going to snag that. We're going to
+enter in coupon code kerner office.
+That's me. That's going to give us an
+additional 10% off. Okay. So, now we
+have to choose an operating system to
+work with. Um, in my experience, NAND is
+the easiest if you're not super
+technically advanced. So, we're just
+going to go with N8. Okay, we're logged
+in. We're paid. We go to the dashboard.
+Then, we're going to click on VPS. We're
+going to go to the one that I just
+chose. You can see I'm kind of a heavy
+user of Hostinger here. So, it's going
+to be this bottom one. It's the newest
+one. We'll click manage. Now, we're
+going to click manage app. Okay. Okay,
+so right here they're sending us over to
+their partner N8N which is the
+automation platform. Think of Hostinger
+as a budget user-friendly web hosting
+provider for the AI age and think of N8N
+for a budget automations platform for
+the AI age that needs a web hosting
+platform in order to operate. So you
+have to use both handinand. Go ahead and
+create an account. Now, in order to set
+up this YouTube automation, we need to
+connect YouTube, which is owned by
+Google, and we need to connect Google
+Sheets, which is owned by Google. So,
+we've got to connect Google. Not as
+complex as you might think. We're just
+going to go to Google, and type in
+Google Cloud Console. There it is. Click
+on it. You can see I'm already logged in
+up here on the top right. You only need
+to do this once. Okay. Now, we're in the
+Google Cloud Console. We have to create
+a project. And for some reason, Google
+makes this a little confusing. It's not
+there. You got to search for it. So,
+we're just going to search for the word
+project. And you can see create a
+project. We'll click on that. Name it
+whatever. Just click create after you
+name it. Okay. Now, this gets a little
+confusing because after you create the
+project, for some reason, often times
+Google wants to move you to a different
+project, one of their standard projects.
+So, we're going to go up here to the
+notifications. Be sure that you're on
+the right project. Remember, I named
+mine Automation 67. So, if you're on the
+right page, you'll see your project name
+up here on the top left. Okay, we're
+good. Now, we need to click the left
+menu here. Go down to APIs and services.
+Then, we're going to go library, Gmail
+API. We're going to search for that.
+There it is. Click on it. Enable. That's
+it. This will enable our automated
+emails. Now, we go back to the library.
+We're going to look for sheets. There it
+is. Going to click enable. Now, we're
+going to go back to APIs and services
+and go to OOTH consent screen. Get
+started. We'll give it the same name,
+automation 67. Type in your support
+email. Okay. Now, under audience, we're
+going to click external. Then, next.
+Contact information. This can just be
+your email. And then finish. This is
+basically a regulatory step for Google
+just to make sure that you're not a
+scammer. Okay. Now, we go back to APIs
+and services ooth consent screen. Then,
+we're going to click on data access, add
+or remove scopes. We're going to search
+for Gmail. And then we want it to read,
+send, and modify. So we'll just check
+those top three. Now we're safe to X
+this out because those will stay
+checked. Then we'll search for Google
+Sheets API. And we just want it to read
+and write. We're just basically telling
+the API the permissions that it needs to
+do or the abilities that it needs to
+have. And an API is just a way for two
+pieces of technology to talk to each
+other. We're going to check this one and
+this one, which basically allows it to
+read and write. Then we're going to
+click update. And you can see all five
+of those API permissions have now been
+added. Three for Gmail, two for sheets.
+We'll click save. Now we're going to
+click on audience test users. That's us.
+I'm going to add a different email of
+mine. And then I'll add another email
+just just to hedge my bets here. Okay.
+Now, we're going to go back over to NAN.
+We're going to click create workflow.
+Okay. Now, we click the plus. We need to
+trigger this workflow slashautomation
+and we're going to do it on a schedule
+on a recurring basis. So we'll click on
+schedule. We're going to set mode for
+days between trigger one trigger at
+midnight. Sure, doesn't matter. Now
+we'll click execute step. Now we're
+going to click this next plus. This will
+be the next step in the automation.
+We're going to search RSS RSS read. Now,
+we need this automation to scan, search,
+read a YouTube channel. Now, to do this,
+we need a URL of the RSS feed of the
+YouTube channel that we want to scan
+regularly. So, don't be confused. There
+are a ton of third party tools that will
+do this for us. I literally just go to
+Google and type in get RSS URL from
+YouTube channel. Now, you could click
+any of these results to use thirdparty
+tools to do it for you, but they all
+want you to register and get your email,
+and we don't want to do that. So, I'm
+just going to look at these
+instructions. Cool. All right. So, to
+get the RSS feed without giving some
+random site your email address, we're
+going to go to the YouTube channel in
+question. We're going to rightclick,
+view page source, control. That's going
+to pull up this. We're going to do
+control find RSS. Boom. You see that
+blue URL right there? That is the RSS
+feed for his YouTube channel without
+having to give some shady site your
+email address. So we go back to Naden.
+We go to the step that we're on the URL
+field. We're going to paste that in and
+click execute step. Cool. Now, how do we
+know that it's working? Look at the
+output. It's showing us all the data
+from that channel that we're looking
+for. So, we know it's working. We're
+going to X that out. Now, we're going to
+click the plus again. Search for Google
+Sheets. We're going to click append or
+update row in sheet. Okay. Now we need
+to select credential. Create new
+credential. Choose credential type that
+one. And to fill in this field, we've
+got to go back to Google Cloud Studio.
+We go back to APIs and services
+credentials for the app that we created.
+Click on the edit button for the app
+that we created. And it needs our
+redirect URL, which if you remember was
+right here. So we're going to copy it
+back here. Add URL. Paste that. Hit
+save. Cool. Now we need the ID which is
+basically the username for this. Back to
+NN. Paste that in. Then we go client
+secret. We're going to copy that. Paste
+it into NN. Leave that on all. Click
+save. Successfully created. Awesome.
+Okay. Now to wrap this all up, we have
+to sign in. So we're going to sign in
+with the Google account that we just
+connected on Google Cloud Console.
+Connection successful. Awesome. Account
+connected. We're green. Awesome. Close
+that. On this dropown, we're going to
+choose this sheet within document append
+or update row. We're going to add the
+URL of the Google sheet. We're going to
+do that by clicking share up here on the
+Google sheet that I just created. Anyone
+with the link editor. So, full
+permissions on that. I named it contents
+by. There's only three columns. Publish
+date, channel name, video name. Okay, we
+go there. We paste it there. Uh what
+sheet by name. Sheet one. There's only
+one sheet in there. So, we're going to
+map each column manually just to make
+sure it works right. So, for publish
+date, see, it's pulling these columns
+from my sheet. We're going to go over
+here to the left, take publish date,
+drag it there. Cool. Channel name, we're
+going to go here. Author, that's the
+channel name. And this is important
+because we can add more channels to the
+sheet. If we were only tracking one,
+then it wouldn't really matter what
+channel name it was because we would
+automatically know. And video name,
+we're going to do title. Okay, they're
+all there. They're green. Cool. Now,
+we're going to click execute step.
+Beautiful. It worked. We got three green
+check marks across the board. Okay. Now,
+the real test is to see did this
+automation actually work. We got to go
+to go to our Google sheet to check on
+that. And boom, there it is. Publish
+date, channel name, video name. This is
+beautiful. It works. Now, you may be
+wondering, I thought he only had one
+video. No, he only had one long form
+video, but it pulled shorts as well.
+Five videos, five rows on the sheet. All
+right, so now you may be asking, well, I
+want more channels. I want to add 10
+channels, 20, two, whatever. Easy, super
+easy. Go to the middle step here, RSS
+feed. Click the three dots. You're going
+to click duplicate. You're going to do
+that. And then you're going to take
+this, you're going to connect that
+there. You also need to delete this
+connection right here by clicking the
+trash can. And then you're going to go
+here, drag that there, and do that
+there. So, what this is going to do is
+it's going to read one channel, then
+it's going to read the next channel, and
+then it's going to add them all to the
+sheet. But there's an error here because
+we still need to configure this. So, you
+click on the three dots, click open, and
+we just need to swap out the URL of the
+channel that we want to track. So, what
+channel do we want to track? Let's
+support my best friend Nick. I want to
+track Nick's channel to see what he's
+publishing. So, I'm going to go to his
+channel page. Remember, rightclick, view
+page source. It's going to open this.
+We're going to do control find RSS.
+We're gonna find the blue domain right
+there. Boom. Copy. And we're gonna go
+back to NAN. We're going to take this
+domain from Kyler's channel. Paste it.
+Execute step. Beautiful. You can see
+right here the output. It worked
+immediately. And then go here. We're
+going to click play. It's running. It's
+running 75 items. Okay, that's a good
+sign. Go back to our sheet. Boom. Now,
+you can see there's a couple errors here
+for some reason, but that's always going
+to happen. nothing we can't fix.
+Everything else is almost perfectly
+accurate. And you can even set up limits
+where it's like, "Dude, don't scrape
+everything, just like the last 10, the
+latest 10. I don't want to get too in
+the weeds, but Chad GBD can help you out
+with that." Now, remember, this is going
+to run at midnight every day, and we can
+have it run every 5 minutes if we want.
+But the more often it runs, the more
+we'll have to pay in credits. Now, how
+do I get an email notification every
+time this has been done? We're just
+going to click a plus here at the end of
+it. We're going to search Gmail. We're
+going to click send a message. Okay, so
+I learned as I was doing this that you
+don't want to connect this step after
+the sheet. That's kind of redundant. You
+want to connect it after the RSS read.
+So it's basically it's going to scan a
+channel, scan a channel, add all the
+details of those channels here and email
+you at the same time. So to do this
+step, we connect to our Gmail account.
+Resource is a message. We're sending it.
+We're going to send it to ourselves. So
+I put my email in here. Subject line
+doesn't matter. New vids, email type,
+we're going to do HTML. And the message,
+you're going to do expression instead of
+fixed. And you're going to paste in that
+HTML code. And I will put that in the
+show notes. Easy to find. So you can
+paste that in directly. So now let's see
+how it works. It might not yet. We're
+going to click execute step. Whoa. Okay.
+It worked, but it worked a little too
+well. All right. So here's what my inbox
+looks like right now. Boom. Look at
+that. Too well. I got to configure this.
+Oh my gosh. I'm getting so many emails.
+Like, it works. There's the videos that
+scanned. There's the date. That's all I
+asked for. But I got one email for every
+I got a lot of emails. So, let's figure
+out how to fix this so you don't have
+the same problem. Okay. So, I forgot a
+critical step here. I'm going to add a
+node right here between RSS and Gmail.
+Hit the plus. It's going to be called
+aggregate. We're going to do aggregate
+individual fields. We're even going to
+rename it as titles just to make it a
+little cleaner. Now we're going to add
+another field link. We're going to
+rename it to links. Now we'll click
+execute step. Cool. Now we need to
+update our Gmail node. So we're going to
+click X. Go back to the Gmail node.
+Open. We're going to change this to this
+code. I'll put this in the show notes as
+well. It just changes the syntax of
+these. We click X. Then we're going to
+execute the workflow again. All right,
+it looks like it worked again. Let's
+check our emails, though. And boom. One
+email received 7 minutes later, not 75.
+So, it worked. Beautiful. Now, I know in
+the beginning I told you I was going to
+build two automations, but it ended up I
+only needed to build one. I just added
+them together to keep it extra clean for
+you. It scans the YouTube channels. It
+scrapes them. It adds them to a Google
+sheet and then it emails you all of the
+things that scraped and basically
+notifies you that it's also in the
+Google sheet as well if you'd like more
+info like the view count, title, publish
+date, etc. What does this cost you
+through Hostinger VPS? About five bucks
+a month. The RSS feeds, the Google
+Sheets, the automations, all of that is
+free. And just compare that to any other
+content research tool out there that's
+going to cost you between $30 and $300 a
+month. And you own this. You can
+customize it. You can sell access to it.
+You can make your own content research
+tool. You could build another automation
+to scrape YouTube channel emails and
+email other YouTube channel owners and
+say, "Hey, do you want to spy on your
+YouTube competitors? I will email you a
+list of everything your competitor is
+posting every morning for 30 bucks a
+month." So, you become the person that
+you're competing with. Building a niche
+audience is not complicated. The
+complicated/hard part is being
+consistent. With this workflow, you
+don't have to be consistent. The
+automation will do it for you. The
+hostinger setup does the research for
+you. You just have to make the content,
+which is the fun part. Pick your niche,
+create this automation, let it run. And
+this is like the tip of the tip of the
+tip of the iceberg. There are thousands
+of NN templates you can make. You can go
+to the NadN library and pick some
+pre-built ones for free. Or you can
+build one and sell it yourself to
+others. Just the template. Hostinger is
+a great supporter of this channel, so
+it'd be awesome if you could support
+them using the link in my show notes.
+Thanks for hanging out on the Kerner

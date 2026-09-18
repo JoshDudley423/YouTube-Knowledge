@@ -1,0 +1,841 @@
+This is the asymmetric bet of the
+century. Cost to start is almost zero.
+The tools are either free or cheap. You
+could do this in an afternoon,
+literally. These can be $10,000
+businesses, million-dollar businesses,
+and even billion-dollar businesses.
+[music] Nico didn't have rich parents,
+didn't have an MBA, didn't have any
+experience, and he just did it. He's
+proved that this is doable for a regular
+human being. He used to just make pasta.
+His whole life was hospitality. [music]
+You don't have to build software. You
+don't have to invent anything new. Just
+put your own rims on it. Put [music]
+your own face on it. If he can do it,
+anyone can do it. When something works,
+the window is short before everyone
+copies it. And the better it works,
+>> [music]
+>> the shorter the window is. Cold email
+back in 2010 was insane. You could send
+100 emails and get 15 replies. Today,
+you've got to send 10,000 emails.
+Facebook ads in 2014, [music] Google ads
+in 2005. You could buy a customer for
+two bucks. Today, it's 40. You got to
+get it while the getting's good, and
+that's usually today or yesterday. The
+phrase nothing is too niche is never
+been more true. Build lifestyle
+businesses. They are awesome. Let's talk
+12 specific business ideas that you can
+build [music] using the same playbook.
+Okay, I just got off a call with a guy
+who, not that long ago, was making pasta
+in his family's restaurant in New
+Orleans. He'd never written a line of
+code in his life, and today, he's
+running a software business doing 3,500
+bucks a month in recurring revenue. No
+technical knowledge whatsoever. He
+wasn't even using AI. And the kicker is
+that anyone listening to this episode
+can do the exact same thing, literally.
+And it's all made possible by what I
+call the great unbundling, which is a
+concept, framework, whatever, that I'm
+obsessed with. So, by the end of this
+episode, you're going to have ideas, a
+plan, and probably an urge to open up
+your favorite vibe coding app tonight
+and build something. So, we're going to
+talk about what unbundling is, what
+platforms are ripe to be unbundled, and
+then at the end, we'll talk very
+specifically on what business ideas you
+should build in and around this
+unbundling concept that I'm about to
+describe to you. The guy I spoke to, his
+name is Nico. I'm going to come back to
+him in a few minutes, cuz his story is
+kind of the whole point of this episode,
+but before I tell you exactly how Nico
+did it, I'm going to show you a picture.
+It's a screenshot of the Craigslist
+homepage and on this screenshot are a
+bunch of arrows pointing to different
+services, the personal section, the
+community section, discussion forums,
+for sale, housing, jobs, etc. Then there
+are logos pointing to each of these
+sections, logos of companies you
+probably have heard of, Zillow, Airbnb,
+ZipRecruiter, Indeed, Upwork, and many,
+many more. And yes, this website looks
+like it was designed
+because it was. Tiny blue links, we've
+all seen it before. Bunch of columns of
+categories all crammed into one page,
+but what's wild is that almost every
+category on that page got turned into a
+billion-dollar company or
+hundred-billion-dollar company. Billion
+with a B. If you look at the housing
+section, apartments, rooms, sublets,
+rent, sale, that's the whole little
+corner of Craigslist that got eaten by
+Zillow and Airbnb, Redfin, realtor.com,
+etc. Zillow alone is worth what, 12
+billion dollars? Airbnb, 80 billion? All
+from one little column on Craigslist
+that got unbundled. If you look at the
+personals, strictly platonic, women
+seeking men, men seeking women, all
+that, boom, Tinder, 10-billion-dollar
+company pulled straight out of that
+column. Jobs, accounting, finance,
+sales, marketing, Indeed, ZipRecruiter,
+Upwork. Indeed alone does over 3 billion
+dollars a year in revenue. You look at
+the for sale section, antiques,
+appliances, bikes, electronics, OfferUp,
+Facebook Marketplace, and many, many
+others. Multi-billion-dollar businesses
+or the discussion forums, Reddit. Reddit
+was worth 7 billion at IPO or the
+services and gigs section, Thumbtack,
+Shiftgig, TaskRabbit, multiple
+hundred-million-dollar businesses. The
+Nextdoor, of course, like we know all
+these, okay? First of all, the
+unbundling of Craigslist is not done,
+it's still a work in progress for you or
+anyone else to capitalize on. Second of
+all, there's so many other things we can
+unbundle that isn't named Craigslist.
+Craigslist was unique because it had
+every feature in the world on one page,
+jobs, dating, housing, used stuff,
+whatever. And companies came along,
+picked one feature, slapped a clean
+design on it, made it mobile-friendly,
+and built a billion-dollar business. Of
+course, I'm oversimplifying, but we only
+have so much time today. I'm not saying
+it was easy for them to do this, but
+they stole the users of Craigslist. They
+were more savvy. They cared more about
+one little feature, one little blue
+link, than Craigslist did, because
+Craigslist was trying to focus on
+hundreds of little blue links. Also,
+side note, unrelated to this episode, I
+kind of hate how Craigslist is this
+ugly. Like, people think it's punk rock
+and it's cool, but they could have been
+something amazing. They could have
+provided thousands of jobs. It gets
+barely, I think, a couple million hits a
+month today, which is down like 95 to
+99% from its peak. They could have
+innovated. They could have added a lot
+more value to the world, but now the
+rich got richer and you know, Facebook
+Marketplace is is doing that job pretty
+well. But, that's fine. That's free
+market capitalism, whatever. So, the
+exact same thing is happening right now
+on dozens or hundreds of other websites,
+this unbundling. And over these last few
+years, it's happening with AI and APIs.
+Look at OpenAI, aka ChatGPT, as the new
+Craigslist, or Anthropic, aka Claude, as
+the new Craigslist. There's a company
+called Appify. Think of them as the new
+Craigslist. Clay, clay.com, Zapier, an
+API Marketplace, the new Craigslist.
+Each one of these platforms bundles a
+thousand different features into a
+single tool. And the whole opportunity
+for the next decade is to unbundle them.
+Pick one feature, wrap it in a nice
+little app, charge a markup, own one
+niche. And up until three, two years
+ago, this sexy unbundling thing was only
+available to people that knew how to
+code, software engineers. But, now it's
+available to all of us, to any of us,
+anyone that knows how to speak any given
+language. Any of us can own a niche.
+Nico, this guy I talked to, he calls it
+API arbitrage, and my knees got weak as
+soon as I heard those two words put
+together, because that sounds awesome.
+It sounds like opportunity. And it might
+sound technical, but I'm I'm explain it
+in Chad GPT language right now. So, it's
+going to make sense to anyone listening.
+Okay. So, you go to website like Apify,
+which is like an app store for scrapers
+and AI tools. There's 30 plus thousand
+different Apify actors or apps or
+scrapers on this website. 30,000. You
+pick one of those off the shelf. Let's
+say it's a scraper that can pull every
+Instagram follower from any account.
+That scraper's going to cost you like
+pennies per thousand followers scraped.
+It's almost nothing. And someone with a
+lot more technical knowledge than you
+built the scraper. You don't need to
+know how to build it. You just need to
+connect the API key. You build a dead
+simple website, vibe code it with your
+favorite vibe coding tool, put a search
+bar on it, charge customers 1 cent per
+follower pulled, 5 cents per follower
+pulled. It's a great deal for them and
+you have like 95% profit margin on that.
+The customer doesn't know that Apify
+exists. If they do know it exists, it
+might be a little too technical for them
+or complicated. Or they might not like
+that it has a monthly fee. Maybe the
+customer knows Apify exists. Maybe they
+don't. Regardless, it doesn't matter
+because they like your website better
+even if they have to pay more for it.
+And your website also conveys the
+assumption that you're better at
+focusing on only one thing. Whether
+that's true or not is irrelevant. If
+you're only scraping one thing, then the
+customer assumes you're better at it
+than a competitor or than Apify even,
+which is the whole thing that you're
+white labeling, you're using to do all
+the hard work. That's API arbitrage.
+You're competing on price, customer
+support, and how easy your website is to
+use. You don't have to build software.
+You're just putting a simple storefront
+on top of someone else's software. So,
+back to Nico. He's proof that this is
+doable for a regular human being. He
+used to just make pasta in his family's
+restaurant in New Orleans. His whole
+life was hospitality. He had no tech
+experience, no sales experience,
+nothing. He didn't even know what an API
+was. He never heard those three words
+put together. Then COVID hit, he went to
+Mexico for a 4-day vacation, beach,
+tacos, you know the the and he ended up
+staying for 6 months. He was in Tulum
+and Playa del Carmen, and he started
+meeting laptop people, you know, people
+working from laptops in coffee shops,
+etc. And he's like, "You guys are
+working? What are you doing?" Like,
+"Yeah, you know, we're software people.
+We work remote." This is, you know,
+before ChatGPT. "We make six figures. We
+live on the beach." And his brain just
+kind of exploded. All he knew was the
+restaurant industry. So, he went back to
+the states 6 months later, and he's
+like, "Okay, I'm done with restaurants.
+I like this laptop life." And he got a
+job as a sales guy, as an SDR, sales
+development representative, basically
+setting up appointments for sales
+people, for closers. He's cold calling
+for software companies. It's kind of
+like the lowest rung on the tech sales
+ladder. Brutal job, tons of rejection,
+LinkedIn DMs, cold calling, cold emails,
+etc. He's learning the game. And while
+at this job, he learns a tool called
+clay.com. And he had been getting these
+spreadsheets with leads and like using
+the same leads that all of his coworkers
+were using to get sales, and Clay helped
+him find anyone's email, their LinkedIn,
+their company. It helped him enrich the
+data. So, he had, A, more ways to
+contact these people, and B, more ways
+to find new people that his coworkers
+didn't have access to. Also, this is not
+a sponsored episode. It's not sponsored
+for Clay, Appify, or anyone, okay? It's
+just me talking. And so, he started
+using this tool, and then his brain
+broke even more. He's like, "Wow, this
+is what tech can do." So, early 2025,
+late 2024, he quit his job, tech sales
+job, and started building. He just
+started tinkering with these vibe coding
+tools, not knowing anything about how to
+code. He used Claude, he used Codex by
+OpenAI, and he found a buddy who's is
+technical and could do the heavy lifting
+when it got out of reach for him. So,
+he's the product guy, the idea guy. He
+tells AI what to build. His buddy fixes
+whatever AI might break, and then they
+ship it. And then as they grow, as they
+scale, his technical friend helps make
+that happen. Guys, I'm talking about
+starting businesses every single week on
+this channel, and one of the first
+things every new business needs is a
+website, which means you need a domain
+name. So, what do you do? You go to buy
+one and every good .com is already gone.
+Your business name is taken. Your
+business name plus your city, taken. So,
+you end up with something dumb like
+try-bizname-123.com.
+And that doesn't look like a business.
+It doesn't look legitimate. It looks
+like a fishing link your grandma would
+accidentally click on. So, stop fighting
+over .coms. If your .com isn't
+available, get a .online domain name
+instead. And not as a backup, but as the
+better choice. Because a clean URL like
+yourbusinessname.online
+immediately tells customers that this is
+a real business with a real website. No
+dashes, no random numbers or confusion.
+Service providers, consultants,
+e-commerce sellers, millions of
+businesses already run .online domains.
+And then you remember that the word
+online appears in over half a billion
+search queries every month. So, having
+that word built into your actual domain
+name can give you a visibility boost on
+search engines that a clunky .com with
+dashes never will. Now, you can buy a
+.online domain name through GoDaddy,
+Lovable, Namecheap, and other major
+providers. But if you want the best
+deal, go to the link on screen or in my
+description below and get yours for just
+99 cents for the first year. That's 99
+cents for a domain that actually looks
+like a real business. Go grab it. So, he
+started with a Google Maps lead scraper.
+So, you go to his website, you type in
+gyms in Texas, and then you have a
+spreadsheet of every gym in Texas,
+right? Pretty cool. A lot of demand for
+stuff like that. There's also a lot of
+other websites doing it, but he didn't
+need any technical knowledge. He used, I
+think an Appify actor, an API on the
+back end to do all the scraping. And he
+just vibe coded it into a nice clean
+little website with a Stripe
+integration. Charges 35 bucks a month.
+But, he allowed customers to convert
+that 35 bucks into credits. So, if they
+cancel their account, they could still
+come back 9 months later and use the
+rest of their credits to scrape more.
+So, people like that because a lot of us
+have subscription fatigue. And his
+business model actually respected how
+most of his customers used the tool,
+which is a great learning in and of
+itself. So, he's been doing this for
+like 7 months and he's doing 3,500 bucks
+in monthly recurring revenue. His costs
+are almost zero. His customer support is
+basically zero. It's a self-serve
+product. And yeah, this is the guy who
+had no tech experience and he's doing
+well and he's growing double digits
+every month. He's never done paid ads.
+He just kind of told some friends about
+it in the sales space. They started
+using it. They started talking about it.
+And he's really found his success
+through word of mouth. He didn't have to
+invent scraping. You don't have to
+invent anything new. Just put your own
+rims on it. Put your own face on it. If
+he can do it, anyone can do it. Okay.
+So, now let's talk 12 specific business
+ideas that you can build using the same
+playbook. Then I'm going to do a bonus
+round of Appify like white label ideas
+that I'm just going to riff on cuz
+there's there's 30,000 actors. So, a lot
+of stuff to talk about there, but we'll
+focus on the only the best of the best.
+By the end of this, you should have at
+least one idea that makes you want to
+close this video, close Spotify or
+Apple, and go open your favorite vibe
+coding tool. That's the goal here. So,
+idea number one,
+Appify actor wrappers. Same thing that
+Nico did. You can do it with Google Maps
+like Nico, you can do it with something
+else. There's over 30,000 actors and an
+actor is just a pre-built scraper or an
+AI tool that someone already built. You
+just put a wrapper on top of it. And if
+that sounds complex, you're just getting
+a key, a code from the actor and you're
+pasting it into Replit, Lovable, Codex,
+whatever vibe coding tool you use. And
+you're saying, "Hey, connect this thing
+with this website." That's it. That's a
+wrapper. Instagram scraper, LinkedIn
+scraper, Facebook group scraper, Reddit.
+Buy a $10 domain name, vibe code it,
+host it on the domain name. Good to go.
+You could do this in an afternoon,
+literally. Okay. Idea number two, Google
+Maps scraper. Like you can do it just
+all of Google Maps or you could do a
+dentist scraper, roofer scraper, home
+service businesses scraper, Texas small
+businesses scraper, lawyer scraper,
+anything. Nothing is too niche. The more
+niche you are, the the you can target
+your ads. Who's a buyer for this stuff?
+People like me, B2B sales teams, cold
+callers, SDRs, marketing agencies,
+anyone who needs to build a list of
+local businesses. Charge 35 bucks a
+month, sell credit packs that never
+expire, and just run it. Post about it
+on LinkedIn to your 452 followers. You
+don't need to be an influencer. Idea
+number three, Amazon review scraper for
+direct-to-consumer brands, so they can
+kind of do intel or reverse engineering
+of their competitors. Every Shopify
+brand or Amazon seller, there are
+millions of these direct-to-consumer
+founder, they all want to know what
+their competitors are doing. What are
+they complaining about? What do they
+love? What features are missing? What
+words are reviewers using? Right now,
+the only way to figure that out for most
+people is to manually read hundreds of
+reviews or to manually screenshot and
+copy and paste and drag it over to
+ChatGPT and have that read the reviews.
+Most people aren't even doing that. It's
+soul-crushing work, but if you build a
+tool where someone pastes in a
+competitor's Amazon URL, your tool can
+scrape the last 500 reviews, run them
+through ChatGPT, and spit out a one-page
+report. Get the top compliments, top
+complaints, common phrases, suggested
+product improvements. The back end is
+all handled by an API key on Appify.
+You're also using an OpenAI API key.
+It'll cost you pennies per report. You
+could charge 50 bucks a month, 100 bucks
+a month, $19 for a one-off report. You I
+mean, you sell to the same people that
+are scraping this, right? There's I
+don't know, three or four million
+Shopify brands. There's a few million
+Amazon independent sellers. Your
+potential customers are the same people
+wanting intel on each other. The next
+idea can just be done with Zapier.
+Zapier is an API marketplace, and you
+just build a very simple automation. And
+if you've never used Zapier, you can use
+AI within Zapier to build this
+automation for you, or you can just
+screenshot stuff over to ChatGPT and
+have that teach you how to do it.
+But build a customer service bot, which
+is just a Zapier flow. You pay Zapier 29
+or 59 bucks a month for thousands of
+credits or hundreds or whatever it gives
+you. And if a business gets a customer
+service email into their inbox, Zapier
+will respond to the email through Open
+AI, and its response will be based on
+knowledge that it gleans from previous
+sent emails from the same inbox or from
+the website's FAQ page, the return
+policy, shipping policy, etc. If you
+think about customer service inboxes,
+we're just answering the same questions
+over and over. So, your cost is going to
+be like cents or low dollars per month,
+and you could charge 100 bucks a month
+per Shopify store. You've got 95%
+margins. They're going to save hours per
+week or per month. It's a great win-win.
+Every Shopify store owner hates customer
+service. The tech is already built.
+You're just putting some tools together.
+Believe it or not, just because you're
+watching this doesn't mean you're
+subscribed to my channel. YouTube's
+going to show you stuff even if you're
+not subscribed to it. Over half of
+people that watch my videos are not
+subscribed. It would mean the world to
+me if you just hit subscribe. Thank you
+so much. Next idea could be a
+micro-influencer marketplace. If you
+think of big agencies, big companies,
+they want to work with mega influencers
+like Mr. Beast, etc. But smaller brands
+know that micro-influencers usually have
+a more loyal audience. They convert
+better. People with 5,000 to 100,000
+followers. There's not really a good way
+to find them. Amplify has dozens or
+hundreds of actors that do exactly that.
+They can scrape people from Instagram,
+TikTok, YouTube, etc. that have a set
+amount of followers. You just build a
+wrapper on top of that. You could do it
+for a specific niche only, micro-fitness
+influencers, micro-food influencers, mom
+influencers, etc. or you could just do,
+you know, we scrape micro-influencers
+that have less than 50,000 followers.
+You could go that direction. You could
+turn this into a newsletter. You could
+automatically scrape everyone and just
+email it out to everyone that subscribes
+for 10 bucks a month or whatever. I
+tried this idea, fun fact, back in 2019,
+but I gave up because scrapers were
+terrible back then. Next idea, there's a
+website called Import Yeti where you can
+see where companies are importing all of
+their stuff from, like specifically what
+supplier, oftentimes what they're paying
+for it. But their subscription's kind of
+expensive and there's an Apify actor
+that will scrape all that Import Yeti
+stuff for you. So you build a wrapper on
+top of that to act similarly to Import
+Yeti, but just to point it to a
+different audience. You go there and
+type in Lululemon and see where all of
+those are coming from and in what
+containers they're in and how long it
+takes to get here. It's
+It's pretty cool. I didn't even plan it
+this way, but it seems like a lot of
+these ideas could be sold to Shopify
+store owners. And you can go to
+upwork.com and you can hire a virtual
+assistant that probably already has a
+spreadsheet of every Shopify store.
+Because a zillion people like me have
+asked virtual assistants to scrape
+Shopify stores. Builtwith.com, you can
+also buy every single of the 3 million
+or 4 million Shopify stores out there.
+So you get one scrape, one list of
+Shopify stores, you could sell 10, 20
+different things to them and just see
+which one resonates the most. Speaking
+of Upwork, why not an Upwork scraper?
+Their search tool is fine, but it's not
+specific enough for power users. So
+imagine if someone could just use
+natural language and type in something
+like find me Ukrainian mobile developers
+with 5 plus years experience and at
+least a 4.8 star rating and 50,000 in
+earnings. Boom. Upwork has all that
+data, export it to a spreadsheet and
+charge 100 bucks a month. Agencies,
+recruiters, startup founders, anyone who
+hires freelancers. This scraper already
+exists on Apify. You just need to build
+on top of it. I mean, what's stopping
+you guys from building one of these? Why
+not unbundle clay.com itself? Clay is a
+service where you upload a bunch of
+leads and it corrects wrong data or
+gives you more data about that lead,
+about that person, a LinkedIn URL, etc.
+Why not build a clay that does only one
+of those things really well, really
+specifically? Because I would bet you
+the vast majority of Clay's users are
+only using it for one of like 400
+different things that they offer, like
+validating emails or attaching a first
+name to just an email address so they
+can send more personalized emails. So
+your service could literally be we give
+you LinkedIn URLs or you give us emails,
+we give you LinkedIn URLs for that email
+address. And if you can spend some time
+learning paid ads, then you can test all
+of these ideas. Why not build five of
+these ideas? Test all five with 100
+bucks in ad spend each and then just run
+with the one that has the lowest cost
+per acquisition. Here's an idea I really
+love. The niche Zillow. The more niche
+Zillow. This is like so obvious it
+hurts. So Zillow exists for residential,
+right? But there's no Zillow equivalent
+for any other category of real estate.
+If you want to go entirely commercial,
+you've got LoopNet which is super
+expensive, only shows you a small
+percentage of search results, and it's
+kind of garbage to use. Then you have
+Crexi which is better to use but also
+expensive and their sales people will
+spam you to no end. So yes, we have a
+couple tools for commercial which is
+very broad, too broad. And then many
+tools for residential, Redfin, Realtor,
+Zillow, etc. But why not narrow that
+down? RV parks, mobile home parks,
+self-storage. The Zillow for
+self-storage, right? As user-friendly as
+Zillow. That's very important here.
+Don't undersell how important design is.
+Companies like Apple, Tesla, Airbnb
+would not be anywhere close to where
+they are today without their beautiful
+design. So yes, there are some websites
+where I can go shop for RV parks and for
+mobile home parks, but their design is
+garbage and they rely on individuals to
+find them and to list their RV parks.
+They're not pulling RV parks from Crexi
+and LoopNet through the MLS system. So
+they're marketplaces. Marketplaces are
+hard to launch and most don't succeed.
+So just scrape and tap in to other
+categories on Zillow and Crexi, unbundle
+them, and pull them over to another
+website. Zillow for laundromats, Zillow
+for car washes, ATM routes, the
+BizBuySell for vending routes, the
+BizBuySell for billboards or convenience
+stores. Most of these have no good
+marketplaces. What's stopping you from
+scraping BizBuySell for every single
+yogurt shop and putting them on a Zillow
+for yogurt shops? 3 years ago, it would
+have been probably pretty stupid to
+waste your time on something so random
+that may or may not work, but today,
+when you just got to prompt it a few
+times, why not throw a flyer at it? Or,
+go to BizBuySell, type in one state, you
+can do this, like Texas, scrape
+everything, okay, everything, and then a
+week later to the minute, scrape
+everything in Texas on BizBuySell again,
+and then subtract what sold, okay? Then
+do it again in a week, and do it again
+in a week, and within a month, you're
+going to know very quickly which
+categories are the hottest, which
+categories of businesses are selling the
+fastest, because BizBuySell doesn't
+offer this to you. You've got to kind of
+back end into it, if you will. Once you
+learn that, then unbundle BizBuySell
+with only the hottest categories,
+because if, say, restaurants don't sell
+well at all on BizBuySell, then you're
+probably going to waste your time
+building an unbundled version of
+BizBuySell for restaurants. Zillow for
+duplexes, Zillow for fourplexes, etc.
+Okay, bonus round. These are, uh, you
+know, Appify, Actor, unbundled {slash}
+white label {slash} wrapper ideas. It's
+all about the same thing. Shopify store
+scraper. I bet you a ton of the people
+that go to builtwith.com are just going
+there to scrape Shopify stores. And you
+can see in their drop down, it's one of
+the top listed things. So, they're
+making it easy for people to find. Build
+your builtwith.com, but for only Shopify
+stores. That needs to be a thing.
+Instead of 450 bucks a month, yes,
+that's what BuiltWith charges, you're
+$4.50 a month. What does it matter? You
+don't have any cost. Or $45 a month, or
+whatever. Or $5 per scrape in credits,
+and they can use it whenever. How about
+a TikTok hashtag trend scraper? Pick a
+niche, beauty, fitness, finance,
+whatever. Run a TikTok hashtag scraper
+every Monday morning, compile the top
+trending sounds, hashtags, creators,
+email it out as a weekly trend report,
+charge marketing agencies 50 bucks a
+month, 100 bucks a month, or whatever.
+You do a little work on Monday morning,
+and that's it. Yelp scraper, every
+roofer in Phoenix, every chiropractor in
+Atlanta, phone, email, owner name,
+review count, average rating, whatever.
+Sell it to the local service businesses
+that want to acquire competitors or
+suppliers who want to pitch them, yada
+yada yada. How about an App Store
+scraper or Google Play Store scraper,
+Trustpilot scraper, an Indeed scraper?
+Unbundle Indeed. Make an Indeed just for
+nurse practitioners, Crunchbase scraper
+for funding alerts, or a Reddit niche
+sentiment scraper. Brands want to know
+what people are saying about them on
+Reddit or on Twitter. Twitter just
+dropped their API cost, by the way. It
+used to be kind of unreachable for most
+people. Now, it's a lot cheaper. If
+you've been listening to this pod for a
+while, I'm sure that you've heard me say
+this, but I'm going to say it again. The
+efficacy of a growth hack is inversely
+correlated with its lifespan, okay?
+Translation is when something works, the
+window is short before everyone copies
+it. And the better it works, the shorter
+the time frame is, the shorter the
+window is. Cold email back in 2010 was
+insane. You could send 100 emails and
+get 15 replies. Today, you've got to
+send 10,000 emails to get 15 replies on
+a lot of different offers. Facebook ads
+in 2014, Google ads in 2005, you could
+buy a customer for two bucks. Today,
+it's 40. TikTok in 2020, like, you got
+to get it while the getting's good. And
+that's usually today or yesterday. I
+feel like we're in year two or three of
+like a 7-10 year time span. And 7-5
+years from now, there's going to be
+something else really hot, another
+growth hack, but it's not going to be
+this. Think of it this way. entire
+decade of the 2010s, every venture
+capitalist on the planet was saying the
+same thing. They would say it on every
+podcast, they'd write blogs about it,
+whatever. They would tell all the
+founders pitching them the same line.
+Don't just build a company that could
+just be a feature of another company.
+Like, that's what Snapchat did, right?
+Disappearing text messages and photos.
+Other companies copied them. Guess what?
+Snapchat's still around. They're
+publicly traded. They're doing great.
+And they were founded while everyone was
+saying this. But today, it's all been
+flipped on its head. We used to think
+that data was everything that these AI
+models were everything and then deep
+seek and other Chinese and non-Chinese
+companies came out and open-sourced AI
+models that were about 80% as good as
+OpenAI or Anthropic's. Now OpenAI is
+scrambling. They're trying to build
+hardware because if the model's not the
+moat, then maybe hardware will be the
+moat. It's all been flipped on its head.
+The phrase nothing is too niche has
+never been more true. A feature can be a
+company. So that advice is officially
+dead in 2026. Build lifestyle
+businesses. They are awesome. All these
+companies, Clay, Anthropic, OpenAI,
+Apify, they're trying to be the
+everything platform for everyone, which
+means that every single feature inside
+of their platform is just sitting there
+waiting to be unbundled, begging for
+someone to come along, pull it out, give
+it some love, wrap it in a clean user
+interface, and sell it to a very
+specific tribe of people. These can be
+$10,000 businesses, million-dollar
+businesses, and even billion-dollar
+businesses. If it could happen in the
+2010s, they can happen today. Don't
+think you're competing with OpenAI if
+you build OpenAI for podiatrists, which
+would just be a ChatGPT wrapper for
+podiatrists. You're not competing with
+them. It's different. This is like the
+asymmetric bet of the century. Cost to
+start is almost zero. The tools are
+either free or cheap. Venture
+capitalists are funding these tech
+companies so they can offer us free
+trials. Use them and these big platforms
+can't and don't even want to move fast
+enough to fight you because who cares
+about us, right? We care about us. We're
+doing this. Everyone's winning. So
+here's my CTA. Here's my call to action
+for you. I want you to do three things
+this week. Number one, go find something
+to unbundle. I don't care where you get
+it from. Apify, Clay, Indeed, whatever.
+Don't overthink it. Just pick one. Then
+go to Replit or Claude or Codex,
+whatever, and build a simple website
+with a search bar that has an API call
+to an Apify actor or to a scraper or to
+anything. You don't even need to launch
+it. Just build it. See how far you can
+get in an afternoon or a weekend and I
+promise you're going to get further than
+you think. And if nothing ever comes
+from it, at least you've learned some
+awesome skills. And if you or someone
+you know has a really cool story about
+building something, either software,
+hardware, service business, product
+business, I don't care, that made decent
+money in a short amount of time, hit us
+up. Email Molly@cofounders.com
+or kevin@cofounders.com.
+Tell them your story and we'll have you
+on the pod. And if you want to sell or
+implement AI into small to medium-sized
+businesses, check out got over 200
+people in there doing exactly that.
+Having a lot of success. Nico didn't
+have rich parents, didn't have an MBA,
+didn't have any experience, and he just
+did it. His $3,500 MRR today eventually
+will be 5,000 and 10,000, maybe 20 or
+30,000. Maybe he pivots and does
+something else. I don't know. But it's
+growing double digits a month and yours
+can, too. We'd love it if you hit
+subscribe, share it with a friend, and
+we'll see you next time on the Corner
+Office.

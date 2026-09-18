@@ -1,0 +1,175 @@
+setting up websites for um for small
+businesses so I'm to start off I've kind
+of niched down to real estate agents um
+I got a list of a bunch of Agents from
+realtor.com who don't have websites so I
+can cold email them um with with an
+offer to make a website for them for I'm
+starting off with like two grand um but
+I I don't know if this is if it's just
+totally unfounded I don't have a ton of
+data that I'm going off of and so I keep
+kind of getting this
+like um I don't know like heavy doubts
+with it um or I don't know if it'll if
+if if I can validate kind of what I'm
+doing as I'm going through or if I'm
+wasting my time in certain areas so I'd
+love kind of like an audit of just where
+I could be improving just the general
+business process and what I shouldn't be
+worrying about okay um so your general
+idea is to make custom web we sites for
+real estate agents that don't have a
+website right yeah okay and is this
+still in the ideation phase or do you
+have a customer yet uh yeah still in the
+ideation phase um I just sent out my
+first like cold email um yesterday with
+a quick little um you know hey we could
+make a I could make a website for you
+and I attached a uh a screenshot of what
+it would look like with like their face
+their name and um and the area that they
+cover with their real estate to kind of
+see if that would work so so just very
+early stages have you thought of trying
+a different approach and going after
+real estate agents that already have a
+website that might be unoptimized or
+just for lack of a better word crappy
+and and like pitching to them why their
+website needs to be improved or should
+be improved and what they could get from
+a more optimized website because I don't
+like the idea of finding realtors that
+don't have websites because a there's a
+good chance they don't have a website
+because they are an inactive agent and
+like you scrape their data and it's six
+months or six years old or somewhere in
+between and so they don't want a website
+they don't even want to do anything with
+real estate um I also don't like it
+because it could be the opposite end of
+the spectrum and you've got this small
+town agent that just crushes it and I
+don't need a website I do
+just they're right you know like they
+could do much better if they had a
+website but it's not your job to
+convince them of that because you
+probably won't right right and so I'm
+thinking if you if you use builtwith to
+let's say let's say you use builtwith to
+scrape all of the websites that have a
+certain WordPress plug-in right like
+maybe you know what idx
+is um
+the the coding platform yeah idx is is
+like the API for for Real Estate right
+where it's like you link your MLS to
+your website so you go to Stacy
+realtor.com and you can you know you can
+view houses not just her listings but
+like it's it's just like an API that
+pulls from the local MLS like Zilla does
+oh that's awesome Nationwide so I I
+imagine I assume that WordPress has a
+plugin for idx uh so therefore they have
+to there's a million WordPress plugins
+if you find plugin that supports idx and
+then use built with to export the
+100,000 plus websites that used that
+plugin then you can infer that those
+WordPress websites are realtor websites
+because they're using the idx plugin so
+now you know that all of these people
+have WordPress websites that are real
+estate websites that are probably they
+probably look really bad and or they
+probably don't convert well or and or
+they're probably outdated and so then
+you could use those people and go find
+like what was their website called like
+grasshopper or carrot or something like
+there's a half a dozen SAS platforms out
+there that will basically make uh Real
+Estate websites that look really really
+good um and you don't need to reinvent
+the wheel you can still charge $22,000 I
+know people that use card templates and
+charge $2,000 and it takes them 30
+minutes to set up a site right like you
+don't have to make this custom you could
+just piggyback off of some overfunded
+Silicon Valley real estate website
+startup I love that and just yeah
+exactly and just say hey and you don't
+even need to have a customer first you
+could just point to other Real Estate
+websites that are using that same
+platform and say hey Stacy I see you're
+on WordPress good for you for having a
+website because it's surprising how many
+Realtors don't so you're G to kind of
+compliment them but like did you you
+know that a website that has X Y and Z
+features results in 36% more leads to
+real estate agents and it doesn't cost
+any more than WordPress um so it's like
+they want to know
+immediately how can a better website
+actually lead to more money in their
+pocket right because you don't want to
+you don't want to sell them oh your
+website's ugly I'll make it look better
+this will lead to more money in your
+pocket um and you pointing to other
+sites they're using that same platform
+the implication is that these are case
+studies these are your old customers but
+no you're just showing them examples
+right I love that yeah you can pull
+stats off of the platform's website like
+the 36% or whatever it is because I'm
+sure they have those stats and just
+piggyback on those stats um you can
+build your own website with that
+platform even though you're not a
+realter and then you can go after people
+that are already sold on having a
+website they know it's important it a
+website is one of those things where
+it's been outdated forever you know it's
+outdated and you know you need to fix it
+you know you should fix it but you're
+not going to until you get a cold email
+you know like something has to be
+impetus for you to do that and so you
+could be that cold email you can still
+charge what you want it doesn't have to
+be custom you can you can copy and paste
+all these websites literally like you do
+on call on card and then swap out the
+city and the
+name sweet okay I love this this is a
+fantastic I feel like this is the kind
+of that last key in place to really make
+this work I love this good yeah I think
+uh I think this would work and honestly
+you can you can text them as well um
+there's the good and bad about selling
+to Realtors I've done it my wife is one
+uh the good is that you can get their
+info super easily the bad is that
+because of that everyone is pitching to
+them
+non-stop but there is more good than bad
+because
+of all the people you're going to cold
+call they are the most likely to answer
+their phone um it could be a
+listing so that's what I would do okay
+thank you I feel like I've got some good
+direction here absolutely good luck

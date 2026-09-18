@@ -1,0 +1,1194 @@
+to me this seems like the perfect
+opportunity for you because it's
+enabling you to basically start a
+startup with no
+[Music]
+money welcome back to the ker office we
+are back to our normal format of me
+answering questions from entrepreneurs I
+took three questions today one from
+Aaron Alejandro and Daniel Aaron is an
+ex- mechanical engineer to software
+engineer and he wants to learn some
+marketing skills so he can help a family
+friend with their eight figure business
+that sells grills Alejandra was next and
+he wants to help his friend grow her dog
+training business so I had a unique idea
+of reverse engineering social media
+posts to find out how to do that and
+Daniel was last but not least and he
+owns a print shop in Brooklyn and he's
+making good money six figures plus
+printing wedding invitations and Bar
+Mitzvah invitations but he feels trapped
+he's working 15-hour days and he wants
+to scale his business maybe he wants to
+buy another business he just feels
+trapped cuz he feels like he can't
+afford to hire someone to replace him
+but he's just kind of in that messy
+middle so I talked him through his
+problems and that was good one I think
+you'll like it enjoy all right so what
+you wrote to me was I'm a wantrepreneurs
+software engineer developing consumer
+electronics mid-30s make 185k I already
+trade my time for money I don't want to
+start a side Al so that requires more of
+that I already tried cleaning gutters I
+want something that scales I read your
+newsletter and I'm desperate for my
+first dopamine hit hit of someone
+willing to pay me for something I didc
+created and I will add it does feel
+really good so you're on the right track
+I would love to sell something online I
+have no e-commerce experience I have no
+experience trying ideas I have no sales
+experience or online marketing
+experience Etc but I would love to get
+this experience question one should I
+prioritize getting experience with
+something like clavo which is a a
+marketing email marketing software that
+gets me exposed to marketing and testing
+ideas or work for a company parttime
+selling their outdoor grill product
+commission only and learning how to
+generate my own leads question two I
+love spreadsheets but I have no
+accounting background can you recommend
+a resource to learn the business lingo
+important metrics Etc so my first
+question to you Aaron is two- part one
+has anything changed since you submitted
+this question and two I would love to
+hear more about this side hustle
+opportunity to sell grills yeah so I did
+the only thing that's changed since then
+was I approached at through a family
+friend who's done very well for themsel
+and they have some sort of stake in a
+company that makes a really nice um
+Grill and they gear it very much towards
+like the yachting industry it's an
+electric grill that's approved for
+marine use I was and and so they're
+trying to get into other markets namely
+like the condo Market where you're not
+allowed to have a gas grill on your
+porch if you own a condo or the RV space
+so they're trying to find some hungry
+people to get their product into these
+areas so that's kind of been the only
+thing that's changed and I forget the
+second question I'm sorry has anything
+changed since you submitted this
+question yeah no nothing's changed I'm
+still yeah everything's still basically
+the same okay so this grill company how
+are they currently marketing is it kind
+of an old school business with Boomer
+owners or are they pretty Savvy at
+marketing very much like old school
+marketing as far as I know and how are
+they doing with that they go to trade
+shows and things like that I don't have
+any sort of insight into how they're
+doing it but it's made in the USA so I
+would assume I believe they're in some
+very I won't mention the name but
+they're in some very popular like voting
+stores that are common okay so they're
+mostly just doing the old school stuff
+trade shows retail are they doing any
+direct to consumer or e-commerce
+shipping through their website at all I
+think they have e-commerce through their
+website from what I understand I've
+looked into it and you can purchase one
+online as far as I know but I don't
+believe they're on any other platform
+like Amazon or anything like that okay
+so they've kind of sought you out
+thinking oh this guy he's young he can
+help us and you're like I want to know
+how to help you but I'm not quite there
+yet do I fake it till I make it do I use
+this as a learning opportunity do I say
+nah no I'm going to try something else
+is that kind of where you're at yeah
+they're very much I think they would be
+eager to have somebody commission only
+who's hungry on the team who's also like
+my background is mechanical and software
+so I can speak technically to their
+product and explain that kind of thing
+so they're eager for somebody
+who has that background because it
+doesn't seem to me like from what
+they've said that's a a common thing
+somebody going from the technical sides
+who wants to get into sales so that's
+what the pitch to me was so to speak and
+how much do these grills cost I want to
+say they started around $1,000 and go up
+from there I think they may have a lower
+budget one in the 750 range okay do you
+know what their revenues look like yeah
+I have no insight into any of those
+details what about how many employees
+they have a lot of times you can reverse
+engineer their revenues I would say
+probably between 50 and 100 they do all
+their Manufacturing in the US and they
+have I would say between 50 and 100
+employees wow okay so I would think it's
+probably like a low eight figure
+business that sound about right yeah
+that's a good guess I'll give you some
+insight into why I'm asking these
+questions because when it comes to
+selling things especially on commission
+only it's really helpful to find a sweet
+spot right like there's always a
+trade-off between the ticket size that
+you're selling call it swimming pools or
+vers t-shirts in an American Eagle store
+verse the difficulty of the sale and
+occasionally you can find a sweet spot
+where it's like a the sales cycle is not
+too long B the ticket size is high at
+least in the thousands and C it's not a
+very hard sale right but like it it
+occasionally you can find like some
+Arbitrage there but usually if you're
+selling $100,000 pool it's going to be a
+six-month decision it's going to be
+really hard it's going to take month
+months or years before you earn your
+first dollar but then once you get that
+pipeline full you can make some really
+good money that's usually how it works
+so I'm trying to understand what would a
+commission look like and how successful
+is this company already and if they're
+thousand
+grills I see this as a perfect type of
+product that you could sell with Google
+ads just direct Google ads because your
+cost per acquisition is probably going
+to be
+like4 to
+$140 but if they've got good gross
+margins then they can for to scale that
+and to pay you a commission okay would
+you say that like a number of your
+newsletters and podcast and stuff you
+mentioned outs scraper and different
+online tools that you can use to
+generate leads just being that Boomer
+owners I don't know how far down the
+rabbit hole they've gone this and me
+being a software engineer I'm very eager
+to write some of my own scripts or use
+like outs scrapers API to have a server
+running in the background that's like
+trying to find the owners of a
+condominium per se and get leads that
+way for a customer who might put a grill
+on in every single one of their condos
+or mandate that all their tenants have a
+gr that meets certain requirements I'm
+trying to find a succinct way to ask
+this but I guess I'm wondering if this
+organization has not gone down this
+route yet to employ some of these tools
+do you see that as something that I
+could use to set myself apart trade
+shows work right I'm not going to dog on
+what they're doing but their eyes just
+aren't opened to the the new ways of
+finding customers right right if you
+were to be able to bring them new
+ideas and say to them with respect hey
+what you're doing is working keep doing
+that don't you obviously don't want to
+dog on what they're doing but then say
+why don't you let me try this and just
+start throwing a bunch of terms at them
+that's going to confuse them but make
+you sound smart right like I'm going to
+run an outc scraper API to pull up the
+owners of these condominiums on the
+backend and then I'm going to go to
+Google ads go to moz.com and get a paid
+account and I'm going to learn where the
+Arbitrage opportunities are because some
+longtail keywords have high competition
+but low volume but other ones have high
+volume but low competition and so I
+really want to start bidding on those
+and they're G to be like whoa yeah that
+sounds amazing I assume they're going to
+be like that and to me this seems like
+the perfect opportunity for you because
+it's enabling you to basically start a
+startup with no money now commission
+only that's fine because the alternative
+to this is to like start Drop Shipping
+someone else's grills and you're gonna
+have to learn with that and you're going
+to lose money on your first few orders
+or first hundred orders and it's just
+going to be really hairy but if they're
+willing to pay you uh for Success then I
+don't think you have much to lose but
+your time and you don't even have that
+to lose because you're the reason you're
+calling is because you want to learn you
+want to develop new skills so I would
+think this is the perfect opportunity
+because they're a family friend and if
+you didn't have this opportunity I might
+very well suggest suggest that you call
+a company like this and ask if you can
+do something like this but you already
+have someone offering so that part is
+done being more specific if I were you I
+would take them up on that offer give
+yourself a 60-day out just in case you
+don't like it that way you could be
+respectful to them in 60 days and to
+yourself and there won't be any hard
+feelings especially since it is a family
+friend and give yourself 60 days to
+really see if you can move the needle
+and move some of these grills but
+conversely if they are requiring you to
+be um commission only ask for an ads
+budget and just tell them direct like
+can I just have like a, a month that
+goes straight to Google ads like I can
+set a cap on the budget and I'll tell
+you straight up I'm learning but it's
+going to cost a little money for me to
+learn but I can't spend my own money on
+your Google ads do you think they would
+agree to that I think so they would be
+willing to do something like that and I
+guess that prompts me to want to ask you
+as an engineer with no sales experience
+what is Fair commission look like for
+somebody like me wanting to get started
+but bringing a little bit of technical
+experience to the table it's tough
+because a commission on a grill that you
+had to pay $50 to get through Google ads
+is going to look different from a
+commission on a grill that you acquired
+by Cult calling a condo owner right okay
+and so I would try to work out those
+details side by side with them and say
+and just go cover all your bases say if
+I cold call a condo owner and sell a 100
+grills what does my com condition look
+like if I spend $40 in ads to sell one
+Grill what does a commission look like
+if I find an influencer to make a video
+of your grills and he sells a thousand
+but I have to pay him a 100 bucks per
+Grill what does my commission look like
+so I would just make a structure that
+covers basically take all the ideas of
+what of everything you might want to do
+to sell these grills and try to see if
+you can get uh a commission and a budget
+attached to each one okay that makes
+sense yeah completely a lot of
+influencers are going to be like yeah oh
+wow you want to give me a percent of
+every grill that I sell you and everyone
+else that means you don't want to take
+any risk I'm going to need some money up
+front and so some influencers will be
+willing to take that risk but usually
+the best ones are going to want some
+money up front so they feel like their
+time is is being guaranteed understood
+okay great this is definitely some food
+for th I really appreciate you talking
+through uh this with me and I think
+that's a great idea about the 60 day
+let's try this out and see how it goes
+cuz some of my questions to you in the
+email right I have some other interests
+in things I was wondering too if I
+should pursue those and I can call back
+about that another time I think that's a
+great idea so I really appreciate you
+mentioning that yeah absolutely and I
+would recommend I think it's moz.com or
+ahrefs.com pay for something and it's
+usually going to be 50 to 150 month a
+month you can cancel anytime where you
+can do keyword research specifically and
+find those Arbitrage opportunities where
+people are searching for it but not a
+lot lot of people are bidding on it and
+then use that data to bring to the
+owners you sound like you're more
+knowledgeable than you already are but
+you have the intent to become that
+knowledgeable by the end of the 60 days
+gotcha right okay awesome Chris yeah and
+then I would take like a a Google ads
+course or something just find a guy on
+YouTube or find a 00 a udemy person yep
+if you're a data guy you will love it
+like Google ads is just fun okay it's
+just really fun and if you can crack
+that code you'll never run out of money
+it okay Hey listen I'm so grateful that
+for you having me on definitely going to
+try to come on in the future and ask you
+is are doing is awesome and your partner
+as well so thanks again thank you Erin I
+appreciate that a lot and good luck all
+right talk soon bye all right see
+you all right we have Alejandro in the
+lobby okay so you wrote in and said I
+just started some doing some digital
+marketing work for some friends and
+happen to connect with a dog trainer
+who's trying to grow her business in the
+Dallas for Worth area she asked if I had
+any ideas to help her grow she's on
+social media but doesn't put any time
+into it she let her website expire she's
+actually a very good trainer she's has a
+good track record of past clients from
+what I can tell I'm convinced she needs
+to take social media gooogle my business
+seriously which is step one to get a
+digital footprint and reviews but what I
+really want to do is some out of the-box
+ideas for marketing like events
+giveaways
+Etc some ideas these are your ideas
+setting up a free training day at a
+local dog park and maybe run ads post
+flyers or Outreach partner with rescue
+organization two go on local dog
+Facebook groups mom groups and share dog
+training content to those looking to get
+training I've never done this so not
+sure if there's a certain code of
+contact that needs to be followed okay
+so can you add any context to those
+questions or tell me if anything has
+changed since you submitted them so
+nothing has changed and I feel like
+that's as much context as I can give off
+top of my head other than any questions
+you might have on specifics
+how big is her business do you
+know I would say it's pretty small she
+probably does
+maybe 1,500 to 2,000 a month in dog
+training she typically will do about
+four or five sessions at like 500 bucks
+for a total right it's about 125 bucks
+per session 125 bucks per session okay
+and is this her full-time slon thing yes
+does she want to scale it or is this a
+dream that you have for her no she wants
+a skill okay and she just just doesn't
+know where to start she done 100% word
+of mouth and she's never really invested
+much in the digital space never really
+done any kind of advertising or
+marketing on her own end other than a
+couple Instagram posts here and there
+but she just has she's good at what she
+does but the business aspect the
+marketing aspect is not her thing right
+has she or have you
+identified direct competitors in the
+nearby
+area very I have very Loosely I've even
+worked with some other dog trainers in
+the DFW area that I was not impressed
+with at all spent three four 5,000 for a
+boarding train $10 10day boarding train
+which was not worth it in the end um but
+as far as specifics I don't have a list
+I don't have any kind of specific info
+yet okay and do you know how much work
+she's doing right now to grow her
+business or is she just trying to run it
+she is really just trying to run it she
+has not like I was saying before not put
+a lot of effort into any kind of
+marketing or advertising doesn't do a
+lot of the Social Media stuff she's
+trying to get in the social media thing
+trying to do Instagram which has kind of
+worked a little bit kind of driven some
+traffic to there but not much just
+running the business do you mind telling
+me the name of her business so I could
+look it up and I I can also edit it out
+if you would prefer that but I'd like to
+get more context here absolutely it's a
+dog trainings a c n
+d all right let's see what we got here
+is it in
+Arlington
+yes all right okay
+so how long have they been
+opened that's a good question I'm not
+100% sure it's over a year for sure
+she's been dog training for a number of
+years but this specific business I'm not
+I couldn't give you exact time okay does
+she use any software for managing her
+bookings or anything no no
+is there not a a Marketplace for dog
+trainers is there anything like that
+like an Uber for dog trainers where they
+match you with customers there might be
+I'm not familiar with one well every
+time I've looked up anything I've never
+seen anything like that but that's an
+interesting idea I would look into that
+a lot of times there is a random Niche
+Marketplace for something like this that
+people they just they don't think to
+look for it another question I have is
+would it be that hard for her to get her
+website back up and running again is she
+against that I'm actually working on
+that so we are her domain name she
+really wants to keep the same domain
+name she has and so somebody else had
+bought it so we're working on trying to
+get that back and I'm building up the
+website right now what about Ascend
+trining decom if you can't get that one
+back is that one open do you know I
+don't know that one specifically open I
+do know as send dog training TX for
+Texas is open she was not too interested
+in doing that one but she's open to it
+she's still trying really hard to get
+her old domain name back so okay yeah
+if I were her I would invest in a tripod
+and simply let a camera start rolling as
+she's training these dogs just to
+document and 95% of the time nothing
+special or interesting is going to
+happen but occasionally something will
+happen and she can just start by posting
+that to Instagram to any short form
+video
+platform and I would also suggest that
+she makes a list of her five biggest
+like most direct most local competitors
+and then start reverse engineering how
+they got to where they are today looking
+at the web archive scrolling way back on
+Facebook and Instagram and look at those
+first posts look at the popular post on
+Facebook and Instagram that got the most
+comments specifically so I'm kind of
+obsessed lately with reverse engineering
+why certain things go viral and it's
+always in the comments and it doesn't
+she doesn't have to find something that
+went viral right I'm just using that as
+an example look for the posts of her
+direct competitors that have
+outperformed okay so maybe she has a
+competitor named Arlington dog training
+and their average Instagram or Facebook
+post gets seven likes and six comments
+then you see a few that get 70 likes and
+comments don't just look at what they
+posted to get that but specifically read
+the comments on that post of what they
+are saying and then create social media
+content that helps regenerate comments
+like that on her own post does that make
+sense yes yep so like for instance maybe
+one of our competitors posted a video of
+them training a dog how to heal and they
+had a choker caller in the video and all
+the comments were like oh those are bad
+those are unethical you can use that
+right maybe now her brand is like
+ethical dog training or kind dog
+training um you know what I'm saying
+yeah yeah yeah that makes sense okay
+it's kind of like what people do what
+Amazon sellers do they will go to
+competing products and read the negative
+reviews and see oh okay everyone's upset
+that this plastic widget always breaks
+around week three okay so now not only
+are we going to make sure that part of
+our of our widget is metal and not
+plastic we're also going to talk about
+that in the title and in the top of the
+description so it taking the pain points
+of a competitor and highlighting those
+of your
+own got it okay yeah I think that should
+be enough to get her going and of course
+like get any website back up I wouldn't
+worry about getting the exact website
+I'm sure she wants it but it's really
+hard to convince a domain owner to get
+them to sell their website unless you're
+really willing to pay up yeah that's
+what I've told her and I'm pretty sure
+we'll go with a different name but she's
+just she's new to this whole thing so
+once she kind of gets into once she
+realizes it may not work out I'm sure
+we'll find some those yeah I get it
+anyway I'd love to hear a follow-up once
+you make these changes absolutely I
+appreciate your help thank you no no
+problem have a good day thank you sir
+yep see
+you Daniel how are you I'm good I'm
+doing good all right so what you said I
+have a business I own and work at
+full-time it is set up as a hi-touch
+service heavy business I would like to
+buy another business that I can use to
+increase my income since my current
+business takes up so much of my day what
+type of business should I be looking for
+so I'd love to hear about your current
+business more basically it's a print
+shop that's the forward facing uh type
+of business but we really specialize
+only in printing for wedding Bar Mitzvah
+and similar events that's it we know
+what the the uh event planners want we
+know how to design it the right way um
+other print shops that just do
+commercial things they don't know
+necessarily how to design it the way
+that the event planners like it they
+don't stock the funny papers the blush
+pinks and the metallic taes all the
+different things I like we have those in
+stock all the time and we have some
+specialty cap AB ilities that a standard
+printing business might not have and and
+you're in Brooklyn yes in Brooklyn yeah
+okay we are able to to get a higher
+margin because everything for a wedding
+is always gets a A markup that other
+things don't whatever service or product
+you're providing and printing is no
+different and the downside of it is that
+you're dealing with a lot of last minute
+things that's why I'm here all the time
+I'm basically here 14 15 hours a day the
+rest of the time I'm either with my
+family or doing other different
+obligations that I have and how long
+have you been working that
+much that many hours yeah at least three
+years it's been like this I had a really
+great employee before Co during Co
+immediately after covid but then he said
+I could move someplace else and get the
+same apartment for about a third of the
+price so that's what he's going to do
+and since then I've had a couple people
+that are not just not competent enough
+and I found that I'm paying them but I'm
+still coming back at night so there's no
+point like when I had the other guy it
+really took a load off and it was just
+it was so much easier but then after I
+lost him it's hard to get people to to
+work here that either they're
+overqualified and they think that oh
+this is so easy printing is just control
+P file print what's the big deal or
+they're underqualified and they're
+watching Netflix while they're doing the
+work and then I see it afterwards and I
+got to fix it all or things like that
+it's just not it's not it's hard to find
+a good fit that's the thing with with
+this type of business okay so you've
+been working this hard for two to three
+years how long have you been in business
+and what is your annual revenue like
+I've been in business for about 10 years
+a little more than 10 years 10 and a
+half years my annual revenues are about
+650 700 something like that but because
+of the high margin I'm able to take home
+a substantial portion of that so my
+income is good but I could always I need
+more let put it that way definitely need
+more yeah and when you said take over
+did you buy this or what was that
+like 10 years ago it's interesting my
+mother-in-law had this business but not
+at the same it wasn't as built out as
+what I have now she had it and she was
+using it just as a business to print
+addresses on envelopes guest addresses
+and that is a high margin service after
+a few years of my being married she said
+you know what maybe your wife wants to
+come work with me we'll expand the
+business and after did they took it they
+expanded it to offer everything but most
+of the work was brokered and when I took
+it over she called me one day and she
+said she wants me to take it over she
+can't handle it anymore she'll give it
+to me debt free I just walk in it's all
+mine I can do whatever I want I didn't
+have to pay for it um so I was like why
+not I brought a lot of processes in
+house and it's been good every year
+we've seen growth every single year last
+year was our best year ever this year
+we're a little off on the numbers I'm
+not sure why every month our revenues
+have been down but I'm still able to
+take the same salary okay do you have
+any employees I have my sister-in-law
+comes in for about 4 hours a day 3 days
+a week to do some graphic design but I
+don't need her to come in I'm able to do
+it all by myself Are you purposely
+trying to grow right now or are you just
+getting business because of your
+reputation right right now I am trying
+to find some new people until for the
+last couple years I've had good
+customers and I haven't needed to expand
+over the last couple years I've been
+experimenting with some different things
+I tried to say let's move out in New
+York let's go someplace else buy a
+different business that's more 9 to5
+then I was trying to figure out a way to
+take this to more of a commercial
+Direction and hire somebody and to work
+with me I noticed over the last six
+months two or three people have stopped
+ordering almost completely and they just
+tell me the reason they stopped ordering
+is because they haven't had business I
+see on social media they do have
+business I'm not sure what that means
+everything's really been good I don't
+know when you say people you mean party
+planners those are like part planners
+event planners yeah I have a dozen that
+come a couple times a month and they
+spend a few thousand do each time and it
+it works out the core of the business is
+working with the event planners and
+turning things around in 24 48 Hours
+things like that okay so I have been
+trying to grow that but I want to
+replace those people yeah I'm really
+trying to get to a point where I can
+sell this business and just wash my
+hands of it I don't have another thing
+to replace my income that's the problem
+all right so if your take-home is high
+enough to where you could sell this
+business for a good price it's also high
+enough to where you could hire someone
+right a replacement so it's interesting
+I take home 250,000 a year I don't I
+don't have any extra money to hire
+somebody at least not full-time what
+people have been suggesting is do
+part-time the problem with hiring
+someone parttime is you don't know which
+parttime because jobs will come out of
+nowhere like Wednesday I didn't even
+know I had this job that's taking me
+four or five hours to do and now I have
+the job so I I don't really know I need
+someone that I can just call oh come
+down I have a couple hours today or
+tomorrow I I don't I can't find someone
+like that so I'm trying to keep it in a
+steady state where I'm able to still
+make the same amount of money but build
+something else on the side where in the
+next three four years I could sell this
+yeah I've been there you're in like that
+messy Middle where you feel trapped
+right yes you feel like I don't have
+enough to hire but I have too much where
+I'm like golden handcuffed to this
+business it's hard to make a move in the
+place that you're in without some level
+of Faith right and I don't mean that in
+the religious sense I mean that in the
+oh I'm ready to take a risk I'm totally
+ready to take a risk I I have no problem
+I will take a loan I because as
+terrifying as it is it's far more
+terrifying to me to be in the same place
+in 10 years like I can't do that like I
+I I'm scared to to take a loan scared to
+buy business but I'm far more terrified
+of being exactly where I am now 10 years
+from now I can't handle that that's not
+a good I wouldn't this sounds harsh but
+I'm glad you're terrified because that's
+the opposite of complacent right you're
+not complacent and so you're thinking do
+I sell this business or do I double down
+on this business both of them are going
+to take a leap of faith in into the
+unknown right right you said you had a
+comment earlier where it's let's find a
+business that that could act more of a 9
+to-5 but honestly some Industries might
+make it easier to be more like a 95 but
+a quote I heard recently was a graveyard
+is full of Irreplaceable men right like
+any task can be outsourced some are
+harder to Outsource some make you feel
+more uncomfortable but really anything
+can be outsourced and you've done it
+you've done it yourself you had a rockar
+and then they left let's say someone
+came you right now and said I'll give
+you 750 for your business three times
+earnings but I I don't want to run it
+what would you do because you're the one
+running it right like how is it sellable
+today if you want to sell it if you
+don't have anyone working for you
+really right that is a good point I
+never even thought about that I never
+thought about that that's a good point
+if I don't have anyone else working here
+who's going to buy it right exactly
+you're selling a job and people don't
+want a job they want to be a passive
+income business owner whether that
+exists or not I think no matter what you
+do you're going to have to find some
+good help and you're going to have to
+take a leap of faith to get that help
+because you can't sell it until you
+replace yourself and you can't replace
+yourself until you've decided what you
+want to do here's my guut like I'm the
+king of shiny objects I'm the king of
+managing seven things at once whether
+that's a good idea or not and I'm so
+tempted to ask you all about this other
+business that you want to buy but if you
+still have to find someone to replace
+yourself before you even think of that
+then I want talk about that more what I
+was thinking was like oh couldn't I buy
+something like a laundromat but like
+having aeromat and paying a guy $20 an
+hour $25 an hour just to sit there what
+could go wrong in a laat someone loses
+their money they need their quarters
+back something goes wrong with the
+equipment you call the service
+technician replacing me here is a lot
+harder than replacing you just putting a
+body that Scrolls his phone all day in a
+laundromat that like how I always gotten
+myself into a lot of trouble with how
+hard Could That Be The Grass Is Always
+Greener right this is the devil the
+devils are in the details of this devil
+you've der risked this devil as you're
+talking I just Googled so there's about
+a 100,000 party and event planners in
+the United States and in New York City
+that's about 3% of the US population so
+all else equal and you could argue there
+there's a higher proportion of partying
+event planners in New York City but
+let's keep it conservative there's 3,000
+potential not end consumer customers but
+3,000 potential wholesale customers that
+are touching dozens of other customers
+per week or per month right you you have
+what 20 to 40 event planner customers no
+not even I have probably like a dozen
+about a dozen that come a couple times a
+month yes but I want to ask a couple
+more questions before I I for sure get
+to that how many direct competitors
+would you say you have in New York City
+that focus on weddings and bar mitzvah I
+don't think there's really anybody that
+does it because there's a lot of people
+that broker this kind of work I don't
+know if anyone that's what I do
+especially at the price I do it yeah
+it's funny you mention prices because on
+the YouTube live stream right now
+someone AI home leads just said raise
+your prices right same amount of worky I
+did a little bit I raised my prices and
+then you get push back they start
+whining about it how much push back
+right like 20% price increase 10% push
+back you you win right that's a net win
+so I would measure that before like
+anecdotally saying you get because of
+course you'll get push back but is it
+more push back than the additional
+Revenue that you're getting there's so
+few people that if I lose the wrong one
+that's what my feeling is like there's
+three or four people that are the bigger
+fish like of the 12 there's three or
+four that are that like I'll do whatever
+they say I'll come in whenever they want
+if I lose one of them that's a big
+problem that's why I'm hesitant all
+right I'm gonna throw up a bunch of
+stuff on you it's floating around in my
+head okay you ready okay put your poncho
+on so first of
+all I completely understand what you're
+saying about being hesitant to raise
+prices because because you only have a
+dozen customers and they're big
+customers I think you could use that to
+your advantage and say I only have a
+dozen customers I'm going to get all of
+them on the phone and have a very honest
+and transparent conversation about where
+I'm at in life right now and about my
+prices and kind of feel it out because a
+lot of people think about raising prices
+and it's just you just send an email and
+you raise prices crap I lost four
+customers crap I lost a third of my
+Revenue I'm screwed it doesn't have to
+be like that because of the fact that
+you have 12 customers you have the
+luxury of being able to talk to all of
+them in an afternoon and just feel it
+out listen man I don't know what to do
+like like we you've worked with me for a
+long time like I'm just being honest
+what do you think could you afford to
+take a 5% price hike so that's my I'm
+not advocating for you to raise prices
+someone mentioned it in the comments and
+I thought it was an interesting idea and
+you've already thought about it but I
+think you should explore it uh a a
+little more okay there's that second of
+all let's say I asked how many people do
+what you do none now I know you're kind
+of exaggerating there could be one or
+two other guys that you're not super
+familiar with one that does it but he
+charges a lot more than me there's your
+precedent for raising prices right
+there's your case study I get is what I
+get is I get some of the people that
+want sort of his aesthetic that he
+provides like he does provide an
+exceptional product like people in the
+industry know the party planers they
+know yeah okay so let's be super
+conservative and say there are 10 people
+there are nine other people in Brooklyn
+New York City that do what you do if
+that is the case then there's 3,000
+party planners and event planners in New
+York City let's divide that market up
+equally proportionally and there's 300
+for everyone okay so ba basically if you
+were to 4X your business go from 12
+customers to 300 so let's let's call it
+let's say you have 10 customers if you
+were to 30X your business then that puts
+you at a proportional share of the
+market are you with me if there are 10
+direct competitors right so in my head
+like you live in one of the biggest
+cities on the plan Planet you also live
+in a city where they're having a lot of
+bar mitzvah and weddings I I just
+Googled it there like 60,000 weddings a
+year in in New York 56,000 marriage
+licenses issued I think you need to
+approach this differently as if like
+your print shop like you're on the cusp
+of your print shop 2.0 and not on the
+cusp of your print shop 1.0 verse buying
+another business altogether I would look
+at the 2.0 version of your business as
+another opportunity all together
+and that opportunity looks like having a
+competent person to replace you that
+looks like growing your business Maybe
+by raising prices Maybe by finding more
+customers when it comes to Growing your
+business I think there are some uh High
+leverage low effort things that you
+could do I think you should when you
+have that same transparent conversation
+with your 12 customers I think you
+should offset the awkwardness of a
+potential price increase with the
+promising aspect of potentially offering
+a discount in exchange for some sort of
+shared marketing initiative and what I
+mean by that is you have a viral
+marketing aspect built into your product
+because your customers are Distributing
+your product to hundreds if not
+thousands of people and so maybe you say
+hey I'll give you a 10% price break or
+20% price break if you distribute my
+business card with all of your
+invitations or if you let me print like
+my logo on the bottom right corner and
+maybe they freak out like that'll never
+work because it's yet but maybe they
+don't maybe they have price sensitive
+customers that wouldn't mind that right
+if you're a web designer you're like
+listen it's going to be five grand to
+make your website or it's going to be
+three grand if you can just let me put
+my name in the footer that way I get a
+backlink and then maybe one day someone
+sees it and clicks and I'm able to sell
+them a $5,000 website have you ever
+tried something like that yes I did I
+did that I did it for probably two years
+on all the day of thing that we do for
+weddings I put my phone number and email
+address in Sixpoint font on the back
+very small I got one phone call and that
+phone call was only to they wanted to
+know if they could use a a portion of my
+work without paying me anything for it
+so that was the only call I got from
+that um in two years about it had it's
+at least two years and I ask every
+single person that comes in or calls or
+emails how they found out about me I ask
+every single person all Word of Mouth
+everything it's all referrals but no one
+called me back based on that tried a lot
+of things yeah no matter what you try
+you you do have to have multiple touch
+points right and maybe it's the same
+venue like maybe you cold call them 10
+times and maybe it's 10 different types
+of touch points but if you try that
+again by printing your name and number I
+would try printing a different number
+that you only use for that because if
+most of your business is based around
+referrals a lot of times leads don't
+come back in the door for months or
+years right right have you tried using a
+different email address or a different
+phone number for certain initiative to
+track it more directly I haven't tried
+that I should try that okay that's one
+lever right but you could hop on upwork
+and find someone in Argentina that has
+just a slight Hispanic accent or it's
+like Latin accent and have them start
+cold calling events and just very low
+pressure hey we're in the area and just
+like eight bucks an hour you could have
+them doing that 10 hours a day and
+sending you a daily report at the end of
+the day how many did you talked to how
+many people showed interest how many
+people said never call me again like you
+just you need Hooks In The Water right
+like you need a lot more hooks in the
+water if you want to grow and if you're
+having operational issues with this
+business which it sounds like you are
+and I do too no judgment then that's
+gonna carry you on to the next business
+right so it's almost like you have to
+you're in this is maybe a bad analogy
+you're in kind of a toxic marriage right
+now you don't know how to get out of it
+but you want to yeah it's really what it
+is I tell my wife like I have another
+woman it's crazy it's yeah it's really
+crazy so you're in this toxic marriage
+you're like I need I need a better wife
+I need a better woman but you really
+need to fix what's going on there and it
+might not be your fault but you still
+have to confront a head on and then once
+you do you're either going to learn you
+know what this marriage wasn't toxic I
+was just looking at it wrong or you
+learn this is toxic and I figured out
+how to fix it so I'm going to go into
+another marriage and I'm going to be
+that prepared like you're not to that
+point yet you're just at the toxic point
+you need to go get to the point where
+you answer that question for yourself do
+I need another business or did I just
+fix my business in the process of
+getting ready to sell my business and
+now I don't even want to sell it right
+it's you're just like you're asking the
+right question but you're too
+early yeah this is what PE basically
+everyone's been telling me that you're
+saying what everyone else has been
+saying like why am I running away from
+this like why would I get rid of
+something that's making me money
+everything that I see is such a big
+problem is really very surmount very
+surmountable it's not none of the stuff
+is insurmountable and I should just I
+should just figure it out instead of
+running from it but you are figuring it
+out right like the fact that we're
+talking means you're figuring it out
+yeah I've streamlined so many things
+part of what's been difficult is it's
+been me a lot of my employees majority
+of the employees have always been family
+my wife my sister-in-law my
+mother-in-law worked for me for a little
+bit in the beginning and it's hard to
+get family if you try to Institute a
+process you can't discipline people that
+aren't conforming to the process cuz
+they're your family so then if they
+don't want to do the process they're
+just not going to but since my wife left
+in November after our sixth kid and my
+sister-in-law's has less hours I've been
+able to make things very streamlined I
+just want to give you a couple more
+things okay I want you to make me a
+promise that by the end of the day you
+will have two posts on upwork one for a
+cold caller one for a bookkeeper on
+upwork will will cost you 300 bucks a
+month and I have a guy I'm working with
+already
+someone to clean up your books cuzz you
+said your books are are ugly and I get
+that I've hired vas for everything and
+I've had very hit and miss experiences
+but when it comes to financial stuff
+like binary categorize this or that I've
+had a lot of good luck so yeah have a
+guy told me what to do like I have a
+QuickBooks I just have to classify the
+transactions and I set the rules and for
+some reason the rules are not
+automatically classifying the
+transaction I'm not sure why that is I
+have to figure out what I'm doing wrong
+in that case I would open QuickBooks
+start Loom hit Loom and say hey here's
+what's going on I'm classifying it it
+doesn't I don't know what to do take the
+that link go to upwork post that in your
+job posting and say someone fix this for
+me please $50 and it could be fixed by
+the end of the day or by the end of the
+week I've been in your shoes you're
+feeling overwhelmed the only way the
+only antidote to that is to take action
+and you are we're talking you're doing
+it the so like to not to zoom out too
+much but you're in the game just stay in
+the game just keep caring keep grinding
+keep doing what you're doing keep
+worrying about this and the answer will
+come like the only thing you shouldn't
+do is just throw your hands up and watch
+Netflix all day right you're you're
+getting there the main problem I have is
+that I'm working too much on the
+day-to-day and not taking care of the
+bigger picture things so I've been
+trying to work on that the last two
+weeks an antidote to that is to do
+whatever it takes to this sounds you're
+going to you're going to hate this
+overwhelm yourself even more try to get
+more business because then you will be
+forced to find help you will get to that
+point where it's I'm literally going to
+die if I don't find someone right now
+right lean on your email list like how
+often do you send drip marketing
+campaigns like how much are top of I
+want to do I I thought of that last week
+I said why am I not sending a newsletter
+at least once a month have to yeah I
+need to send a newsletter yeah I try to
+to send out emails to my whole list
+about seasonal things like holiday items
+things like that and I do get a little
+bit of a response but not enough once a
+week you send them something once a week
+an email if I were you I would literally
+just write a journal of what you're
+doing document what you're doing the
+stresses the insecurities the wins the
+successes the the picture of something
+that you just printed that you're really
+proud of and spend 30 minutes on it a
+week and email it out to every single
+person that you have even if they're not
+a customer and it's your Aunt Nedra send
+it to everyone and I promise that good
+things will come back to you you just
+have you're not top of mind for nearly
+enough
+people yeah okay this is what I want to
+hear yeah I was hoping to get advice
+about the other business okay okay fine
+let's let's save that for another call
+Yeah a different call okay thank you for
+your help cool yeah thanks man luck a
+great weekend you to bye bye all right
+thanks for listening I hope you enjoyed
+today's episode of the ker office please
+rate me in the Apple podcast store and
+in Spotify five stars would be great and
+share me with your friends and give me a
+review let me know what you think I'll
+see you next time

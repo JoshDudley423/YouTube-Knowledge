@@ -1,0 +1,680 @@
+what is your churn life you get a
+residential customer one of those deals
+where like they just fall in love with
+it like I don't know how I ever lived
+without this and they almost exclusively
+fill up with you or is it kind of like
+people try it they use you sometimes
+there was no one who's taking care of
+both no one's taking care of small
+businesses no one taking care of
+personal vehicles before I did any of
+that we run some Facebook ads what are
+your revenues like right now one family
+will spend about $5,000 with you over a
+year how many refills do you do per
+month for an average family
+well why don't we start by you just
+telling me who you are and what you do
+yeah Corey McDavid I am the founder of
+juice fuel we are a mobile fuel delivery
+service okay and how long you been in
+business uh almost two years now and
+what gave you the idea to start that so
+it started with you know my wife we had
+just had her her second child and and
+she hated going to the gas station she
+drove a diesel SUV you know there's less
+diesel pumps so a lot of times you're
+waiting on the diesel pump to open up
+and you know crying kids you know hot
+South Carolina she just hated the whole
+experience but also at the time I was
+terminal manager for the bulk liquids
+terminal here in Charleston that brings
+in all the fuel to the greater
+Charleston area so my day job was
+literally like monitoring the you know
+who the suppliers were who their
+customers were which which gas customers
+could actually move the needle in the
+area and that just got me looking into
+you know seeing how how we could move
+more barrels across our rack you know
+that was that was my my main job but and
+doing that research I saw that there was
+really no one that was supplying fuel to
+the little guys like if you're removing
+a ton of fuel there's plenty of
+suppliers that'll bring you bring you
+gas you got a big tank on your yard
+because you run a big construction
+company or something there are guys that
+will supply that but there was no one
+who's taking care of boats no one's
+taking care of small businesses no one
+taking care of personal vehicles and so
+when my wife was having this problem I
+was like I'm the guy to fix this
+solution and make it better for everyone
+yeah you're like of all people I'm the
+one most qualified to fix this problem
+yeah yeah I do it no one can now was
+there ever a moment where you kind of
+were thinking about this idea and you
+saw a truck driving around doing mobile
+fuel delivery and you're like oh this is
+a thing yes so when I started thinking
+about the idea you know of course you
+dive into research and and you find find
+companies doing it across the country
+and and it seemed to be like it was a
+growing Trend but it was just like just
+becoming popular and I know people have
+tried it in the past and never worked
+out for one reason or another but it
+seemed to be gaining in popularity I
+mean certainly coming out of Co like you
+know delivery services and convenience
+and anything that could like keep you
+safer and limiting interaction with you
+know things that like a gas pump that
+everyone in the public has to interact
+with was becoming uh popular and so
+we're kind of able to jump in on that
+that Trend but you know Mobility
+Services and and delivery has been a
+growing trend for you know decades now
+and so why not gas like why gas not a
+part of that it's something that we need
+you know every day so did you know of
+anyone doing it in
+Charleston no one was doing it the way
+that I envisioned which is is kind of
+what we're doing now
+you I did I remember one time so I was
+also in the South Carolina guard at the
+time and I remember you making one of my
+trips up to Columbia South Carolina to
+do my my flying I passed this truck and
+I won't I won't say the name of this
+company but they're a small fuel
+delivery company I was like boom
+someone's thinking like I am but it
+wasn't like oh they beat me to it I
+can't do this idea now you know like
+there's there's plenty there's plenty
+for for us to all eat you know like I
+can't service every customer and
+Charleston neither can another company
+so plenty plenty of room to growth and
+plenty of room to competition how long
+after you saw that truck were you in
+business I don't really remember the
+um because it wasn't there was some
+there was some reasons why like from
+from idea to na you know from nain
+sketch to like actual launch was
+probably like a two-year process but
+that wasn't because I was like planning
+the whole time you know I had a career
+change and you know just put it on the
+back burner because you know life you
+know trying to drisk you know how I'm
+gonna pay for the mortgage and also you
+know start up this business so that that
+was really why I took the time and but
+yeah we launched and we delivered our
+first gallons December of 22 I always
+say beginning of 23 was our like first
+first month in business and so we're
+coming up on two years now okay when you
+first started did you quit your job did
+you do this on the side what did that
+look like no I did I do it on the side
+and you know fortunately I I work remote
+and and I'm able to manage both I have a
+lot of support from you know my family
+and to Able help but yeah literally the
+whole first year was you me and my spare
+time making deliveries and just kind of
+fine-tuning the equipment the operation
+our app you know the financials all of
+that and so then after that first Year
+my brother graduated from Clemson and I
+convinced him to come on fulltime so now
+I got a full-time guy doing that and so
+it's allowing me to continue my my day
+job and then focus on growing the
+business on the side without having to
+be in the truck making those deliveries
+okay so you you still have your job then
+still have my job yep okay did you say
+you have an app yeah yeah what did that
+look like like how much did it cost to
+develop that and what all does it do we
+started through a we'll call it an
+incubator that kind of helped me get
+going and part of their part of their
+offering was they would help me build
+the MVP version of the app and so once I
+got that delivered to me I remember it
+was very limited from you know what I
+had explained the scope to look like
+this was not it like I couldn't even
+actually take orders and process payment
+in it but they're like no you just need
+to get it out there and I no I can't
+even take payment on this thing it
+doesn't
+work right but you know and messing
+around in the back end I was able to I
+don't know if the developer left an
+Easter egg for me or you know it was
+just there by accident but I reached out
+to him and I was like hey what do you
+want to come work on this with me like
+just us and and he was all about it and
+so he's still working with us today and
+but the app allows us to you know take
+orders make requests so schedule send
+out push notifications so how it works
+is the customer signs up they can insert
+their fueled their vehicle types they
+can make a request a driver will claim
+that request they get notified that the
+request has been received and then the
+driver will you know notify them when
+they're on the way and then when they're
+complete and then they can see their
+invoice you know how much they were
+charged and and all that so okay so I
+imagine your app is pretty simple like
+they're you're querying a database of
+makes and models years colors maybe like
+plate number or whatnot or no
+yep anything that can help us you know
+get make sure that we're delivering to
+the right place you we don't we don't do
+just Vehicles so you know think
+generators or boats or you know
+excavators or something so we have like
+a special notes section where they can
+just put all that info in there gate
+codes for access to certain places and
+then they can pay from the app and
+schedule
+it yep okay yep schedule and payments
+all done through this okay so when you
+first started what did it like buying
+your first asset look like did you buy
+truck did you buy tank how much did that
+cost did you retrofit a truck how how
+much all in did it cost and what did
+that process look like well the first
+thing I bought was the the app you know
+I had that first and then I was able to
+kind of show people the idea and like
+let them play with this like functioning
+version of it and so they they could
+start to see the utility of it and I was
+able to take that and do like my first
+call family friends round and and we
+were able to raise 100 Grand and that
+allowed me to buy my first which is the
+equipment that drops into the the truck
+bed so that gave me two tanks you know
+pump metering system hose all that
+everything we needed to actually deliver
+the fuel then I bought a truck I would
+say all in you know it was a used truck
+paid like 40 grand for it and the skid
+cost me you know another 20 you know
+that app that part of the process we
+were probably 10 maybe 15 grand into it
+so we were able to get going for less
+than 100 Grand and start actually you
+know making money how many gallons is
+your skid our current configuration we
+can hold 400 gallons per skid that come
+in 119 gallon compartments separate
+tanks four okay so 400 is that like 400
+on a truck then like in a truck
+bed yeah wow so that's like 2500 lb the
+gas yeah 2600 yeah fully loaded okay all
+right so you develop the app first you
+get people playing around on it trying
+to break it it works you get the truck
+you get this kid you're in business you
+never quit your job how do you get your
+first customers I guess back up a little
+bit we had run some before I did any of
+that we run some Facebook ads just to
+see if there was any sort of appetite
+this in our area and we put up a landing
+page and was actually getting people
+like clicking on the ad and then
+submitting their information to try to
+sign up for this business that didn't
+exist yet and so love it actually I I
+used that clickthrough rate that we were
+able to establish over a few weeks of
+testing I mean modeled out the next
+three years of what I thought our
+business yeah and how has that gone very
+accurate or no it's way off but
+yeah it it it gave me enough you know I
+felt like it was viable and so I was
+willing to make the investment and then
+I did all the things we we talked about
+but so getting getting my first
+customers was yes start start running
+Those ads again except for you know we
+could actually deliver and then mostly
+word of mouth I remember like our first
+stranger customer oh my God like we
+don't know who this person is yeah yeah
+that was really exciting how much time
+had elapsed between when you got the
+leads from the Facebook ads you were
+actually able to deliver on them so gas
+is a it's a weird one and this is a like
+I don't I not really unique but the
+challenge that we definitely have to
+deal with is like people hear about us
+like oh that's a really great idea I
+would love that oh but I don't need gas
+right now so they don't sign up who
+doesn't need gas right now like you
+don't need it now you'll need it in two
+days like what right and and so then
+when they do need it they're like oh I
+need it now like I don't have time to
+like figure out this app and make a
+request and wait several hours you and
+so that was you a unique challenge took
+some education to like let trying to get
+get people to change their habits of
+like don't wait till you're on E like
+get in there make the request and then
+you know your gas station experience is
+literally you get home and press a
+couple buttons and it's done all right
+if you are watching this clip right now
+you are watching this on YouTube and if
+you are a fan of podcast please check
+out my podcast while you're at it
+because sometimes I have podcasts that
+aren't on YouTube and sometimes I have
+YouTube that aren't on podcast so check
+out the ker office on any podcast
+platform or you can go to TKO pod.com
+also my newsletter will throw that in
+there there are no ads It's weekly it's
+different content than my podcast and
+YouTube newsletter. chrisj cerner.com
+You'll see the link and we'll see you
+there so how much time was that then
+because I'm thinking like if I opt into
+some service like this from a Facebook
+ad and any more than like a week passes
+like it's out of sight out of mind it's
+going to be really hard to convert me at
+at that point initial sign up to
+delivery was within days I mean even
+when you were just running the test to
+the landing page yeah our we we didn't
+have any sort of like funnel to like
+nurture these ads it was like sign up
+sign up and then you can make a request
+right from there and so it was pretty
+instant and I remember like initial
+launch you know we we were able to get
+like our first dozen or so customers and
+then it was like okay now what you know
+how do we how do we keep growing and it
+was it was just me spare time so like
+you know how do we manage the
+expectation of the customer you know
+when I still had to work a job and so we
+were really careful about not growing
+too quickly but also you know keeping
+every customer happy because what we're
+really building is you know reoccurring
+repeatable Revenue like gas is a
+commodity and it's low margin business
+so so you've really got to start
+stacking those customers and building
+that revenue and so that's the most
+important thing was like getting our
+customers on board getting their trust
+getting them in the habit of making the
+requests and then all of a sudden their
+all their fuel spend is now with us and
+now we can start getting new customers
+you know each we found in our first year
+like an average vehicle is like $2,500 a
+year so if you're a family to Vehicles
+they daily drivers it's like five five
+grand a year so if our margin you you
+know is you 15 20% on a subscriber like
+that you know you could do the math on
+how many customers you need and also
+made us realize like you know the the
+residential side was was how we started
+but that wasn't that wasn't going to be
+viable long term like we had to start
+finding some higher higher margin
+options and some bigger ticket items you
+know and that's when we started getting
+into The Fleets and then ultimately into
+boats okay all right so let's talk about
+your your pricing and your margins and
+all that because 24 bucks a month two
+vehicles five bucks a month to add
+additional Vehicles fuel price based off
+of lowest price within three miles how
+do do you mark the gas up do you buy it
+wholesale what are your margins like on
+both the monthly flat fee and the gas
+well I don't know how much I want to get
+into the specifics of the gas prices I
+mean we certainly sell the gas for more
+than what we get it for I know that even
+a gas station doesn't make much money on
+gas right and and they buy at pretty big
+volumes so what does just what does that
+look like for you the average margin on
+just regular gas is is like 15 to 20
+cents we try to get that up to 30 cents
+so 30 cents per gallon is the
+go it's tough to do on um regular gas
+because like I said it's it's the
+replacement opportunities are so easy
+there there gas stations all over the
+place and the only differentiator
+between you know the gas station next
+door and the gas station a little bit
+further down is the price you know and
+so you're constantly um competing with
+that price and so my idea was you know
+keeping keeping the overhead extremely
+low and and being able to you know make
+a little bit more margin because of that
+okay so one family will spend about
+$5,000 with you over a year that's what
+you said okay MH how many refills do you
+do per month for an average family
+typical is like once a week maybe once
+every 10 days so three to four three to
+four refills them up I will say some
+customers you know we didn't put enough
+guard rails up so like they take
+advantage some customaries would yeah
+there one vehicle will fill up at work
+one vehicle will fill at at home
+so we'll get we'll get requests for the
+same subscriber at two different
+locations on the same day and I'm just
+like come on yeah so it since it says
+the fuel price is based on the closest
+gas station basically are you you're not
+filling up at a gas station are you and
+reselling it or are you using like your
+your employer to fill up we're buying
+wholesale okay okay so you're just using
+that price to base what you charge them
+because that's kind of like the market
+price for their neighborhood or whatever
+that's right and okay and we're kind of
+getting away from that we haven't fully
+like relaunched our our pricing updates
+but you know in order to match the
+lowest in your area like you're using
+software like gas buddy or you know way
+or somewhere that publishes gas and
+they're reliant on you know third party
+inputs that are either out of date fat
+fingered and then are you talking about
+cash price or credit price it's it's too
+unreliable and so
+we're just gonna start doing a fixed
+price yeah smart you're you're I know
+there's like one or two Nationwide
+Brands is is that how they do it because
+I've learned in companies I've started
+where I see like a big player doing
+doing it one way and it's like oh what
+are they doing oh they're so dumb like
+no one likes that I'm gonna do it this
+way like I'm gonna I'm gonna be so
+Innovative I'm gonna reinvent this
+market and then I I get six months down
+the road I'm like this is terrible
+that's why they do it that way I should
+have just copied them exactly I've
+learned that so many times have you had
+learnings like that yeah it's it's you
+know I feel like the pricing on fuel is
+is kind of it's always like the secret
+sauce like you can't figure out why
+someone is pricing it this way like is
+it a loss leader for a gas station so
+that you come in and get a chicken
+sandwich instead you know and and so I
+see other fuel delivery companies they
+don't
+necessarily advertise their per gallon
+price in every Market is is you know
+very different you know Charleston
+doesn't have a pipeline that comes to
+Charleston so everything comes in by
+ship so if you go further west and
+you're receiving barrels off the pipe
+it's your pricing is going to be
+different depending on the season we've
+really just run with that what you just
+read as our pricing and still our
+current pricing and it hasn't changed
+for the first two years because the
+price of gas is almost dominous at this
+point like we are really building trust
+and a brand and getting that customer
+base
+up so what you mentioned boats is that
+kind of where this is heading or are you
+trying to lean more into the fleet
+delivery
+stuff we're we're trying to do it all
+you know those are like our three
+business lines right now it's you know
+I've got a team of four and we're
+handling all three of those
+simultaneously at at some point it will
+be you know Marine uh Fleet and then
+residential will have to be separate the
+the Marine side is certainly like where
+I feel like that's our bread and butter
+like no one no one is offering the
+service that we're offering being able
+to bring out the the volume that we can
+and deliver it out to a dock without
+your boat having to leave that do
+there's there there's no one in town
+that can do that yeah okay what's next
+for the business how do you see this
+scaling more trucks in Charleston
+different cities with more trucks more
+boats more fleets yeah so we definitely
+want to dominate locally but we we also
+plan on expanding you I never never
+meant juice to be just a local brand you
+know we intend to grow this as big and
+as kind of starting that as wide as we
+can um now what does that look like
+exactly you know we're still still
+trying to figure that out we've we've
+gone viral several times on our social
+media we're very transparent about you
+know how we started this business what
+we do dayt day we just share what we're
+doing and people love it people want to
+we have people copying us we have people
+who want to do juice in their city and
+so you know franchising is probably the
+route that we'll go at some point
+because like I mentioned earlier fuel
+was like very like hyper local the
+competitiveness of the price of fuel and
+so you've got to like be in the
+community and know the community and
+know who could benefit from your
+services and and be able to build the
+trust that you know hey when you're
+bringing the fuel you're doing what
+you're saying you're doing you know when
+they go out to start their vehicle it's
+going to start the next day because you
+delivered the right fuel um and so the
+only way you can do that I think is by
+having someone um from the area who is
+you willing to put in that work in a
+local market I see it as a like perfect
+play for an owner operator yeah you know
+think of like a truck driver who he he
+might be able to make you know 80 to 100
+Grand over the road but he's gone all
+the time driving here he
+can still be a truck driver but also own
+his own business potentially a lot more
+upside so I feel like you know that is
+like the perfect it's a perfect job for
+like you know an owner operator to be
+able to scale his own business locally
+and I I think that's where we'll go but
+certainly regionally um we're going to
+expand within our our footprint as far
+as we can reach before I feel don't feel
+comfortable managing it all under you
+know original juice fuel umbrella and
+then the natural progression is
+vertically integrated into the wholesale
+supply side which you that that was my
+background that makes the most sense
+once we're moving enough volume to
+justify you know being the wholesaler
+ourselves now we can supply all of our
+own retail uh locations what is your
+churn like if you get a residential
+customer are they is it one of those
+deals where like they just fall in love
+with it like I don't know how I ever
+lived without this and they almost
+exclusively fill up with you or is it
+kind of like people try it they use you
+sometimes what's more normal the more
+normal is
+we have almost no churn people sign up
+they try it they love it even the ones
+that don't use it very frequently like I
+mean you read our pricing we're not it's
+very reasonable yeah yeah and so it's
+almost worth it for someone to use to
+have it as an emergency service you know
+if it's raining one day and I don't want
+to get gas you yeah or you know someone
+to just have that piece of mind that you
+know fill up my daughter's car instead
+of you know having to give her a credit
+card you know to go to to and from
+school or whatever yeah so we we do have
+some of those customers that don't use
+it very frequently but rarely do we have
+someone sign up and just say you know
+this is too much of of a hassle for me
+to make a request you know the Tom slots
+are never available that I need that
+that really hasn't been the case okay
+see this is interesting because I I
+would use this but I I wouldn't in a
+sense because I drive a Tesla
+and I aside from that I love gas
+stations like I walk into a gas station
+every time like a kid in the candy store
+it's like I'm going to get a Red Bull
+I'm going to get some chips like I eat
+like garbage when I walk into a gas
+station so I would miss that are you
+planning to offer like charging services
+at some point or how have you thought
+about that we certainly mentioned that
+like we're in the um diligence phase of
+you raising Capital right now for our
+expansion and so that very question has
+been asked and we're building a
+logistics Network so it's easy enough to
+put a a generator on the back of a truck
+and offer that service that's just not
+where our focus is just like you know I
+think a uh Marketplace for mobile
+services will eventually where we're
+heading to you know if you're in our app
+every week every two weeks making a fuel
+request and every time you sign in it
+says what what service are you looking
+for fuel Tire oil you know and you're
+hitting fuel 95% of the time but that
+time you need oil chains why are you not
+going to go back to that that app and
+and select oil chain so I think that is
+another way that you know we're we're
+looking at going but right now gas is is
+where we're focused and and we want to
+be laser focused on that and do the best
+we can there yeah okay man well this is
+an awesome story I appreciate you
+sharing it anything else that you would
+advise people to do like what if someone
+in Sacramento wants to start this what
+what would you tell them to do that you
+wish you have done differently when you
+started I would start delivering the
+boats immediately interesting if I could
+do it over again that's what I would do
+just because at least in in our Market
+it's a huge demand that's that's that's
+unmet and so the the cell is a lot
+easier you know to convert someone when
+getting gas in your boat on the water is
+a really expensive and B really
+inconvenient and you're in Charleston so
+I mean right perfect market for that
+that's where I would have started but I
+always say to I mean honestly this is
+for any anyone interested in starting a
+business is like you just you just got
+to do it you just gotta dive in and and
+go out and you'll figure it out along
+the way working all out on day one or
+before you start you just gota dive in
+you just got to
+start yep okay well Corey thank you
+where can everyone find you if they want
+to reach out best place is our Instagram
+follow along our story like I said we WE
+Post everything that we're doing every
+day so very very cool content there so
+juice fuel on Instagram also you can
+check out our website juice fuel.com
+okay I did forget to ask what are your
+revenues like right now we'll hit
+350,000 this year geez awesome we're up
+almost 500% from year one that's amazing
+very low turn really looking forward to
+uh year three yeah
+okay well thanks Corey I appreciate your
+time yeah all right nice to meet you
+take care likewise see it all right what
+you think please share it with a friend
+and we'll see you next time on the ker
+office

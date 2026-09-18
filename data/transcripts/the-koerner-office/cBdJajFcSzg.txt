@@ -1,0 +1,315 @@
+Today, I want to show you exactly how to
+sell digital products on the internet.
+But before you ever sell a thing, I want
+to show you exactly how to reverse
+engineer digital products that other
+people are selling with a ton of
+success. Also, I want to cover all the
+beginner mistakes that people often make
+so you can save yourself the time and
+headache. Because the thing is, there
+are a ton of new AI tools out there that
+make this process a whole heck of a lot
+easier. So, this quick video will be
+your shortcut to digital product
+success. Let's get into
+[Music]
+it. Step one, we need to know what to
+sell. Unfortunately, this space is
+jam-packed with scammers and gurus
+selling courses. I have no course to
+sell you. This is a free YouTube video.
+And so, yes, selling a digital product
+is easier than a physical product, but
+you have far more competitors as well
+because of that reduced friction. So, we
+want to find the right products that
+find the perfect balance between supply
+and demand so you don't spend months
+banging your head against a wall trying
+to sell the same personal finance
+spreadsheet that 10,000 other guys are
+selling. My favorite place to reverse
+engineer these products is Etsy. Now,
+you can also sell digital products on
+Gumroad, Shopify, Creative Market, and a
+dozen others, but Etsy is the godfather
+of them all. It has the most data. It
+has the most buyers, the most sellers.
+It's publicly traded. And I know how to
+work the system a little bit. So, I'm
+going to show you. Okay. So, there's the
+old school way of reverse engineering
+Etsy and then there's the growth hack
+cheat code new school way. Both work.
+The growth hack is even better. Let me
+show you the old school way first by
+reverse engineering the reviews and then
+I'll show you the absolute cheat code
+way that you're going to love. Let's
+start by sharing my screen. Okay. Now,
+when I go to Etsy on my computer, this
+is what I see. Like any other algorithm,
+Etsy is biased towards my searching
+behaviors and my purchase history. I
+just bought a hat on Etsy 2 days ago.
+So, when I scroll down, look at that.
+It's showing me the hat I bought. It's
+showing me products that I've been
+researching for content, but it doesn't
+show me the best products to reverse
+engineer. So, I'm going to do something
+a little tricky here. Now, this is a
+pure look into what's selling on Etsy.
+So, I'm just going to go here and search
+Printable. I'm going to go to instant
+download, and then I'm going to filter
+by top reviews. Then, I'm just going to
+start browsing. What do I see here?
+11.2,000 reviews,
+7,300, 750, no reviews. So, I'm going to
+open up in separate
+tabs some of the products that have the
+highest amount of reviews. Alice in
+Wonderland, whatever this is, prices,
+right, sheet, digital steampunk junk
+journal, and then look at this. Fancy
+skulls digital wallpaper. 87,000
+reviews, which means they could have
+sold up to a million of these things
+because only a small percentage of
+people ever leave reviews. All right,
+that's five items. It's enough to get us
+started. Now, for whatever reason,
+people love these digital printables of
+skulls or steampunk. Out of curiosity,
+let's go to Google Trends and see if
+steampunk is trending right now.
+Trends.google.com. We're going to go
+last 5 years. Hm. Doesn't seem to be
+climbing. In fact, it seems to be
+shrinking in popularity. Nonetheless,
+we're going to press on. And right here,
+we can see that this steampunk item only
+has 27 reviews, whereas Pula Art Studio
+in aggregate has over 16,000 reviews.
+So, I don't care about this item right
+here. Another thing you can do is go to
+their store. So, you can see they have
+702 items for sale, which makes a lot of
+sense why we didn't see a lot of reviews
+for the same item. They have a lot of
+SKs. Okay, so I already don't really
+like what I see here on Poca Art Studio.
+Nothing is really standing out. Seems
+like a waste of my time. So, we're going
+to move on. Okay. Now, Digital Curio
+here has 87,000 reviews and only seven
+for this one item. You see, a lot of the
+trick to this is finding a seller that
+has a rare combination of thousands of
+reviews, but not a lot of products.
+Those are the diamonds in the rough.
+Okay, now we might have something here.
+Victoria Designs has 54,000 reviews. So,
+let's click into their store. Okay,
+452,000 sales, half a million sales, but
+they only have 1,600 products, which is
+quite a bit less than these other two
+sellers we were looking at. Remember, on
+Etsy's homepage, all we did was search
+printable, which could be tens of
+thousands of different things. And for
+whatever reason, it's showing us a bunch
+of sellers that sell junk journals. But
+there are thousands of sellers in the
+printables category that sell all kinds
+of other things. coloring pages,
+stickers, napkins, math or science,
+homework pages, you name it. So, we're
+already seeing that junk journal is a
+trending category. Let's go over here to
+Google Trends and see what junk journal
+shows. Look at that. Junk journals are
+exploding. What is a junk journal? It's
+a handmade book or journal that uses
+recycled and found materials like old
+book pages, etc. Okay, now here's the
+shortcut way, and you're going to love
+me for this. We're going to go back to
+Etsy and search up the same thing.
+Doesn't matter, printable in this case.
+Then you're going to click on all
+filters. Stareller. Star sellers have an
+outstanding track record for providing
+great customer service. Yada yada yada.
+Okay. In other words, they're selling a
+ton of crap. Check that. Now, Etsy used
+to have a bestsellers category, but they
+discontinued it. Probably because people
+like you and I were reverse engineering
+the best sellers, but they still do.
+It's just hidden. Show results. Okay.
+Star sellers. So, this shows the sellers
+that are like reliable. Well, look, this
+entire store has only had 69 reviews, so
+it's not a very big store. They don't
+have very many good products, or at
+least it's newer. But go to the URL and
+replace the word
+star with the word best. And look, all
+the products change. Now, now you have
+best sellers. This is freaking amazing.
+Let's click on this silly goose. So,
+this is the bestselling printable
+according to their search results. Okay,
+so 20 plus views in the last 24 hours.
+Now, if we click on the store, it will
+tell us right here 175,000 sales and I
+bet you a big chunk of them from this
+one printable. Another thing you can do
+is use Chad GPT's operator or Manis
+manis.im to go scrape all the best
+sellers on Etsy, the bestselling
+products and the bestselling stores.
+Okay, so we're going to go on this one.
+29,000 reviews for this store. Click on
+the store.
+462,000 sales across 9,000 different
+products and their best seller is right
+here. Guess the price of these baby
+essentials. Whoever gets closest to the
+actual cost wins. So, it's a baby shower
+game, I'm guessing. Another good thing
+to learn from this is how are they
+listing their products? They have a
+graphic. They have multiple pictures,
+six pictures. It's personalized. It's
+got great design. Okay, but we're going
+to reverse engineer this. We're going to
+take this picture and we're going to
+save it. And then we're going to go to
+PixArt. So PixArt is kind of like Canva
+but AI first. AI powered. What I love
+about PixArt is a lot of these other
+photo editing tools have AI
+integrations, but PixArt lets you bulk
+edit images and pictures with AI. So for
+now, we're just going to do this. New
+project. Sure. Keep the pixels the same.
+We're going to upload that image. We're
+going to upload.
+Okay, there it is. We're going to add AI
+enhance because you can only get a
+certain quality on Etsy. So,
+automatically you look at the before and
+after, boom, it's a ton better. Apply.
+So, PixArt/ any AI product nowadays
+really does best with images, artwork,
+and not words as much. For whatever
+reason, AI struggles with words. So, I'm
+going to look up printable wall art. And
+it's funny because even though you can't
+filter by best sellers, the button will
+still pop up when you reverse engineer
+it.
+Stareller. Boom. Look at the images that
+are on the screen right now. Type in
+best. There you go. Okay. So, clearly
+this Easter bunny just crushes. And
+guess what? It's almost Easter. Antique
+white art. Let's look at the seller.
+1100 items, 63,000 sales. So, we want to
+find something similar to this. So, I'm
+going to take a screenshot. Boom. We're
+going to go back to my files. New upload
+screenshot. Let's just see what happens
+when we click AI
+enhance. Okay. Okay.
+Better. Still has the watermark on
+there. So, let's play around with the AI
+image generator here.
+Show me printable wall art of a rabbit
+in grass. And then you can pick a style.
+Boom. We're going to upload the image
+because we want it to be in this style.
+Okay. Generate images. Okay. Look at
+that. You got that option. That option.
+That looks awesome. So, if you want to
+sell Easter printables on Etsy or for
+whatever holiday is coming up next, go
+to Etsy, reverse engineer, find
+something that's absolutely crushing,
+and use PixArt and their AI generation
+tools to come up with some other designs
+for yourself. Now, I know what you're
+thinking. Okay, well, how do I start a
+brand new fresh Etsy account and just
+start selling stuff? Number one, you can
+use Etsy ads on a printable like this.
+Your cost is zero. It's only your time.
+So, the cost to acquire a customer can
+be whatever you're selling the product
+for, less Etsy's fees. Number two, you
+can buy Etsy accounts that have
+established feedback. You're not
+necessarily buying a full store or a
+business or anything. You're just paying
+a little bit of money for an account the
+algorithm already favors. But if I were
+you, I would spend literally four to six
+hours reverse engineering a ton of
+categories. Printables is just one.
+Coloring books, pages, all kinds of
+stuff. Find those diamonds in the rough
+that have amazing designs and that are
+proven to be bestsellers with these
+hacks. Move them over to PixArt. Come up
+with some alternative designs and just
+start listing them and see what gets
+clicks or views. You can even list them
+on Facebook Marketplace. Honestly,
+Facebook Marketplace is the best place
+to test concepts like this because you
+could take five rabbit designs like
+these. You could list all five of them
+in the exact same market with the exact
+same description. A pure AB test. You
+can keep the title the same even and the
+price the same. And then you can just
+see Facebook shows you how many views
+and how many clicks and how many
+messages you get from each ad, which one
+is getting the most views, clicks,
+messages. Or you can use this guide and
+I'll link it in the notes. You can use
+my Facebook ad guide. I just tweeted
+this yesterday. I got 300,000 views. A
+ton of positive feedback. Use that to
+launch some Facebook ads. $20 budget
+each. Same ad, different design. See
+what people are clicking on. Then move
+the winning design over to Etsy and I'll
+refer to one more tweet for you. This
+entrepreneur I love tweeted this. First
+time founder, I want to build something
+totally new. Second time founder, I want
+to be 90% the same. And that's where he
+ended it. And then I commented as the
+top comment. Third time founder. I
+assume that this growing market is big
+enough to support at least one more
+entrance as in these Etsy designs. So,
+I'm going to start by 100% copying the
+existing business because everything I
+change increases the likelihood that
+I'll have suboptimal success over time.
+I'll organically discover optimizations
+and changes that make me unique. But I
+won't make those changes until the data
+speaks for itself. Copy what works.
+Change nothing. Eventually, you'll find
+things to change, but don't change in
+the beginning. Share this with a friend
+and we'll see you next time on the
+Kerner

@@ -1,0 +1,1080 @@
+She's making $10 million per year in
+revenue and she doesn't exist.
+>> What?
+>> Yeah. They scaled from 0 to 20 million
+in annual recurring revenue just with AI
+ads. The app didn't exist 12 months ago.
+>> If you were to be a user trying to make
+10 grand a month as soon as possible and
+you didn't have much money to work with,
+which path would you take?
+>> If you want to do 10K, like I mean
+that's easy. Like really easy. I will
+create 20 ads a month for you for
+$2,000. These people will have the
+budget because they already spend 500k
+per month on meta ads. I will just do
+that for 100 companies. That's probably
+the easiest way to get to 20K a month.
+What is this world coming to? Did you
+guys know that there are AI influencers
+making millions of dollars a year? Yes,
+that's real. Some dude in his mom's
+basement is generating AI images and
+videos and posting them to Instagram,
+Tik Tok, and everywhere and getting big,
+huge sponsorship deals. So, with this
+new AI short form video generation
+technology blowing up like crazy, how do
+you profit from it? Cuz we can shake our
+heads at these AI influencers or we can
+go create some and monetize them in our
+paid ads, in organic social, etc. So, I
+had Roma Torres on today and he is one
+of the biggest experts in the world when
+it comes to AI generated video
+specifically for making AI ads and AI
+influencers. Your brain might explode on
+this one. Please enjoy. Initially the
+main use case was paid ads but very
+quickly we realized that was a huge
+opportunity to create these AI
+influencers that will basically live on
+Instagram. Maybe I can share my screen
+and show a couple of examples. please.
+>> Um, but you know there is this famous
+influencer right here, Mikuela.
+Apparently, she's making $10 million per
+year in revenue and she doesn't exist.
+And there are more.
+>> What?
+>> All of that. Yeah. this girl. All the
+pictures that we see here, all are AI
+generated and bronze are paying hundreds
+of thousands to get a a story from her
+or just a real and really the limitation
+until recently was you could build very
+good static images of AI influencers,
+but having them talk was very hard.
+>> And that's basically what we solved.
+>> And uh a lot of people now
+have used our technology to create
+either a clone of themselves. So let's
+say you Chris, you want to create
+content on Instagram and you want to
+grow your Instagram channel, but you
+don't want to spend too much time
+talking to the camera. You could create
+clone of yourself with archads and make
+video ress where you will do a video
+edit and at the bottom of the video for
+example you'll see your clone and at the
+top of the video you'll see a video
+about whatever you are talking about and
+as you can see these videos do pretty
+well right 2 million views here 2
+million views and all of these videos
+were created using his AI avatar
+>> concept to working prototype in just 7
+months humanoid
+>> and obviously there already is a lot to
+be done like to make the video very
+dynamic and stuff but um
+>> you'll basically save the time of
+talking to the camera using this
+technique.
+>> How much of your tool helps generate the
+video and the voice and how much of it
+like helps actually edit the video.
+>> So an on creating very good and very
+realistic talking actors. Maybe I can
+just do a quick demo of the tool by the
+way and just show you how it looks like
+very quickly and
+>> so so it's clearer for the audience.
+>> We really focus on like helping you
+writing a script selecting an actor and
+this actor can be either yourself or
+another AI actor that is from our
+existing library and generating the
+video. So basically the way this will
+work is you will type your script right
+here. You can add tags to control the
+emotion
+>> because what we realized in our data is
+that the voice has a ton of impact on
+how real the AI avatar will look.
+>> If the voice too robotic, it's going to
+be very hard for people to engage with
+the content. So you can add tags with
+the emotions you want. You you can even
+control the accent. You can like add a
+tag that says, I don't know, French. I
+don't know why would want that but maybe
+you want a French
+accent
+and then the AI voice will basically
+talk with a French accent. So you will
+like write script and then select an AI
+actor through our library of thousands
+of existing AI actors or you can just
+create your own. So you can just click
+here type a description of the perfect
+AI actor. So I don't know a 23 years old
+female influencer in a coffee shop. You
+can just like iterate and start a first
+version or person based on the prompt
+>> and then you will be able to edit this
+person with perfect consistency.
+>> So you are going to be able to generate
+her in different situations, different
+backgrounds. You're going to be able to
+change the color of the hair, change
+every single detail that you would want
+to change to get the perfect AI
+influencer. And then when you are happy
+with the image that you generate because
+it will start with an image, you can
+then turn this person into a talking
+actor. So you would write the
+description of your AI actor or choose
+an existing AI actor in the platform,
+write a script, listen to the audio and
+then basically click generate and you
+will get a video of someone who will be
+talking to the camera with like perfect
+lip sync emotions. So my connection is
+really bad.
+>> Yeah.
+>> Oh wow.
+Oh wait, am I really AI generated? And
+then basically you can like have the
+person in tons of different situations,
+do all the scripts that you write and
+then Mika here create videos for social
+media and at some point when you get a
+big enough audience, brands will come
+and pay you to create content um to
+promote that stuff.
+>> Now you and I see these videos and we
+can tell it's AI. What what percentage
+of the general public do you think can
+tell? And if so, does it really matter
+that much? So it's a very good question.
+My initial answer was the younger the
+audience the the more they will notice
+its AI. Right now we have a lot of
+clients and that's actually a big
+secret. A lot of clients would target
+older audiences with with their content
+because if you are 55 years old there is
+a much higher chance that that much
+interested in technology and AI and you
+will engage much more with this type of
+content. So that was my in in thought
+>> but um really the technology is
+progressing super fast and there is this
+tech influencer right here Olivia Mo she
+is like a partner in the top US VC fund
+and she actually yesterday or two days
+ago she made an experiment where she
+created an account on Tik Tok on a very
+specific niche that will actually target
+very young people and she created an
+account for the niche of Walmart. It's
+funny she's quote at the University of
+Alabama because I was there yesterday on
+campus.
+>> Saw people who were following this AI
+profile that she created. So basically
+she she created a a profile about like
+admissions at Alabama. She started
+posting content on Tik Tok with this AI
+influencer
+and 20 years old girls were commenting
+stuff like hey you will get there no
+worries you will get your admission
+because she was making a video where the
+AI
+>> and we can see some examples here and
+actually the account is public we can
+find her on Tik Tok and she makes a lot
+of views some of her videos make like
+hundreds of thousands of views. Fun
+fact, 80% of the people that watch my
+YouTube videos are not subscribed to me.
+And most of them think they are. They
+see them in the feed, but they're not
+subscribed to me. So, please, it'll take
+half a second, just click subscribe, and
+it would mean a ton to me. She did this
+experiment very recently, and it's very
+interesting the way she created this. By
+the way, she she used this tool from Tik
+Tok where you can see for each keyword
+how many posts are done and are the
+hashtags trending. So you can basically
+find any hashtag that you are interested
+about and see if there is an opportunity
+to create content and just start
+creating content for this niche and in a
+matter of weeks she managed to get a ton
+of views. But yeah, it's kind of insane
+how how much you can
+>> that's insane.
+>> I think I think it's going to just get
+better every every week. uh if you look
+at AI 6 months ago honestly the progress
+has been insane. So I think that's a
+huge opportunity either to create your
+own AI influencer in a very specific
+niche like she did here or clone
+yourself if you are already a content
+creator and you want to post more
+content. And maybe the third big
+opportunity here would be go find
+existing influencers who have accounts,
+people like you basically say and say,
+"Hey Chris, you want to create more
+content? Everyone who creates content
+wants to be creating more content. How
+about instead of you recording yourself?
+I will create content for you with your
+avatar and you will validate the the
+script. You will validate everything but
+uh instead of having to record yourself,
+I'll just like create the content with
+your avatar for you.
+>> Yeah. Yeah. Do you have customers that
+are using it for that purpose for as an
+agency basically?
+>> Yeah, a ton a ton of customers.
+>> What are they charging?
+>> We have two types of cases. The first
+type will be see like doing this service
+for influencers and typically they will
+charge less because influencers will
+have a lower budget. But the other big
+use case is finding a company that is
+already spending money on ads and
+helping them create content. So I'm
+going to show you what I did here with
+an example. So
+>> like look kind of scrolling on the
+Facebook ads library seeing people have
+a lot of active ads reaching out to them
+and saying hey I can help 10x your
+output with AI generated ads more
+creative.
+>> Exactly. Yeah that that was exactly what
+I was about to to show. So on the
+Facebook ads library which is the public
+data of like all the ads active right
+now you can find any app any kind of
+product depending on what you are
+interested about. So obviously I'm
+interested in tech so I'm going to be t
+like biased towards apps but I'm going
+to also show you an example of a more
+traditional business where you can do
+that. So find an app. This app for
+example they scale from zero to I think
+like 12 or 20 million in annual
+recurring revenue. This data is public.
+We can look at it just with AI ads.
+Basically they created the app 12 months
+ago. The the app didn't exist 12 months
+ago. They only started the app run it.
+They started running Facebook ads with
+AI influencers created with our ads and
+they scaled more than 10 million in
+revenue only through paid ad. And as you
+can see they are testing a ton of ads.
+So they are like testing 650 ads right
+now.
+>> This is really interesting to me. I
+think that it's critical that when
+people do this they pick the right niche
+or the right industry in which AI
+generated ads are more likely to work
+better. Right? This is an English
+learning app, which means they're
+probably showing this ads to an
+international audience. I'm guessing
+that the international audience is less
+AI savvy. They're not as AI sensitive,
+like AI generated video sensitive,
+therefore the ads are more effective. Or
+maybe they think the ads are
+automatically transcribed into English
+or into whatever language, and they're
+used to seeing that because English is
+not their first language. Would you
+agree that like using AI generated ads
+in the right industry could have like a
+multiplier effect on how effective they
+are? That's a very very good point.
+Another example of that would be this
+company. They are running a ton of AI
+generated ads. So it's called disability
+path and basically they serve. So maybe
+I can show you an ad by the way. So this
+is an ad that they created with arads.
+$4,18
+a month to cover your grocery bills.
+Yes, you heard that right. If you're
+over 50 and can't work because of a
+health issue, you could be eligible for
+up to four.
+>> Interesting.
+>> So, yeah, these people, they basically
+sell leads to these disability companies
+where uh they will do the admin work for
+you to get you this allowance that you
+can get if you have an a disability and
+you are over 50. And these people need
+to get leads. So basically need people
+over 50 to sign up to their services.
+And people over 50 will most of the in
+most cases just like not be triggered by
+the fact that an ad is AI generated.
+Honestly, even in some ads UI, we cannot
+even see that it's AI anymore. Like uh
+we are getting to this point already.
+It's it it requires some skills and we
+can even talk about that if you want at
+some point. What are the skills that
+help you make a very good AI ad that
+make it very look very realistic? But
+I'm pretty sure like in six months like
+everyone will be able to do a perfect
+like 100% perfect AI UC ad where it's
+going to be impossible to distinguish
+between a real ad.
+>> Yeah.
+>> But right now I agree like 100%. It's
+like the biggest opportunity is to go
+find these types of companies.
+>> Yeah. I look at this in like two
+different ways. So, let's take a super
+competitive category to a somewhat
+sophisticated audience. Creatine
+gummies, right? There's hundreds of or
+if not thousands of Shopify stores
+selling different types of creatine
+gummies that are probably all made in
+one to three different factories, right?
+>> If I, a 38-year-old white male in North
+America, see an AI generated video ad
+for creatine gummies, I'm likely to be
+uninterested, turned off, you know,
+because it's like, ah, low effort, AI
+generated. Nope. Whereas, if I see like
+a more professional ad that's, you know,
+handmade for creatine gummies, I might
+have a bias to click on it more, right?
+But let's say I'm looking for, and this
+was something I actually ordered from
+the internet. I ordered trees, like I
+literally like 4 foot tall trees I
+ordered from the internet from South
+Carolina and I saw Facebook ads for
+them. If I was that tree company and AI
+generated video ads helped me scale my
+creative 10x. If I really need a tree
+from the internet and I'm having a hard
+time finding it and they're able to make
+10 times more ads because of AI and that
+puts it in front of me or it's more
+likely to get in front of me, then I'm
+going to buy it whether it's AI or or
+not just like I listen to what chat GBT
+says because it answers a question I
+need even though I know it's chat GBT,
+right? So there's kind of two schools of
+thought like, "Oh, they're not going to
+take it seriously because it's AI." And
+then the second school of thought is
+doesn't matter if it's AI. If you're
+solving a problem, they're going to
+click and or they're going to buy,
+right?
+>> Yeah. I think that's the whole story of
+advertising. Like when you watch a video
+ad from George Clooney telling you
+Nespresso is the best coffee in the
+world. I mean, do you really believe
+George Clooney will drink Nespresso
+every single morning? No. But it doesn't
+matter because now you know about
+Nespresso. Now you saw an ad that is
+entertaining, that is a good story about
+Nespresso, that is funny.
+>> I think to your point, I really agree
+that
+>> people who sell services where it
+doesn't really matter if you trust or
+not the person who will promote the
+service will have better results for
+sure. Like if you are selling like
+buying create creating games, I I guess
+you would want to have someone who has
+some sort of knowledge about the topic
+telling you to buy them, right? You want
+to have a doctor, you want to have maybe
+an influencer you love talking about it.
+>> If I saw like a Matthew McConna ad for
+creatine gummies, it's like, nah, he's
+fine. I could take them or leave him.
+Not my favorite actor, not, you know,
+not the worst actor. But if I saw Tim
+Robinson, like my favorite comedian
+actor, do an ad for creatine gummies. I
+I use these. I like these. I'm going to
+be more likely to buy just cuz I like
+him. It's the same product, right? And
+so the same principle applies for AI
+generated verse otherwise. Like in this
+example, Tim Robinson is higher quality
+for me because it's more relevant. It's
+there those are synonyms in this
+context, right? Just like AI generated
+is lower quality aka less relevant. And
+I think also something that's going to
+happen to our initial uh point on AI
+influencers is at some point some AI
+influencers will be so good at creating
+content that people will actually be
+attached to to them. Like people are
+attached to Spider-Man, right? and he
+doesn't exist. But um
+>> it's a good point. Yeah.
+>> I mean, you can be very attached to to
+personalities that don't exist.
+>> I sorry, I think it's interesting the
+first two examples you showed me of like
+these AI generated ads that are crushing
+it are those two international, you
+know, English as a second language
+speakers and people with disabilities,
+right? Like I I think there's a
+correlation there that both of those
+categories of people would be less
+likely to recognize it by no fault of
+their own. It's just not something they
+come across on a regular basis. Whereas
+30ome year old white dude playing around
+with chat GPT and Grock all day. It's
+second nature for us to see an AI
+generated video. You know
+>> that's a very good and there is I think
+a third category which is very
+interesting. Unfortunately, I I won't be
+able to show you this example because
+the person asked me not to because they
+are making so much money.
+>> Okay. Okay.
+>> Which I guess is a good teaser. But uh
+so it's products where people are
+already aware that the service that will
+buy is AI. And what I mean by that and
+the example I had in mind here is
+>> you probably saw these new AI voice
+agent technology companies.
+So, yep.
+>> Basically, you could go and I think it's
+a very good business to start when I see
+the numbers of people who use Arcas to
+promote these. You could go say, "Okay,
+I'm going to create
+a voice agent that will do appointments
+for hairdressers, for example." That's
+probably an idea you already discussed
+on the podcast. I don't know. But if you
+are a hairdresser, people call you to
+get appointments. Or if you are a
+dentist, people call you to get
+appointments and you have to pay a
+secretary to answer those calls, to book
+and everything. This can be done by an
+AI voice agent. Now, there are a lot of
+technology and software that lets you do
+that. Is drop shipping still a thing?
+Yes, but unless you have the right
+tools, you are going to have a really
+hard time finding success. Luckily, I
+found a genius tool that can build an
+entire drop shipping site from scratch.
+This platform has people hitting 10
+grand their first month. And others have
+used it to build over 30 grand per month
+businesses in their first year. AutoDS
+is making this possible for over a
+100,000 entrepreneurs with zero
+inventory sitting in their garage. Zero
+warehouse headaches. Just pure profit
+margins from products that they never
+even have to touch. AutoDS makes drop
+shipping crazy easy. We're talking
+complete automation, product research,
+order fulfillment, inventory tracking.
+Everything runs 24/7 while you sleep.
+You get access to 500 million products
+from suppliers all over the globe who
+handle all of the inventory and storage.
+So, here's exactly what you need to do.
+Click the link below to try AutoDS for
+30 days for just one buck. AutoDS lets
+you create a Shopify store from scratch
+in minutes directly through the platform
+and then you can start selling
+immediately because remember, you can
+just do things. So go get on AutoDS
+because the best time to start building
+wealth was yesterday. The second best
+time is right now.
+>> So a lot of people have packaged a
+service on top of these AI voice agent
+companies. They package the service and
+they found dentists or hairdressers or
+whatever the niche they are targeting
+and they sold a service a package
+service where they will tell them you
+don't have to do anything. I will just
+replace your secretary for like a half
+like not even half like a tenth of the
+cost. The only difference is the person
+who will be taking the appointments will
+be AI, right?
+>> Yeah.
+>> And so we have a lot of customers who
+have created a service like that
+>> and then they run paid ads to acquire
+customers. So let's say you are selling
+this
+>> I've recently heard this called dog
+fooding. You're dog fooding it. You're
+eating your own dog food, right? You're
+using your own thing to sell your own
+thing. Therefore, all cards are on the
+table. No one's turned off by it because
+your ad is showing that it works.
+Exactly. That's the point. Yeah. I think
+that's the third. And then by the way,
+the the AI language learning app, so it
+it has both actually because it targets
+people from other countries who don't
+speak the language perfectly, but also
+it uses AI to train you and learn this
+new language. So yeah, I think that's a
+a very good point like choosing the
+right target audience will increase a
+ton the likelihood of the ads doing well
+basically. What other kind of trends are
+you seeing from the back end of your
+company that people could could learn
+from like industries or offers or the
+duration of videos that people find the
+most success with etc.
+>> Yeah, that's a very good point. So, and
+by the way, we mentioned like the
+possibility of creating your own service
+like just creating a service and selling
+it through the AI ads, but you can also
+just sell this service to other
+companies. That's probably the easiest
+way to get to, I don't know, 20K a month
+because you were asking me how much
+people would pay for these AIG videos.
+You could reach out to Learner, this
+language learning app, and tell them,
+"Hey guys, I will create your ads, the
+ads for you, and I will like package it
+like I don't know, maybe that's 20 ads.
+I will create 20 ads a month for you for
+two $2,000." So, you'll pay me basically
+$100 per ad. And that's already going to
+be cheaper than working with actual UGC
+creators. These people will have the
+budget because these people, they
+already spend 500k per months on meta
+ads. So, for them spending 2K is like
+less than 1% of the ad budget they have.
+So, that's a big big trend that we are
+seeing. People are subscribing to our
+software to create these ads, developing
+the the skills that it takes to make
+very good ads and we are going to talk
+about that like the trends we are seeing
+right now. But developing the skills to
+make very good ads and then sell that as
+a service to other companies who already
+have a product. You don't have to even
+build your own product. You can just
+like serve existing companies who who
+have needs.
+>> How can you see that they're spending
+500k a month? So you don't have public
+data about the spend of an app but you
+can see that revenue and it's very for
+example in the app industry or mobile
+apps it's a pretty common knowledge that
+people are spending 70%
+60 to 70% of their re monthly revenue in
+paid ads because when you create an app
+you have very low costs of running the
+app the main cost is
+>> if you look at this language learning
+app we were just talking about
+>> so if to see to go to this website
+Sensor Tower. It's public data.
+>> You'll see the revenue that they do on a
+monthly basis on iOS and Android. So do
+the stuff.
+>> I've never thought to to do that to take
+their monthly revenue and just multiply
+it by.7. That's very smart.
+>> It's very specific to the app industry.
+I guess it can also be true for Shopify
+maybe.
+>> But yeah, apps are public. Uh the
+revenue is public. So that's very that
+makes it easier. And there are a ton of
+apps you can reach out to and sell these
+services to. It's becoming more and more
+of a a real skill to be able to use AI
+the right way to create ads. And you
+were asking me about the trends, the
+techniques to make very good ads that
+will perform. Really AI can pretty much
+do everything you imagine now if you use
+it the right way. So I don't know an
+example uh of like something that will
+make a lot of difference will be how do
+you make the first second of the video
+visually appealing and how do you make
+sure that when people are scrolling they
+will be interested to watch more the
+video
+>> and
+>> one way to do that is to have an AI
+actor dressed in a funny way. So we took
+this AI actor that is already in the
+platform right here. So that's uh a
+traditional video we will do with this
+AI actor.
+>> Hey, looking at you camera.
+>> Did you know I'm not real?
+>> Now that that one looks very real. That
+sounds real, too.
+>> Yeah, he he is pretty good, right?
+>> That one's legit. Yeah.
+>> So, a couple of things you can do. You
+can do a gesture, a movement. Uh and we
+we can do that with the platform. So you
+can say at the beginning she points at
+the camera because when you say it looks
+real, it's obviously because of the
+looks, but it's also because of the
+gestures and the voice. So you can say
+at the beginning he will be pointing at
+the camera.
+>> Hey, you looking at you
+>> and that's what we call a visual hook.
+So you will increase the chances much of
+the person like stop scrolling because
+you kind of do this gesture. Another way
+you can do that is you will take this
+actor and then now you will say he's
+wearing a cosmonote
+>> banana just sculpt released by
+>> and I mean probably this cosmonote ID is
+not the best ID but um at least it's
+something that is very unique that will
+make people have an additional chance of
+stop scrolling and then AB test the same
+thing where instead of like wearing a
+cosmonaut suit he will be wearing like
+kind
+an Indiana Jones style suit.
+>> Have you seen that guy on Instagram that
+has his videos? He's like laying down on
+a skateboard rolling down a hill. Have
+you seen that?
+>> No, actually. No.
+>> The camera is positioned on his chest
+and he's laying on some sort of rolly
+device like a skateboard and going
+downhill on a sidewalk and like
+screaming into the camera about
+something irrelevant to what he's doing.
+and his videos get millions and millions
+of views because the visual hook a and
+the retention b cuz you just you're
+thinking he's going to crash the whole
+time, right? And I think people making
+content underestimate how important
+their setting is, right? Like just a
+snake around your neck or just something
+for someone to look at as you're talking
+is so critical. There was one of our
+clients who did an ad where the AI actor
+was driving and they were not looking at
+the road.
+>> Everyone was like, "When are they going
+to start looking at the roads and people
+got scared that they got an accident?"
+So, you can do that with AI. Obviously,
+you don't want to be recording that in
+real life because it's so dangerous, but
+you can do that with AI,
+>> right?
+>> And that's one of the things with AI
+also. You can just do things that would
+require an entire production team. Not
+only can you do like just test different
+audiences. If you are a 25 years old and
+you want to target people who have
+disabilities and are over 50, obviously
+you are not going to be very relevant
+when you record yourself and do a video.
+But now you can use an AI actor with a
+filter and say I want to have this guy
+who will be I don't know senior and you
+will only see AI actors who are over 50
+years old or 40 years old and
+>> interesting
+>> but also you can just like do something
+crazy if you don't want to target a
+different audience than yourself but you
+just want to catch the people attention
+maybe you can create an avatar that is
+on the skateboard as you said and as
+they are talking
+>> there will be riding on the skateboards
+and any just be creative and then it's
+about like doing these unique things
+that the other ones don't do.
+>> If you were to take your customer base
+and put them into like three to five
+different buckets of like all right
+these guys use them for AI influencers,
+these guys use them for AI generated
+video ads, what would those buckets be?
+What are people using your service for?
+>> The first one is mainly ads. So
+promoting either their own services or
+selling AI UDC to other people. The
+second one is AI intrinsers.
+And inside if we take ads inside this
+bucket we have three main verticals
+really. The first one will be mobile
+apps. We have a lot of them. People
+would create an app on Lovable and then
+guess what? You need to get users to the
+app. So you need to run ads and to in a
+very competitive world you need to be
+very creative about the ads you do. So
+the first one is mobile apps. The second
+one is ecom. So you are selling a
+physical product. And by the way you can
+do that with a you can have them like
+actually hold your product while they
+talk
+>> about it. So the second one is ecom and
+the third one is services uh like the
+disability path I showed you. It can be
+lead generation in a very broad sense
+where you will sell leads to any types
+of services. So hair salon, dentists,
+even entrances, people will like run ads
+on like why you should like try this new
+entrance and then sell the leads to
+entrance companies.
+>> Okay. When it comes to AI influencers, I
+have to think there's a lot of
+survivorship bias where it's easy to
+point to the handful that have millions
+of followers making all this money, but
+nobody sees or knows about the ones that
+just never did well, never got any
+followers, it didn't work. Where are
+people failing when trying to create and
+grow AI influencer accounts, and what
+could they do better?
+>> So, I would say lack of consistency and
+lack of creativity. It's very similar to
+content creation
+without AI, right? There are probably
+thousands of people who would want to be
+YouTubers or Tik Tokers and create
+content, but they only post a couple of
+weeks and then they give up. That's the
+main one. Uh with AI, the same
+principles will apply. If you just go
+ahead try a tool like ours generate one
+or two video post them I can guarantee
+that there is 99% chance that they will
+not perform and then the second thing is
+creativity right when you create content
+you need to be creative you need to have
+good ideas I showed you the example of
+um the VC who created content for
+sophomores in the University of Alabama
+was very smart about picking the right
+niche so she saw that there was this
+trend right now on Tik Tok because Tik
+Tok lets you find this with the Tik Tok
+creator search insight which is an
+inside like a feature inside Tik Tok
+where you can see the trends that are
+rising right now. So she was very smart
+in choosing the right trend and then she
+was very smart in the content that she
+did. She was very creative like by
+having emotion in the script. The top
+video was a video where the AI
+influencer was crying. She also played
+with the looks of the person. And maybe
+one last thing is which actually will be
+contra contradictory to what I just
+said, but I think a lot of your content
+will be looking at what's already doing
+well and trying to replicate that with
+AI. And that's one of the key advantages
+of AI, right? You can like take
+something existing and redo it in a
+different way.
+>> Quick question. What if there were a
+private community out there of people
+that were building businesses based on
+this podcast? Well, I just made it and
+it's only for business starters and
+business builders. It's called TK owners
+and it's basically like having me and a
+hundred other business geniuses as your
+business partner. Also, there's going to
+be exclusive new trends, growth hacks,
+business ideas, and a database of
+everything I've ever talked about.
+You'll find thousands of startup case
+studies. You'll have weekly ask me
+anythings with me while I'll answer your
+questions directly. You can join now at
+tkowners.com, link in the show notes. I
+think the creativity part is is super
+key. Like people,
+from what I've experienced, people that
+want to create content, they don't want
+to show their face. No one wants to,
+right? Like that's normal. And so like,
+oh my gosh, AI influencer. That's
+exactly what I've always been looking
+for, right? Because I don't have to show
+my face. It can be a different person or
+it can be an AI generated version of my
+face. And so they think that now they
+found the solution to all their problems
+when really they need creativity. They
+still need a good hook. They still need
+something to keep people retained
+throughout the whole video. I think
+people also get hung up on consistency.
+They're like, "If I'm just consistent,
+if I just put out one video a day or two
+videos a day, I'll get there. It's just
+a matter of time." But if you're not
+improving every video or if you're not
+being creative enough or if you don't
+have good hooks, if you're not learning
+from your mistakes, there's a lot of
+accounts out there with thousands of
+videos and 82 followers because, you
+know, consistency is just one factor.
+You've really got to become a student of
+the game. like you said, learn what's
+working with other people and be super
+creative whether using AI or not
+>> and to be tactical the tools you can use
+to that. So if you are doing ads
+basically Facebook ads library just
+looking at the ads the other people in
+your industry are doing you al also have
+some tools built on top of the Facebook
+ad library like foreplay where you can
+create boards and you can save the ads
+that you see from your competitors
+basically create inspiration. The Tik
+Tok search creator insight is really
+really good. It will literally tell you
+which pieces of content are lacking from
+the platform. It will tell you okay
+there are so many searches for this
+keyword and only these number of videos.
+So if you make a video about this very
+specific topic, there is a very high
+chance that it's going to do well. also
+going on Tik Tok, Instagram, if this is
+what you are doing, downloading a lot of
+videos of people who did well, you know,
+there there is this concept of outliers.
+So basically, you will take a Tik Tok
+account, you will look at all the videos
+that they posted
+>> and one of those videos will probably
+have done 10x better than the other
+ones.
+>> Step like why did they do 10x better and
+then bring them to a Google sheet and
+try to replicate them with AI. I truly
+believe the revolution of AI is you can
+create more faster, you can test more
+things and also it opens up the
+opportunity for people who are not
+necessarily the most good-looking who
+don't necessarily speak the language
+perfectly and we'll see more and more of
+these accounts knowing everything you
+know now about your own software, how
+people are using it. If you were to be a
+user of your own product and log in,
+create an account, and trying to make 10
+grand a month as soon as possible, what
+would be and you didn't have much money
+to work with, what would be your go-to
+action items to use your own software to
+get to that 10 grand a month. Which path
+would you take?
+>> Yeah, 10 grand. And let's say I'm not
+like techsavvy and I cannot code. I
+cannot even like use viol. I don't want
+to do a tech product.
+>> You got a thousand bucks to work with.
+>> Yeah. I mean, I will just like go to the
+Facebook ads library. I will open the
+Facebook ads library, look at companies
+that seem to be running lots of ads,
+find their LinkedIn account, and I will
+target like smaller company because you
+don't want to be targeting companies
+with 200 people plus with a lot of
+>> can't find the decision maker.
+>> Exactly. I would want to to basically be
+able to reach out to the CEO. So I will
+find their LinkedIn. I will then go to
+ARC ads, create an ad very similar to
+one ad they are already running. Maybe
+they are running existing UGC ads with
+UGC actors. I will tell them, okay, this
+UC ad that you probably paid $500 for
+and that took you three weeks to to get,
+I will do it for you. And actually, the
+first one will be free. Here is it. Here
+it is. Like I I did this video for you
+and I I did it with AI. That's the only
+difference. But I did it for you. And I
+will just do that for a 100 companies.
+And then if I do that for 100 companies,
+I will probably get calls like phone
+calls with 20 30 of them. And then a
+third of them will pay for my services
+and I will sell them the services 3 to
+5K per month. Yeah, that's already 15K
+in revenue. And I mean I think in I can
+pull this off in one month. In one month
+I can me be making 15k in revenue doing
+that with like zero network just
+LinkedIn and uh reaching out to people.
+>> That's perfect. Yeah, it's just an it's
+just a numbers game. You need more shots
+on goal
+>> if you want to really make a $100,000 in
+revenue. Probably build a product or
+create an AI influencer and try to
+become the next Mikla because there are
+going to be a ton of them in the next
+years. If you want to get 100K or a
+million a month, if you want to do 10K,
+like I mean that's easy. Like really
+easy.
+>> I love it. You could do both at the same
+time. Create an AI influencer and start,
+you know, start an agency at the same
+time. Why not?
+>> 100%. Yeah.
+>> Is there anything I didn't ask you that
+I should have asked you? Like anything
+interesting about how this works or any
+interesting I think this has already
+been amazing, but is there anything I
+missed?
+>> We can talk about like the advanced
+level. I mean I don't know if uh this is
+something uh you guys might be
+interested but the like level one would
+be you go to the platform you create ads
+and you write your scripts and you
+brainstorm you create the perfect actor
+level advanced level would be okay now
+actually instead of like me
+brainstorming ideas and me creating one
+or five videos a day I will create
+Google sheets with lots of existing ads
+sends this data to chat GPT. Let ChatGpt
+read the transcript of the transcript of
+these ads. Ask Chpt to recreate a new
+script for another for my service that
+I'm selling and then connect to our API
+through an automation tool like Zapier,
+Make.com, NA10, Gumloop and create these
+ads automatically. And instead of like
+making one to five a day, I might be
+doing 100 to 500 a day. And then I would
+like really increase the chances of
+finding this viral ad that will bring a
+lot of profit not by brainstorming but
+by letting AI do the whole flow. This is
+a little bit more advanced but um I'm
+seeing more and more people getting
+insane results with with these uh flows
+and that's probably a very big
+opportunity as well.
+>> Yeah. Yeah, because everything you
+described with that automation example
+could could be automated, right? Or not
+with the automation, with the agency
+example. Everything you described with
+the agency example could be automated,
+right? Every morning at 9:00 a.m. your
+agent wakes up and just starts browsing
+the Facebook ads library. It assigns
+more weight to ads that have been
+running for the longest because that
+sends a signal that they're more
+effective. It recreates them. It finds
+the owner on LinkedIn. It messages them.
+message back. It only creates the UGC ad
+once the owner has reached out and said,
+"Yeah, sure. Send me a free sample." You
+know, like you could have it do all
+kinds of things.
+>> Exactly. Yeah. I think that's how you
+can scale services have the repetition
+of not being scalable. I think that's a
+good way to scale them without having to
+hire an army of 100 people.
+>> Yeah. I mean, anything scalable, it's a
+question of how scalable is it? How hard
+will it be to scale?
+>> Right. Correct.
+>> That's how I look at it.
+>> Okay, Roma, this was perfect. Where can
+we find you?
+>> I post content on LinkedIn. I post
+content on X as well. Roma Torres,
+founder of Ards. Feel free to reach out,
+ask questions. I will try to look at the
+comments as well. Happy to help.
+>> Okay. Arcads.ai. All right. What' you
+think? Please share it with a friend and
+we'll see you next time on the Kerner

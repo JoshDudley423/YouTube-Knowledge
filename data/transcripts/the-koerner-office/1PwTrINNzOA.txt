@@ -1,0 +1,1417 @@
+We have a little over 8K a month from
+from this experiment.
+So, I wanted to bring you here so
+[music] we could come up with some
+business ideas that agents could launch
+for us entirely. And then, I'm going to
+fly you back here in a month. [music]
+We're going to touch base on if those
+ideas made any money and if so, how much
+they made, how you did it, how they can
+copy you.
+>> It worked and we have [music]
+like a little over 8K a month in MRR
+from from this [music] experiment.
+>> Hold on. Hold on.
+$8,000 a month in monthly recurring
+revenue.
+>> Uh-huh.
+>> From this experiment that an AI agent
+built for you.
+>> Yeah.
+>> I need to process this.
+>> So, I actually just have mine on my
+phone. I just text [music] it back and
+forth. I named mine Zach Morris. So,
+anyway, Zach just does whatever I tell
+him to at any given time. It's nice to
+do it via [music] iMessage. It found 350
+local businesses in Utah, made the 350
+websites.
+>> How much [music] did it end up being per
+website in token cost?
+>> A handful of cents.
+>> Wow.
+>> Yeah.
+>> Oh my gosh.
+>> Yeah.
+>> That went much better than I expected.
+>> Yeah. Yeah, the same. This is an effort
+of using open claw in unique ways, but
+making real money
+>> Mhm.
+>> while showing people what is truly
+possible. And honestly, [music] I want
+to have like a handful of things like
+this that are making real dollars.
+>> Banger alert. Banger alert. Listen, it
+There's not a coincidence that some of
+my best episodes are my AI agent made a
+business for me and made me money.
+That's cool. Who wouldn't want that? So,
+we reengineered that today. This video
+was filmed over the course of a month.
+My friend Brandon is a baller at AI
+agents. We kind of brainstorm some ideas
+of what types of businesses an AI agent
+could start for us. And then, he
+actually launched some of those
+businesses. And then, he comes back a
+month later. We talk about how it goes.
+And you're going to be shocked. Okay,
+Brandon. Thank you for flying to Texas.
+>> Glad to be back.
+>> Okay. So, you've been thinking of have
+ideas?
+>> I have some, yeah. And are we are we
+trying to use Open Claw?
+>> I think so, yeah.
+>> Okay, so for those of you who don't know
+Open Claw, Open Claw is basically like
+an AI assistant that can do pretty much
+anything for you if you set it up right,
+and it can use any AI model that you
+connect it to. So, it could use Claude
+or chat or Gemini or Grok, but also like
+Deep Seek and and Kwen and Kimmy and and
+other ones from China. So, it can use
+anything and you can also like give it
+access to a credit card or or whatever
+and let it spend money to then do other
+things for you to integrate with
+whatever to accomplish whatever task you
+need it to do. And so, anyway, I like to
+push the limits with mine that I have
+that my company David AI set me up with
+because I don't know, Open Claw is
+amazing and it can do so much stuff. So.
+>> So, before we get into some ideas, what
+have you been using Open Claw for that
+people might find interesting?
+>> Yeah, good question. So, you you can
+interface with it in different ways. So,
+you can interface with it like on your
+computer, like in a browser. You can do
+it in chat, in iMessage, in Telegram,
+and whatever. So, I actually just have
+mine just on my phone. I just text it
+back and forth. A lot of people like to
+name their Open Claw. I named mine Zack
+Morris. Saved by the bell. I admired him
+growing up.
+>> Me too.
+>> So, that I don't I couldn't think of a
+name, so I just named him Zack Morris.
+So, anyway, Zack just does whatever I
+tell him to at any given time. It's nice
+to do it via iMessage and with the
+little blue bubbles just kind of makes
+it feel, I don't know, more personal. It
+can do anything that AI does, but like
+more and and longer tasks that are more
+in-depth. So, whether it's research, but
+like, "Hey, go do research on all the
+new startups in the whatever home
+services space and give me the details
+of like, what is their marketing
+strategy? How much money did they raise
+if they raised money? What is their
+moat? What you know, what aspect of home
+services are they tackling? Give me all
+the links, all the details, put it on a
+Google Doc for me, and then tell me how
+I can change something that I'm doing,
+blah blah blah, based off of that. So,
+it could do that, but it could also be
+like
+more in-depth in the sense of, "Okay,
+now go and sign up for a demo of each of
+those companies, and tell me what the
+onboarding process looks like between
+your demo sign up and when you actually
+do the call." So, it couldn't do the
+call for me, but it could tell me like,
+"I want to know the drip campaigns that
+they get via email." It could do the
+call for me. It could do the call, yeah.
+Yeah, I could just have a camera-off
+thing and have it be on the call, and
+actually I totally could. I should do
+that. That'd be weird and creepy, but I
+could totally do that.
+I guess it wouldn't be weird, but it
+might be a little creepy.
+>> Before you continue, I want to touch on
+the fact that you built it into
+iMessage. I think that's like
+on the surface it's like that's cool.
+That's a cool little gimmick, but I
+think that's critical because it's it's
+frictionless.
+>> Yeah.
+>> And that's an app you're probably in
+more than any other app, which means
+you're going to use this more than you'd
+use it otherwise if it were buried in a
+browser or like a crappy user interface,
+which means the more you use it, the
+better you get at it, and the wealthier
+you get from it, right?
+>> Yeah, totally.
+>> I don't want you to undersell how
+critical it is to have it in like where
+you already live on a daily basis.
+>> Yeah. Yeah, and that's a good callout.
+So, we do this for other companies. We
+do like AI solutions for companies, and
+when we do like an Open Claw setup,
+which there's there's other versions now
+you can do Hermes and other things, but
+Open Claw is is still the best and most
+powerful in my opinion. Anyway, we try
+to set it up where they live the most.
+So, sometimes we'll get a client that
+like their whole day is in Slack.
+>> Yeah.
+>> In which case we're like, "Okay, well,
+we'll just build yours into Slack." Some
+is in email, so we'll build in email.
+I'm in my iMessage, you know, my
+Messages app on my iPhone all day, so I
+just figured friction-wise I want it
+there cuz yes, I want I don't want it to
+be in WhatsApp or Telegram. Like I don't
+use those that much. So,
+>> Yeah. So, when you send an iMessage to
+you to Zach Morris,
+is it getting on your Mac mini
+that you have a a display on and it's
+like actually going and searching and
+you can see the cursor move and
+everything?
+>> So, it does connect to a Mac mini, which
+I have in my office in Provo, Utah,
+which is online at all times. It's
+actually not connected to a screen, my
+Mac mini. It is just chilling there.
+Yeah, that's where it works though. And
+then it usually delivers me the
+information. So, I connected it to my
+Google Docs and Gmail and Google Drive
+and then iMessage. So, it just delivers
+everything either in my text or like in
+a Google Doc or Google Sheet or
+whatever.
+>> Okay.
+>> Yeah.
+>> Believe it or not, just because you're
+watching this doesn't mean you're
+subscribed to my channel. YouTube's
+going to show you stuff even if you're
+not subscribed to it. Over half of
+people that watch my videos are not It
+would mean the world to me if you just
+hit subscribe. Thank you so much.
+>> All right, so what are some ideas you've
+been thinking of?
+>> Okay, so I saw a couple people talking
+about like bedtime story stuff for kids.
+So, that's one that I was thinking would
+be fun, partially because I think it'd
+be easy to do. So, basically what I want
+to do is spin up a little website that's
+basically like custom bedtime stories
+for kids. So, I've done this for a long
+time with my kids. I don't do it as much
+anymore cuz they're a little older, but
+telling them bedtime stories, but it can
+be cumbersome to do it every night and
+to do new ones. So, what I actually had
+started doing, which did work for quite
+a while, is I started going through all
+of the Marvel movies and just I would
+tell snippets of those of each movie
+starting with Iron Man 1 and going all
+the way to Endgame. And I would just
+change the character names to be my
+kids' names and their friends and stuff,
+but that's where I just get the ideas
+from uh I knew the movies well. Anyway,
+so that lasted me like a couple years uh
+just going through the
+chronologically through all that stuff.
+And then I would just do like other
+superhero movies. But, I mean that's
+hard and not everyone knows
+>> Yeah.
+>> a bunch of movies really well where they
+can just pull from. And you can only do
+like so many like princess knight
+stories or whatever, right? So, anyway,
+custom bedtime stories for you for you
+for your kid delivered to your email
+inbox each night.
+>> Okay. At a set time of day, so it's like
+bedtime
+>> night at 6:00 p.m. you'll just get the
+thing in your inbox. It'll have your
+kids' name like you can up I'll do it to
+where you can just upload the kids' name
+and maybe like preferences like do they
+like princesses or cars or fighting or
+business, whatever they like.
+>> So, this is interesting cuz it's kind of
+like a a a one-to-one bespoke
+newsletter.
+>> Yeah. Yeah.
+>> In a way. And so people can upload their
+kids' names, some themes or whatever,
+and then they will get specific stories
+according to their preferences in their
+inbox every day.
+>> Yes.
+>> Which is really unique. It's not an app,
+it's not a newsletter, it's like a
+one-to-one newsletter.
+>> Yeah.
+>> And I want to point out another
+brilliance here is I think a lot of
+people would if they had the same idea,
+the form factor they would default to is
+an app. Like I got to build an app. I
+got to build an app.
+>> But guess what? Like people don't want
+another app.
+>> Yeah.
+>> We don't want another app. We have like
+50 apps on our phone and we use like
+five of them on a daily basis.
+>> So, the fact the chances that we'll add
+a sixth is almost nothing.
+>> Yeah.
+>> So, you're saying let's just embed
+ourselves in an app where people already
+are, mail, Gmail, just like you're doing
+with Open Claw, right?
+>> Um
+>> Which in general, I think that's how
+people should think.
+>> Yes.
+>> Cuz taking more real estate off of their
+home screen is becoming more difficult
+than ever before. So, yeah, you can't
+compete. So, let's just go where they
+already are, text or email.
+>> And I think people default to app
+largely because they almost feel
+insecure about the form factor. Like,
+well, it's not it's not special if it's
+an email. No one's going to pay for an
+email. We want an app. And they they
+want to feel proud of it. But, it's like
+that's not good business. We don't want
+another app. We want a problem solved.
+In this case, the problem is creative
+stories for our kids.
+>> Yeah. Okay. So, I love the idea. I'll
+make it super cheap.
+I'll use Open Claw for all of it. Then,
+I'll mix some ads with Open Claw to
+drive traffic to it. And that was one
+idea. We'll see what happens.
+>> So, the idea is So, in vibe coding, you
+have um like they call them one-shot
+prompt apps, right? Or websites. One
+prompt and it's built. Yeah. Sure, you
+got to go connect it to a domain name or
+whatever. Is this going to be a one-shot
+prompt business? Or is it going to take
+some massaging back and forth?
+>> I don't think it'll be that hard,
+honestly. I mean,
+Open Claw is really good. Open Claw is
+as good as you set it up and and train
+it to be. So, like mine is connected to
+all the models. So, I just have to I'll
+basically just do a really really good
+voice prompt to iMessage.
+>> Oh, that's That makes iMessage even more
+brilliant.
+>> Yeah, yeah. So, I'll just say, "Hey,
+make me whatever. Bedtime story, custom
+bedtime story apps for kids." It'll be
+delivered to the parents. We'll charge
+whatever, nine bucks a month.
+Like, nine bucks is pretty cheap. Use
+whatever information you need to be able
+to generate at least 365 unique stories
+per year.
+Uh blah blah blah. And you know, spin up
+the website. Uh I'll just I'll have to,
+you know, manually probably buy the
+domain that we're going to put this
+thing on.
+>> Theoretically, if it had your credit
+card or was logged in your GoDaddy or
+Namecheap account, then
+>> could. Yeah. I'll have it create some
+ads. And then uh
+>> So, ads is is how you're going to grow
+it.
+>> Yeah.
+>> Because nowadays, building is the easy
+part, right? So, you're saying Open Claw
+can do the harder part, which in this
+case would be paid ads.
+>> Yeah. Paid ads. I'll probably just do
+them on
+Facebook and Instagram and, you know,
+meta does the targeting with via the
+creatives. So, I'll just spin up a bunch
+of different creatives and go from
+there. Okay. See what the MRR can be.
+>> Monthly recurring revenue. What is your
+goal for customer acquisition cost? If
+it's nine bucks a month, you have no
+idea how long they'll stay.
+>> Right. How much are you willing to
+spend?
+>> like 20 bucks. Like I think that I don't
+know. That'll probably be fine. But, I
+mean, part of this this isn't my main
+business. So, this is mostly or this is
+an effort of using OpenClaw in unique
+ways, but making real money while
+showing people what is truly possible.
+And and honestly, I want to have like a
+few or a handful of things like this
+to frankly be able to just like show our
+clients. Like, hey, we we eat our own
+dog food. We like Yeah, this is this is
+for fun, but look, we made this bedtime
+stories thing. We did X, Y, and Z. Look
+how much money it's They're they're
+making real dollars. I just think I want
+to have some examples to show like our
+AI clients. Like, I want them to be able
+to think outside of the box
+>> Yeah. better as well.
+>> Yeah. Yeah.
+>> Okay. So, I think we should run with
+that.
+>> Okay.
+>> In a month, we're going to revisit and
+see if if it was built, if you have any
+revenue, and how you did it, okay?
+>> Okay. I'll get it done.
+>> What else you got?
+>> Yeah, so on OpenClaw, more ideas.
+Another one I had was
+So, there are endless businesses that
+exist, obviously. There are endless like
+local home service type businesses. Lots
+of them still either have horrible
+websites or
+no website. Which is kind of crazy to
+have no website. So, I think that I can
+use OpenClaw to find enough businesses
+who don't even have a website.
+>> Okay. I mean, that's easy enough so far.
+>> Yeah. I think I can do that. I think I
+would also be able to spin up websites
+for them.
+>> Sure.
+>> With uh with OpenClaw. And then I guess
+I would just figure out how do I then
+hit them up to
+you know, like tell them like, "Hey, I
+made you a website, you know, do you
+want to buy it or do you want to" or
+I'll give it you for free if you hire us
+for marketing or something like that.
+So, I can think of how I would end up
+reaching out to them, but I think
+there's I think there's a lot of
+potential in this in and of itself.
+>> Okay, so let me make sure I understand
+this. Zach Morris, go find local
+businesses, right? That's a key part of
+this.
+>> Yeah.
+>> Local businesses that maybe are listed
+on Google or Google Business Profile.
+>> Yeah.
+>> Google Maps, right?
+>> got to find them somewhere, so yeah.
+>> And it's very easy for anything or
+anyone to see, you know, there's no
+website to click. Okay? So, only only
+return local businesses that don't have
+a website. want to focus on a geography?
+>> I'll just do Utah since that's where I
+am.
+>> I mean, usually it's easier to sell
+anything to a local area cuz your people
+are familiar with it.
+>> So, all right. And then you're just
+going to prompt it, okay, once you have
+this this business that doesn't have a
+website, use Replit or Lovable or
+whatever
+>> Yeah.
+>> to build a simple website for them based
+on public publicly available data.
+>> Yeah.
+>> And then you're going to
+use some methodology to
+sell that website as a service to them.
+>> Yeah, yeah. And I'll
+to actually make it work, I probably
+have to do a lot. So, I'll do like I'll
+probably do a few hundred, which then
+also means I will need to use OpenClaw
+in a way where the token cost doesn't
+get out of hand. Because with OpenClaw,
+you you basically use you still use like
+your own plans with Claude and chat and
+Gemini and the Chinese models and all
+that kind of stuff. So, I'll try to keep
+token costs minimal cuz if I'm I'm to
+spin up 300 websites or whatever, that
+could get out of hand cost-wise. So,
+I'll figure that out, too.
+>> What do you think that would cost per
+website in tokens?
+>> It depends if you actually deploy that
+mana even just on a Replit URL. So, on
+like a $20 a month plan, it partially
+depends how much traffic they get. You
+could probably have like seven to 10
+websites live on Replit.
+>> So, but that's 20 bucks a month. But, if
+I'm going to do it for hundreds,
+>> Yeah.
+>> it would start to add up. And I don't
+know how many are actually going to want
+them. So, anyway, I'll figure a way
+around that via potentially tapping into
+the Chinese models or doing a website
+once and cloning it and I'll figure it
+out and but I think it'll be doable.
+>> Okay.
+>> I'd be curious if you could split test
+this
+and do one set of outreach to businesses
+that don't have a website and then
+another set of outreach to businesses
+that do have a website.
+>> Yeah.
+>> Because I've noticed often times
+businesses that do have a website are
+more willing to pay for a better website
+>> Yeah.
+>> than businesses that don't have a
+website are willing to pay for any
+website.
+>> Yeah.
+>> You know?
+>> Yeah.
+>> Because the first camp recognizes the
+value of having a website already.
+>> Yeah.
+>> Uh they might be getting leads from it
+and you might be able to convince them
+that they could get more leads from a
+better designed or better optimized
+website.
+>> Yeah. Yeah, totally.
+>> So, that could be interesting. All
+right, how do you think you'll get their
+attention?
+>> Yeah, so depending on how many I do, um
+I mean, I'll get for sure I know Open
+Club will be able to pull the contact
+info for all these. So, I'll be able to
+get, you know, like their names, phone
+numbers, emails, obviously business
+names, too, which I'll need for the
+website builds. So, I can
+I could call them and then tell them. I
+can email them. I can
+I can do postcards to try to hit them up
+in more of like a, you know, old school
+way and try to stand out that way. But,
+and it could be a combo of all three,
+which, you know, maybe a combo is the
+best way. But, yeah, cuz I'll have all
+their contact info. so I'll be able to
+get to all of them. It's just a matter
+of how.
+>> Okay. What do you think you might be
+able to price this at?
+>> Yeah, I mean, if I can keep token costs
+low enough, which is my goal, then what
+I would like to do would be you get the
+website for free if you hire us for
+marketing.
+>> Okay. And what would that cost them?
+>> We have more like AI-powered marketing
+services that we offer that start at
+like a few hundred bucks a month. So,
+pretty cheap.
+>> Yeah.
+>> It's not a big ask.
+>> That could really add up. Yeah. There's
+33 million small businesses in America.
+>> Yeah, yeah, okay. Yeah, so we have
+packages that range from like three to
+700 bucks a month on the marketing side.
+So, I would be fine with saying, "Hey,
+you get this website for free as long
+You just have to sign up for the
+cheapest package."
+>> Yeah.
+>> Okay. So, kids stories
+>> Uh-huh.
+>> and then outreach to business owners
+with no website.
+>> Uh-huh.
+>> Anything else that you might want to
+try?
+>> I saw that um
+Anthropic actually just basically had
+employees of Anthropic use Claude to
+like buy and sell stuff for them on
+Craigslist in like whatever their HQ is,
+like San Francisco or something. So, I
+was thinking that it would be cool if I
+could try to use open claw to do that
+for me on Facebook Marketplace in Utah
+and see like can it just like whatever
+buy a pair of shoes off of Facebook
+Marketplace and flip it for like a $3
+profit um or couches or whatever,
+something that's maybe a little more
+cheap and like how much could it
+actually how successful could it
+actually be just trying to find the
+arbitrage of oh, this looks good
+quality, you know, signal to buy, buy it
+and then relist.
+>> Or you could even have it like compare
+and contrast the same items on eBay and
+Facebook Marketplace at the same time.
+So, like let's say um
+like a a specific version of a Jordan
+shoe for a specific year.
+>> Yeah. and it just scans eBay and
+Facebook eBay. Oh, this one comes like
+let's say fair market value is $136.
+>> Yeah.
+>> And it sees one pop up in Pleasant
+Grove, Utah for $78.
+>> Yeah.
+>> And it knows they're consistently going
+for 128 on eBay.
+>> Yeah.
+>> Less fees netting out at $103, right?
+>> Yeah. Yeah.
+>> like boom ding ding ding ding.
+>> Yeah.
+>> Reaches out within a minute. Then mows
+them a deposit.
+>> Yeah.
+>> So, they hold it.
+>> Yeah.
+>> And then messages you urgent. Hey,
+Brandon.
+>> Yeah. Yeah.
+>> up this shoe. I need someone in the real
+world to do this. But while it's asking
+you to do that, it's listing it on eBay.
+Like listing it live.
+>> Yeah.
+>> And it might even be sold by the time
+you go pick up the shoe.
+>> Yeah.
+>> Wouldn't that be interesting?
+>> Yeah. Yeah. Yeah, I don't know that'd be
+awesome. Well, yeah. I'll just try that,
+too.
+>> Okay. So, three ideas.
+>> Yeah.
+>> Touch base in a month?
+>> Yeah. Sounds good.
+>> Okay.
+All right. Well, I've purposely
+refrained from asking you questions over
+this last month. Cuz I want to be
+surprised. Before I ask you any
+questions, how excited are you about
+your results on a scale of 1 to 10?
+>> 10. Yeah, I'm pumped.
+>> Wow.
+>> Yeah. Okay. Yeah, things have been going
+good.
+>> have actual revenue?
+>> Yes.
+>> What about profits? P-word.
+>> Profit. Yeah, I've got it.
+>> Okay.
+>> Yeah.
+>> Something just happened with Beehiiv
+that I think you might have missed. You
+can now connect your Beehiiv account
+directly to Claude, ChatGPT, Gemini, or
+whatever AI tool that you use through
+something called MCP. So, last week I
+connected my newsletter to Claude. And
+now I can sit in Claude and say, "Look
+at my open rates from the last 30 days
+and tell me which subject lines
+performed best." Or "Draft next week's
+newsletter based on the topics my
+audience clicked on the most this
+month." And Claude does it. It can see
+my real Beehiiv data, subscribers,
+engagement numbers, automations,
+revenue, everything. And I've already
+cut my weekly production time because I
+stopped guessing what to write about and
+started letting the data decide for me.
+So, instead of using AI to just write
+generic content, use AI to plug into
+your actual newsletter to make decisions
+based on what's already working. Beehive
+built this MCP so your favorite AI tool
+can be your newsletter strategist and
+your data scientist all in one. So, move
+your email list over today and try
+Beehive 30% off for 30 days with code
+Chris 30 because this might be the
+simplest highest leverage business you
+can build right now. So, three ideas,
+I'm going to recap everyone.
+We had a, you know, help business owners
+build a website with Open Claw. Help
+parents tell more customized unique
+stories every single night through an
+email sent at a certain time with Open
+Claw. And then we had a find arbitrage
+opportunities between Facebook
+Marketplace and eBay or just all buying
+and selling on Facebook Marketplace with
+Open Claw, correct?
+>> Yep.
+>> Okay, let's start with the duds, if
+any. Which of these were duds?
+>> Bad news, that last one, the buying and
+selling one, I wanted to do, I kind of
+started doing it, I canned it. But, I
+think it has potential for sure. I just
+didn't focus on it because the other two
+were working.
+>> Okay, that's fair. I mean, it's
+opportunity cost. You only have so much
+time in the day.
+>> Yeah.
+>> Did you
+>> not necessarily passionate about buying
+and selling things on eBay, whereas, you
+know, I've got four kids, so bedtime
+stories is cool. And then the other one
+was making, you know, meaningful
+improvements to my actual business.
+>> Oh, okay. So, did you see any signs of
+life on the Facebook stuff?
+>> Honestly, I didn't give it enough of a
+go to even like Yeah.
+>> That's fine cuz you you ignored it for
+good reason.
+>> Yeah.
+>> So, let's start with bedtime stories.
+Tell me like how that entire thing went.
+>> We do a 7-day free trial thing. You can
+use it even get like a free story. And
+basically, you sign up, you create your
+account, you customize your child's
+profile, so their name, favorite animal,
+favorite color, you know, do they like
+do they like princesses or cars or
+whatever, it doesn't matter. And then we
+as we say, you get a magical story in
+your inbox at 7:00 p.m. every night. And
+we charge nine bucks a month if you have
+one kid, a little more for other stuff.
+>> Okay. And you're going to show us the
+prompts to build all this?
+>> Yeah, I'll show you the prompts. I don't
+know where you want them. We can put
+them on the screen or put them in the
+description.
+>> Yeah, we'll we'll add them to the end.
+>> Okay.
+>> That's really good design.
+>> Yeah, this is OpenClaw.
+>> Did you give it like something to work
+off of with design?
+>> Honestly, no.
+>> You just ran with that?
+>> Yeah, just ran with that. And I was
+like, "Oh, it looks good." And
+yeah. So, I like the design. We don't
+even push the family or legacy yet. We
+just have the starter, which is the nine
+bucks a month.
+>> Okay.
+>> Um which price point-wise we just chose
+that because I don't know. Nine bucks.
+We didn't want to charge like only five
+bucks, so we just chose nine. And then
+we started doing some ads. So, I ended
+up making one ad, but I just made an ad
+basically saying how like I'm a dad of
+four kids, it's hard to endlessly think
+of new bedtime stories, and that's why
+we made dreamtales.io to make it easy.
+>> Yeah.
+>> So,
+>> Did you make the ad or did OpenClaw?
+>> So, I made one ad, but and then we had
+OpenClaw make some like AI
+obviously powered ads.
+>> Okay.
+>> So, we had a few of those two running.
+>> What type of an ad did you make? Was it
+still image, video, what?
+>> Mine was just a video, just like me
+talking to the camera.
+>> Like 15 15 seconds, short.
+>> it's probably like 20 seconds.
+>> Okay.
+>> Yeah.
+>> You let Facebook choose the targeting?
+>> Uh-huh, yeah.
+>> Okay.
+>> Yep. And then yeah, the AI ads is more
+just like, you know, pictures of moms or
+kids or whatever, and then the story,
+and then
+>> No like heygen AI avatars. That's more
+still image and stuff.
+>> Okay.
+>> We have like a little over $300
+in MRR right now.
+>> Holy crap. Monthly recurring revenue.
+>> Yeah.
+>> So, like the 33 34 customers?
+>> And we we we probably spent like $400 in
+ads.
+>> That's nothing.
+>> Yeah.
+>> If that were a $9 a month software
+product, you'd be willing to spend well
+over a thousand on ads. Based on what
+your lifetime value would be.
+>> Yeah, so I think what we're going to do
+for fun is we're going to refine the
+story, like make the the engine behind
+the story creation a little better.
+We're going to try to come up with right
+now we have it as 24 bucks gets you
+three kid up to three kid profiles. I
+think we'll just change it to 19.
+>> Mhm.
+>> So, nine for one, 19 for like probably
+up to four kids. Honestly, it's not that
+much more work. Up to six kids.
+>> They need kids that are young, too. So,
+the chance of people even having more
+than two kids that are under 10 is
+pretty small.
+>> Yeah. And then kind of decide if we want
+to do the physical book option. Maybe
+just have the waitlist for that and not
+decide on that. But, yeah, then dial in
+some ads more or just better, spin up
+some more creative, and then see, yeah,
+can we take this thing cuz base you
+know, essentially we're basically break
+even off of
+it so far, but it's MRR, so it's going
+to continue. And yeah, we're going to
+lose some and hopefully gain more. But,
+I want to see like if we spend another
+thousand dollars on ads, can we get
+another thousand in MRR?
+That's pretty sweet.
+>> Yeah.
+>> Pays back in the first month.
+>> Yeah.
+>> Which ad performed best? Yours or
+>> actually mine, but I think it's just
+because like
+okay, they saw a human, they saw a dad,
+four kids. They connected with you.
+>> could use HeyGen or whatever to to do
+that. It wouldn't be as good, but
+they're pretty dang close.
+>> Yeah. Yeah.
+>> It's essentially a SaaS product. Like it
+is a software as a service product, but
+it's the delivery vehicle is just an
+email a day.
+>> Yeah.
+>> If you were to scale this at any point,
+would you want to kind of take it over
+and hand it to a human? Would you want
+to prompt it better? What does scale
+look like for this?
+>> Yeah, no, I think probably the best
+version of this would be it's founder
+led by a mom who happens to be a
+creative writer.
+>> Mhm.
+>> And she is potentially using AI behind
+the scenes, but she's also like
+constructing the stories or at least
+like the rubric for a lot of the stories
+herself. So, people are connecting more
+with like, oh yeah, like she's an she's
+an author. It's a mom. I just think I
+mean, most of our buyers are going to be
+moms. So, I think that that would be how
+we scale it.
+>> Yeah.
+>> Man, that's exciting. That's that's a
+huge one. You you literally used an AI
+agent to build a business for you
+soup-to-nuts from idea to revenue.
+>> Yeah. So, yeah. So, that's going good.
+And, you know, maybe next time I see you
+I'll I'll I'll have more to talk about
+um with how, you know, we've scaled
+this. And then I can talk about the
+website thing.
+>> Mhm.
+>> Okay. So, so here's what we ended up
+doing. So, we used Zack Morris, my
+OpenClaw. It found 350 local businesses
+in Utah, some of which you had websites
+but were bad, some of which who had who
+didn't have websites.
+>> So, a little bit of both.
+>> Uh-huh. And
+>> Did you Did you ask it to do that?
+>> Yeah, I asked it. Yeah, just asked it to
+do that.
+>> You were just kind of curious kind of
+like the split test we talked about.
+>> Okay.
+>> And so, it found the 350. It found uh
+the contact info for all of them. So,
+like name, company name, personal name,
+email, phone number.
+>> Now, let me get specific. Did it just
+pull the phone number from the Google
+profile?
+>> Yeah, it just did that.
+>> Okay. It didn't go to like Manta or like
+state directory websites.
+>> Yeah. So, basically it scraped Google
+Business across Utah for different
+various different services. It ended up
+being more like landscaping and HVAC is
+kind of what
+>> Well, that's just like it probably just
+took like a random sample size. And most
+home service businesses are HVAC,
+landscaping, plumbing, electrical,
+roofing, whatever.
+>> Yeah. And so, it did that. Like that was
+step one, right? It did it it did it
+successfully. Step two was, can you make
+websites for all these? I asked it that.
+It said, yes. It asked me what platform
+did I want to use? I said, I don't care.
+Just keep my token cost low.
+>> Okay.
+>> It said, okay, where do you want to host
+these? I said, I don't want to actually
+host them live yet. Just put them on
+test URLs.
+>> So, they are public, but not like a
+custom domain name.
+>> Yeah. Yeah. So, it made the 350
+websites.
+>> And it made them like with like the
+Claude API, or did it go to Replit and
+do
+>> Yeah. No, so it ended up using more like
+Chinese models.
+>> Okay.
+>> Because I said keep code token costs
+low.
+>> How much did it end up being per website
+in token costs?
+>> Oh, like a handful of cents.
+>> Wow.
+>> Yeah. Yeah.
+>> Holy crap. So, you're doing a few
+>> of them. Here's some of the sites that
+it made.
+So, landscape, electrical site, what was
+a plumbing one, a roofing one. So, yeah,
+just home services across the board.
+>> most trusted.
+>> Yeah. Yeah, that's true. They're all
+very, very trusted.
+>> of my daughter's friends are her best
+friends.
+>> Yeah.
+Okay, so it spun up all the sites and,
+you know, you can scroll and get some
+more info, which it really just had to
+pull from. For a lot of these, it didn't
+have it. Yeah, pulled from Google. Uh,
+but I mean, it's solid, right?
+>> You mentioned postcards, I think.
+Anyway, we did the postcards thing. So,
+I said,
+"Can you
+basically
+send all these postcards with a QR code
+where if where the owner would then scan
+the card, and then see
+um their site. I want the QR code to
+point to the site. And then on our on
+the QR code, I want it to have the
+information of my David AI company,
+where they could then, you know, call us
+to like buy the site, basically." I
+asked it if it could do that. I didn't
+know. And it said, "Yeah, you can do it
+with Lob." This episode is not sponsored
+by Lob. I've never heard of Lob before.
+It's Lob.
+>> a direct mail API?
+>> Yeah. Yeah, it's lob.com.
+>> Okay.
+>> Okay. So, anyway,
+>> Three-letter domain, they must be legit.
+>> Yeah. Yeah, true.
+>> I do know direct mail is like a
+well-established industry, and there's a
+lot of technology involved.
+>> And
+>> Yeah.
+>> There are APIs that you can use for this
+stuff.
+>> Yeah. Okay, so here's the postcard it
+made. This is the general design for all
+the postcards. It says, "We built you a
+free website. Scan the QR code to see
+your new site. Your business info,
+reviews, and a click to call button all
+live and ready to go." So, that's the
+front of the postcard. And on the back
+of the postcard, it says, "Your free
+website is live. We built it for you."
+And then our contact info. Okay? So, you
+scan it. You then go It would then take
+them, you know, to their site.
+And then Lob gave us analytics, which
+showed of the 350
+of the postcards were successfully
+delivered.
+>> Okay.
+>> So, it gave us like analytics of that.
+So, I want to say it was like
+20% of them scanned.
+>> Okay.
+>> Yeah.
+>> It's not bad.
+>> Yeah.
+>> Okay.
+>> So, 20% scanned. So, I have one like
+part-time sales guy on my team. So,
+I gave him the contact info of the 350.
+>> Okay.
+>> And I said
+>> Yeah. So, I said, "Start calling on
+them, but as soon as we hear that they
+scanned, for sure call on those like
+super hard."
+>> Yeah.
+>> Um and then tell them that their site is
+free if they hire us for marketing. And
+then just pitch our cheapest package.
+Cuz we do Yeah, it's like a few hundred
+bucks. Anyway,
+it worked. And we have like a little
+over 8K a month in MRR from from this
+experiment. Yeah. Hold on. Hold on. Hold
+on.
+$8,000 a month in monthly recurring
+revenue from this experiment that an AI
+agent built for you. Yeah. That
+essentially they did every single thing
+of except for they didn't close the
+final deal, which was my part-time sales
+guy or me.
+I need to process this.
+Guys, tkowners.com. That's my community
+where people are building businesses. I
+do AMAs, Q&As every week live. You can
+ask me anything you want. You can have
+accountability partners. It's about a
+thousand people in there building,
+starting, growing businesses. Check out
+TKO, as in The Corner Office, tko
+owners.com. So,
+68 people scanned,
+340 delivered successfully, nine got
+lost in the mail, 68 people scanned. I
+want to know from your sales guy, how
+many of your closes came from the scans
+versus the non-scanners?
+>> Yeah, it was like 90% scanners,
+10% non-scanners. It was mostly from
+people who did end up scanning.
+>> So,
+are they all paying 300 bucks a month,
+or are some paying different packages?
+>> are maybe the biggest ones like 1200
+bucks a month.
+>> Okay, how many unique customers does
+that $8,000 represent?
+>> Yeah, probably like 20.
+>> Okay. Okay, so so 400 a month on
+average,
+>> Yeah.
+>> a couple do the expensive one,
+>> Yeah.
+>> most everyone else does the cheaper one,
+>> Yeah.
+>> 20, so
+>> Probably more like 17, but yeah.
+>> Okay.
+>> Yeah.
+>> Okay, two or three of them closed
+because of the call. They may not have
+even seen the postcard. Just because it
+was delivered doesn't mean they saw it.
+>> Yeah.
+>> They might have closed without a
+postcard. You don't You probably don't
+even know that.
+>> Yeah, we wouldn't, yeah.
+>> But, the of the 68 people that scanned
+it, they showed enough intent to say yes
+to the call.
+>> Yeah, so basically, if we were to do the
+math here, of the 68, like 14-ish of
+those closed.
+>> 14
+>> Oh, wow. Okay.
+>> 68 scanners.
+>> Yeah.
+>> 20% scan, 20% of the 20% buy.
+>> Yes.
+>> Because of the the cold call. The one
+call.
+>> Yes, but I do think
+and this I don't think should be
+neglected, is I think that the
+uniqueness of them actually seeing the
+QR code postcard to their website, I
+think that already signal enough like,
+oh, these guys are like legit.
+>> Yeah.
+>> They're thinking outside the box. I like
+that. Because they probably most
+business owners get like endless emails
+a day
+>> Right.
+>> of like, oh, I can get you number one on
+Google or I can, you know, run your
+Google Ads or whatever, right? That's
+why I was like, well, let's just stand
+out. Like, yeah, could we use Outscraper
+and other things and like, you know,
+just put them on cold at email outreach?
+Yeah, we could do that, but now we're
+just a yet another email
+>> low friction. Okay, I got a little
+soapbox here. I got to look directly. I
+got to look directly at the camera. So,
+like,
+I think one of the magic things here is
+you merging the online with the offline.
+>> Mhm.
+>> Okay? The more AI grows, the more we
+need that pendulum to swing towards
+offline stuff.
+>> Yeah.
+>> Cuz the easy thing to do is to mass text
+people, which is not compliant. You will
+get sued.
+>> Yeah.
+>> You will get fined, right? By the FCC.
+Or to do an AI voice agent or to do cold
+emails or whatever. You did the harder,
+more expensive thing. I will get into
+what it costs in a minute, but that
+makes all the difference because it
+signals to your potential customer that
+you guys are real.
+>> Mhm.
+>> All the people in their inbox are not
+real. They're not There's low stakes,
+there's low money, there's low
+investment. Mr. Beast's first viral
+video ever, the concept for it was I'm
+going to give $5,000 to a homeless guy,
+>> Yeah.
+>> right? And see what he does with it.
+He was going to get that 5,000 from
+their sponsor.
+But Mr. Beast said, "Make it 10,000 and
+the video won't do twice as many views.
+It'll do 100 times as many views because
+that additional investment conveys to
+the audience. They see the work, they
+see the money, and it just gets them to
+click, watch, share, and fit get to the
+end. They're much more likely to do so,
+right? And so, he twisted their arm,
+they gave him 10,000, and it got like
+over 100 million views, which was his
+first real big viral hit.
+>> Yeah.
+>> So, that same first principle of human
+nature is conveyed here.
+>> Yeah.
+>> You're Like, that postcard cost how much
+each?
+>> It was like a little more than a dollar
+each.
+>> Okay, so you spent some hours of time.
+This wasn't like a five-minute thing.
+>> Yeah, not counting the calls, pretty
+little.
+>> Okay, yeah.
+>> Yeah.
+>> You spent some time,
+>> Yeah.
+>> and you spent hundreds of dollars.
+>> Yes.
+>> Right? Including the token cost. It was
+you're still on the hook for hundreds.
+>> ended up being like 10, 20 bucks. It was
+pretty low.
+>> Crazy. Okay.
+>> And then yeah, 400-ish dollars on the
+actual postcards.
+>> Yep. Which is about, you know, $380 more
+than cold emails would cost.
+>> Yeah.
+>> So, your potential customer saw that and
+you stood out that way.
+>> Yeah.
+>> So, I just like anything in life you got
+to have there's there has to be stakes
+involved. There has to be risk involved.
+There is a risk to not taking a risk,
+right? Like if I'm afraid I'll get hit
+by a car so I stayed in bed all day,
+then I'm going to risk like getting fat
+cuz I'm not moving around.
+>> Yeah.
+>> So, it's not a matter of avoiding or
+even minimizing risk. It's a matter of
+picking your risk.
+>> Yeah.
+>> Cuz there are no solutions.
+>> Yeah.
+>> Only trade-offs.
+>> Yeah.
+>> So, your risk in this case was $400, but
+had you done the same pitch with the
+same copy to the same 350 people over
+email, you maybe closed one. Maybe.
+>> Yeah.
+>> But instead you closed 17 to 20 of them.
+>> Yeah.
+>> Well, and and off of that like what the
+the easy version of this is
+>> I
+>> do scrapers, I set up cold email
+campaigns, and I see how many how many
+people reply, and I try to close them
+over email.
+>> Like that's the easy
+>> thing that people want to do.
+>> Cuz they
+>> don't want to pick up the phone and
+actually call.
+>> Yeah.
+>> Cuz that's hard.
+>> Short-term easy equals long-term hard.
+>> Yeah.
+>> They're picking the easy route, but
+they're making their life harder.
+>> Yeah.
+>> As a result.
+>> So, it's like, okay, how can we stand
+out? We doubly stood out.
+>> The postcard thing.
+>> And the actually calling. Like we
+>> And actually talk to you.
+>> And actually making a website.
+>> Yeah, we made the site, too. Yeah.
+>> So, it it's
+>> It's like
+>> We're trying to cut through the noise in
+a variety of ways.
+>> Which then also which probably helped
+our close rates be better than normal.
+>> That shows them
+>> Well, these guys they made me
+the site.
+>> I got the postcard. They called me on
+the phone multiple times until they got
+a hold of me.
+>> Like
+>> I want someone like this is me assuming
+what they're thinking in their head. I
+want someone like that in my corner.
+>> Yeah.
+>> Who who do I not want in my corner?
+>> The guy that's just emailing me
+endlessly or messaging me on LinkedIn
+endlessly.
+>> Saying he can get me more leads.
+>> Yeah.
+>> Which obviously looks like an AI bot
+that is sending me those messages.
+>> is. Yeah. So, like if you
+if you compound your difficult things,
+compound your friction-full things, then
+you compound your wins.
+>> Yeah.
+>> Three hard things.
+>> Yeah.
+>> Cold call them, awkward, intimidating,
+everyone hates it.
+>> Yeah.
+>> Physical postcards cost real money,
+takes time.
+>> Yeah.
+>> And then actually building the website
+for 350 business owners.
+>> Yeah.
+>> If you only do two of those things, you
+might get four closes.
+>> Yeah.
+>> If you only do one of them, you might
+get one close.
+>> Yeah.
+>> If you do three it multiplies. It's
+exponential. You do three, you do 17.
+>> Yeah.
+>> you find a fourth hard thing to do, you
+might get 72.
+>> Yeah.
+>> You know what I'm saying?
+>> Yeah, yeah.
+>> Like if you show up at their door
+>> Yeah, yeah.
+>> the day it arrives, which would be weird
+and awkward, but like possible.
+>> Yeah.
+>> I guess the fourth could be
+you hand deliver the postcard.
+>> Yeah.
+>> That could get you 70 closes.
+>> Yeah.
+>> Which still
+>> you can actually just chat with them
+right there and force the chat. Yeah.
+>> Now, do you have the data on how many of
+your closes came from people that had a
+website versus didn't?
+>> Unfortunately, no. I messed up there. I
+should have figured out a way to track
+that better, but once the QR codes were
+sent out, we basically lost that part of
+the funnel. Uh so
+>> yeah.
+>> Yeah. So, once we're going to So, we're
+going to start doing this basically once
+a month now that we saw that it worked.
+We want to do a version of this
+experiment once a month and refine it.
+And so, yeah, I think next month what
+we're going to do is only people who do
+have websites but who maybe don't rank
+well in Google will be the thing that we
+try to do.
+>> Like an SEO agency.
+>> And still but ideally still they have
+bad sites. So, I'll spin up a new site
+but then point to say like, "Hey, we'll
+give you this new one which will be
+better for SEO. All you got to do is
+call us back or whatever." And then
+we'll try to do the same thing.
+>> Oh my gosh.
+>> Yeah. And then we'll we'll cold call
+them. And cold calling is not fun. If
+anybody's ever done it, my first job
+when I was in college was cold calling.
+I absolutely hated it.
+>> Yeah.
+>> But, I mean, if you put in the work, you
+can make obviously you can make money
+from it.
+>> I don't understand why you're sitting
+here. Like if I were you, I would be
+mailing 33 million American business
+owners right now.
+>> to We do care about quality of work that
+we put out for our clients. So, we um
+need to make sure that we can scale
+appropriately.
+>> Oh my gosh.
+>> Yeah.
+>> That went much better than I expected.
+>> Yeah. Yeah, same. I thought it was going
+to work at least a little. I didn't
+think it was going to work this well.
+>> Yeah.
+>> Where can people find you or your
+businesses?
+>> Yeah, find me on on X, Brandon Doyle.
+And then my website is getdavid.ai. And
+we do we do all different kinds of stuff
+with AI. So, would love to chat.
+>> owners?
+>> Yeah.
+>> Okay.
+>> Yeah.
+>> Thank you, Brandon.
+>> Okay, thanks.
+>> Listen, I need more people like this to
+interview on my podcast. So, if you know
+of someone with a side hustle or a
+business that's unique and cool and
+super profitable, email Molly, m o l l y
+at cofounders.com. That's one word,
+cofounders.com. Molly at cofounders.com.
+Tell her your story and we'll give you
+100 bucks if we end up interviewing
+them. If you like this content, please
+share with a friend, hit a like or a
+comment below, and we'll see you next
+time on the Corner Office.

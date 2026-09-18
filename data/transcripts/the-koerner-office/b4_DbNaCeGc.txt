@@ -1,0 +1,343 @@
+Has this ever happened to you? Listen, I
+get DMs all the time from people that
+have product ideas,
+>> [music]
+>> but they have no idea how to design,
+manufacture, or source it. But now, we
+have AI agents that can do all that hard
+stuff for us. So, today, I'm going to
+dive deep into [music] how to source
+products from any other country in the
+world using an AI agent, and I'm going
+to show you how to use AI to find
+winning products so you don't have to
+guess because porch piracy is on the
+rise. So, I want to source a product
+that can help prevent that because look
+at Google Trends. We're going to see how
+much [music] competition there is, how
+much profit we can make, and exactly how
+to use AI to scrape and [music] source
+winning products without spending a
+bunch of money. So, let's go inside.
+So, today I'm going to see if I can go
+from physical product idea to
+production-level product in one sitting.
+Here's my idea, porch piracy. People are
+willing to pay for a product or service
+that helps prevent their Amazon boxes,
+basically, from getting stolen on the
+porch. But my anecdotal evidence might
+not be real evidence, so I went to
+Google Trends, and here's what I saw.
+This is the amount of people searching
+for the phrase porch pirate over the
+last 22 years. You can see it's up and
+to the right. And over the last 5 years,
+same thing. So, what's the idea? Well, I
+want to create a porch pirate box, like
+a safe, that belongs on your front
+porch. It's secure, it's safe, but it
+actually looks like it belongs. It's
+aesthetic, and people wouldn't look
+twice at it. And really, the only people
+that know what it is are the delivery
+guy and you. Now, look at Google Trends
+for the phrase porch pirate box. A few
+years ago, people were searching for it
+just here and there, but over the last 9
+months, it is exploding in popularity.
+So, we want to ride a mega trend. And
+the viral marketing angles here are
+endless. Surely, you've seen Mark
+Rober's famous YouTube videos that got
+hundreds of millions of views where he
+makes a glitter bomb and uses it to bait
+porch pirates into filling their house
+with glitter and fart spray. Those got
+hundreds of millions of views because it
+evokes all these emotions in us, anger,
+hilarity, intrigue, curiosity. So, those
+are the same marketing angles that we're
+going to use to sell this, but I'm
+getting ahead of myself. We still need
+to source a product because we don't
+want to go find a designer, a
+manufacturer. We just want to buy
+something that already exists that isn't
+quite popular yet. But we can already
+see it's trending in the right
+direction. Okay, so what tool am I going
+to use to find this product? It's called
+Axio, and it's an AI sourcing agent that
+can help you sort between over 400
+million products and over 1.5 million
+suppliers, not just in China, but all
+over the world. That way, we can kind of
+describe using natural language to their
+AI what we're looking for without
+actually knowing the right search terms,
+while also price shopping between
+different countries because maybe
+Malaysia is cheaper than Cambodia for
+one product, but China is cheaper than
+Thailand for another product. We don't
+know. But this tool will help us price
+shop and price match and find the right
+sourcing agents and manufacturers and
+distributors from most countries. Okay,
+so I've logged into my account, and I'm
+going to describe, just using my natural
+language, what I'm looking for. Porch
+package delivery lockbox.
+Okay, please ignore my bad spelling. I'm
+going to hope that the AI can figure out
+what I'm trying to say here.
+Okay, it should look like outdoor
+furniture and not a safe, maybe like a
+wicker weave or over a steel frame or
+wooden or wrought iron. It must be able
+to lock and be weatherproof. If you're
+not confident in your prompt, then just
+tell ChatGPT what you're looking for and
+tell it that you're going to paste that
+prompt over on Axio, and it will spit
+out a prompt that's much, much better
+than this. And you can even have Axio
+choose between like a cheaper model that
+will be a lot faster or a more
+expensive, a more thorough model that
+will actually think through this prompt
+more deeply, and it will use image
+recognition technology to find products
+that look like what you're describing.
+So, I'm just going to use the fast model
+because in my experience using Axio,
+it's plenty good enough. What's cool
+here is you can see it working. Like you
+can click view details, and you can see
+it scraping and scanning and okay, it
+went away. And I I don't know, I just
+nerd out over this stuff. Okay, awesome.
+I haven't even read anything, but I like
+what I see so far. Wooden antique-style
+lockboxes, iron wood grain parcel boxes,
+parcel lockers. See, I didn't even know
+it was called these. I didn't even know
+there was a name for these porch pirate
+boxes, which is a great example of using
+an AI tool like Axio to to search
+because it will kind of discern what
+you're talking about and find the right
+categories based on what you're trying
+to say. But that does give me an idea.
+Now that I know that these are called
+parcel boxes, I'm going to go over here
+to Google Trends, search parcel boxes,
+and that too is up and to the right.
+Parcel lockers, even better. That is
+just going crazy. Let's say for a minute
+that I don't like any of these options
+that I'm seeing on Axio. I don't like
+these designs. Let's say I think they're
+ugly. Well, I need a tech pack. What is
+a tech pack? That's basically an image
+that looks kind of like this that
+outlines all the construction details,
+the product specifications, the
+measurements, the colors, everything.
+Everything visual that the manufacturer
+or distributor needs to know to get you
+your own custom product. Those things
+have been a pain to make historically,
+but I can make it myself with just one
+prompt. Let's give it a shot. Okay, now
+I do like this one right here on the top
+left, so I want Axio something to work
+with so it doesn't have to start from
+scratch, and then I'm going to click
+this use skills button, go down to tech
+pack generation, and say
+our prompt is start with this design,
+but make a full tech pack for it that
+looks more wood grain and natural. Let's
+see what it comes up with. Now, just
+consider this. We don't need to know any
+engineering skills, CAD, 3D modeling,
+none of that. This tech pack is going to
+be in a format that manufacturers
+prefer. Okay, that took about a minute.
+I've completed the production-ready tech
+pack for the aesthetic parcel delivery
+box with a natural oak wood grain
+finish, 1.2 mm galvanized steel internal
+frame, yada yada yada, composite panels,
+and this is it. I mean, that's what
+we're looking for. It's got all the
+measurements. If I wanted to change it
+from centimeters to inches, that would
+just be one more prompt. I don't know of
+another product on the market that can
+generate tech packs like this. Okay,
+back to the results. Now, there's three
+primary ways we can sell these things.
+Number one, Facebook Marketplace, the
+good old trusty standby where you can
+have something listed within 5 minutes,
+and you can have inquiries within 10 or
+15. Number two, Amazon, obviously.
+People are going to Amazon to buy these.
+And number three, on your own website
+built on something like Shopify and
+pushed with Google and Facebook and
+Instagram ads. So, I love what I'm
+seeing here. I want to kind of price
+shop between Axio's result and Amazon,
+and when I search parcel locker on
+Amazon, look at the top results. These
+are lockers. These are ugly, commercial,
+corporate. I don't like that at all.
+Now, you can also see that these are
+sponsored, which is good for us because
+it shows me that the companies selling
+the residential version of these parcel
+lockers are not paying for ads. That's
+an opportunity. The companies that sell
+the commercial ones are probably bigger,
+more established companies that have
+more of a budget for ads, but they
+wouldn't be paying for ads if the
+products were profitable even after
+accounting for the ads. Now, what's
+interesting is the top result here is a
+$27 wooden delivery box that looks just
+like that. And when I go to Amazon, the
+top result looks the exact same, $143.
+So, there's about a 75 to 80% gross
+profit margin on this product here,
+which is incredible. And that's just the
+first one we've checked. Now, if you
+really want to get tricky, just Google
+Amazon photo search, and you can
+download this free third-party app that
+will enable you to search for things on
+Amazon by only the picture or the URL of
+the picture. So, if you want to get
+super granular, just copy the URLs of
+all these pictures that Axio spits out
+and search for them through this
+third-party app to find the exact
+replica of the product that you're
+looking to import at a fraction of the
+price. And here's what's really
+interesting. So, these top two results
+are basically identical. This one has
+sold over 400 in the last month, and
+this one over 100. Why? Why the
+difference? Well, this one's clearly a
+little cheaper, and it has two different
+types of colors. But another thing you
+could do is just screenshot each of
+these side by side, upload them to AI,
+and say, why did the one on the right
+sell more than the one on the left? Or,
+you could leave out of the screenshot
+the sales numbers and say, which one of
+these do you think sold more and why?
+And then, you'll know it's not biased.
+And then, this one sold over 500 in the
+last month. So, that's tens of thousands
+of dollars worth of sales on Amazon
+alone, not even including Shopify or
+Facebook Marketplace from one product.
+And yeah, some of these vendors on Axio
+are saying minimum order 100 pieces, but
+that's just one vendor. It's not going
+to be the only company selling this
+thing from China. Find a vendor that
+will send you a sample for free or a
+sample for 100 bucks. You can use that
+sample to take pictures and videos and
+make content before going all in and
+spending $2,700 on 100 of these things
+before you really know if there's demand
+yet. So, let's go through as if we're
+going to start importing this. We're
+going to click on it. And also,
+remember, Axio is ranking highly
+products that are trending on these
+third-party platforms like AliExpress
+and Alibaba. It's not just showing you
+anything based on your search results,
+much like Amazon's algorithm shows you
+what you're most likely to buy as well.
+So, if we wanted to reach out to this
+manufacturer, we just click send
+inquiry, and it automatically fills out
+common questions that we might want to
+know from the supplier, so we don't have
+to have any experience in the space. Not
+to mention, if you leave this box
+checked right here, it will auto-reply
+for us once the manufacturer wakes up.
+Keep in mind, they're usually about 11
+to 15 hours ahead of you if you're here
+in the United States as I am. So,
+usually, I wake up to a bunch of
+responses. Now, it looks like the first
+category it showed me was from Alibaba.
+When I click AliExpress, I really don't
+like these as much. These look like, I
+don't know, trinkets, which probably is
+why Axio didn't put them first. But
+then, you click on global sites, and you
+can see all kinds of other options out
+there. And let's say if you always want
+to order from Cambodia or China or
+whatever, you can add in a long-term
+preference here to just tell the AI,
+"Hey, only show me results from China or
+only show me results from distributors
+and never from manufacturers cuz I'm
+never going to get anything manufactured
+from scratch." That will further refine
+your search results every time. Let's
+say you do want to manufacture something
+from scratch, be it clothes or a
+physical product or whatever. If you
+scroll down here, you can with one click
+just generate some prompts that will
+help you do just that. Validate and
+visualize innovative product ideas.
+Click on that. Boom. And you've got some
+pretty cool agentic features in here.
+Okay, so over the course of this very
+short video, we had an idea, we
+validated the demand for that idea on
+several different websites, we searched
+for it, we found a manufacturer or
+supplier that sells that product for
+about 75 to 80% less than retail. After
+shipping and Amazon fees, we can expect
+to net profit between 20 and 30% here.
+And it's just cool seeing that this
+stuff is possible today, right now. Not
+like when I have more experience or when
+I'm ready or have more time or when I
+have the capital. Like, it's all
+available today. The tools have never
+been this powerful. They will only get
+more powerful and the gap between I have
+an idea and I'm selling a physical
+product has never been this small. So,
+go out and do something. Check out Accio
+at accio.com.
+They support this channel, so I support
+them. So, whatever product idea you've
+been sitting on, go do something about
+it today. And check out the link in my
+bio to use Accio with a free trial. I'll
+also throw some prompts down there that
+will help you find exactly what you're
+looking for. And we'll see you next time
+on the Corner Office.

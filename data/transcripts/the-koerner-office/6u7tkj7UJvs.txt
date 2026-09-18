@@ -1,0 +1,334 @@
+Now, what in the world would happen if I
+gave AI a full trending topic database,
+a content factory, and a full marketing
+brain as well, and then I let it run as
+I slept? Well, today we're going to find
+out and do exactly that. See, most AI
+tools out there sit around and wait for
+you to tell it what to make, but we
+often have a hard time coming up with
+good ideas. So, I just found one that
+won't even wait for you. It'll just go
+out and make stuff. It's going to look
+at what's trending. It's going to figure
+out what your potential audience wants
+to see, and then it's going to start
+making a ton of stuff, and you can say,
+"Little bit of this, little less of
+that," and it will run wild, train
+itself, and give you some crazy output,
+all while you sleep. Now, this new
+product is called Supercomputer by a
+company called Higgsfield, and it's an
+autonomous creative operator powered by
+this agentic thing called Hermes. You
+just point it in one direction, like the
+band, and it will build and run your
+entire content factory from research to
+final video, and you can train it based
+on your taste over time. And after a
+while, it'll learn, and then it'll know
+your taste, and it won't even have to
+ask anymore. So, today I'm going to
+share my screen. I won't hold anything
+back, and I'm going to show you how to
+do exactly this.
+So, I've posted about this tool before
+in the past, Higgsfield, and it has
+what's called Seed Dance 2 for
+AI-generated videos. It has GPT Image 2
+for still photos, but their newest
+product, Supercomputer, is the real kind
+of intelligence layer on top. And that's
+the one deciding what content to create
+based on real data and your preferences,
+not just based on guesses. And it will
+connect directly to your Claude account
+through what's called an MCP, which is
+basically you being able to use your
+personal Claude account with all of your
+context and history on third-party tools
+like Higgsfield or Supercomputer, etc.
+Okay, so I'm here in my personal Claude
+account, and I went to the Connectors
+portion, which you can find in your
+settings, and I'm going to click on this
+plus button right here, and then add
+custom connector. Can name it whatever I
+want.
+I'll name it Higgsfield, and then I'm
+going to put this URL in right there.
+I'll put that in the in the show notes
+below. Click add, click connect. We're
+going to log into my account. Click
+allow.
+Boom, there it is. Higgsfield is
+connected to my Cloud account. Okay,
+after logging into Higgsfield, you
+really can't miss it. We're going to
+click try Supercomputer and then we're
+going to click the plus button here and
+go to use skill trend picker. And I'm
+going to say, "Show me viral trends and
+content in the business ideas niche." So
+I can see it's scanning TikTok, YouTube
+shorts, and Instagram. Okay, here's the
+output. Took 3 minutes 14 seconds.
+Top viral TikTok content, highest
+performing videos from the last 7 days.
+All right, this is helpful. Let's check
+out one of these links. Cheesecake
+slices business. This is really cool
+because I would not have come across
+this video otherwise. And I can feature
+this video. And if this got millions of
+views, many millions of views, mine
+might likely get millions of views as
+well. So,
+selfishly, I love this cuz I found
+something that I not could use, but
+actually will use. Now that I see this,
+I'm actually going to post about this.
+Let's look at some others. Oh, I
+actually know this guy. This is
+Marshall. Okay, so I found some
+long-form trends, short-form trends
+based on topic and hashtag, winning
+content formats and hooks, hashtags, key
+creators to watch. Hey, there I am.
+That's cool. Low effort income, huh? Ad
+spend insights. That's really cool.
+Okay, so whatever niche you're in, it's
+probably not going to be business ideas,
+gardening, sewing, family lifestyle,
+shopping, travel, doesn't matter. This
+would work for you. Okay, so now we're
+going to start a business with
+Supercomputer. Okay, remember, click the
+plus button and you can upload any
+context, any assets such as fonts you
+want to use, color schemes,
+logos that you want to incorporate into
+a marketing package, whatever. So, I
+truly believe that one of the best
+businesses you can start right now is a
+business that helps incorporate AI into
+small to medium-sized businesses. An AI
+agency, AI implementation, AI
+transformation, whatever you want to
+call it. Okay, so I basically told it,
+as you can read here, go ahead and hit
+pause, that I'm starting an AI agency.
+I'm going to, you know, do AI audits for
+a fee to get my foot in the door and
+then charge 1 to 5K a month to help
+businesses integrate AI. I said it's
+going to be called Firepower. I just
+thought of that, who knows.
+And for it to go. So, let's see what it
+comes up with. So, a lot of AI tools are
+going to use this time to ask me
+questions, clarifying questions. What do
+you want me to do? Should I do this?
+Should it look like this? How do you
+feel about this?
+But it's just running with it. It's just
+going, and I really like that. And you
+can see the progress chart right here.
+Define Firepower brand identity, name
+positioning, messaging, colors,
+typography. Remember, like I I described
+something very briefly, but there's so
+much that goes into starting a business.
+It's not just the price, it's how do we
+convey the price? Is it monthly or is it
+one-time? Is it weekly? Is it yearly? Do
+they get a discount? Do we position it
+ourselves as the premium option, the
+cheap option, as an alternative to
+something else? Like there are so many
+ways that you need to tackle this, and
+it seems to be taking care of almost all
+of those. Okay, it wants me to approve
+four image generations. Boom. This is
+what like a chief marketing officer
+would do, but they cost, you know,
+between 150 and 350 grand a year. But
+this costs me dollars per month and
+works much faster and never calls in
+sick. Okay, here we go. Four images
+generated. Firepower AI that pays for
+itself. We've got a flyer here for free
+AI audit. That looks awesome. And we've
+just got a graphic here and then the
+home page of the website. I got no
+issues with this. This looks great. It's
+still going. We'll let it cook. Cool,
+it's asked me to approve the image
+generations. Absolutely. And you know
+what? Just cuz I'm impatient, I'm going
+to go ahead and buy some boost credits.
+It's nice that you have the option to do
+that. Okay, running a lot faster now and
+it gave me a PDF for advertising my AI
+audit, content marketing campaign
+playbook, very cool. And there's my
+whole website in a zip file. Brand
+Bible, more images, your competitors are
+using AI, are you? Fit five AI tools
+every CEO should know. Dude, there's so
+much stuff. I didn't even know to ask
+for this, but it gave it to me. There's
+the mock-up of the website, looking
+good. Gear Award pamphlet design,
+deliverable files. All right. I've got
+all the brand assets I need. Now I'm
+going to say generate two viralable
+TikToks of 20 to 35 seconds each to
+subtly promote this business.
+I'm going to make them faceless.
+Okay, approve two video generations.
+Cinematic dark moody, cool, done. All
+right, it looks like the two videos are
+almost done and it did generate just
+like the the background video so far, so
+I can watch that while I wait for the
+final version. Okay, boom, done. Your
+two faceless TikToks are ready. And you
+saw my script or my prompt, I didn't
+really give it any instructions. It's
+pretty cool. I mean, I would make the
+transitions quicker. Three AI audit link
+in bio. Okay, that's one.
+Okay, those videos were awesome. But
+what if I want to make a video based on
+a viral template of another video in the
+same niche that I saw? I want to copy,
+right? I want to copy someone else
+that's already working. Done, easy. I'm
+going to go to TikTok and I'm going to
+type in AI hacks. Okay.
+I like this one. It's like has 47,000
+likes. Here are five secret chat GPT
+prompt ideas, love it. I'm going to take
+the URL of this TikTok, paste it into
+the chat, and say, "Generate one video
+for me that copies this, but in my own
+style." Cuz think about it this way when
+it comes to viral videos, that is a
+recipe. That's like a unique proprietary
+recipe. It's one of one, and
+Supercomputer is going to take that
+recipe and make it your own version. If
+I were a food influencer and I wanted to
+post a recipe, I'm probably inspired by
+someone else's, but I need to change it
+a little bit at least. I need to make it
+my own. That's what Supercomputer is
+doing to other viral videos that we see
+in any niche, not just our own. Okay, so
+now I'm going to take that URL of the
+already viral video, give it a Higgs
+field, and say,
+"Make me a copy of this for my biz and
+niche. It is viral, so don't change too
+much." So, it's watching it right now,
+trying to understand the visual style,
+text overlays, pacing, etc. You can
+learn a lot, by the way, whenever any AI
+tool is thinking like this, and you
+click into it to expand, you can learn a
+ton about how it thinks, how it works,
+and it gives you ideas of what questions
+to ask it when you read how it thinks as
+opposed to only reading the output that
+it gives you. Okay, 61.9 seconds, 1.3
+million views. So, yeah, it watched it.
+It perfectly understands what the video
+is about. Okay, here's the video it made
+me based on the video I gave it. Okay,
+here we go.
+>> These five secret codes make Chat GPT 10
+times better. Just paste them before or
+after any prompt. First one, five Y. It
+asked Y five times in a
+>> It looks awesome.
+>> Next, {slash} sources. TLDR.
+It compresses a massive wall of text
+into the shortest possible version
+without losing the important details.
+Number four, {slash} debate.
+>> This looks great. Okay, here's some
+hacks that I think that the average
+solopreneur like you could run using
+Supercomputer. Number one, you need to
+make like a real estate ad machine. Real
+estate agents, especially like the top
+5%, are always in big need of help.
+Little one-off jobs, graphic design,
+copywriting, listing, whatever, posting
+to social media. Take one of their
+listings, upload it to Supercomputer,
+and have it come up with a full
+marketing package for just a listing,
+and then give it for free to that
+realtor, and And a good chance they're
+going to pay you to do that for future
+listings of theirs. Number two, product
+hunt arbitrage. Find a viral content
+creator. They don't need to be a huge
+influencer. 5,000 followers is fine, but
+one that isn't really monetizing. They
+don't have really have a good product
+that they're selling or digital product
+that they're selling. Build a content
+plan for them, generate videos for them,
+and slide into their DMs. Give it to
+them for free just to show that you put
+in the leg work for them. Number three,
+and I covered this in the video right
+here. It's also linked below. Create
+your own AI influencer. It looks real.
+It looks like a real human, but it's
+not. You're going to want to give it
+character visuals, a full backstory, and
+have Super Computer make like a
+one-month content plan or calendar, so
+you'll always have something to post.
+And then at the end of a month, if it
+doesn't seem to be going well, then
+pivot. Try something else. But guys, I'm
+telling you, there are so many people
+charging thousands of dollars a month
+per client to implement AI into their
+businesses, and they're using the right
+tools to do it. And I promise you, this
+is one of the tools that they're using.
+10 clients paying you three grand a
+month is 30 grand a month. And you don't
+need any employees to make that happen.
+Remember, it's never been easier to
+build software products, ever. But
+distribution, aka sales and marketing,
+has never been harder. Most people know
+what they want to sell, they just don't
+know how to sell it. They don't know how
+to find customers. Super Computer helps
+you fix that problem. It'll watch trends
+in real time, it will create content in
+your style, it will automatically
+distribute it to all platforms. You just
+connect your social platforms and it
+will do it with one click. I didn't even
+cover that today, but you should try it.
+Go to Higgsfield.ai. They support the
+podcast, I support them. Connect the
+MCP, you can talk to it in Claude, but
+you can get an exclusive discount using
+my URL in the description below. And if
+you want to build an AI agency, an AI
+implementation agency, I have one at
+PlaymakersAI.com.
+Talk to my team, we'd love to have you.
+There's 300 of us in there. We'll see
+you next time on The Kerner Office.

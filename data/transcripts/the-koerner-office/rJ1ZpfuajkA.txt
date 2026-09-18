@@ -1,0 +1,1366 @@
+This is a service you could offer for a
+monthly fee just using Lindy on the back
+end.
+>> It's so easy to create AI agents. It's
+almost addictive. It's literally just
+you type words and just does it for you.
+You can have the entire flow completely
+end to end managed by AI agents.
+>> There's a dozen Silicon Valley companies
+right now raising tens of millions that
+are basically just that agent.
+>> People underestimate how early it is.
+The capabilities that we're talking
+about today are literally 30 days old.
+There is an immense opportunity for
+these AI agencies. The people that I've
+spoken to that want to start an AI
+automation business, they're getting
+tripped up cuz they're not technical.
+I'm not technical, but I feel like this
+removes that friction.
+>> There is no excuse anymore not to use AI
+agents.
+>> The sooner you act, the more you'll be
+ahead of your peers.
+I've said it before and I will say it
+again that one of the biggest
+opportunities I see right now is that of
+starting an AI automation agency where
+you insert yourself into small to
+medium-sized businesses and use very
+cheap very easy to use tools to automate
+certain processes that these businesses
+use and you charge between $500 and
+$5,000 a month or you charge $300 to
+$5,000 one time and $2 to $700 a month
+ongoing. So 1 month ago, Lindy, which is
+an AI automation platform, came out with
+an update that enables anyone to create
+AI agents with one prompt. And this is
+game-changing technology. There is a
+massive opportunity to be the expert in
+the room for these business owners that
+know they need to be using AI but have
+no idea where to start. So without
+further ado, please enjoy.
+>> We just released Lindy 3.0. That's like
+the biggest update in our history as a
+company. And the three big updates are
+one like you can now collaborate with
+your team on Lindy like invite your team
+members and share your agents and so
+forth. But most importantly the two
+really big things that we're really
+excited about the agent builder.
+>> So like now you can create an agent from
+just a prompt. You literally just like
+type words on your keyboard and you're
+like
+>> this is what I want to automate. I want
+to automate my customer support, my
+content generation for marketing, my
+like lead qualification and whatnot. and
+just literally from just a prompt like
+creates the agent for you. And computer
+use which is the idea that your agents
+can now use their own computer in the
+cloud like they have like a if you will
+like a virtual mouse and a virtual
+keyboards that they can use. So that
+means that agents are no longer limited
+by the MCPS or like the integrations
+that they have access to. like as long
+as this is a tool that is accessible
+from a web browser that is something
+that your agent is going to be able to
+use even if it's like an internal tool
+of yours right so we have an entire
+teams right now using Lindy for example
+to automate their customer support and
+have internal tools to like issue a
+refund and until now these guys were
+blocked they were like ah like we really
+want to use AI agents but like we don't
+have an API for like these internal
+tools and we don't have the bandwidth to
+build them and now they're actually
+deploying these AI agents really quickly
+because these AI agents can just log in
+and use their internal tools uses just
+using using just like a mice and
+keyboard. Those are the two very very
+big things that have changed.
+>> Okay, that's incredible. So basically
+with a vibe coding tool with one prompt
+you can create a web app or a website.
+Cool. With this with one prompt you can
+create an agent that will respond to all
+of your customer service inquiries. Now
+it can't be too broad, right? It needs
+to learn and know how to respond to
+certain inquiries. But if my prompt were
+to say, "Every time I get an email to
+support chrisismail.com" that says, "I
+want a refund, please them a refund."
+Right? Would that be a a use case? Like,
+please go into Stripe, issue them a
+refund.
+>> That's exactly right. Yeah. So, this is
+an example. I use Lindy to manage my
+personal CRM. So, it's more like a a
+work like SLpersonal example. Like, I
+meet people every day and like I I want
+to keep track of them. And so I want to
+be able to go on Lindy and be like,
+"Hey, I wanna I met this guy, you know,
+he's an investor for example, and then I
+want to be able to go back to Lindy at
+any point and I want to be able to ask
+like who are the investors that I know?"
+So I I just sent it a prompt like, "Help
+me manage my personal serum." And then
+it clarifies the plan that it came up
+with and it's like, "Okay, so like if
+you're asking me to add a contact, I'm
+going to add a row to Google Sheets. And
+if you ask me to retrieve a contact, I'm
+going to get the data from the Google
+Sheets and I'm going to give you the
+response like is this what you want me
+to do? So it clarifies, it asks you this
+ambiguity questions and then I say yes
+and it creates the agent and in a matter
+of seconds I have this agent here on the
+right. If I want to add a contact, this
+is this. And if I want to retrieve
+contacts, this is that. It's actually
+funny. Right before this, I was on
+another podcast with Eric Hugh. I don't
+know if you know him. And he was like,
+"Oh, like hit me up next time you're in
+LA." I'm based in San Francisco. He's
+based in LA. And I just went to my Lindy
+and I was like, "Hey, at Eric's you AI
+influencer. Hit up when he's in LA."
+>> So there is another prompt that I sent
+to this Lindy after this video where I
+was like, "Hey, also detect when I'm
+flying somewhere by intercepting the
+flight confirmation emails from my inbox
+>> and when I fly somewhere, tell me who I
+I need to meet up there." So you see
+here it set up this workflow that's like
+okay if you receive an email that's oh
+let me right here if you if you receive
+an email that's about a flight then I'm
+going to get your spreadsheet I'm going
+to send you an email with who you should
+meet there.
+>> Oh man. So you use Google Sheets as your
+personal CRM.
+>> Well I think that's the beauty of AI
+agents is like yeah now you just I just
+need like a dump data source and all of
+the intelligence on top of that and all
+of the interface on top of that is just
+agents.
+>> Yeah. No, I I'm asking because I love
+that because I use everything in Google
+Sheets and I try to eliminate all these
+other random softwares. But how could we
+create that with a prompt like
+specifically the agent to anytime you
+see a flight log it and then anytime I
+ask you, you know, who's in this area,
+you'll automatically know so I can know
+who to visit. How could we create that
+one?
+>> It's literally just a prompt. Like when
+you log into Lindy, there is this text
+box here. You can either like type your
+prompt in here or you can like press the
+mic button to dictate it. We actually
+recommend dictating it because you can
+give a lot more details when you
+dictate. And you would be surprised like
+you can ramble, you can say anything you
+want. And agents are actually really
+good of at making sense of of what you
+said. And so you just do that. You
+prompt it and then like a minute or two
+later you get you get an agent.
+>> Before Lindy 3.0, know if I wanted to do
+the same thing I kind of had to know
+these tools and I kind of had to know
+how to drag and drop and tie it together
+and get the API key and now you don't
+have to you just removed all the
+friction.
+>> That's exactly right. There is no excuse
+anymore not to use AI agents like yeah
+you know we've really gone through that
+journey of like at first you had to be
+an engineer like if you're an engineer
+like it's a great tool to use then we
+built this no code platform and so you
+don't have to be an engineer anymore but
+you still have to learn the tool and
+ain't nobody got time for that right
+like you just you just want to you just
+want to do your job and so now it's
+literally just you type words and just
+does it for you and if it and if you
+want to iterate on it you send it
+another prompt and you're like ah like
+this is not exactly how I want it and
+it's just going to get to do it better.
+>> Yeah. How much time do you spend looking
+at what people are doing with Lindy 3.0,
+seeing how they're using it? Is that a
+big part of your day or does your team
+manage that?
+>> Well, I mean, I I talk to users all the
+time and I look at data as well. So, I
+think it's important to have that like
+forest view and that like tree view. We
+also look at like the breakdown of like
+the kind of tasks that people ask, but
+yeah, I mean I keep my ear very close to
+the to the ground for sure. What kind of
+patterns are you seeing? And is anything
+surprising you?
+>> Last night I was looking at a Lindy that
+a customer sent me and he was like,
+"Hey, like he was actually proud of it."
+He he sent it in our Lindy community. I
+recommend everyone checks it out. We
+have like a really vibrant Slack
+community with like thousands of
+members. And he DM'd me. He's like, "Ah,
+check out this Lindy. I'm really proud
+of it." And I was like, "Okay." I looked
+into it and I wish I could show my
+screen. I don't want to like violate
+this person's privacy. This is by far
+the most insane Lindy I have ever seen.
+It's like 400 nodes like like those we
+call nodes like 400 nodes like you just
+keep
+>> like wow.
+>> Yeah. you just keep and keep and keep
+going. And the guy just like locked in
+and he built 80% of it using the uh
+prompt to agent that I mentioned and 20%
+of it by like tweaking it across like
+manually. and he basically built it's
+sort of like an SDR like it's a Lindy
+that like fully autonomously not only
+like finds leads online and reaches them
+qualifies them like decides who to
+actually engage with researches them
+sends them a personalized email and then
+engages in an insane back and forth with
+them. Like if people say they're not
+interested, it asks them why. It it
+handles objections. It learns from the
+objections. It AB tests the the emails
+and the subject lines. It's like, oh my.
+Like, and then like, yeah. And now I can
+just run it and it's like, it's like a
+sales for me.
+>> Believe it or not, 67% of the people
+that watch my YouTube videos don't
+subscribe to me and over 90% think that
+they're subscribed to me. So, do me a
+quick favor and check that you're
+subscribed to me. If you're not, please
+do. It would mean a lot.
+>> I have been surprised at how people like
+get sucked in and like they get into it.
+Once you make it so easy to create AI
+agents, it's almost addictive.
+Like there are there's a dozen Silicon
+Valley companies right now raising tens
+of millions that are basically just that
+agent AISDR.
+>> Yeah.
+>> Like that's all the rage right now. And
+for those listening, sales development
+agent, like just AI sales through email
+in this case, right?
+>> Yeah. Like there are a lot of startups
+that do AISDRs and like you know, we
+have this meme internally. It's like
+hashtag should be a Lindy. So we see a
+lot of startups and we're like should be
+a Lindy.
+>> That's exactly what I'm talking about.
+>> Yeah. No, exactly. It's kind of like
+there is an app for that. is like should
+be a Lindy. I think like the advantage
+of of using a platform like Lindy and we
+hear that all day from our customers is
+like you have a single pane of glass
+where you can manage all of your agents
+and then also like a single place where
+your agents can collaborate. I think you
+really unlock the magic once you have
+your agents work together which you can
+do then you can almost like modularize
+your agents. You can create agents that
+are specialized in certain tasks and you
+can get them to like talk to each other
+and and collaborate with each other. And
+in the end, it's going to be more
+powerful. It's going to be cheaper and
+it's going to be easier to manage for
+you to have like one single platform
+where you can do all of that and have
+like 20 different login and platforms
+that you have to learn and and
+subscriptions to manage for each of your
+use cases.
+>> I'm thinking of like what this use case
+could be for the AI SDR specifically if
+you are an employee or a business owner.
+Let's say you're an employee that just
+sells Salesforce software, right? And I
+go permissionlessly as just an
+enterprising entrepreneur on behalf of
+you, an employee selling Salesforce,
+making good money presumably, and I go
+find a bunch of potential clients, I go
+create an AI sales development a agent
+in Lindy, and I go start emailing, just
+cold emailing, not just cold emailing,
+but having these automated conversations
+back and forth with people, right? And
+then a small percentage of them come
+down the funnel and they're like, "Let's
+hop on a call." Okay? So, you get it all
+the way to that point. And then you
+reach out to the Salesforce rep and say,
+"Hey, I have a really hot lead for you.
+It's this guy that works in this
+company, yada yada yada. I'm guessing
+it's going to be worth 4,000 MR to your
+company, which is worth X, Y, or Z, you
+know, commissions to you. How much would
+you pay me for this lead?" You're not
+just like selling a dream. You already
+have it, right? And now he's interested.
+Now you have his attention and your
+chance of getting a reply to that cold
+email verse, hey, I help Salesforce reps
+get more leads. Can we hop on a call?
+Like your chance of getting a reply to
+that is like half a percent. Your chance
+of getting a reply to, you know, here's
+a lead. Here's the whole conversation.
+Here's his name, phone, email. Take it,
+steal it. It's all yours. What's your
+chance of getting a reply to that
+conversation?
+>> 100%. We have a recruiting firm that
+we're working with that's leveraging
+agents for a use case actually very
+similar to the one you just laid out.
+Like what they do is that they they do
+send these outreach to people, but what
+they do is that they look at the list of
+job descriptions that the company has on
+its career page. And so they're like,
+"Oh, you're looking for like software
+engineers who know React and TypeScript
+and yada yada yada and like have minimum
+x years of experience and or based in
+San Francisco, California." So they
+collect all of these requirements, but
+they have the to clarify, this is an AI
+agent that like they've set up. So
+they've set up this AI agent that does
+that. Like it collects a bunch of like
+companies that are hiring. It looks at
+their open positions. collects the
+requirements and then it goes on
+LinkedIn and finds people that satisfy
+these requirements and then it sends in
+the email a list. It's like hey we saw
+you were hiring including software
+engineers. This is an example of like
+three leads that we found and we have
+their email address. We can reach out to
+them. Three leads that we found that
+satisfy your requirements. We've got a
+thousand more like those. if you if you
+say yes, like I can send the contract
+and we can be we can be reaching out to
+them like today, like in an hour and
+they're ripping it. Like these guys are
+just like crushing it. They're getting
+so much response from this email because
+to your point, it's like it's it's so
+much more engaging and you're bringing
+so much more value to the table through
+this email than through just like a
+generic like, hey, do you want to work
+with us for recruiting email?
+>> Yeah. Because sales like this brings
+sales from here's what I can do for you
+to here's what I just did for you. Will
+you customer?
+>> I love that. Exactly. Yeah.
+>> Oh man, we might have talked about like
+a a version of this idea on our last
+episode, but just imagine if I had a
+Facebook ads agency, right? I charge
+$2,500 a month to any company in the
+world to manage their Facebook ads,
+right? You could with one prompt, right?
+Might need follow-up prompts, but you
+can get the, you know, the skeleton for
+this in one prompt. say, "Hey, I want
+you to go to the meta ads library and I
+want you to cross reference with
+LinkedIn and I want you to find me email
+addresses for decision makers at any
+company that has an active ad in the US
+on meta ads library and then I want you
+to send them an email, a customized
+email that says, "What are you doing?
+You only have four creatives on your
+meta ads right now." Did you know that,
+you know, companies that have 40
+creatives or more have a 30% drop in
+return on ad spend or or increase on
+return on ad spend? I can do that for
+you. Like, and full transparency, I use
+AI for my creatives. So, that's not a
+bad thing. That means you can get 10x
+the creatives for 30% less cost. When
+can we chat?
+>> Oh, you could go further than that.
+Like, you could have the AI agent like
+search. I mean, this is great. I love
+that, right? I'm just like raing here.
+Like you can you can have the AI agent
+also research the competitors of this
+company. Research the Facebook ads that
+these competitors have running and tell
+the person and I love the framing that
+you just put together. It's like it's no
+longer like here's what I can do for
+you. It's like here's what I did for
+you. It's like hey I researched your
+competitors. They're crushing it. These
+are the five best best performing ads.
+Then you add the screenshot in the
+email. By the way, I've already created
+these ads for you. This is the creative
+that they've created. is like using the
+same idea, the same concept for the ads,
+but with your brand and your company and
+your product. If you just say yes, I'm
+going to spin them up on your on your
+account, right? So yes, because AI
+agents have lowered the bar so much and
+because they can make it so easy for you
+to do this work at a high volume before
+you've signed the customer, you can
+deliver the value before you've signed
+up.
+>> Oh man, I just like I'm no offense, I'm
+having a hard time even listening to you
+because my mind is just buzzing with
+other prompt ideas, right?
+like like, "Hey, Lindy, go to Instagram
+and find me a US-based influencer with
+at least 50,000 subscribers that doesn't
+use like a link tree or anything."
+Right? And then send them this message.
+Hey, I noticed you don't use a link
+tree. Oh, then you go to Lindy in a
+different window and say, "Hey, build me
+a linkree competitor with your vibe
+coding tool." Right? Then it's like,
+"Okay, hey, FYI, I have a free linkree
+competitor. Don't pay Linkree 20 bucks a
+month. Use mine. You have 50,000
+subscribers. you should be selling
+t-shirts or newsletters or something in
+there. Use this, right? Go. And it just
+it starts sending
+>> Well, I literally have open right now,
+let me share my screen with you, a Lindy
+that I created to do basically exactly
+what you just said. So, it's like, hey,
+like this Lindy is like, "Hey there, I'm
+ready to build you like a laser targeted
+list of influencers. Like, what are you
+looking for?" And I said, like, I want
+20 influencers on YouTube with 20,000 to
+40,000 subscribers in the productivity
+and AI space. And you can see like I
+made a typo here. I said AI space here.
+But AI agents are awesome. Like they
+don't care about typos. And it's going
+online. It's using a bunch of tools.
+It's doing a ton of publicity queries.
+It's doing a lot of research. It's like
+looping through all the people it found.
+If you look here, just going to open a
+new tab. This is how the flow is set up
+in the background. I didn't have to set
+this up. This was set up from just a
+prompt. And you can see here for each
+influencer that it found, it's going to
+scrape their YouTube to like find like
+the videos that they that they have. and
+to understand the influencer better. And
+it's going to look for their email
+address. It's going to do all of that
+stuff. And then it's like, oh, hey, I
+found these people for you. So, this is
+the focus, self-development, wellness,
+productivity. This is their email. This
+is the partnership contact. Look, this
+guy already has like strong brand
+partnerships with Opus and Hen.
+>> Oh my gosh.
+>> No. 100%. Like, what the use?
+>> You didn't ask it to do that?
+>> Yeah. Absolutely. Yeah.
+>> You asked it to go a step further and
+find the brand partnerships that they
+have. Yeah, in the original prompt when
+we set up the thing. Well, I I don't
+know if we set up exactly this way. I
+think we just said like, "Hey, find us
+details about this person
+>> and like you can see it's got like a
+bunch of scrapers like, "All right, I'm
+going to scrape their Tik Toks, their
+LinkedIn, their YouTube, their
+Instagram, their Twitter." And and when
+he does that, it all defines all of this
+information by default.
+>> Man, RIP to our inbox. Like cold emails.
+They're just
+getting out of control.
+>> Then you really go one step further and
+you you set up a lady to help you manage
+your inbox. And so we've already had
+actually because that's it's funny
+actually we have that a lot. We have
+like brands in particular e-commerce and
+like CPG brands like consumer packaged
+goods brands that are using Lindy for
+this for like influencer outreach to
+like promote their brand. Then we also
+have influencers and I I wish I could
+say who but some some extremely large
+and famous YouTubers are using us
+because these guys you know and I'm sure
+you know you know you're harassed by
+offers for sponsorships in your inbox
+>> every day. And so these guys, they have
+agencies that they actually pay a lot of
+money. And all of these agencies do all
+day is they intercept these emails
+basically and then they they they
+archive like there's a lot of randos and
+like unserious people in there and then
+they engage with serious people and
+serious brands that actually have money
+and they negotiate a deal. They're like,
+"Hey, you know, Bob can work with you.
+Just a heads up, like every video is
+$100,000 or whatever." Not just one but
+multiple really really big and famous
+like YouTube influencers right now using
+us in this context. The funny thing is
+that we have actually already had
+instances of these two lindies talking
+to each other. So like a brand reach out
+to this influencer using Lindy and this
+influencer Lindy engaging with that
+Lindy to negotiate the deal.
+>> How do you know that's happening?
+>> Because we were wondering like this
+influencer like do you think they're
+going to be in touch? And so we set a
+reminder to check a month later and we
+looked into our database and and sure
+enough like the two lindies got in touch
+with each other.
+It's funny I'm laughing because I I have
+a Lindy for that exact same use case
+because I get these spammy emails. Let
+me sponsor your channel and I just
+respond to them with like a number
+that's way way too high because usually
+I just delete them. I archive them. So
+it's just like I'm get either I ignore
+it or I'll just give them a stupid
+number and see what they say.
+>> Yeah. Yeah, you know,
+>> a suggestion then you could go again one
+step further and like as you offer a
+number, you could also re research the
+brand first, right? And so you can you
+can reply with a number but with a way
+that's like just like a tiny bit more
+tailored. You could be like, "Hey, by
+the way, our audience is quite aligned
+with like your who you seem to be
+selling to."
+>> Yeah. Yeah. Do you offer like a white
+labeling service?
+>> We don't. No. Like all brand is all
+brand is Yeah. Well, it depends. What do
+you mean by white labeling service? I'm
+just picturing like
+Chris'sroofingautomations.com,
+right? And I start a business that's
+basically just Lindy Whitelabeled and I
+go into roofing companies and say, "I
+can automate any of your processes and
+save you $30,000 a month, yada yada
+yada." Is that like a a growth
+opportunity for you guys?
+>> 100%. So like we don't offer like white
+labeling per se, but like we do one like
+we do let you deploy a chatbot on your
+website that's like, hey, like it's like
+an AI chatbot. So like that's one thing
+but also what you just described like AI
+agencies and I think we we talked about
+that the last time you and I you and I
+talked like AI agencies are huge right
+now and like look you know like we do
+have this new prompt to agent product
+but it's still not as good as a human
+like you're still going to need
+consultants for to like really
+understand how you can deploy this in
+your business and like it still takes
+time to build these agents like even if
+you no longer needs the expertise to do
+it you still it still takes time. I do
+think there is an immense opportunity
+for these AI agencies and we have a
+couple of AI agencies that we're working
+with that are like extraordinarily
+successful and and growing super fast
+right now. Okay, so you're starting a
+business, but your logo looks like it
+was made in Microsoft Paint. You're not
+a designer and hiring one costs a
+fortune. Well, at least for a good one.
+This is exactly why design.com exists.
+It's an AI powered logo maker that
+creates thousands of professional logos
+in seconds just from your business name
+alone. Starting a pickle ball club,
+trade school, white labelled SAS, it
+doesn't matter. It can handle anything.
+This is the world's largest logo library
+here with handcrafted designs that are
+exclusive to Design.com and it has 4.8
+stars on Trustpilot. Solid. What's
+really cool is once you've got your
+logo, Design.com will automatically
+create you business cards, social media
+posts, even websites using your exact
+colors and branding. Basically, you've
+now got a whole design team in your back
+pocket and a really good one at that.
+Right now, you can get up to 88% off
+your first logo. That's not a typo. 88%
+off if you use my link, but only for
+your first one. So, don't sleep on this.
+Head to design.com/krisker
+because your business deserves a real
+logo, not some clip art. We talked about
+that in June. Is there any update there
+like how people are using Lindy to make
+money and like what does their pricing
+look like? How are they finding
+customers, etc.? So I think that's the
+beauty of these agencies is like each of
+them is an expert in their own vertical
+and each of them has their own existing
+network. So like some of them sell like
+uh sales services like AISDR services if
+you will. Some of them sell to like
+healthcare companies like we have one
+that like interestingly enough sells to
+like dentists and they were just really
+specialized in like hey I know how to
+automate your back office as a dentist.
+Apparently dentists like they're still
+running like extremely antiquated
+software and you can automate so much of
+that using AI agents. So you know what I
+recommend to people is like the value
+that you are delivering as an AI agency
+is that you are bridging your expertise
+in the technical product like Lindy like
+you know how to set up and monitor these
+AI agents and your expertise in any
+given business or any given area. And
+you know I think people consistently
+underestimate the value of their
+expertise in the latter. They sort of
+take it for granted. They're like
+everyone knows about that. It's like no
+man like actually like in a really
+interesting niche right now. And don't
+underestimate how few people live in the
+intersection of these two things. Like
+many people know about AI agents. Many
+people some people at least know about
+like AI like dentists and like the
+software issues and back office issues
+that they're having. Few people live in
+the intersection of those two. And when
+you do like you can you can deliver a
+lot of very differentiated value.
+>> Yeah. Well, a lot of times people like
+like you and I or people that are
+playing around with these AI tools are
+just hanging out on Twitter and on indie
+hackers and talking to they're in an
+echo chamber in a bubble and so that's
+why they write off their skills. But if
+they go out in the real world just go to
+church or a friend's house and talk to
+people about this, they don't know
+anything about this. They don't even
+know what an AI agent is. Like I go
+hunting every November with some buddies
+from my NBA program and they're all
+about my age. They're not really on
+Twitter, but they're working
+professionals, white collar guys making
+good money. And I talk I'll talk to them
+about crypto or AI or whatever and
+they're like it's way over their head.
+Like you'd think they're 86 years old
+living in, you know, Topeka, Kansas. No
+offense to anyone in Topeka, Kansas, but
+they just don't know. Twitter is a
+bubble. Like tech is a bubble. I think
+people underestimate how early it is. It
+is just so so so early. Well, 0.1% of
+the way there.
+>> Is N8 as valuable today as it was a
+couple months ago before this update?
+>> I'll leave it to the watchers to decide.
+I think if you are like a really
+technical person, like an engineer
+basically is who Kdos to. And I'm I'm
+not like throwing at them like this
+is where they have their roots and I
+think this is awesome like it's like
+they're like an open source product and
+all of that stuff. But I think if you
+are either like not an engineer like
+you're not that technical and or you are
+and we have a lot of people in our in
+our customer base who are like I can use
+other tech more technical products but I
+just don't want to I just want to solve
+a problem you know I think you are in
+need for a less technical easier to use
+solution and and that's what we focus
+on. Yeah, I'm not about to say that NAN
+is going to be hurting or going out of
+business. Like they're on a title wave,
+right? AI is a title wave and there's a
+lot of room for everyone, but I look at
+it as like Zapier and Make, right?
+Zapier is user friendly. Make is not.
+Make is cheap. Zapier is expensive. It's
+more for technical people and Zapier is
+not. I look at it like that. I know a
+guy that his whole like his whole
+business is using NAND and like hundreds
+of customized complex NAND templates to
+help people start AI automation agencies
+and you know so he'll train someone to
+go into a plumbing company and use NADN
+templates to you know be like a virtual
+receptionist virtual I just don't see
+and maybe I don't understand NADN well
+enough. I don't see why Nadn would be
+necessary for something like that when
+you can just you could just prompt it in
+Lindy.
+>> Yeah. Yeah. Yeah. And not only that, you
+know, not only can you just prompt it
+with Lindy, like once you've prompted
+it, the flow editor that we show you is
+still like 100x easier to use than NA10.
+Like if you want to set up an AI agent
+with NA10, you have to also set it up
+like a memory. You have to tell it what
+day it is, right? And like the memory
+options that you are given include like
+cute rent vectors tool which again
+speaks to like how much of a technical
+solution that is right whereas with
+Lindy it's literally just like you click
+the AI agent button and you enter your
+prompt and that's it.
+>> If I were to help a plumbing business or
+a small business you know 100,000 to 10
+million in revenue automate some of
+their processes right clucking in
+clocking out software stuff HR stuff
+email answering the phones. Is there
+anything that you can think of that
+Naden like you have to use something
+like Naden for that Lindy 3.0 would not
+work for? No, we've never run into a
+case where we were like ah you can't do
+this you should probably use another
+solution like from look at the end of
+the day this is like a a nerdy term that
+engineers use like and I said that as an
+engineer myself like all of these
+platforms are touring complete right and
+touring completeness is basically this
+concept of like it's a universal
+computer it's a universal platform that
+can do anything that any other computer
+and touring complete universal platform
+can do all of these platforms are
+touring complete including us including
+including everything else like no you
+You can definitely do do the same
+things. I think it's just way easier to
+do it with Lindy.
+>> Okay, forget the plumbing example. Is
+there anything that Lindy 3.0 can't do
+that you really need NAN for? Like
+anything complex? Something that's just
+too technical for Lindy.
+>> I can't think of a single thing. No.
+Again, it's it's really more about let
+me think. They have certain features
+like MCP, right, that like we don't
+support yet. So like and you would need
+you need to like hack your way around.
+like you can set up MCPS in Lindy but
+like it's not as friendly and so it's
+not like you can't do it. It's like
+there are certain things that very
+technical users want that are easier to
+you to do in in other solutions
+>> and explain to to the listeners and as
+simply as you can what an MCP is.
+>> An MCP is the equivalent of a USB port
+for AI agents. It's just a universal
+connector. It's it's a protocol to
+connect AI agents with tools. And your
+tools being like your Gmail
+>> like an API but for AI.
+>> Sure. And it it allows you to have like
+an LLM on like locally, right, on your
+own device or server.
+>> I wouldn't say that like it's USB port.
+Like yes, if you want you can use it for
+your own LLM like but like you can also
+have your own LLM on your own server and
+not have MCP.
+>> That's a game changer because the people
+that I've spoken to that want to start
+an AI automation business, they're
+getting tripped up by NM because they're
+not technical. I'm not technical. That's
+not a drag on them, right? They're just
+not technical. And so it's like how can
+I teach a plumber how to do this when I
+can't do this? Yeah,
+>> but I feel like this removes that
+friction.
+>> No, 100%. Yeah. And I I think that again
+that's the whole thesis behind the
+company, right? It's like AI agents are
+awesome and you shouldn't have to be an
+engineer to leverage them. Business
+users should be able to build AI agents
+because they have the business knowledge
+and that's where the value lies, right?
+And so if you have that layer of
+indirection between the guy who has the
+business knowledge on the one hand and
+the guy who has the technical knowledge
+on the other hand now it's like the the
+iteration loop is so much longer because
+every time you want to make a change you
+got to go through the engineer and it's
+going to take a day to answer to your
+email and it's going to take a day to
+make the change and three days later
+you're going to have your change and
+it's not exactly what you wanted and so
+if you want to make five changes it's
+going to take you a month. Whereas if
+you as the person who has the business
+context can make these changes yourself
+just by prompting then you can have that
+iteration looping and you can have your
+solution in that afternoon. Oh man, I'm
+just thinking of websites, you know,
+like how long were websites in like the
+old age, like in the 90s and 2000s where
+you had to code, you had to know HTML to
+build a website. And then, you know,
+tools like Squarespace and Wix came out
+and it made it easier, but there's still
+a lot of people making a lot of money
+building, you know, websites for others
+on Squarespace, Wix, WordPress, Card,
+whatever. And then now we're to this
+iteration of websites today where you
+just prompt it. You just prompt it in a
+vibe coding tool or in Lindy and you get
+a website. I feel like we're in like
+that second stage of AI agents uh today
+that websites were in like 10 years ago.
+>> That's the perfect analogy. Like imagine
+if like every time and a lot of people
+are still stuck in this world today.
+Like every time you want to make any
+change to your website, you've got to go
+through an engineer versus using
+Squarespace, Premier, Web Flow,
+whatever. Or you could just go and
+change the the thing yourself. So that
+that's exactly the same idea. Yeah.
+Well, is there anything about Lindy or
+anything cool that you're seeing that I
+should have asked you but didn't?
+>> Let's talk about computer use real quick
+because we talked about the agent
+builder which I do think is like the
+most exciting update. I am also really
+passionate about computer use because
+again
+>> Oh, yeah. Yeah. Yeah.
+>> Until computer use, you were limited by
+the number of integrations that you
+supported. And that's why Anthropic came
+up with MCP because they're like, we
+want to make it easier for people to
+build these integrations and plug them
+into AI agents. But at the end of the
+day, you're still going to need an
+engineer at HubSpot or Salesforce or
+whatever to sit down and build an MCB.
+Instead, like with computer use, you can
+have your AI agent use a computer and
+and do anything that you can do on a
+computer because a lot of solutions,
+they don't want you to use them through
+an API. They're never going to build an
+integration, let alone an MCP
+integration, because they don't want
+agents to use them.
+>> So, I'll give you this example of um I
+have a lot of spammers on Twitter in my
+mentions. It's really annoying. So, I've
+set up this agent with just a prompt and
+I was like, "Hey, I want you every day
+to look at my mentions on Twitter and
+block the spammers." You can see every
+day it wakes up. It starts its computer.
+And then you can see on the right, this
+is its computer. This is what it sees
+and this is what it does. So, you can
+see here it's like it's found this. I
+don't know why like these people always
+tell me it's like this gentleman is
+awesome. Fire emoji like subscribe. So
+annoying. And so stupid. And so she just
+goes and blocks blocks blocks blocks.
+It's awesome. And so Wow.
+>> And again, it was just a prompt like
+Twitter is not going to give you
+actually famously when Elon bought
+Twitter like they shut down.
+>> Yeah. Yeah. So we don't need an API
+anymore, you know? We're just we're just
+clicking around and same on LinkedIn. I
+think I have another example here of you
+know this like comment magnets on
+LinkedIn that are really effective by
+the way as a as a lead generation
+mechanism. So, for example, five days
+ago, we posted this tweet, this comment
+on this post on on LinkedIn, and it's
+like, I built this AI agent, you know,
+this is what it does. It's awesome.
+Like, comment agent, and I'll DM you the
+details.
+>> Uhhuh.
+>> Check this out. 3300 comments responding
+agent. So, when we had that, we're like,
+"Oh, this is a pain. We need to answer
+like 3,300 people."
+>> Yeah.
+>> On LinkedIn. And like, you know, because
+every time we need like agent, hi, just
+sent you a DM, agent. you know, and in
+some cases we can send DMs and in some
+cases people have their DMs locked down
+on on Twitter on on LinkedIn. And so
+what we've done is that we've built CCI
+agent here and what it did is like okay
+I found someone who commented. So step
+one I'm going to open the profile and
+I'm going to try to message the person.
+So you see like it tries to click
+message and then LinkedIn tells you ah
+sorry like this is actually sort of
+messed up because if you lock down your
+messages on LinkedIn LinkedIn still lets
+people message you but only if they pay
+you know it's it's kind of crazy and so
+you can see like here Lindy is like ah
+snap I can't I can't message them. So,
+I'm going to go back to the comment and
+I'm going to reply in the comment. And
+you can see here she's going in the
+comment and she's sending this uh
+message here, this comment that's like,
+"Hi, would love to send you the
+template. Please DM me." And this is
+just running on autopilot. And this is
+like, look, this is like 3,300 comments.
+So, even if it only takes one minute to
+do per comments, which I think it takes
+more than that, that is 55 hours right
+here saved just not having to go and
+respond to those manually. So, I'm I'm
+paying like $350 a month for ManyHat,
+which just does this. It's $350 a month,
+and I use it on Instagram where it's
+like, if you want the business plan,
+comment plan. It's a lot of money. I
+didn't realize I could replace that with
+this. Like, I'm just now learning this.
+And then, like, there's a lot of things
+that I want to be doing, but I need to
+hire real people for it. For instance, I
+get thousands of comments per day on
+Instagram and Facebook, and many of them
+are are critical in bad faith, right? I
+look at like negative comments as like
+good faith like hey is that even
+realistic to make this much money that's
+a good faith comment or bad faith like
+you're an idiot I hate you need to die
+right and like I I just I don't have the
+bandwidth to hire a a virtual assistant
+to go in there and block them but I'm
+not doing it so they're just living
+there and it just bugs me you know I
+could totally do this I could say hey
+like discern the sentiment analysis from
+this comment if it's a bad faith
+negative comment delete the comment and
+block the person and then like over a
+month they'll just be so much more
+curated my comments. Quick question.
+What if there were a private community
+out there of people that were building
+businesses based on this podcast? Well,
+I just made it and it's only for
+business starters and business builders.
+It's called TK owners and it's basically
+like having me and 100 other business
+geniuses as your business partner. Also,
+there's going to be exclusive new
+trends, growth hacks, business ideas,
+and a database of everything I've ever
+talked about. You'll find thousands of
+startup case studies. You'll have weekly
+ask me anythings with me while I'll
+answer your questions directly. You can
+join now at tkowners.com link in the
+show notes.
+>> It's funny the example agent I just
+showed you of the Lindy that blocks spam
+mills in my mentions after I recorded
+this demo I just showed I actually
+updated it to do exactly what you just
+said which is because I same as you I
+got these people that are just like
+rude. It's just like gratonously rude.
+And so I updated the prompt to be like
+all the block mentions containing very
+rude or insulting content especially
+when devoid of substance.
+>> And so yeah, I don't I no longer see
+this rude messages. It's like it saved
+my mental health obviously. Even a
+little bit of followers on Twitter like
+people don't understand like your
+experience changes. It just sucks. You
+get these in your mentions. I no longer
+have that anymore.
+>> Oh, that's so good. And like even tools
+like ManyHat that that have APIs to do
+stuff like this, like there are
+automations that can respond to my DMs
+or that can respond to comments,
+Facebook, Meta, Instagram, like it will
+it will block me. Like it can harm my
+account because it thinks there's
+automated behavior or whatever. Like I'm
+not asking you to like absolve me of any
+liability, but I feel like it doing it
+in an actual window makes it more like I
+have an actual employee doing it
+themselves and I'm safer from stuff like
+that.
+>> That's exactly right. 100%. It's funny
+actually there is an episode of South
+Park like that where it's like uh
+Cartman gets a lot of hate messages on
+Twitter and he asks but to like like
+filter them for him and but gets like
+brain damage looking in the head. Yeah.
+That's the idea.
+>> Oh man. I mean even like people in my
+DMs like they'll send me three
+paragraphs like dude I started this
+business because of you. Like I thank
+you so much like you. And I don't see
+them. Sometimes I'll go in and look and
+I'm like dude this is amazing. But I
+don't have anyone checking. Like I could
+reach out to them and be like, "Dude,
+thank you so much. It is AI, but it's
+better than not getting a response."
+>> Okay, let me let me show you. I have
+another agent that does exactly that. By
+the way, this is going to look staged.
+Like this is we're literally just
+briefing for like the listeners here,
+but like this is literally I have this
+agent here. This like my uh our ex new
+follower.
+>> I'm like softballing you all these
+questions. Oh,
+>> I think my viewers are they're used to
+this.
+>> Those are pretty universal problems that
+>> Yeah.
+>> businesses run into, right? And so you
+can see every time we get a new
+follower, we have this Lindy wake up and
+she looks at the the person who just
+started to follow us and she sends a
+message. So right here
+>> appreciates the follow. What repetitive
+stuff are you dealing with that's eating
+up your time and we're actually working
+on enriching this agent right now. So
+like instead of sending always the same
+message, it can actually research you
+online first and be like, I just saw
+your business did X, Y, and Z. This is
+so cool.
+>> Hey, have you thought about using agents
+for this? And this can be tailored to
+whatever.
+>> Oh man.
+>> Yeah.
+>> Well, dude, I think what I want everyone
+listening or watching this to know is
+these problems that I'm describing, you
+know, getting all these comments and
+DMs. It's probably not yours, but this
+is a problem that you can solve for
+other people that are publishing
+content, right? Like you can offer this
+as a service for people that don't want
+to read all these toxic comments or
+people that want to kindly respond to
+people in their DMs. Maybe with a sales
+pitch, maybe with a thank you. This made
+my day. Like this is a service you could
+offer for a monthly fee just using Lindy
+on the back end.
+>> That's exactly right. Yep.
+>> You could use Lindy to find the
+customers and then you could use Lindy
+to fulfill the customers.
+>> That's exactly right. Yeah. And and we
+have a lot of agencies in our customers
+that are like very successful at doing
+that.
+>> Oh man, this is Oh, I don't usually get
+a headache within 39 minutes of talking,
+but today might be a record and that's
+good. Headache headaches are good.
+>> It's a brave new world. Like people
+don't understand what's what's
+happening. like this is like the
+capabilities that we're talking about
+today are literally 30 days old, right?
+So like this is what I mean when I say
+it's so very early. Like I think you
+know it's funny because when I started
+this company not that long ago, like two
+and a half years ago, like I said, oh, I
+think like we're not very far from
+having companies that are fully
+autonomously managed by AI agents.
+>> Yeah.
+>> And people were looking at me like I
+just smoked crack. And no, it's it's
+happening. Like you you're starting to
+see it. Well, just think of like cold
+email automation agencies or cold email
+agencies. That's a thing. It's been a
+thing for years, right? I think that is
+basically to the point today where if I
+had a cold email agency, like my
+customers are companies that want to
+send cold emails, I could use cold
+emails to find my customers, I could use
+Lindy to do that. And then once I find
+them, I could use Lindy to craft,
+scrape, verify, send, reply to, reply to
+again, reply to again, close. Stripe API
+collect payment. Y
+>> like you could already do this today.
+>> Yeah. Today. Like this is not
+speculation. This is not a drill. This
+is this is happening 100%. Like what I
+really want someone to do is Yeah. I'm
+I'm looking forward to see like the
+first fully autonomous AI organizations
+set up by one guy. To your point like
+you could imagine like the recruiting
+example. It's like hey these are three
+candidates like this is a docuign. you
+know, you don't pay me anything unless I
+actually get you a hire through the
+door. By the way, an interesting thing
+is like some recruiting companies work
+like that. It's like a on a contingency
+basis. Like you only pay us 20% of the
+first salary, which is a lot of money.
+It's like $30,000 plus. But then there
+is fraud. It's like customers hire
+someone and they never tell you and
+whatnot. So here what you can do, you
+can have another AI agent that checks
+every month the LinkedIn profiles of the
+candidates that you introduced to
+customers to see if they joined the
+customer. And if so, you hit up the
+customer and you're like, hey, where's
+my money?
+>> Oh, so good.
+>> You can set up the whole thing like that
+end to end like, hey, here's the docu
+sign. And then once you send it, once
+the person signs it, like now you have
+another agent that goes and starts
+finding candidates, reaching out to
+them, booking interviews with the
+customer or sending them to customer to
+confirm first and you can have the
+entire flow completely end to end
+managed by AI agents. I'm just picturing
+a company getting an email said, "Hey,
+uh, remember when I introduced you to
+John Smith for that technical role? What
+happened to him?" Oh yeah, John, he
+passed. He took another job. Really?
+Because I see on LinkedIn he's joined
+your company. Invoice attached. Please
+pay within seven days. Invoice paid.
+>> Yeah. Yeah. Yeah. I love that. That's
+exactly the idea. If not, send to
+collections and maybe collections is
+another AI agent, you know, that's like
+a
+>> I'm sure they will.
+>> This is a lawyer AI agent, you know,
+that's like, hey, you're in violation of
+Yeah.
+>> Yeah. It's interesting because we're so
+early, but just like there are
+businesses that don't have websites
+today, we're going to be 10 years from
+now and there's still going to be people
+doing it the old way, right? So that's
+that's not a reason for someone to wait,
+but it just takes a long time for people
+to adapt to these new technologies. So
+the sooner you act, the more you'll be
+ahead of of your peers.
+>> Yeah, I think at some point there is a
+tipping point where it's like at first
+you get an advantage if you adopt these
+technologies first and then at some
+point you were at a disadvantage if you
+haven't adopted these technologies. Like
+you know today people who aren't using
+computers and they're still using like
+fax machines or whatever. I don't think
+there's a whole lot of them. If you're
+in that boat, like you're you're no
+longer at an advantage if you use
+computers. You're just like behind and
+you're like at a disadvantage if you
+don't use them.
+>> Yeah. I'm picturing like a spectrum.
+It's like first phase is like advantage,
+first movers, right? The biggest middle
+phase is table stakes, right? You don't
+have a website, dude. That's table
+stakes. Yeah.
+>> Like that's just like
+>> that's like like you have to have a
+website. And then after that,
+>> it's you don't have a website, how are
+you still in business?
+>> Yeah. No. Exactly. What how do people
+know how to contact you?
+>> Yeah. Yeah. We're still in the phase of
+like advantage because like as you said
+like this technology is like 30 days old
+like AI agents started to work basically
+12 months ago really. So it's still very
+early which is why we are seeing the
+companies and the individuals and the
+agencies who are adopting these
+technologies first just completely blow
+it out of the water.
+>> Oh Flo, this is amazing. Lindy.ai.
+>> Lindy find you.
+>> Yep. Yeah. We're active on Twitter.
+We're active on LinkedIn. If you follow
+us on on Twitter, like an agent will be
+in touch with you. Yeah.
+>> Yeah.
+>> He's honest, folks. He's honest.
+Okay. If you like this episode with the
+Lindy founder flow, we spoke back on
+June 16th, 2025. So, you can scroll back
+and listen to and or watch that one as
+well. And as always, I would really
+appreciate it if you shared with a
+friend and used my Lindy affiliate link
+in the show notes. Thanks a lot. We'll
+see you next time on the Kerner

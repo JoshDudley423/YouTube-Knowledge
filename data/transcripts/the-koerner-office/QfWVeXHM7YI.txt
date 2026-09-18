@@ -1,0 +1,244 @@
+all right so I just upgraded to open
+ai's operator plan their their Pro Plan
+$200 a month and I want to see what it's
+capable of I just spent some time
+playing around with it on Facebook
+Marketplace it kind of blew my mind so I
+thought okay I got to hit record on loom
+and let's see what this is capable of
+and I'll show you guys what I learned as
+you learn it too so I want to see if the
+operator can go message people in the
+Dallas Fort Worth area offering to
+charge them money to pick up their free
+piano this is a business model I tweeted
+about it a little while ago I'm
+intrigued by it the model is this every
+day 40 to 60 people in DFW list a piano
+on Facebook Marketplace that is free
+because these things are liabilities
+they don't know how to get rid of them
+they weigh 600b and so there's a very
+lesser known business model of guys that
+will line up a whole bunch of pianos in
+the same day they'll go rent a U-Haul
+for 50 bucks plus 75 cents a mile
+they'll charge 250 bucks per piano
+they'll load up the U-Haul take it to
+the dump and throw away the piano yes I
+know it sounds terrible throwing away
+these beautiful musical instruments but
+at the end of the day nobody wants these
+things ideally yes we donate them to a
+good cause nobody wants them so we got
+to do something with them all right so
+let's monetize it here's what my prompt
+is going to
+be I want you to open Facebook
+Marketplace search the DFW
+metroplex for pianos that have a Max
+price of
+then I want you to
+message the seller
+offering them to pick them up for a $200
+fee let's see what it does okay let's
+just see what it does okay so it's
+already logged into my Facebook account
+I did that before hitting record it
+wants to make sure that I'm paying
+attention because Facebook has sensitive
+data and it doesn't want me to walk away
+from compu the computer but there are
+ways around this so it's opening
+Facebook Marketplace this is my personal
+Facebook account let's see what it
+searches okay would have preferred it to
+search piano instead of plural but I'm
+sure it's still fine it's going to set a
+Max price for $0 that will ensure that
+every piano that's listed is free and
+surely it's going to do something funky
+here but that's part of the fun of it
+okay so it's paused I found a listing
+there are items for pickup in crowdly
+test would you like me to message the
+seller with your offer to pick a piano
+for a $200 fee Let's test it how far
+away is Crowley from Plano
+Texas now here we're treating it like
+good old chat GPT oh wow it's opening
+another tab that's very interesting to
+me that it isn't pulling on and it's
+using Bing I guess that makes sense with
+the
+Microsoft
+okay yes you can message anyone within 7
+25 miles of Plano go ahead and ask them
+as well as everyone
+else I will
+come okay I don't want to say that
+because that might dissuade them see
+what it does let's see what
+happens also I did buy the domain names
+piano movers.com because I think someone
+needs to do this as a standalone
+business all right so would you like me
+to send it
+I've heard people talk about how the
+operator won't message people like it
+will not communicate with people but I
+think it's going to do it boom
+sent okay this is actually crazy to me
+this is acting like a virtual assistant
+or like a actual in-person assistant
+it's doing this menial low-level task
+for me but it's also thinking as it does
+it pickup only you will need a truck to
+pick those items up okay it's
+highlighting the standardized message
+it's pasting in mind
+oh man this is amazing should I send it
+yes let's see if it actually listens to
+me because there might be some guard
+rails in place Sending
+message I'm going to take it a step
+further here in a minute I'm going to
+have it log all of these in a
+spreadsheet all by itself so while it
+does this I'm going to go to this
+spreadsheet entitled operator there's
+nothing in it it's completely bra blank
+and let's see if it listens to me and it
+sends this without my
+permission it did it it is communicating
+with people without my input or
+permission this is
+amazing please log all of these in a
+spreadsheet in this
+spreadsheet make appropriate
+columns so now I'm going to ask it to do
+something totally different from what
+it's doing now it's going to make a
+spreadsheet for me and it's going to log
+these items so video is cool but you
+know what's better long form audio via
+podcast and my newsletter TKO pod.com go
+there to subscribe for free to my
+newsletter it's one email a week very
+tactical 1500 words per email and then
+go to my audio podcast three episodes a
+week stuff like this you're going to
+love it all free no sleazy sales
+TKO pod.com this is so crazy to me that
+these people that I'm messaging are one
+of the first people in the history of
+the world to unknowingly have
+a conversation with artificial
+intelligence this is absolutely
+incredible pianos of all things who
+would have thought okay now here you can
+see in the window what it's doing in my
+Google sheet and if I go to my Google
+sheet it's just it looks like an actual
+humans in here look at that freaking
+amazing oh my gosh this is so
+cool 60 pianos a day let's say 50 let's
+say 10% of them agree that's a day okay
+so let's say 40
+40 *
+7 280 listed a week let's say 10% of
+them agree to have it come picked up for
+200 bucks because they got to do
+something with it especially if they're
+moving it has to go that's 28 people a
+week agreeing to pay
+$200 that's $5,600 a week okay you're
+going to have some cost some gas and
+labor those pianos are not light that
+could be a six-figure business that is
+primarily run by AI now granted you know
+the low-level stuff is done by AI the
+heavy stuff is done by by me but man
+alive look at this it's making a
+spreadsheet to resume okay yada y yada
+May conflict with your instructions Mark
+safe so if I navigate away from this tab
+it's going to pause after a few seconds
+or 30 seconds a minute I don't know but
+I can always have this open in my other
+monitor right over
+there now but it's not adding the link
+to the listings
+don't forget to add the link to each
+listing okay what's it going to do it's
+adding the links it's going
+back is it the right one pianos organs
+office kids
+desk that's the first one oh man it's
+freaking doing it and then I'm going to
+go a step further I'm going to say can
+you
+monitor these messages and add a new
+column with a check box and check the
+box if someone
+responds
+do yeah let's just let's just start with
+that if I were to launch this business
+today I would literally hire a virtual
+assistant and pay them $4 to $8 an hour
+to do exactly what this AI is doing
+right here I don't know why it put
+nothing in column A that is a little
+curious but add check
+boxes response
+received what's interesting to me is
+it's behaving just like a human all
+right where's the checkbox it seems to
+be thinking a good bit
+here oh
+man it's going a step
+further okay I thought I was going to do
+like a drop down response it's just kind
+of doing the the more tedious way of
+adding a check box and it's checking the
+Box even though a response isn't
+received leave the Box
+unchecked oh my gosh it looks like I
+might have a
+message it looks like I might have a
+message this is so cool I'm not
+literally on the edge of my seat but I'm
+figuratively on the edge of my seat
+right now
+now it never unchecked the boxes so it's
+telling me it needs a pin but it doesn't
+it just needs to click on
+Marketplace there it is it's freaking
+amazing okay look at that someone
+responded we are giving things away I
+don't want to pay to haul them
+off he responded to AI yeah you're doing
+it the opposite way
+check the box if they respond and leave
+unchecked
+otherwise Oh Derek if you only
+knew wa what are you doing what are you
+doing
+here it's kind of freaking me out
+because it's like sometimes when I'm
+working click on the wrong thing click
+on the wrong I'm just
+distracted it's almost like it's acting
+like it has ADHD maybe is this is this a
+parallel universe and this is a digital
+representation of me okay it's not
+unchecking the boxes but my mind is
+sufficiently blown we've been recording
+this for 15 minutes and we got someone
+to respond and We messaged three people
+and it could keep doing this it could do
+this all night
+so I don't even know where to go but I
+hope that this excites you and uh TKO
+pod.com to join my newsletter so you can
+learn about this stuff in real time

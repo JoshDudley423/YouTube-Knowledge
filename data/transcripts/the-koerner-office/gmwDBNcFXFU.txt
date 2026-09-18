@@ -1,0 +1,338 @@
+It's already done. What the crap? Oh my
+gosh, it works. That's crazy.
+Okay, that was very easy. Oh jeez.
+>> It's an AI tool that goes out and
+actually does stuff for you and not just
+returns answers to you. We have a
+sellable product here. That was one
+prompt. It just built this for me.
+Freaking [music] incredible. Now I need
+to sell it.
+Everyone's talking about AI agents and
+lately they have all been talking about
+Grok Bot, which is the tool built on
+Grok, which is like ChatGPT and Claude,
+that will go out and do stuff for you.
+So today I'm going to find out is the
+hype real? Is it not? Can I build and
+code a sellable software product without
+any coding knowledge in less than an
+hour? I want to build a Chrome extension
+and an app, a Mac app specifically, for
+something that I need solved. I've never
+touched Grok Bot in my life. Today we're
+going to see if we can do it and I'm
+going to share my screen and show you
+exactly how to do it too because let's
+get real. None of us really know how to
+code. Let's dive in. Okay, so I just got
+out of massage and during the massage I
+of course didn't have my phone so I of
+course was able to think and I was
+thinking about Grok Bot, believe it or
+not. And I was wondering what I could
+do. I've never used Grok Bot before.
+This is not sponsored by Grok Bot. This
+is just me wanting to try the new AI
+thing. So, Grok Bot is an agentic AI
+tool. In other words, it's an AI tool
+that goes out and actually does stuff
+for you and not just returns answers to
+you. So, some of my best videos have
+been the ones where I'm out and about
+doing something. I get a business idea
+and then instead of just building it, I
+build it on screen. So that's what this
+is going to be today. I'm downloading
+Grok Bot for the first time ever. Here's
+the business idea that I had. So, I want
+to build a product that does not exist.
+I want to build it for myself cuz I
+think this will help me be more
+productive. But I think I could also
+sell it. I could sell access to it. I
+think other people would find it
+productive. So, you maybe heard of the
+concept of time boxing, right? A lot of
+successful people time box. They
+literally go to their calendar and say,
+you know, 7:00 a.m. to 8:00 a.m.
+meditation, 8:00 a.m. to 9:00 a.m.
+emails, 9:00 a.m. to 10:00 a.m. They
+schedule and plan out their their entire
+day so they're more productive. Not my
+thing, but it's hard for me to be
+accountable to a calendar event that no
+other human is a part of, right? Whereas
+if I put money into something, I will be
+accountable to it. I will do that thing.
+But that's not what this idea is. My
+idea is to lock me out of my inbox for
+the majority of the day, so I have to
+get caught up on my emails in a specific
+time frame. So it's like forced time
+boxing, right? As opposed to like, "Oh,
+I put it in my calendar, so now I'm
+going to do it." No, you won't. I won't.
+You won't. So originally, this was going
+to be an app that locked everything on
+my computer except for my mail app or
+gmail.com. That way, while working
+during the work day, I was forced to get
+caught up on my emails during that time.
+I couldn't get distracted, browse
+Twitter, whatever. But I don't really
+like that. So instead, I'm going to do
+the opposite, and I'm going to lock down
+gmail.com and my mail app for 90 plus
+percent of the time, 95 plus percent of
+the time. On some days, it will be
+completely locked, like on the weekend,
+so I don't work, but during the week, it
+will be unlocked. It will be usable
+until like 10:00 a.m. That way, I will
+feel pressure to get caught up on all my
+emails cuz that's something that I
+struggle to do. That way, I have to
+finish my emails until 10:00, or else I
+won't get another shot until the next
+day. I think that pressure will force me
+to be more productive. And I can use
+this app for other things, not just
+email, but for making sure that I just
+do what I need to do on the computer.
+Like it will literally block certain
+websites or certain apps. So either I
+have to stay in there, or I can only use
+it for a defined period of time. Hey,
+please subscribe to this channel if
+you're enjoying this content because it
+takes a lot of work. So, thank you. So,
+I could vibe code this, but I want
+GrokBot to vibe code it for me because I
+just had this conversation with Billy,
+and he's a GrokBot expert, and he said
+he's never tried it. He's never had
+GrokBot go into rep it for him, prompt
+it for him, and then fix it, test the
+website, test the software, look at the
+code, test it back and forth, cuz that's
+the hardest and most tedious part of
+vibe coding something is getting it to
+being perfect, or close enough to
+perfect to sell the thing or to use the
+thing yourself. So, that's what I'm
+going to do here. Okay, I'm installing
+Grokbot. Okay. Okay. All right, it wants
+me to connect a bunch of stuff. I don't
+want it to do a bunch of stuff. Billy
+said, my friend Billy said that you want
+to treat Grokbot like an employee,
+right? A good boss, and I'm not saying
+I'm good to boss cuz I'm not very good
+at doing this. A good boss does not tell
+an employee, "Do this. Now try this. Do
+this. Do this. Do this. Do this. Try
+this work project. Work on that
+project." I do that. It's not good. A
+good boss says, "This is your job. Just
+do this. Just focus on this." That's
+what I'm going to do here. So, I'm not
+going to connect it to any of this
+stuff. Okay. Now, I'm going to go into
+Claude, and I want Claude to know what
+I'm doing. All right, here's my prompt.
+I'm going to use Grokbot to code an app
+for me that I can use myself and
+eventually sell. I want to prompt
+Grokbot to go into my Replit account to
+build this for me. Not just build it,
+but build, test, fix, build, test, fix
+over and over until it's ready. The app
+needs to allow me to open windows
+of time where my Mac Mail app plus
+gmail.com is only accessible from 5:00
+a.m. to 10:00 a.m. every day of the
+week.
+Outside of those hours, I cannot visit
+either Gmail inside my Arc / Chrome
+browser or even open my mail app. This
+is intended to force me to get to inbox
+zero every morning since this will be my
+only opportunity. I can unlock this lock
+with a password, but ideally only what
+my wife knows this. I guess it needs to
+function like a Mac app or a Chrome
+extension or both, but Grokbot needs to
+first build a workable version of this
+that I can use for myself and ultimately
+build a website and sell this app as a
+SaaS on this website using my Stripe API
+and anything else it needs. Write a
+beautiful prompt that is Grokbot
+friendly using all the technical coding
+terms I know nothing about so I can just
+build this with as little intervention
+from me as possible. It is okay to
+approve any and all Replit overages and
+charges without my approval not
+exceeding $100 a day. I really don't
+want to mess with this. Grokbot needs to
+keep testing the app for bugs and asking
+Replit to fix it over and over. Go.
+Okay, push back from Claude. The blocker
+has to live on your Mac. Yes, Replit
+builds web apps. A website can never
+force quit your mail app. So, the real
+build is a Mac menu bar app plus a
+browser extension. Two things an AI
+agent physically cannot do for you,
+create your Apple developer account and
+your Chrome Web Store dev account.
+Budget 20 minutes total for those. Test
+the habit first for $0. It's structured
+in phases with an autonomous build test
+fix. Okay, so I don't know what any of
+this stuff means, but I'm going to try
+it. We're going to copy it. We're going
+to go back to GrokBot. Claude named it
+Morning Lock, so we'll just we'll go
+with that even though I don't like it.
+Okay, there's the prompt. Okay. So it's
+working. Ask me for anything you need so
+I can walk away and be confident you can
+work uninterrupted. Credit card number,
+logins, etc. Okay, we're going to
+authorize Stripe. Uh we're going to go
+back to Stripe test mode. Authorize.
+Resend.
+Okay, that was very easy. So it's going
+to do GitHub and Replit next. Okay, I'm
+not 100% that I'm seeing what I think
+I'm seeing, but it looks like extension
+test. That means Chrome extension. I
+think it's it's already building this
+thing in the background and it just
+tested 23 different things and all of
+them were green, so that's kind of wild.
+GitHub. Okay, so it says open that. Sign
+that device. Okay, GitHub is ready. It's
+already done. What the crap? Is it
+already done? It just put the thing in
+my downloads. It's right there. Okay,
+Mac menu bar app is Okay, so it just
+built a Chrome extension.
+Okay.
+Open Chrome colon slash slash
+extensions. Okay, there it is. Okay,
+those are all the domains it's going to
+block.
+Okay, there's the accountability
+password. Confirm and start. It already
+works. Oh my gosh, guys, I've only been
+recording this. You're seeing the edited
+version, but it's only been recording
+for 31 minutes and 37 seconds. And it's
+done. And then I can change the
+settings.
+It's locked right now. Oh yeah, of
+course it's locked. Yeah, cuz it's
+supposed to be locked. Oh my gosh, it
+works.
+That's crazy.
+But let's say, you know, today is Friday
+at 4:34 p.m. So, we're going to say it
+should be unlocked on Friday until 10:00
+p.m. today.
+Save schedule. Okay?
+Now, go to Gmail and it works. Change it
+back.
+Save schedule. Go back to Gmail.
+And it's locked. Okay.
+That's amazing. Look at me. I have this
+tweet pulled up right here. I was going
+to like live tweet this, but I didn't
+have time to hit tweet. How's the Mac
+app coming? Need my Replit login? Glad
+it's sticking. Check the Mac app. Ooh,
+what if I had Grokbot go into my Replit
+account and finish all of the projects
+that I have like 90% finished.
+Spelled it got it wrong. Whatever. All
+right, we're good. It's signed into
+Replit. It's signed into GitHub for me.
+GitHub is a place where you can store
+code. Okay, it's pizza night, so I got
+to step away for a minute. I'll be right
+back. Hey, if you want to learn how to
+build stuff with AI, check out
+playmakers.ai.com.
+It's my own private community where we
+are becoming AI consultants. We are
+finding paying customers paying hundreds
+or thousands or sometimes tens of
+thousands of dollars per month. We've
+got hundreds of hours of content, three
+to eight live calls with experts every
+week, myself included. And it's all
+found at playmakers.ai.com.
+We'll see you there. Guys, I did it. We
+did it together. We have a sellable
+product here. It's done. I I want I want
+to show you something real quick. Okay?
+Right here. Okay. So, look what happens
+when I click this little lock icon up
+here on my Mac. I think you can see
+that. This pops up. And I added some
+more features off camera because I
+couldn't help myself. And now it does
+all kinds of other things. So, unlocks
+my mail, but then in addition, the
+Chrome extension right here, okay? Look
+at this. It pulled in my most visited
+websites. That was one prompt. And I can
+block all of them, I can block none of
+them, I can block all but one. And so,
+hey, stop looking at YouTube Studio. So,
+this this could be embarrassing, right?
+You can see everything I look at here. I
+There's no editing here.
+RV rental websites, whatever. I can
+block all of these, none of these. So, I
+can lock in and then I can even send my
+password to a spouse, a loved one,
+whatever, so they have to be the one to
+unlock it for me.
+So, I didn't tell it how to look, what
+colors to use, what the user interface
+should look like. It just built this for
+me. Freaking incredible. And it works,
+and I'm using it. Now, I need to sell
+it. That's going to be on part two. So,
+stick around. And look, here are my
+prompts here. It wasn't that long. It
+didn't take that long. Can you have it
+list out all the most commonly used apps
+and websites on that computer and
+browser to make it easier for the user
+to block ones they struggle with. Boom,
+done. The icon doesn't work. Boom,
+fixed. Cool. Everything works. So, I
+don't know if this is clear or not, but
+this is not a sponsored video for Grok
+Pot. Nobody paid me to post this video.
+I just think this is transformative and
+you can profit from it. Please enjoy.
+Please share with a friend. And we'll
+see you next time on the Corner Office.
+>> If you or someone you know went to
+ChatGPT and said, "Make me money." and
+then it did, I want to hear from you. I
+want to have you on my podcast to hear
+your story. If it's you, great, you'll
+get free publicity. If it's your friend,
+great, I'll give you a thousand dollars
+for sending your friend. Send them to
+tko.yes.com
+and fill out the form and we'll have you
+on the podcast.

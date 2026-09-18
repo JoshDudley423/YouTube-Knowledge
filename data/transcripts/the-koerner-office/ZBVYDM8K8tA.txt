@@ -1,0 +1,485 @@
+One of the most genius ways of making
+money is taking a proven product and
+changing the form factor. What are some
+examples? How about this, this, this, or
+this? You may have already noticed by
+now that I'm not about reinventing the
+wheel on this show. I want to take
+what's working and copy and paste it.
+And sometimes you can copy and paste it
+with an upgrade if you just change the
+form factor. For example, vitamins are
+fine, but some people don't like
+swallowing pills. They'd prefer a gummy.
+Same ingredients, same product,
+different form factor. From gummy to
+powder, powder to gummy. You want
+caffeine? How about in gum, or a drink,
+or a powder, or jerky? You get the idea.
+But how do we promote these products? Or
+better yet, how do we see if there's any
+demand for these products with its new
+form factor before spending a ton of
+money because it is not cheap to start
+these businesses. Well, traditionally
+you would have to spend hundreds or
+thousands of dollars for every video.
+You post ads with those videos or still
+images. You see if people click on them,
+do they like them, and then you go to
+the research and development phase and
+start to build those products out. That
+was still a lot better than just having
+an if you build it, they'll come
+attitude. You're still testing it before
+you launch a product, but it cost
+hundreds and thousands of dollars to put
+these beautiful images or videos
+together that look kind of like this.
+But now we have AI. We have AI image and
+video generation tools like Higgsfield.
+Higgsfield has been my favorite lately
+because you can use all kinds of
+different image and video generation
+models within one platform. So today,
+I'm going to show you how to generate
+beautiful, gorgeous images and videos
+inside Higgsfield, whether you're
+changing a form factor or not, so you
+can use these images and videos to test
+a product or a service before having to
+actually invest a bunch of money into
+it. So not only am I going to be showing
+you how to use these cool image and
+video generation tools on Higgsfield,
+but I'm also going to be giving you some
+very specific business ideas and product
+ideas that I just love. And I'm going to
+save the best for last. And please steal
+my homework. Steal these ideas. These
+are the types of ideas that someone's
+going to launch eventually, so why not
+make it you?
+All right, and I'm going to start with
+Nano Banana, which is a Google product.
+I have a couple other videos about it,
+and I love it. So I'm logged into
+higgsfield.ai right now, and I'm going
+to click on Nano Banana Pro Gallery. I
+just want to see what people are doing.
+I want to get inspired. Okay, okay. Very
+cool, very cool. Okay, so let's generate
+some images. I'm going to go to image,
+create image, and I'm going to land
+right here. Now right here on the
+drop-down, we can choose which model
+that Higgsfield uses to generate these
+images. Some of these are Higgsfield
+models, and some of them are other
+companies' models like Google's Nano
+Banana. So let's go to Nano Banana Pro,
+and I have had this business or product
+idea that I cannot get out of my head,
+and that's rucking, right? If you don't
+know what rucking is, it's putting on a
+vest or a backpack with a bunch of
+weights in it and walking around looking
+like an idiot. I do it, my wife does it,
+and has great health benefits. And if
+you look at Google Trends right here,
+it's exploding in popularity. But the
+problem that I see with rucking as a
+business is that they all are black and
+they're ugly and they're very expensive.
+And I don't want to walk around wearing
+what looks like a tactical vest. And I
+know that women don't either. Yet I see
+them at the park all the time. I'm not
+seeing any rucking vests or backpacks
+that are, for lack of a better word,
+cute, attractive, great for women, pink,
+colorful. Why not? Why aren't they
+there? It's because we're still early.
+So you can steal this idea from me.
+Here's my prompt to make an image with
+Nano Banana Pro inside Higgsfield
+because if we create professional images
+or videos, then it provides us with
+instant credibility. It doesn't look
+like some janky thing that I'm testing
+with Facebook ads, which is exactly what
+I'm doing, but I don't want it to look
+like that to everyone that sees my ads.
+Here's my prompt. Fit woman wearing an
+attractive rucking vest made of female
+colors. I don't know what female colors
+are. Don't judge me, please. I don't
+know what I'm talking about here. With
+great design on an outdoor hiking trail,
+mountains in the background, text says,
+"Start rucking without looking like a
+sniper." Energetic and motivational
+mood. Okay, we've got Nano Banana Pro
+chosen as the model. It's going to cost
+us two credits to generate this, and
+let's see what it comes up with. All
+right, here's the image. Took about 8
+seconds. "Start rucking {comma} without
+looking like a sniper." Beautiful. Looks
+real. Looks real to me. Her skin has
+like some complexion to it. It looks
+like she had a sunburn or something and
+it's peeling off. Like this is very,
+very realistic. One problem is you can't
+really see the vest itself. So I'm going
+to change the prompt a little bit. I
+kept the prompt the same and I added it
+should show her walking away so you have
+a clear shot of the back of the rucking
+vest, and you can see that it's light
+pink in color. All right, this is
+awesome. This is awesome.
+Can't see her face. It still looks
+realistic. You see more of the trail.
+There's no quotations in the text, which
+I prefer. Got different colors in there.
+It's a pink backpack. It's cute. "Start
+rucking without looking like a sniper."
+And it looks like there's even a
+Lululemon logo on her leggings. So I
+love it. Man, I this makes me want to
+start a rucking business and use this
+exact ad. Like this is good. This is a
+business you will see. Are you going to
+start it or someone else? It's not AI
+gibberish. This could be a YouTube
+thumbnail, a social media post, email
+header. Options are endless. All right.
+Now one thing I love about Higgsfield is
+you can change the visual style of the
+picture. You don't just have to rely on
+whatever the default is. So what you're
+seeing right here is general. I want to
+see what the iPhone style looks like cuz
+those are performing really well in paid
+ads right now. So I'm just going to
+change it to iPhone and then click
+generate again. Okay, here are the kind
+of cell phone filter versions. Don't
+know how I feel about that backpack,
+but uh it does look more realistic like
+this was taken with a cell phone. Let's
+see what the selfie filter looks like.
+Cool. Looks great. I know I kind of gave
+Higgsfield a lot to work with asking for
+a selfie and for it to be from behind so
+you could see the backpack, but you got
+like a fish eye lens here, beautiful
+mountains in the background. It's done
+everything I've asked it to do.
+Let's see if we can generate some AI
+videos. I've got another idea. You're
+going to think this is dumb, but I'm a
+cyclist, and I recently read a study
+that said that basically all the health
+benefits that road cyclists get from
+cycling are negated due to all the fumes
+that we're breathing in as we sit there
+at stop lights behind cars and trucks.
+So that's kind of depressing, right? So
+I thought, "What can we do about that?"
+Well, I went to Amazon and found these
+nose filters. They're super
+weird-looking, and they're for like
+flying, and it's kind of like a, you
+know, COVID-era face mask except just
+for your nostrils. No one is changing
+the form factor of this to be sold to
+cyclists as a health benefit. They're
+just selling it in this sterile
+packaging like a band-aid. No cyclist
+would ever think to buy this thing. But
+what if you went to a race and you got
+one of those race packets and you got a
+sample pack of these for free? You'd
+probably be pretty likely to buy those
+on a recurring basis from the company
+that sells them. And remember, because
+of the fact that we're just changing a
+form factor, it just means we need to go
+to Thomasnet, Alibaba, AliExpress, and
+find any company that makes these and
+just get different packaging. We don't
+need a patent. We don't need to reinvent
+the wheel, research and development. We
+just need new packaging, which is very
+simple and cheap to do. So let's
+generate some freaking videos already.
+Cyclist wearing small nose filtration
+plugs, street city background with
+visible car exhaust, close-up shot
+showing the discrete plugs. Text says,
+"Breathe clean while you ride." Modern
+health tech aesthetic. He's sitting at a
+red light in traffic surrounded by big
+trucks. Okay, which model am I going to
+use? I'm going to use Kling 2.5 Turbo
+cuz I have friends that use this for
+their Facebook ads and say it's amazing.
+5 seconds, 1080p. We're going to
+generate it for six credits, and let's
+go. Now keep in mind that you will have
+much better results if you upload a
+reference image, something for
+Higgsfield to work with. So I'm going to
+upload this random image I found from
+Google Images of a cyclist sitting in
+traffic. Let's see what it comes up
+with. Now remember, I'm generating a
+video of a product that does not even
+exist yet. This is validation before
+investment. This is saving a lot of
+money is what it is. And just like the
+image generation models, we can kind of
+change the vibe of the video. I just
+chose general, but we can have all kinds
+of different aesthetics here. Smoke
+transition, I can fly, firework,
+animalization, etc., etc. Okay, so
+here's what we got. First of all,
+absolutely insane that it took a random
+image from Google Images and turned it
+into a video that looks 1,000% real. My
+only beef with this video is the fact
+that the nose filtration doesn't look
+anything like the actual product. And
+why would it? Cuz I didn't upload a
+reference image. I'm going to see if we
+can use their team collaboration feature
+because I've got an ads guy that I use,
+and I would love for him to be able to
+generate all this stuff for me and then
+me log into my Higgsfield account and
+just say, "All right, change this, edit
+that." Or make my own edits and say,
+"All right, I made some changes to what
+you did. Go ahead and run with those."
+So let's see how that works. I'm going
+to go to browse assets, shared folders,
+and I've got a board here that my
+colleague Molly made, health and
+wellness brands. And she generated these
+images, people rucking. That looks
+awesome. It's kind of like an Avatar
+vibe there. Looks like she kind of went
+with Athletic Greens and changed it into
+a gummy form. And then of course the
+nose filters. So then I can just come in
+here and say, "Hey, let's recreate this.
+Let's recreate this with some edits or
+with a different model or with a
+different filter." Let's say I kind of
+like this image, but I want to change it
+to look more like a filter, less like a
+nose ring. I would just click edit
+there, and then it would pull up the
+exact same prompt she used, so I can
+change it. I can do whatever I want. I
+can upload references, etc. And what's
+really cool is if I click into her image
+and I hover over the image, you'll see
+this little chat bubble. Click on that.
+You click on the very, very specific
+part of the image you want to change and
+say, "Hey, let's make this look more
+like a filter, less like a nose ring,
+lol." Hit enter, and then she will
+immediately in real time the chat
+bubble. She'll be able to open it and
+see what I said there, and she can
+comment back. That way you're not
+hopping back and forth between Slack or
+whatever other messaging service you
+use. So, let's try this now. I'm just
+going to click this one, then I'm going
+to click recreate. When you click that,
+it's going to show the prompt that Molly
+used, and I can change it. It looks like
+she didn't specify any colors, so I'm
+just going to add one sentence to it
+that says, "Make sure the vests are both
+feminine colors." And then I click
+generate. All right, looks like my
+prompt worked beautifully. I turned
+these green rucking vests into pink so
+they could be more feminine, and that's
+awesome. Looks like they have a version
+history in here, so we can kind of see
+how this visual concept evolved. That
+way we can be working on all kinds of
+campaigns at the same time without
+stepping on each other's feet. All
+right, now I want to see how
+frictionlessly I can convert these
+videos and/or pictures into ads. So,
+they have this feature here called
+click-to-add. I love using this face
+cream every morning. Keeps my skin soft,
+hydrated. Now, let's see if this thing
+works. So, one of the best-selling items
+on Amazon right now
+is creatine gummies. So, I just searched
+creatine gummies on Amazon. I'm going to
+pull up this random brand. I'm going to
+take the link for it, copy it, go back
+to Higgsfield, paste in the URL, hit
+continue, and then let's see what it
+comes up with. All right, right now it's
+kind of going to Amazon. It's figuring
+out what it's looking at. Now it's
+pulling the images out of the link. All
+right, now it's coming up with some
+brand colors. I'm pretty sure this is
+going to be like an entire video ad that
+comes from simply just pasting a URL in
+there. Now it's coming up with a logo.
+Okay, boom. Now we have a full-blown
+product kit. Got some images in here. It
+pulled out the brand colors based on the
+colors in the logo. Now we're going to
+choose the style of our ad. I'm going to
+go for luxury here cuz I want to charge
+a lot for these. Boom. Let's generate a
+video. All right, this should take a few
+minutes. See, the point of doing this is
+to try to reverse engineer other winning
+products. So, if I think that I can be
+successful selling a different type of
+creatine gummy, I don't want to start
+from zero. I don't want to start from
+scratch. I want to use someone else's
+template and then kind of make it my
+own, if you will. For instance, if
+someone is using a best-selling creatine
+gummy that was just for the general
+population, I might want to take that
+and unbundle it and sell it to female
+ultra-marathon runners, right? Or
+elderly CrossFitters. I don't know,
+guys. There's no bad ideas here. I just
+know that the more niche you go, the
+more you can charge and the more you can
+stand out. Now, if you want to find out
+how much these companies are selling on
+Amazon, you can use a tool called Jungle
+Scout. It's a little expensive, but they
+have a 30-day free trial, so you can
+cancel right after you sign up. This is
+not an ad for them, but I've used them
+in the past a ton, and it's quite
+incredible. It has a Chrome extension,
+and it will show you exactly how many
+units and how many dollars worth of
+product any given brand or product sells
+every month. And so, if I see a brand is
+selling a million dollars a month of a
+generic creatine gummy, I'm going to
+take that and just brand it towards
+endurance cyclists or whatever. Now, if
+I want to post these videos as ads to
+Facebook or Instagram, I want three to
+five different versions of the video.
+Maybe each version is just that niche
+that I'm targeting. Male tennis players,
+female ultra-marathon runners, whatever.
+The branding looks the same.
+Everything's the exact same except the
+audience that I'm selling it to. Or the
+audience is the same, say 30-something
+golfers, but I want to change the colors
+up or change the messaging or the
+pricing. You can do that with just a few
+clicks within Higgsfield.
+Discover mixed berry creatine gummies.
+Okay, that's really dang good.
+>> and support memory. Enjoy convenient,
+delicious performance every day. We can
+edit it. We can edit the transcript. We
+can edit anything we want about this.
+But for the first pass, that's pretty
+dang good. So, I'm going to go ahead and
+make a couple different variations of
+this.
+I'm going to use simple UGC, which
+stands for user-generated content.
+That's kind of like a testimonial or an
+unboxing video. I'm going to see what
+that one looks like. And then I really
+want to see what this viral chaos
+version looks like. So, let's try that
+as well.
+So, both of these should be generating
+at the same time. I can show them all
+side by side. I switched to Force Factor
+creatine gummies.
+They're delicious mixed berry, and each
+serving gives me 5 g of creatine. They
+make it easy to build strength, recover
+faster, and even keep my focus dialed
+in. I switched All right, what I love
+about this video is that she pulls the
+gummy out. She holds it up closer to the
+camera, and the camera actually
+refocuses as it gets closer to the lens.
+You can see like the sugar crystals on
+the outside of the gummy, which is just
+brilliant. She looks real. She kind of
+has that AI voice, which is my only
+complaint, and it's a small one, but
+she's holding the product, and like I
+didn't prompt it at all. I just put in a
+URL from Amazon, and it took everything
+from there. It She even quotes the
+nutritional facts on the back of it.
+Count with Force Factor creatine
+gummies. 5 g of creatine in every mixed
+berry bite to build muscle, boost
+strength, speed recovery, and keep your
+focus dialed in. Ready, set, grow.
+And fuel workouts with
+>> that was freaking good. I think that's
+my favorite. Discover mixed berry
+creatine gummies. 5 g per serving to
+fuel strength, speed recovery, and
+support memory. Enjoy convenient,
+delicious performance every day. All
+right, that looked incredible,
+especially right there. She looks very
+real. So, I love all three of these, but
+I like the viral chaos the most,
+especially if I were selling this to
+like the CrossFit community. Force
+Factor creatine gummies. 5 g of creatine
+It just It looks unhinged. It looks
+crazy. It looks like someone spent a lot
+of money on editing here. All right, so
+my verdict, Higgsfield is pretty rad.
+I've only played around with a few of
+their features, the teams collaboration
+feature, the Nano Banana Pro for
+professional content, the click-to-add
+feature, but they also have like brand
+opportunities built in, affiliate
+opportunities. So, if you ever want to
+build like a health brand or any
+direct-to-consumer business or
+e-commerce business, to me this seems
+like an awesome place to do it because
+you can test and iterate and test and
+iterate much faster, much more
+affordably than any other platform that
+I found so far. You can find a link to
+higgsfield.ai in the description, and
+let me know in the comments what you're
+thinking of building with this. We'll
+see you next time on The Corner Office.

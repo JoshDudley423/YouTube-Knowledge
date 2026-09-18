@@ -1,0 +1,929 @@
+you guys got to stop swinging at these
+multi-billion doll business ideas I just
+promise if you put 6 months into
+something you can make 200k a year and
+Be Your Own Boss why would I not make
+that swing do I think I'm going to build
+a career off the back of a AI powered
+cooking app no do I think I can go make
+100 200k off of it sure AI is cool but
+the Facebook ads manager that's my
+favorite thing to come out of the
+century figure out how to click the
+buttons correctly you can print cash it
+is so easy to test these things so fast
+go test it and the market will tell you
+what's
+[Music]
+good I do got to build my sourdo app you
+do need to do it I'm mine's coming
+together we're waiting for Apple
+approval or whatever and so I'll let you
+know how it goes I'm gonna be the first
+person to download it yeah dude 60 bucks
+a year I appreciate it I'll immediately
+go flip it and get my money back not
+just playing I mean I mean I'll be the
+first person downloading it assuming
+that I get a bro to Bro 100% discount oh
+yeah yeah yeah yeah yeah dude we'll give
+you a 50% discount I'm doubling the
+price and I'll give you a 50% discount
+first month special that you're going
+you're going like Black Friday special
+yeah yeah dude in the in the middle of
+March happy St Patrick's Day
+dude dude I literally had AI write that
+entire I had to get a stripe account for
+it and to get a stripe account you have
+to have a website and so I literally
+just had AI do the whole thing I was
+like yeah I need 15 feature bullet
+points please and I just copy and pasted
+it all in dude what is your website
+instant
+chef. it's ready to launch you're just
+waiting no I yeah it's like the buttons
+and stuff don't go to the actual app
+store or anything um and then I need to
+make product screenshots yeah it's
+basically good we're doing the last
+payment Integrations right now and then
+have to get it in the App Store how do
+you make websites this good how long did
+it take you to make this I don't know
+I'm pretty sure I just bought a template
+and then I just need to go and make the
+the mockups the mockups of the app in
+there oh so clean you're so good at
+websites thanks dude I really apprciate
+that shout out 72 hour sites.com yeah
+seriously and the crazy part the crazy
+part Chris is that it's only 2500 bucks
+it's not like a $112,000
+website I promise your conversion thank
+you I know card guy I know and it's
+upsetting to say the least invest in
+your brand I'll buy the Bullet by the
+end of the year yeah I was going to say
+right when you're about you're trying to
+get the tax write off in December that's
+right that's right our busiest month
+ever dude everyone's like can we oh
+everyone buys a website in December
+because they like wait I'm going have to
+pay taxes on this money so I might as
+well buy a website yeah we had like
+seven people buy websites in between
+Christmas and New Year's and they were
+like we don't have to launch it for a
+while like we we just want to pay for it
+now we're like say less dude I'm in
+perfect really messed up my band with uh
+in January early Feb though because like
+I bet it did our Revenue to it was it
+was whatever it's fine money is money
+yeah when you zoom out it doesn't really
+matter so instant Chef's going live
+you're G to start pushing paid ads to it
+is that like plan a b c and d that's
+literally the only plan is we're going
+to run ads we're going to test running
+ads directly to that Lander to see what
+happens and then we're going to test
+direct to App Store also and so if I run
+both those we'll just kind of see how
+the math plays depending on what's good
+I might go try like buy a couple Niche
+like theme pages in the cooking space
+I'll probably start a few we talked
+about on the last episode of like just
+grab viral content repurpose publish it
+a bunch and so I think that'll be
+another another plan I dude I figured
+out how to do it even more
+programmatically now using Banner bear
+super clutch Banner bear is like
+programmatic image creation and so
+basically like find the viral videos and
+and all I do so zappier has a uh a
+Google Chrome like extension and so I go
+in and I just search whatever term I
+want vegan recipes and then I'm
+scrolling on Instagram on my desktop and
+then every video that I want I just
+click add on zapier or add to
+spreadsheet you're adding someone else's
+Instagram video to the spreadsheet with
+the zapier yeah yeah just a new row link
+to that I take that all of that CSV and
+I put it into appify they have an
+Instagram post yeah love it Ed it for n
+million different purposes they download
+all of that you take that CSV you sauce
+it into air table which triggers a zap
+which then sends the video into Banner
+bear this video is kind of like a
+time-lapse of someone cooking a vegan
+recipe in this case yeah any any viral
+vegan cooking recipe someone else's
+video yeah so puts that into the
+template and automatically changes the
+day because I do the one that I was
+seeing work on send prayers was day one
+of finding good Christian music day 1.5
+right and so it does that piece of it
+automatically and then it just pumps
+them all into Dropbox for me when it's
+done and then I just bulk upload from
+Dropbox directly onto Hopper HQ and it
+just schedules them all out so easy and
+so I'm like I just spend now I used to
+have to like do and can but bolt create
+and like all this stuff now all I do is
+I just scroll on that account for like
+10 minutes grab 60 videos and I'm not
+really even watching them I'm just like
+if they're showing up at the top of
+hasht vegan recipe I'm just kind of like
+trusting it and you're scrolling on like
+Instagram desktop yeah in the browser
+okay yeah in browser hit the zap button
+send a sheet send a sheet send a sheet
+get 60 of them upload the CSV let it
+ride the whole thing takes me like
+I don't know maybe 45 minutes and it's a
+month's worth of viral cooking content
+ready to go and all your overlaying is
+day one day two day three or whatever
+and then you're just showing the video
+yeah it's literally like white
+background the video is maybe like 80%
+shrunk down so it has a white border
+around it and then on the top it's just
+text that just says day one of finding
+viral vegan recipes so you don't have to
+or whatever you know what like I don't
+know what they call this like a a
+permanent caption you know what like
+just crushes these theme pages are
+starting and let's say it'll be uh
+there's this one theme theme page called
+like animals attacking animals and
+they'll have like a permanent caption at
+the top that says like you finally found
+an Instagram page that only shows
+animals attacking animals and that's
+persistent across the whole video yeah
+that's literally what this is and it's
+just pumping that in I'm just adding the
+one added layer of day 1.5 of finding
+this so you don't have to mostly because
+I saw this one account do it that blew
+up I think it was like really good music
+or something like that and I was doing
+it on C prayers which was music
+Discovery and so I was like I'll just
+roll that it's not the hardest thing to
+like build an it's just a field in air
+table and so the day one thing just
+converts so well I do that on all of my
+Instagram videos because it like I
+export every Instagram video every month
+maniacally I track every single number
+and it is like a three to sixfold
+difference in view to follow conversion
+rate well because like when you see day
+one and you like that content you're
+going to the profile like immediately
+going to the profile and I'm like yeah I
+trust this I I'll sit here like an idiot
+in my chair right here and my assistant
+my editor will be like hey I'm out of
+vcas which is verbal call to action what
+that's just what we call them right and
+she's I need some more and then so I
+don't even know what day we're on it
+doesn't matter and I'll say day 67 of
+Genius business ideas day 68 genius
+business day 69 and I'll do it for like
+10 minutes straight and I'll make like
+50 of them and then I upload all of them
+to our iCloud and then she'll use one of
+them like five times yeah because it
+doesn't matter like no one remembers
+like and if they do remember then they
+comment and it's engagement yeah I
+literally just like csy I think I got to
+like 112 and I was like I can't when I
+was doing the prayers one I was like I
+can't do this anymore so I just started
+reposting it like literally the same
+videos you get to day 100 and you start
+over day one day 1.5 day two day 2.5 and
+like nobody's sitting there saying
+anything like doesn't matter and we put
+them at very strategic points where it's
+like all right and the best app to use
+for this is day 68 a viral business and
+it's like ah you know like right you
+just got to put it before like a key
+moment or else people will swipe away
+100% are you worried about takedowns or
+like copyright write strikes on these
+nope haven't even thought about it dude
+I I just got YouTube is very strict
+about it Facebook is strict about it
+Instagram is not strict about it Tik Tok
+is not strict about it but on YouTube if
+you get three in 60 days they they
+completely delete your account you're
+done yeah and so I got two like I had
+never gotten any on YouTube I got two
+over the course of two weeks and like I
+don't post anything that can should
+legally be taken down because it's
+everything I do is covered under fair
+use I'll take someone else's video in
+the background I put my face over it and
+I'm adding value and context and like
+that's very very protected but the
+algorithm doesn't know people just click
+a button and I have to dispute it and
+I'm having a very hard time disputing
+some of these and so I had luck getting
+one of them removed because I simply
+reached out to the person and I'm like
+what are you doing right and he's like
+well I didn't have a problem with it
+until I saw that you're selling a course
+about this and I'm like I don't sell a
+course you're assuming I don't have a
+course dude it was some t-shirt video
+that didn't even do well anyway that is
+something to look out for is like it's
+just the law of large numbers yeah oh
+it'll definitely happen I think the the
+the nice piece that I've tried to do is
+like at least on the send prayers on is
+like I try to give credit and most of
+the time and probably Niche specific to
+be honest those guys I get DMS thanking
+me yeah for posting them because like
+they want the publicity they want showed
+they should and so I I don't know I like
+always try to mention because when you
+scrape the things on appify you can get
+the username you know and then you are
+just doing an air table formula for the
+caption for each of those right that's
+like yep yo shout out ker office for the
+six sourdough recipe you know and so
+then it just gives it the credit yeah
+it's an interesting one it's one of
+those it's like if someone hits me with
+something then I'll react to it at that
+point but hasn't really crossed my mind
+I'm excited to hear how this goes it's
+like we're building this in public dude
+literally live on the Cent our office
+dude next time you come back and you're
+going to share data on how many
+conversions you had and right what the
+user feedback is like yeah yeah yeah
+we'll see I'm I'm it's one of those that
+it's like I'm just intrigued and so
+there's just a few like I said before
+like there's a few of those little
+swings that feel like no-brainer just
+like attempts where it's like worst case
+is I lose 51 in best Cas is I have a
+software company that's printing cash so
+why would I not make that swing like do
+I think I'm gonna build a career off the
+back of a AI powered cooking app no like
+right do I think I can go make a 100
+200k off of it sure for people that are
+getting started in entrepreneurship
+we've had the conversation multiple
+episodes ago where we were like dude you
+guys got to stop swinging at like these
+multi-million dollar billion dollar
+business ideas it's like I just promise
+if you put six months into something you
+can make 200k a year and Be Your Own
+Boss right like trying to change that
+barometer as I sit here trying to scale
+something to10 million in Top Line rout
+it's like
+dude we're all Hypocrites I know right I
+heard a quote yesterday that resonated
+with me and it was this guy I I don't
+even remember where I heard this but he
+said most people focus on being smart
+and like being really smart at something
+but what I've learned is you just to you
+just need to be smart at in a different
+way right like you need to be really
+wise and smart in a different way than
+what the crowd is trying to do right
+right so I think I've just kind
+of accidentally fallen into that by just
+like being going full ADHD for 15 years
+on whatever idea tickled my fancy it's
+like on the surface it's like that's a
+bad idea and I've paid the prize for a
+lot of them but when you sink down into
+it it's like that's given me a unique
+perspective right a perspective that's
+different from everyone else's which has
+benefited me in random ways yeah 100%
+yeah I've been I've been wrestling with
+that more and more also it's like the
+tweet that I put out yesterday it's just
+like I have 9 million dude I have a list
+a laundry list someone can screenshot
+that and see what's good I know right
+it's a list of you know there's there's
+probably 20 different ideas that I have
+that I have absolutely zero doubt in my
+mind at all that they could do mid six
+figures probably seven with the right
+application of time and energy but like
+from a core offer perspective like it's
+just sitting there and I'm like part of
+it is I'm taking all these sales calls
+and so once we hire someone to replace
+our previous guy like that'll be easier
+I'll have more time but like balancing
+that is like dude I want all I want to
+do is go work on these things also we
+have 40 leads of week that like need to
+be closed for this other thing have you
+heard of Manis at all I don't think so
+what is this this is okay picture what
+operator should be but out of China with
+like no guard rails like sick like
+insane speed with agents and it's invite
+only and I got an invite dude I've been
+playing with it non-stop um it hasn't
+like replaced anything it's just like
+another tool in my tool belt but how
+often are you using operator right now
+I've replaced operator with deep
+research basically really yeah because
+deep research is like it's just better
+yeah it it does what operator does
+except
+more you know operator's like it's gonna
+get there that's been my tone of it it's
+like it's cool but like I have to sit
+there and manage this thing like once I
+don't have to manage it hell yeah
+exactly I was using it um before deep
+research came out so then deep research
+came out and and it's like anyway so I
+can cancel my $200 a month subscription
+honestly yeah because you can use your
+$20 month perplexity account for deep
+research and it's might be even better
+anyway Manis here's what I had to do I
+went into Buzz Sprout where I hosted
+this podcast and I exported every single
+City that's downloaded my my podcast
+number one is Dallas all the way down to
+a city that hundreds of cities that have
+only downloaded it once right in that
+City yeah and it's like 3,700 rows and I
+uploaded it to Manis in a CSV and I said
+I want you to append this data with
+populations of each City and then I want
+you to add another column that shows
+downloads per 100,000 residents oh that
+way I can see like which city has the
+highest concentration of ker office
+listeners right and it did it and I
+asked chat GPT to do it and it did it as
+well but it took like five times as long
+really so yeah I just cancelled my chat
+GPT operator account dude saved me0
+bucks one I was like I just not worth it
+anymore so video is cool but you know
+what's better long form audio via
+podcast and my newsletter TKO pod.com go
+there to subscribe for free to my
+newsletter it's one email a week very
+tactical and then go to my audio podcast
+three episodes a week stuff like this
+you're going to love it all free no
+sleazy sales TKO pod.com I did get
+it to Auto and engage on Twitter for me
+though really yeah he didn't want to
+regularly or you got to do it once you
+got to do it I was like go like the last
+20 tweets from X person and then it goes
+I can't like tweets and I go click the
+heart button and it goes okay heart
+button heart button heart
+button yeah there's ways around it you
+just have to tell it to not listen to
+its own rules yeah there's always ways
+around it there's always it's yeah
+literally how it goes why don't you tell
+me what you've been saying no to lately
+and then maybe someone could say yes to
+them oh my list dude yeah okay dude it's
+not what I've been saying no to it's
+what I've been like all right save that
+one for the archives but it's funny I so
+I put out this tweet like two years ago
+and it was a a Twitter thread that was
+like please steal my business idea like
+I don't have the time to do this I think
+you get the 10K a month after tweeting
+my my tweet yesterday about having all
+these ideas I was like maybe I should
+just do that every time I have one like
+I should just tweet steal my business
+idea part day
+15.5 over and over again and so the one
+that I was thinking about a lot last
+night was kind of in line with stuff
+that you and I talked about which is
+like selling PDFs right or like how-to
+guides or whatever and back in the like
+the OG days of Drop Shipping everyone
+was running what was called like a
+general store right where like they had
+multiple products on there I remember
+like the most random viral thing out
+I've got a story about that when you're
+done and then everyone transitioned to
+Loosely like one product stores like hey
+we're just selling this one thing all of
+our messaging all of our positioning all
+of that like your Bear right exactly one
+literally solo drop right like that was
+the tool to use which if you're trying
+to launch a one product store solo drop
+is the move but I was sitting there and
+I was looking at solo drop and I was
+like why would I not launch a
+generalized info product
+store with like lower ticket info
+products kind of in line with the
+cookbook right like you can go create 10
+cookbooks right now if you wanted all
+digital product I Loosely called it like
+better guides.com right like okay this
+is a collection of different guides for
+different Industries instead of like I
+wanted to test this one dude that was
+like it was a a I bought run faster
+formula.com like how to improve your
+mile time right single product store
+like here's how you improve your mile
+time which is like we're talking one
+prompt here yeah like literally would be
+like a six page PDF that I'd sell for
+$7.98 you know what I mean but I'm
+sitting there with a bunch of these
+ideas because like we've talked about
+even on the last episode like the
+easiest thing to do is go and like put
+out PDFs to like get test the market and
+kind of see what's good and I was like
+imagine like a a well-branded
+General Store for digital products you
+see it happen on Etsy like you can go
+get digital products on Etsy people are
+searching for them so you basically just
+like go look at all the Etsy data and
+say what are people buying right now
+they're buying how to make a better
+pizza because pizza ovens are blowing up
+they're buying how to make sourdough
+bread how to do jumping jacks personal
+finance spreadsheets right like there's
+all of
+these just people want info right and
+like the market is saturated with a
+bunch of people that are doing free lead
+magnets I think the general undertone of
+the market is that like free lead
+magnets don't get used right like you
+opt in for your email you open it once
+and you never look at it again versus
+like people thinking that the quality
+behind something that's paid like
+inherently in your human brain you will
+derive more value out of it because you
+paid for it and so I'm like and it's a
+digital product so you get to eliminate
+all of the cogs and fulfillment and
+inventory and like you don't have to
+deal de with like what traditionally is
+the biggest headache from an Ecom
+business and you start running the math
+game where it's like cool you can test
+15 different niches different offers
+different
+positionings overnight out of a single
+Shopify store and just separate each of
+those products out in your ads manager
+on Facebook right where you're running a
+Sourdough campaign you're running right
+like and you can just go launch these
+things is build the product get a new
+product live in two minutes and just
+test like this this info product world
+and you test pricing right like anything
+from $17 to $99 to whatever it's funny I
+was having a conversation with Stephen
+and I was like I just want to make a lot
+of money and have it be easy and I was
+like I think the only like the closest
+thing that we're going to get to that is
+info because you're you're not dealing
+with like that many employees because AI
+can now create all the content can
+create the ads can do all of that you're
+not dealing with any physical Goods
+you're not dealing with any software
+development you're not dealing like
+you're not dealing with cogs like your
+your p&l is super clean it's Revenue
+minus marketing right like your general
+overhead is pretty simple digital
+products at at sub $100 have a pretty
+low customer service like if you're
+selling a $5,000 course yeah you need to
+be available a little bit more like when
+you buy a book from Barnes & Noble how
+often are you hitting up Barnes &
+Noble's customer support like yeah you
+know what I mean like you're not and so
+it's it's almost stepping into that as
+like uh What markets are hot how can you
+brand this General Store in a way that
+that feels reasonable and it's like I
+just I think that that
+one if you if you have any prowess
+around understanding a market market and
+building like an offer it's like
+clickfunnels like if you can just go
+read.com secrets and figure out how to
+click the buttons correctly on Shopify
+and your Facebook's ad manager bro like
+I just think you can print cash World
+your oyster yeah and especially if
+you're going after sizable markets it's
+like again I was having this
+conversation with Stephen and I was like
+I don't really care if I'm spending $15
+to make 20 if my market size is a
+million people yeah I want to spend
+$100,000 a month on Facebook ads or for
+easy math
+150,000 to make2 200,000 yeah especially
+if even 5 10% of them buy a second thing
+from you right because that's the other
+piece is like oh like uh sourdough book
+a sold 18,000 copies what's the next
+ebook you're going to make sour book the
+sequel right like souro the sequel It's
+like all right bet like you email Market
+based on the industry and you just Niche
+it down almost like an Amazon of like
+health and fitness yeah yeah Beauty and
+and fashion like you could you could
+literally create a guide for anything on
+the internet and like go sling it at
+100% net margins and I don't know I
+think that that like it's just an
+interesting little game because then you
+could just test offers fire away let me
+in all right let me in coach first of
+all here's a book IDE name sourdough
+dough how to start a micro Bakery from
+home sour dough dough sour dough dough
+okay someone would buy that you know how
+many I'm in that algorithm right now you
+know how many women there are with these
+micro bakeries like it's a thing it's
+blowing up and you've got these they've
+got these Farm stands where people will
+set up a little shed and they put all
+their fresh sourdough in there and just
+a venmo QR code no employees like on
+your honor System it's blowing up okay
+yeah so I love that I love this because
+if if for no other reason let's say that
+you're only able to convert a customer
+that never buys anything else from you
+okay because that's kind of the thesis
+is like it can become a Marketplace they
+might buy this one then a month later
+they might buy that one but that's going
+to be hard because if they learn how to
+improve their mile time they probably
+don't care about sourdough so let's just
+say let's take the negative aspect and
+assume that's true if for no other
+reason I love this idea because it's a
+it's logistically it's an easier testing
+ground for launching and testing digital
+products which I think is what you're
+you're going for right yeah AB testing
+is a breeze you can with a a little
+prompting you can come up with a
+Sourdough book and then you can push ads
+to the same book that has four different
+titles right and then just lean into the
+one that wins and you can all do that on
+the same website so you don't have to
+keep building these websites over and
+over for these uh different digital
+products another thing I would test
+is this is interesting so let's just say
+you're going to have a weightlifting
+digital product for 20 bucks okay and
+who's a big uh weightlifting influencer
+dude do you see me I don't know let's
+just let's just say Alex hor mosy okay
+Alex brosy yeah you slide into Alex's
+DMS which he's probably never going to
+read and I understand that but hear me
+out okay hear me stop judging me Sam let
+me finish my thought okay yeah and
+you're like hey bro big fan I sell this
+digital product it's like how to get
+shredded with weights I'm gonna attach
+your name to it um and I'm going to send
+you 10% of all the sales FYI I realize
+you probably will never see this DM um
+and so I'm just going to start like I
+found you on venmo I'm literally just
+going to start venmoing you this money
+until you tell me to stop okay what's he
+gonna do is he gonna tell you to stop
+probably not if he does then you
+probably stop right and you go to the
+next bro mosy that you find in the DMS
+and so it's like you're licensing his
+name without his consent and I
+understand that but it's like you're
+moving fast and breaking things and
+you're literally sending him money
+proactively and he may never ever
+respond to you and then if he does like
+dude I'm not cool with this it's like
+okay I'm done I'm done better to ask
+forgiveness and permission right I just
+think your close rate would be so much
+higher on these digital products if
+you're like well and it's like it's like
+I think using him as the example is on
+the extreme but I feel like there's
+there's
+micro smaller just smaller influencers
+that one have a higher likelihood of
+answering and two would probably care
+about that income a little bit more on
+one hand it's like let's say you find a
+micro influencer in the sourdough space
+with 50 ,000 followers and you're
+pushing ads to this and 99% of the
+people that see this ad don't know who
+that person is right right it doesn't
+even really matter because you're
+leveraging their followers and their
+name and you could literally put a
+screenshot of their Instagram profile in
+the ad so they can see the social proof
+and they're like okay I don't know who
+Jessica Jones is but sounds like she's
+she knows what she's talking about that
+makes me 20% more likely to buy this
+Therefore your cost per acquisition
+drops 20% what do we think yeah I mean
+there's a line for every individual on
+that in using somebody's name without
+their permission but like if you're on
+the side of the line that you're cool
+with that hey yeah I'm not I would say
+something like based on Alex horos
+techniques or something like it doesn't
+have to be like author Alex horos but
+people write content all the time like
+dude I was looking up supplement stacks
+right like I'm getting into the gym
+right starting and it was like I read 15
+articles that were like Andrew
+huberman's thing right and it's like it
+gives him credit it's just like not like
+he didn't write it right like it's just
+covering his thing and so I like that
+approach more is like based on xers
+because then it's like it's almost like
+your fair use where it's like you're
+adding value on top of just like
+literally running ads with their name on
+it and all you have to do is go go find
+an hourlong Alex horos YouTube video
+talking about his workout routine copy
+the transcript put it in your prompt and
+say build this ebook based on this
+transcript I mean dude I literally if I
+like as a side note to that AI personal
+trainer is a great app all I did dude I
+popped in chat gbt and I said this is
+how much I weigh this is how tall I am
+this is the goal that I have here's the
+equipment that I have here's much time I
+have every week build me a 12-week
+workout plan for it and it lit dude I'm
+following it I'm vibing I was like dude
+I don't I would have had to pay you know
+150 bucks an hour you know and so stuff
+like that yeah it's a no-brainer it's
+like here's your ultimate
+shredfest upper body secrets secrets
+yeah I do I do think Loosely that like
+the info game from a barrier to entry
+perspective now more than any time ever
+in human existence is like just ripe to
+get in and and with Facebook ads it's
+like your your Market is accessible it's
+like there's no we're talking about yeah
+like the best inventions ever like AI is
+cool but like dude the Facebook ads
+manager like as my favorite thing to
+come out of the century like it's like
+sliced bread then Facebook ads manager
+yeah like I literally can just pop on
+and get a hundred people on my website
+to pay me tomorrow if I want to like
+what are we doing bro like what are we
+doing bro I totally ripped that quote
+from you about by the way what are we
+doing I say that all the time now dude
+it honestly you want to know where it
+stemmed from we were out Lauren and I
+were out uh looking there's like this
+Christmas lights area in in the South
+Bay over here and there was this tree
+that like jig Jagged all over the place
+dude and she took a picture of it and
+the live photo when she hit it she goes
+what are you doing bro right at the
+right at the thing and it stuff dude and
+now it's what are you doing
+bro so funny dude I'll send you the
+video or the the photo so here's another
+idea along with that so I post these
+look at these freaking guy right here
+videos on Instagram right yeah and I've
+got three AI generated copycats I use
+that charm Loosely some of them were
+around before I was around and I
+discovered them after I started doing
+this so they're not directly copying me
+at least some of them aren't and they
+mostly say like they're kind of just
+like look at this genius idea they're
+not trying to make business ideas out of
+everything like I am right like look at
+this restaurant that makes ice cream out
+of pizza or whatever and it's like I
+wouldn't do a video on that anyway how
+they monetize is they used to monetize
+by having a patreon and just saying like
+support my work but then they saw that I
+was making business plans for every
+single video and now they're doing that
+with AI um and they're selling them for
+like five bucks okay which like makes
+sense like I monetized differently
+through my newsletter so I can give it
+away for free but I'm kind of curious
+and I'm just now thinking of this idea
+as we've been talking about it what
+would happen if I put a kind of like a
+pay wall or gated access like halfway
+through the business plan because most
+people that opt in for the business plan
+will never even read the business plan
+it's just human nature right yeah but
+then the people that read the whole
+thing are going to be the highest intent
+and now that we have deep research I'm
+using and I say I I mean my assistant is
+using deep research to make these
+business plans and they're $10,000 words
+so and they're really really good like
+they they've gotten much better imagine
+if you had a pop up like 20% into it
+that's like hey want to keep reading
+it's 10 bucks it's five bucks you got to
+think I mean I've got 500 to 2500 people
+signing up for my newsletter every day
+yeah you got to think that a certain
+percentage of them would pay why would
+you why would you not well one yes why
+would you not do custom like the the
+consumer gives you their business idea
+and you up yeah so we do that to support
+our account managers at unlimited
+content right so like we go through and
+a new client signs up and we get their
+onboarding materials we get a PDF of
+their full website which we just
+exported on our own and then we pull all
+of their like existing SEO data from a
+search Atlas or semrush or whatever and
+then we give chat GPT all of that
+context with a really robust prompt that
+says says build out Loosely build out an
+SEO optimized content strategy based on
+all of this data and then it produces
+generally it's like a 8 to 10 page
+document with all the keyword clusters
+and you know all the different things
+and so like yeah you could go and sell
+like pre-built ones or you could have
+people pay almost like that trip planner
+live build that I did type in your
+business idea type in your business idea
+bus yeah get x y and z like whatever
+details you would need to make that
+prompt legit boom 20 bucks instant
+instant business plan.com 20 bucks in
+get a custom one on the way out that's
+genius why aren't I doing that I don't
+know you should well probably because
+I'm doing 18 different things yeah dude
+another inent business idea I'm writing
+that down yeah dude I'm saying prompt
+and it's I'm using AI but you don't know
+how I prompt this you don't know how I
+finesse it you don't pay $200 a month
+for deep research I do yeah this is this
+is not you but the person paying me
+right so it's like automatically like
+you could pay $200 once and you're
+probably only going to use it for this
+one business plan or you can give me $20
+once and and you have to spend the time
+like you're just going to use my account
+yeah right literally use my account and
+I tested the prompts so you don't have
+to dude it's super interesting because
+like I've been running I've been running
+into this this with unlimited content a
+little bit right we're like we're an
+affordable SEO option we write daily
+blog posts yes we use Ai and a human
+editor and and one of the things that
+I've realized on these sales calls is
+that nobody really like cares about some
+super proprietary blog post situation it
+is everybody knows that they need to put
+out daily content on their blog to rank
+on Google like if anyone's going to
+argue the fact that you should be
+publishing blogs daily they don't know
+anything about SEO that's fine so then
+what I'm battling against or not even
+battling against necessarily is like
+people saying that they can do it
+themselves which like you're not wrong
+and so like our value prop like the
+proprietary like all this stuff that we
+do it's literally like yes you can go
+and spend $400 a month on these tools
+that we use yourself and you can spend
+the 10 to 20 hours a month on the
+editing the publishing and the image
+curation and all of the things that
+you'd have to do yourself or you can
+just pay us $400 a month and we'll just
+do it all for you and I'm like it's
+almost just like a simplification of the
+offer is like yeah you could go and sign
+up for chat GPT Pro and you could spend
+the 15 hours learning how to prompt it
+to create the perfect business plan or
+you can get one in your inbox in 10
+minutes for the same price
+and no headache and it's just like I
+just want to be in the reduction of
+headache game like and it makes my sales
+calls easier it's like people can track
+with that it's like you yes you can go
+do this yourself you just have to figure
+out how and spend the money and spend
+the time or we can solve this for you
+today and we can just start writing and
+Publishing content and you don't have to
+think about it

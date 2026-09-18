@@ -1,0 +1,1068 @@
+All right, guys. Lots and lots of hype
+out there about implementing AI into
+small businesses. And there's a thousand
+things you could sell into these small
+businesses, but I keep coming back to
+one over and over and over. This is one
+that business owners are actually paying
+for today, and that's AI voice agents.
+They're really good. They're really
+realistic, and you can use drag and drop
+easy tools to build them in 5 minutes or
+less. So, the hard part here is finding
+the customers, finding who to actually
+pay you $500 to $2,000 a month for these
+AI voice agents that you can build in 5
+minutes. Well, I'm going to do that
+today live. No audience plants, no funny
+stuff, no clever editing. I'm going to
+show you my phone, my Google Voice
+account, and I'm going to send ringless
+voicemail drops to 500 business owners,
+wait for them to call me back, and try
+to close a deal for an AI voice agent.
+This is a banger. You probably haven't
+heard of ringless voicemail drops, but
+they are the most underutilized way of
+finding local business customers. Also,
+at the end of this, I'm going to show
+you exactly how to build an AI voice
+agent. You'll see for yourself. It only
+takes like 3 minutes. So, let's dive
+right in.
+Ringless voicemail drops. I want to talk
+about that. How to do it step by step.
+Why I like them, why I don't like them,
+good, bad, and the ugly. There's dozens
+of ringless voicemail drop providers.
+Slide Broadcast is just the one I've
+always used and they're cheap and they
+have a good user interface. So to back
+up, a ringless voicemail drop is when
+you upload a voice message, you upload
+phone numbers and you hit send to tens,
+hundreds, thousands, hundreds of
+thousands of phone numbers. And what it
+will do is leave your voicemail on their
+phone without their phone ever ringing.
+So it's kind of like, you know, we all
+get missed calls that aren't. Some of
+those are ringless voicemail drops. Some
+of those are just network errors, but
+this is how to like engineer that. Not a
+cold call, not a cold text, but
+something in between. So, that's a
+ringless voicemail drop. What I don't
+like about them is if you do it once as
+a standalone marketing effort, your
+results will not be great. Depending on
+what your offer is and what you're
+selling, you still might have a positive
+ROI. You still might be able to find
+customers uh with it. But like like any
+marketing, you want multiple touches and
+preferably you want multiple touches in
+different mediums. So a text, a call, a
+ringless voicemail drop, a LinkedIn
+outreach, an email, a cold call, any
+combo of the above. Like the more
+mediums you add, the more likelihood of
+success. So, but today for the purposes
+of this video, we're just going to do
+ringless voicemail drops. I'm just going
+to assume you can see my screen. You're
+looking at slide broadcast login. I'm
+going to walk you guys through a
+campaign, but we need some phone
+numbers. We need some leads to send
+these voicemails to. So, before the
+call, I went to Outs Scraper and I
+started a scrape. Kind of like the
+equivalent of a cooking show, starting
+the the recipe before the show. It might
+take a while. You never know. Sometimes
+it quotes 10 hours and it takes 10
+minutes. Sometimes the reverse is true.
+This says 3 hours. I don't think it will
+take that long, but I don't know.
+Regardless, I have a zillion other
+things I can send leads to. And I'm
+going to show you how I got to this
+point first because we can't do anything
+in Slide Broadcast until we have some
+leads. So, I'm going to go hit the back
+arrow here and I'm just going to start
+over. I was making a video a couple
+months ago that led me down a rabbit
+hole of home services that are trending
+right now and pool service is one of
+them. So, that was just top of mind. I
+don't think you need to reach out to a a
+trending or a growing industry for this
+to be successful. This was just top of
+mind for me. Also, I'm going to be
+offering voice agents because that's
+something that a lot of people in the
+group are doing with a lot of success.
+It's something I've done with success
+and it's just an offer that works. It
+It's a real problem that needs to be
+solved, but people are willing to pay
+for. So, with that in mind, like a voice
+agent isn't a great fit for everyone.
+It's not a great fit for a dentist, but
+for someone that's like in the truck out
+on the road taking after hours calls, it
+could be a great fit. So, you type in
+pool and you've got swimming pool
+contractor, pool cleaning service, I
+don't want a store, swimming pool repair
+service, sure, pool hall, no billiard,
+no academy, no. So, we'll just do three
+categories. You can type in a manual
+category if you want. If it autofills,
+this means that it's one of the
+thousands of like approved Google Maps
+categories, but you can still search
+kind of by keyword and just do like I
+could type in pool maintenance if I want
+and I would still get results. It's just
+not an approved Google category because
+it's not autocompleting for me. So,
+we'll do these three categories. You can
+do multiple things. I could be very
+specific like Plano, Texas is right next
+to me. So, I could do one zip code. I
+could do the whole city, but I just did
+the whole state of Texas by checking
+this box. And then I set my max results
+at 1400. The reason 1400 is because I
+have 500 credits. And in my experience,
+usually a third to half of your scraped
+numbers will be like valid cell phone
+numbers. And I don't even know why I
+thought cell phone numbers because I'm
+used to texting. But for ringless
+voicemail ops, it doesn't matter if
+they're sell or landline. So I probably
+scraped more than I needed. But I wanted
+to land after cleaning these leads with
+500. So I started with 1400. And then
+all these like lead genen packs,
+enrichments, etc. Ignore all that. You
+don't need all that. I just clicked with
+phone. That way, it's only going to
+scrape leads that have a phone number
+because that's really the only thing I
+need. Like the business name is going to
+be in there. All like dozens of other
+columns will be there, but I don't want
+to pay for ones that don't have a phone
+number. So, places per one query search.
+I've never really noticed a difference.
+I just set it at 100. And then I you
+click get data, and it's going to
+estimate how long it takes and how much
+it costs. It's usually much cheaper than
+the money estimate it gives you, but it
+usually takes longer than the time
+estimate. 1 to five hours. Anyway, so
+confirm. That's what I would do if I was
+doing this, but I already did this. So,
+we'll just go here, check on the tasks.
+We're going to assume it's not going to
+be done in time. And as a reminder, you
+don't have to pay for outscraper. No one
+in here needs to pay for ads scraper. We
+scrape all the leads for free. You can
+get the link to the type form to request
+any leads you want for free. So, this
+won't be relevant to a lot of people,
+but if you're like me, sometimes I don't
+want to wait and I just want to go do
+it. It costs like $4 to scrape these
+leads. So, if you don't want to wait
+however long it takes us to get them,
+which could be 24 or 72 hours if it's
+over the weekend, then you can do it
+yourself. So, this is how you do it.
+Teach a man to fish or give him leads
+for free as the old saying goes. So, I'm
+going to just kind of start shopping
+around for leads. These are leads that
+we've already scraped for people in the
+group and so I don't have to wait. I'm
+just going to start with one of these.
+So, escape room, nope. They don't need a
+voice agent most likely as much as
+others. General contractor. Yeah.
+Pediatric dentist. Dentist? No.
+Veterinarian?
+Maybe. Um HVAC contractor.
+Uh let's do HVAC contractor. So, if for
+some reason we get a job or a customer
+out of this, then I'm going to go ask
+Stephanie, my assistant, who did you
+scrape these for? And I'll give the lead
+to that person because these were
+scraped for a specific person. I'm going
+to click download. I'm going to get a
+CSV and then I'm just going to put it in
+Google Sheets so you guys can see it
+more easily. You got to do control find.
+I don't know why this is true, but this
+is true. I'm going to replace I just
+want to standardize it. Remove all the
+plus ones. remove all the dashes. And
+it's freezing for me.
+>> While you're waiting for that to
+unfreeze, can I ask you a quick
+question,
+>> please?
+>> I'm curious. Does it always have like
+like it says the the the company and
+then it has like phone number one, phone
+number two, phone number three?
+>> Is that because it's like one brokerage
+firm or whatever and they're people that
+all work at the same place?
+>> No, that's basically outscraper. Just
+finding random phone numbers from other
+random sites. Ah, okay.
+>> There's so many numbers on like the
+first one. I don't even look at one,
+two, three on those far right columns
+typically.
+>> Oh, really? Okay. So, you just kind of
+focus on the first phone number
+>> because like if you can scrape unlimited
+leads for next to nothing, like why
+spend a bunch of time cleaning and
+scrubbing and validating a bunch of
+stuff.
+>> Okay. I hate Excel. That's fine. Let me
+find some different leads that are
+already cleaned and scrubbed.
+>> Shane had a question. So he was curious
+how did you conduct research on choosing
+a home service and if you used something
+like ah refs I think he's curious how
+did you know it was like a a growing
+industry or whatever the pools.
+>> Oh yeah that's a great question. So I
+think I just did something very like
+cavemanlike and I went I may have
+prompted chat GBT to like get me started
+and then I just went to Google Trends.
+Um and I'm sharing my screen right now.
+pool service from 2004 on. And if you
+look at it, it's it's climbing or let's
+say I think it was pool cleaning. I made
+a CRM for pool cleaners. Yeah. So,
+something like that. And then I think I
+just went on the thesis that everyone
+built uh pools during COVID and now
+people need them repaired or fixed or
+something like that. Another thing you
+could do, let's say I want to do
+something with gutters. So, I go gutter
+repair and then gutter cleaning. four
+different phrases all in the gutter
+industry and it's like, oh wow, gutter
+cleaning is by far the most popular,
+which makes sense. Uh gutter repair is
+half as popular, relatively speaking.
+Now, this doesn't like it's not like, oh
+my gosh, I'm going to make millions of
+dollars if I get into gutter cleaning.
+No, it's like there could be even more
+um supply to meet this demand. And this
+could be the most saturated category.
+But like all else equal, it just shows
+you what people are kind of searching
+for. And it makes sense that people
+don't search for gutter replace or
+gutter replacement as often because
+that's something you might do every 20
+years whereas a cleaning might be once a
+year. So if you really want to go
+deeper, you can use like the Google
+keyword tool. I won't get into that
+right now, but if you just Google Google
+keyword tool, and you can start typing
+in the same things like gutter cleaning,
+gutter cleaning your local area, gutter
+replacement, then it will show you um
+how much search demand there is and how
+much keyword like bidding demand there
+is, medium, low, or high. then you can
+start to find those arbitrage
+opportunities where certain terms in
+your local area have high demand but
+they're cheap keywords which means for
+whatever reason business owners in that
+area are not bidding on those keywords.
+So that's how you can start to find
+those arbitrage opportunities. I went
+ahead and found some leads that are
+already cleaned. So these are tree
+trimming businesses. Tree trimming
+businesses would also have need for a
+voice agent. These are cities in Texas,
+not named Houston, probably in the
+outerlying area as well, San Antonio,
+Sugarland, that have already cleaned,
+scrubbed phone numbers. And it looks
+like all of these are cell phone
+numbers, or most of them anyway. So,
+we're going to use these cuz there's
+over 500 of them. So, that's easy. I'm
+going to go ahead and duplicate this
+sheet. And one thing that I really like
+to do that's not necessary, but I just
+like it is randomize my leads with this
+formula. equals rand open parenthesis
+close parenthesis and then you and I'll
+zoom in. you double click it and it adds
+a random value to every cell and then
+you can um filter by A to Z or Z to A
+and it will perfectly randomize them
+because a lot of times if you know if
+you get something from out scraper it's
+in alphabetical order or it's like every
+city in Plano, every city in Dallas,
+every city in Fort Worth. And so when
+you just take the top leads and do cold
+outreach to them, it's not going to be
+like a pure sample size. It's going to
+be skewed. And so whatever I'm doing,
+even if it's probably already
+randomized, I like taking 10 seconds and
+randomizing them again just in case. So
+for these leads right here, I know
+they're all in Texas. They're in
+different cities. I don't think I need
+any of this stuff other than the phone
+number. So I'm going to delete them.
+Yeah. Okay. And then I'm going to sort
+again because there are some blanks in
+here. And I want 501. I'm going to use
+all 500 of my credits. So, there we go.
+I'm going to download that as a CSV. And
+then I'm going to share my other screen
+on Outs Scraper. I'm just curious. Is it
+still scraping? Still going. All right.
+Slide broadcast. Here's what we do.
+Create a new campaign. It doesn't matter
+what we name it. So, I'm going to use a
+Google horse number that I have. So, I'm
+actually going to run this campaign and
+we're going to see what happens. 30.
+If you call that number, you're probably
+going to get a voicemail about pet
+cremation. Don't ask any questions. Just
+trust me. I have to make a recording.
+So, I'm going to do that. I'm just going
+to do that with my iPhone on the voice
+memos app.
+>> All right. The one in the chat if this
+is awesome.
+>> Cool. Thank you. I'm just trying to like
+think of what I should say. So, I could
+like use chat GBD to come up with some
+ideas, something catchy. Fact of the
+matter is I probably have like for most
+people I probably have two seconds. For
+most other people I probably have five
+and maybe 10% of people will listen to a
+10-second voicemail. So I just have to
+be very brief. We want to speak to a
+painoint. We want to solve a problem. We
+want to personalize as much as we can.
+All we know is that they own a tree
+trimming business in Texas. There's a
+pretty good chance that my tree trimming
+business is on this list. Let's just
+yolo this. Why would you actually own a
+tree trimming business in Texas and not
+have a voice agent? How do you even
+watch Netflix with your wife and ignore
+your phone when you could have a $3,000
+job on the end of the line? So, let AI
+do the hard work for you. I can do that
+for you. Call me back. This is a real
+person, but I will give you an an AI
+voice agent. Okay, bye. 18 seconds. It's
+a little long, but we're going to roll
+with it. I'm going to airdrop it to my
+computer. Upload a recording. And
+there it is. Doesn't matter what I name
+it. Done. done twice. Okay, so there it
+is. It's got it. There's my call back
+number. Uh, and you know what? That
+reminds me. I should probably set my
+voicemail when they call me back to not
+mention anything about pet cremation.
+I've turned off call screening. I'm just
+looking at my Google voice settings
+right here. I know you can't see that,
+but um, voicemail greeting is for ecoin
+cremators. Hey, I'm the AI voice agent
+guy. So, if you have a tree trimming
+business in the state of Texas, I can
+install an AI voice agent for you and it
+will not cost nearly as much as you
+think. So, leave a message and I will
+call you right back. All right, 10
+seconds. We're going to save it. Now, if
+I were being like responsive and
+dutiful, I would not let these go to
+voicemail. I would answer all of them
+and I would throttle them to not send
+500 all at once because I want to be
+able to answer these calls because
+that's how you're going to close it.
+But, we're going to do it like this so
+we can learn more in a shorter period of
+time. So, my voicemail greeting is
+active as voice agent. So, if I get
+calls from people needing a horse
+cremated, they're going to be confused.
+And we should be good there. So,
+recipients, choose recipient list.
+Upload recipient list. I'm going to go
+here and Houston trees. My list does not
+contain names. Upload 475 numbers. Why
+475 instead of 500? Because 25 were
+probably invalid. and it runs them
+through a filtering service. Okay, so
+I've got an audio recording, I've got
+numbers, I've got the settings on my
+Google Voice account set up, and I'm
+going to send it immediately. So, let's
+go. Okay, it's running. Also, life hack.
+If you ever want to validate phone
+numbers, like let's say you're texting
+phone numbers and you need to know if
+they're cell or landline. Well, the outs
+scraper scrapes that we give you will
+automatically say that in one of the
+columns, but not for all of them, only
+for like 60% of them. And even for those
+60%, they won't be perfectly accurate.
+So, if you want some redundancy, go to
+Slide Broadcast. Even if you have never
+uploaded money, even if you have an
+unpaid account, you can upload a list as
+if you were running a campaign. And then
+once you get to this point, you don't
+need to run a campaign. You just need to
+go to manage list and upload a list. And
+then once you reddownload it, they will
+add a column and tell you which are
+cell, which are landline. So it's a free
+and almost immediate way to add some
+redundancy to your phone validation. All
+right. So we're going to click on these
+three dots and we're going to go to
+stats. For some reason, it's at the very
+bottom. Usually it's still pending. it
+it might take a little while for all of
+these to get out. I can't remember, but
+usually it will start to show scent sent
+scent. But this is also a brand new
+account, so they could be running it
+through like a filter or something. I
+think what happened is I posted a video
+like 6 months ago talking about
+something and I I did something similar
+to this with Sly Broadcast and I think
+Sly Broadcast saw it and assumed it was
+a liability to them and banned my
+account based on that. I'm just
+guessing. I don't even remember. But any
+questions while we wait?
+>> We'll kind of walk through what is about
+to happen or what should be happening if
+these go through.
+>> Cool. I have a question, Chris. So,
+would it be weird to have them call a
+voice agent? Would that be ideal or
+would that be probably overkill?
+>> Like to kind of eat your own dog food or
+serve your own dog food, so to speak?
+>> Yeah. Yeah.
+>> No, that would be that would be awesome.
+It's kind of like what we talked about
+with the uh the barberh shop guy, right?
+Like pulling out your phone right then
+as you're getting your haircut, having
+an AI voice agent call the barber and
+say like this is what it would be like
+if you had a voice agent. It's kind of
+like doing that at scale, right?
+>> Gotcha. Okay, cool.
+>> So, if we wanted to do that, we would
+log into high level and I can do this in
+a future week. We would create an AI
+voice agent and make that number the
+call back number. So, when they call
+back, That's a good idea, Jason. You're
+you're the man. You're the man. Yeah.
+And just make that your call back number
+and then have the prompt be like, you
+know, you are an AI voice agent for
+people that just got a bunch of ringless
+voicemails that are in the state of
+Texas that own treeing businesses. And
+you're going to answer questions about
+how you work as the AI voice agent. And
+then like I would go back manually and
+like call them myself. And that that
+actually get a little tricky trying to
+convince them that you're not still the
+the voice agent because they might be
+low on trust at that point.
+>> That's very cool. Well, I do think that
+that would be a good a good one for us
+to for you to do like to show us how you
+would go about building agent. I know
+everybody we've got multiple options of
+watching people build agents,
+>> but I think the the way you do it is
+just kind of like you you know how to
+eliminate all the noise and just kind of
+focus on the one thing.
+>> I think it I would like I would I would
+get a lot out of that. What do you
+expect conversion rate to be for these
+messages? Ben is asking. Uh, I'm going
+to say for call back, it's probably
+going to be mid to low single digits for
+people that call back. Now, a lot, maybe
+even most of the call backs will be
+people that did not hear the voicemail.
+And so, there'll be very low intent.
+They're business owners, right? So,
+these calls are valuable to them.
+they're just going to see they have a
+mis call and call it back which is like
+the more the more we talk about this the
+more I realize like this could be a
+really good venue for selling this thing
+voice agents right so I would say like I
+don't know 1 to 8% of these numbers will
+will call back and then of those maybe
+20 to 60% will actually have heard the
+voicemail and therefore probably have
+some level of interest
+>> yeah I wonder too like you know after
+they're kind of warmed up maybe to this
+first call, I wonder how uh second call
+might impact uh them. You know, if they
+listen to that voicemail, maybe the next
+time they might pick up the phone.
+>> Yeah. Like if you called them yourself,
+you're saying?
+>> Yeah.
+>> Yeah, good point. So, it's interesting
+looking at these reasons for failure.
+So, some people don't have a voicemail
+set up. Sometimes it just can't detect
+the voicemail. It's already scrubbing
+against the do not call list, which is
+great because do not dial list removed.
+So, you don't have to worry about that.
+um slide broadcast will do that for you.
+Some of these are successful. So if we
+look at the timestamps here, there are
+16 instances of this being sent at 428,
+50 at 429. I bet you anything it's 50
+per minute is kind of what they're
+doing. Yeah. So it's 430 cuz they sent
+50 at 429. So I bet that's the standard.
+So 50 per minute. So theoretically, all
+of these should be sent within the next
+five or seven minutes. Then you can look
+at the stats down here. So 86 have been
+successful.
+>> Can I tell you kind of what I've done a
+couple times and you give me your
+thoughts on it? So
+>> y
+>> I have not used slide broadcast but I've
+used the goh highle voice note option
+which is similar but what it does like
+does slide broadcast give them a chance
+to answer or it just completely skips
+the ring?
+>> I don't think it gives them a chance to
+answer at all.
+>> Gotcha. So if you guys use the the go
+highle voice note automation which I
+have used a lot and I think it's great.
+It does give them a chance to answer. So
+it's very weird but it's a robocall
+right so you have to like word it so
+that it's okay. It's not too super weird
+but my experience what I've done to get
+the highest rate of people connecting
+with me is voice note, email, text
+message. Like basically voice note I'm
+sending you an email. like depends on
+what the thing is, but like that then a
+text message. You get the email and then
+the email and then I've seen like a very
+significant number of those. Those are
+more warmer leads, but they get a good
+it gets a good response.
+>> That's a great idea.
+>> Would you do that for cold?
+>> Yeah, I I would test it for sure. Okay,
+so this is interesting. I don't know if
+you can see my phone here. It might be a
+little fuzzy, but I got a text back.
+It's probably automated from San Antonio
+tree and brush removal. Hey there, this
+is Ashley from Alamo Connect. We just
+got a mis call from this number. Sorry
+about that. How can I help? But now, if
+you look at I'm going to share my screen
+again. If you look at that exact number,
+I searched for it. It's the number
+ending in 0335. Right here, it shows as
+failed. Unable to detect voicemail. So,
+even though this failed, they got it
+somehow. They texted me back. So, and I
+just got another one, two others. This
+is Marcus from Austin Tree Specialist.
+Sorry, missed your call yet. These are
+pro this probably like high level that
+they have or some sort of an automation,
+but this number ends in 8844.
+That one still shows it's pending. That
+one shows as fail failed as well. So, a
+lot of these that show as failed
+actually went through and in some way.
+So, 177 have been successful so far. I
+got another guy that said stop.
+>> Okay.
+>> Yeah. I don't even know if my Google
+Voice settings are set up to like
+actually ring. You know, I I should have
+checked that.
+>> Scott is mentioning that it looks like
+maybe Twilio has something to do with
+your experience, you Nick is just
+confirming that if you're going to use a
+number, it's got to have to be H2P
+approved. Is that true
+>> for this?
+>> Yeah. And I don't think Google Voice
+makes you go through all that.
+>> Google Voice definitely doesn't and
+Slide Broadcast doesn't. Like what I'm
+showing you is a brand new account I
+just created on Slide Broadcast.
+>> Yeah. So I think Nick, I think if you
+want to do the text messaging element
+and have a voice agent receive the
+calls, yes, I believe you're you're
+going to want to do that through high
+level or whatever platform you use and
+it would need to be HPU for that. But to
+do just what we're watching Chris do now
+with a Google voice number, you don't
+have to do that.
+>> Correct. Michael is asking, "If you're
+getting automated responses via text,
+could you also set it up to send
+automated responses?
+>> Robots talking to robots." Yeah. I mean,
+at high level, that's pretty
+straightforward. I don't think you can
+do it natively within Google Voice. But
+look, I'm getting a call right now.
+Santi Bandit, I just changed my settings
+to allow for calls. So, I wonder how
+many I would have gotten. I'm going to
+answer it. We'll just yolo this. Hello.
+This is Chris.
+>> Oh, hello. I might have the wrong
+number. I apologize.
+>> No. Is this Santi Bennis Treeare? Oh, he
+he hung up. But that was Santi Benz uh
+tree care. Benny's tree service texted
+me. That doesn't look automated. Saw
+missed your call. Adam's Apple tree
+service on my phone. It looks like I
+have several mis calls that just says
+like Google voice connecting because my
+phone is also on do not disturb. It's
+always on do not disturb. So yeah,
+that's where we're at so far.
+>> That's a good lesson actually. like if
+we're going to run this because a lot of
+our phones are going to always be on do
+not disturb. So maybe the Google voice
+or uh you know the high level plan is
+good for this if people are going to
+actually call back.
+>> Yes, I'm getting another call. One sec.
+>> Let's do it.
+>> Hello, this is Chris. Oh, hung up. I'm
+trying to put it on speaker phone like
+as right right as I answer, but they
+hung up. So that was like two calls in
+two minutes. And now keep in mind even
+if they're calling and they didn't hear
+the voicemail, they have no idea why I'm
+calling. That is better than you cold
+calling them. It's better. It's
+something. It shows you that they value
+getting phone calls, that they take them
+seriously. Like for this offer
+specifically, it is far better than
+nothing. Now, if I were like using this
+same strategy to buy RV parks, which
+I've done, then call back doesn't
+necessarily mean anything, right?
+Because it doesn't make them more likely
+to want to sell their RV park. It makes
+it more likely that the the number is
+valid, right? And that I can get a hold
+of them, but the statistical chance that
+they're more likely to sell a park or at
+a better price is negligible.
+>> You want to know what I've named this
+process?
+>> What's that?
+>> Reverse cold calling.
+>> I got to buy that domain name.
+>> Hashtag.
+>> Oh, I'm getting another call. So, this
+is what it looks like. Voice audio.
+Hello, this is Chris.
+>> Oh, Chris. Uh, I don't know. I had a
+miss call earlier for this number. Yes,
+this is the treeare business, right,
+>> sir? Who am I speaking with?
+>> This is Chris Kerner. I live in Allen,
+uh, Texas. I was wondering if you had
+any need for an AI voice agent in your
+business, so you don't have to answer
+the phone anymore.
+>> Oh,
+>> I mean, this is a real person.
+>> Free. Knock yourself out.
+>> I could for sure set it up for free.
+Like, in full transparency, the hope
+would the hope would be that like
+>> nothing for free?
+>> No, that's what I'm saying. Hey, that's
+I'm in the middle of saying like I would
+hope in the future that I could show my
+value and you'd pay me for something to
+help you grow your business, but I would
+do this 100% for free with no questions
+asked. Honestly, it doesn't work like
+that for me. Like uh because most of my
+sales are going to be word of mouth and
+I had to like horrify some especially uh
+the Spanish folks.
+>> Mhm.
+>> You know, it's a little complicated
+because that's really how I really I'll
+say like you know 90% of my work
+actually I don't advertise really
+nothing. At the same time, not trying to
+like get out there so much because I
+don't know, it's just me right now and
+my son
+>> family business.
+>> They Donald Trump took everybody.
+>> Yeah. I'm sorry to hear that.
+>> That's good. Uh but let me call that
+back because I'm at school.
+>> Okay. Yeah. I mean
+>> my daughter, my granddaughter,
+>> I mean it like I will do it for free.
+>> We could touch base again.
+>> Okay.
+So he hung up on me like in a friendly
+way. But that was something, right? I
+mean, that was something. That's a
+conversation. And I missed another call
+while I was on it. So I'm just like
+grinning ear to ear. You guys can see on
+full display that I'm not great at
+sales. You guys are probably watching
+this like, "Oh man, you should have done
+this. You should have done that." That's
+okay.
+>> No, I don't think anybody's thinking
+that. I think we just like thought it
+was great. Um, but that is good though.
+Like that you kind of like you're kind
+of basically taking them off guard. Here
+we go. Another one.
+>> Yeah, another one. Capital Tree Care.
+Hello, this is Chris.
+>> Hi, this is Emily with Capital Tree
+Care.
+>> Hey, Emily. Uh, this this is kind of
+random. I was wondering if you guys need
+any uh AI voice agents in your business.
+>> No, we're all set. Thank you so much.
+>> Thanks. Hey, Emily. I was wondering if I
+can replace you with a robot. You're the
+one that answers the phone, right?
+>> Yeah. I was going to replace you with
+with a robot.
+>> What I've been saying is uh you know,
+it's 2026, right? Like you don't have to
+be answering the phone anymore.
+>> You really That's a That's a good That's
+a good hook. I like that. I might use
+that on the next one. Look at all those
+those calls right there. We got Bear
+Nature, Santi Benz, Sumanos, Santi Benz
+again, Lightning Tree Service, and
+Capital Tree Care. That's since I
+changed the settings on Google Voice.
+>> I think you got like a dozen a dozen
+warm leads now.
+>> So these have all sent. I just did a
+control find for pending 00 successful
+282. So 56%
+of these were successful. Also, I have
+to spill a little secret. This call was
+actually a recorded call from a private
+community I have called Playmakers.
+That's playmakersai.com
+where people are building businesses to
+implement AI into other small
+businesses. They're becoming AI
+consultants and I'm teaching them how to
+do it with tutorials just like this one.
+So, if you want to check out Playmakers,
+go to the link in the show notes or just
+check out playmakersai.com. Okay, but
+like selling these AI voice agents means
+nothing if we don't actually know how to
+build them. So, let me show you how to
+build them. Okay, so first things first,
+you're going to go to this domain name,
+gohighlevel.com/tkopod.
+It's linked below because this is going
+to give you a 30-day free trial to High
+Level instead of a 14-day free trial
+that you can get everywhere else. And
+it's just a cool way of saying thanks to
+me for publishing this free content
+because yes, if you end up paying for
+it, I'll get a small kickback. And once
+you log in, your screen is going to look
+about like this. This is what the
+dashboard looks like for your GoHighle
+account. You're going to click on AI
+agents and then you're going to click on
+voice AI. That's it. Now, you're going
+to click this big blue button right
+here, create agent. Let's go ahead and
+build one from scratch cuz it's not as
+intimidating as it sounds. Let's say
+tree trimming agent. We're going to call
+it
+Chris's tree trimming. Language English
+voice. Let's say Jessica cuz that's my
+wife.
+>> Hey worldly 11 Labs friends, let's talk.
+>> I like it. LLM model. This is basically
+just telling you which AI it's using on
+the back end to power it. GPT40 is of
+course OpenAI's chat GPT40 version, not
+4.0 but for letter O. And if go high
+level's suggesting as the default, then
+it's probably pretty dang good and I'm
+not going to overthink it. Time zone.
+And here's the initial message. Hey, you
+have reached Chris's tree trimming. How
+can I help you today? So, we are
+building this as if we're building it
+for a tree trimming company. Before we
+go to the next page, let's look at the
+advanced settings. Maximum call time
+doesn't really matter. They're not
+usually going to get to be over a few
+minutes. We'll leave it at five. Idle
+time. This is how long the agent will
+wait to remind the caller that they're
+still there just in case they stop
+talking. Do we want them to respond
+normal, moderate, or fast? Of course, we
+want it to respond fast. Interruption
+sensitivity. That's how easily the AI
+can be interrupted during speech. So,
+like if you put your phone away and you
+say to your wife like, "Hey, pass the
+ketchup." If it's more sensitive, then
+it will think you're interrupting the
+agent. If it's less sensitive, then it
+won't think that. We're not going to
+mess with the LLM temperature. that
+basically dictates how out of bounds the
+AI can go, how creative it can get. And
+I like to speed up my voices a little
+bit just to keep things moving. So
+instead of 1x, I'll do 1.2x volume. Keep
+it at 100%. Background sound. I kind of
+like that. This is pretty dang cool.
+Let's just say it's like uh coffee shop
+sound. Confirm. Cool. We'll go next. All
+right. So it's asking for a knowledge
+base. This is basically the brain of our
+AI voice agent. It needs to know what to
+say. We're going to click create
+knowledge base. And guys, don't
+overthink this. We're going to make this
+very, very simple. We're going to go to
+chat GPT. We're going to say, here's my
+prompt. I'm building a simple AI voice
+agent to receive inbound calls at a tree
+trimming business called Chris's tree
+trimming. It needs to answer typical
+questions about scheduling an on-site
+quote for a trimming or removal job. So,
+build a knowledge base for me that I can
+simply paste into go high level so the
+agent doesn't sound like an idiot.
+That's it. You don't need to know what a
+knowledge base is. You just need to ask
+Chad GBT to build one cuz it knows. And
+then if any of this just looks off, just
+edit it. Tells it what to do if color
+wants a human, how to schedule times,
+dates, yada yada yada. This is awesome.
+I don't think I'm going to change
+anything. Copy. Go back here. Create new
+knowledge base. What I just did was
+create the title of the knowledge base,
+which is just tree trimming. And here's
+what's really freaking cool. I can just
+add a link to any tree trimming
+business. And guess what? I actually own
+a tree trimming business,
+fasttreecare.com.
+So, it can just go to that URL and find
+the FAQs or any content that's listed on
+the website and build a knowledge base
+from that. You don't even need to use
+that chat GPT prompt if you don't want
+to. But let's give it a little more rich
+text. Paste. There's the prompt. It will
+accept up to 25,000 characters. can
+upload PDFs, files, tables,
+spreadsheets, FAQs. There's the web
+crawler. Boom. In like 25 seconds, it
+trained itself based on this URL right
+here, which is my tree trimming
+business. So, we have a knowledge base.
+It's as easy as that. Okay. So, to use
+this knowledge base that I just created,
+we just go to the drop down. We choose
+tree trimming. What info do we want?
+Let's do name, address. I already have
+their number. I don't need their email
+and their issue. And I want to know when
+a call is complete. So I just want to
+get an email when that happens. And
+let's test it. I'm putting in my
+personal cell phone number. Take it off.
+Do not disturb.
+Call me.
+Okay. High level is calling.
+>> Reach Chris's tree trimming. How can I
+help you today?
+>> Yeah. Uh, we had this ice storm and I've
+got a tree down and I need to know when
+you can get over here.
+>> Got it. That sounds stressful. Let me
+check on our availability for you. Could
+you share your address and contact
+number so I can make sure we get the
+right details?
+>> 123 Maple. My number is 2146676767.
+>> Thanks for that. Just to confirm, your
+address is 123 Maple and your phone
+number is 2146676767.
+Right.
+>> Correct.
+>> Perfect. I'll pass this along to the
+team and someone will reach out to you
+shortly to confirm when we can come by.
+Hang tight and we'll get this sorted for
+you.
+>> Okay. Thanks. Hey, real quick. Are you a
+real person or are you AI?
+>> I'm an AI, but I'm designed to sound as
+natural and humanlike as possible.
+>> Okay, thanks so much.
+>> You're very welcome. Have a great
+evening and we'll be in touch soon.
+>> All right, so that was pretty dang good.
+It sounded a little robotic. I should
+have spent a little more time shopping
+for voices and not just chosen my wife's
+name, but that's my only complaint. And
+honestly, if it solves a problem, then
+people don't care. This is the service
+that people are selling. This is like
+the actual AI thing that is changing the
+game for small businesses, whereas a lot
+of the other things are just too early.
+So, minute 21, transcript. There it is.
+There's my transcript. And I've got an
+email notification about it. So, it
+works. It worked. And we did it the hard
+way. If you want to do it the easy way,
+you just go right here. Agent templates
+right there. Boom. You can install it
+with one click. It's already trained,
+ready to go. And it, let's say you want
+to sell what I just built to other
+treeing business owners that are using
+High Level for themselves. You can sell
+it on the uh Highle um app marketplace.
+So you can buy a brand new phone number
+inside High Level for something like
+this or you can port in the business
+owner's phone number. There's a zillion
+ways you can slice it. I just scratched
+the surface today because I didn't want
+to get too in the weeds, but you can
+make this as complicated, connected,
+complex as you'd like to make it. Guys,
+look. Here's the proof. Look at my
+phone. You see that? You see all those
+tree trimming businesses? Those are
+people that called me. They called me
+back. This is real. This is real stuff
+right here. Some people were very angry.
+It's not all roses. You probably saw how
+bad I am at sales. That's okay. You're
+probably better than me. Therefore,
+you'll probably be more successful than
+me, which would be my dream. But you can
+do this. All of these tools are publicly
+available. They're cheap to use. Go High
+Level supports this channel, so I
+support them. Please use the link in the
+show notes. You'll get 30 days free
+instead of 14. all get a little kickback
+and we'll all win. Thanks for checking
+out the Kerner office. If you know
+someone that wants to become an AI
+consultant, share this video with them.
+It would mean a lot. We'll see you next
+time.

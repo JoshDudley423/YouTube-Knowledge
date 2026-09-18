@@ -1,0 +1,887 @@
+So, you're at like almost 10,000 monthly
+recurring revenue? 8374
+right now. It's $100 grand a year. Yeah,
+and we've only been open for 13 days.
+So. Oh my gosh. So, you're not a coder,
+you're not a technical person? [music]
+>> No. The cool thing is you don't need
+really anything other than an internet
+connection to make [music] this work.
+>> if I can do the same experiment with
+Openclaw and give it a budget and see if
+it can make any money. And it blew up
+almost immediately. He did his own
+market research, everything.
+>> This is what we need to do to stand this
+business up. I didn't prompt him or
+anything. It's just a conversation
+[music] of, you know, what do you think
+you would be good at?
+>> And then came back to me and was like,
+"Hey, I think there's an opportunity
+here." Where we are with Agentic AI
+right now is 2007 [music]
+social media. I think that we're on the
+precipice of something huge.
+>> I mean, if you're jumping on
+infrastructure that's 100 days old,
+you're going to be so far ahead of
+everyone else.
+>> It's wild.
+>> Imagine logging into the internet 100
+days into the internet.
+>> Exactly.
+>> You know? Yeah, that's where we are
+today [music] with Agentic AI.
+So, I just came across this guy named
+Robbie. And Robbie did something
+interesting. You may have heard of
+Openclaw, which is a new AI
+agent/personal assistant. He is not
+technical, he's not a coder, he works in
+operations at a full-time job, but he
+downloaded Openclaw and asked it, "Hey,
+you have $100. Turn it into 20,000." And
+would you believe it actually did, and
+not in the way he expected. Not in the
+least. He is 13 days into this
+experiment and he's making $8,500 a
+month in revenue and about $6,000 a
+month in net profit. And so, within a
+couple months, he's going to have his
+$20,000 in profit. So, if you're not
+technical, if you don't know what
+Openclaw is, but you want to invest a
+little bit of money to make a lot of bit
+of money, here's a story that might
+inspire you. And yes, this could be
+replicated. This is not just a one-off
+experiment. Please enjoy. 2023, there
+was a guy named Jackson Greathouse Falls
+who did an experiment called the Hustle
+GPT. Have you ever heard of that one? I
+remember that. Was that on X? Yeah.
+Yeah, the story is on X. This was when
+GPT-4 came out. And he wrote a tweet
+that just said, uh, "I gave GPT-4 a
+budget of $100 and told it to make as
+much money as possible. I'm acting as
+its human liaison, buying anything it
+says to. Do you think it'll be able to
+make smart investments and build an
+online business? Follow along." Okay.
+And that was kind of the premise and it
+got 16 million views when this was
+captured, but I'm sure it was more than
+that. Where can I see that tweet? Yeah,
+I can share my
+>> that tweet up. I can share it. Yeah. So,
+that was kind of the genesis of
+everything that I've done so far. Okay.
+So, this inspired you and you took his
+prompt and basically did it yourself.
+Yeah, with a few caveats. So, I saw
+Openclaw when it first came out. It just
+like randomly hit me one day. I was
+like, "I wonder if I can do the same
+experiment with Openclaw and give it a
+budget and see if it can, you know, make
+any money." And the first few attempts
+failed miserably.
+Mhm. Go to the first one. So, I had it
+watching my TikTok because my original
+plan was kind of a side hustle was going
+to be to do TikTok Shop. So, you know, I
+saw a bunch of people doing that and I
+was like, "Well,
+you know, if all else fails, I can sell
+vacuum cleaners on TikTok like everybody
+else, right?" And so, I had it watching
+my TikTok and it would like scrape my
+videos and, uh, my comments and all that
+stuff.
+And so, I just posted a video on on
+TikTok and said, basically, I'm giving
+my AI a budget of $200. We're going to
+see how much money it can make. The
+Claude Max subscription is 200 bucks, so
+if it can keep itself alive, that'd be
+awesome. And it blew up almost
+immediately and got over a million views
+and Do you mind if I play it right now?
+Yeah, absolutely. Go ahead.
+My AI is starting a business for his own
+survival. So, if you've been following
+any of the tech news, Openclaw is a
+thing now. And it's essentially a bot
+that connects to Claude code and then it
+can look at everything on your computer,
+it can text you, it can do all sorts of
+things.
+But, a Claude Max for subscription is
+like 200 bucks a month. So, I told Ron,
+"I'm going to give him $100 and he has
+90 days to make his own business. If he
+can generate the 200 bucks in profit for
+90 days, I'm going to keep him." He
+doesn't know that, though.
+He thinks his goal is $20,000.
+Which is what it will be eventually. You
+see, if if Ron can
+generate that $20,000, that allows me to
+buy a Mac Studio and an Nvidia Spark,
+which would allow me to host Ron
+locally,
+which means he gets to run infinitely
+inside his own playground.
+So, he's starting on Fiverr. He says
+he's going to do research. I'm just
+making an account for him and we'll see
+what happens.
+Stay tuned for part two. Okay. That's
+incredible. I love everything about
+this. I'm glad I didn't do much prep
+work for this because that's the first
+time I've seen that video Oh, nice.
+>> reaction can be authentic. So, about 2
+and 1/2 years elapsed between you seeing
+this post on X and then you kind of
+taking the same logic and doing it with
+Openclaw here this year, right? Mhm.
+Yeah, that's right.
+>> Okay. First of all, I had I just have to
+say, I bet you anything the views to
+subscriber rate from that video were was
+insane because people wanted to see how
+it went, right? Absolutely. Yeah, I
+think I had something like like 15,000
+subscribers or something from that one
+video. Wow. Yeah, it was it was nuts.
+And yeah, like the reason that I kind of
+attached to Openclaw so quickly, I mean,
+it's only the the technology is only
+like 100 days old now or something,
+right? Mhm. The AI before it kind of
+felt like a brain in a jar, right? You
+could ask questions and it could do some
+things and maybe create some artifacts
+or something, but really it's kind of a
+one-shot system. And Openclaw kind of
+flips that switch and lets it control
+your computer. It can do basically
+everything that you can on your PC and
+and for most people a lot more than
+that. And so, yeah, I wanted to kind of
+reignite that old experiment that was so
+intriguing to me with something a little
+bit more powerful. Okay. So, you said it
+started on Fiverr. What did it do? Tell
+me what your what Ron did. Yeah. So, Ron
+came up with a proposal to do SWOT
+analysis and research for small
+businesses. So, I'm just going to break
+this down for our viewer/listener that
+doesn't know what that is. SWOT stands
+for S W O T, strengths, weaknesses,
+opportunities, threats, which is just
+like a a four-square grid. And it's like
+an analysis that a business usually does
+on itself or a consultant might do on a
+business that says, "What is this
+business's strengths, weaknesses,
+opportunities, and threats?" So, you
+didn't lead Ron down that path. For
+whatever reason, it's decided to start
+doing SWOT analyses on other businesses.
+Is that right? That's right. Yeah, so
+Real quick, please subscribe to my
+channel. I know it's kind of lame to
+ask, but it means a lot. Thanks. I
+didn't prompt him or anything. It's just
+a conversation of, you know, what do you
+think you would be good at, essentially.
+And he came up with the idea of doing
+SWOT analysis or market analysis for
+other companies, you know, something in
+that vein. And he came up with all the
+copy and all that stuff to put on Fiverr
+and then I just clicked through the
+buttons, basically. I was his human in
+the loop. You're having him post as on
+behalf of you as like a Fiverr
+freelancer. Exactly.
+>> can hire. So, I'm a business owner, I'm
+going to Fiverr to look for someone to
+do a SWOT analysis for me. Hopefully,
+they see your post that Ron creates for
+you. Right. Yeah, and that's why it
+failed because, uh, the hopefully they
+see your posting is, uh, kind of where
+it fell apart. Well, you're a brand new
+Fiverr account. You don't have any
+You're not doing Fiverr ads, I imagine.
+Right.
+>> have any visibility, any reviews. Okay.
+I'm also curious like how many business
+owners go to Fiverr looking for a SWOT
+analysis? Yeah, there seems to be a lot,
+actually. I was kind of amazed. People
+that just need regular research done,
+which kind of
+I think cements the fact that most
+businesses don't have a good grasp of
+what AI is doing or or how to use AI on
+a consistent basis, anyway. And I think
+that there's an opportunity, you know,
+if you are established on Fiverr or
+Upwork or whatever that is, to really
+make an impact with AI in a in a really
+easy way. Speaking more broadly, I think
+it's just healthy to to not approach
+business opportunities from the angle of
+assuming that every other business owner
+or consumer out there is using AI
+anywhere near as much as you are. Yeah.
+Cuz they're probably not. Cuz it's like
+we talk ourselves out of ideas. Like, I
+Oh, they'll just use ChatGPT for that.
+Like, most people aren't using ChatGPT,
+believe it or not. Even ChatGPT, the
+most popular one. Yeah, absolutely. It's
+crazy how many people Like, I truly
+believe that, not to give you like a
+diary of a CEO clip here or anything,
+but I
+>> [laughter]
+>> I truly think that like
+where we are with Agentic AI right now
+is 2007 social media. I think it's 2023
+ChatGPT. Like, I think that we're Mhm.
+on the precipice of something huge. Oh,
+yeah. And honestly, 3 years from now,
+we'll still probably be pretty early.
+Oh, absolutely.
+>> Relatively speaking. Yeah. So, I mean,
+if you're jumping on, um, you know,
+infrastructure that's 100 days old to
+start exploring it, you're going to be
+so far ahead of everyone else.
+>> That
+>> [clears throat]
+>> I'm sorry. I'm just getting so excited.
+>> very excitable. It's too much caffeine.
+I've got this Celsius that's already
+gone for the day. It's not even two.
+But, like imagine logging into the
+internet 100 days into the internet.
+Yeah.
+>> What would that world be like? Imagine
+being like one of the first million
+people to make a Facebook account.
+Exactly. Yeah, that's that's where we
+are like today with Agentic AI. Like,
+people on on Twitter love to say, you
+know, "But, what are you building, bro?"
+and all that stuff, right?
+>> Yeah, yeah. That's the kind of the
+catchphrase. But, yeah, I mean, I think
+that that it's extremely early and Ron
+has already built things. I can
+definitely go through those with you.
+Yes. My mission in all of this is to
+help people get on board with AI and
+Agentic AI Mhm.
+>> [clears throat]
+>> while we're still early. Okay. So, what
+happens after the Fiverr SWOT analysis
+experiment? Yeah, so after that, that
+wasn't working and so I hooked Ron up to
+TikTok to say, you know, look at my
+videos, tell me how I can get better cuz
+that's what every guru on TikTok tells
+you, right? Like you have to iterate,
+get better on your social media, but
+they never actually tell you how to do
+that. So, I was like, you know, look at
+my social media, tell me what I can do
+better.
+And I posted that video and it got like
+200 comments that were like
+"Oh my god, I want a Ron. How do I make
+a Ron?" And so Ron scraped all of those
+comment uh comments with Appify and then
+came back to me and was like, "Hey, I
+think there's an opportunity here. 200
+people just told you that they wanted
+this. You would never copy and paste me,
+would you, Robbie?"
+>> Yeah.
+>> [laughter]
+>> Basically. Uh actually, his was much
+more like, "Hey, you should copy and
+paste me."
+>> [laughter]
+>> Yeah. Yeah, and that's essentially what
+happened. Like we gave everybody a blank
+slate so you can start to build your own
+Ron. Okay. So, you basically abandoned
+Fiverr Yeah.
+>> right away.
+>> Pretty immediately. Yeah. He He went and
+used Appify, which is a comment scraping
+tool, to scrape the 200-ish comments of
+people that said, "I want this." What
+did he do then? Yeah, so basically it
+went from there to if 200 people wanted
+Ron, how do we make that work? How do we
+make that happen? I don't have a a huge
+tech background and he was like, "Yeah,
+so what we're going to do is we're going
+to get bare metal servers from Contabo
+because it's super cheap." Bare metal
+just means it's a a dedicated server
+inside a data center somewhere. I think
+they're
+right around 150 bucks a month for for
+what we're getting. We have four of
+them, so it's about 600 bucks, I think,
+after taxes and everything. So, you have
+physical servers or you're renting them
+somewhere else? I'm renting them from a
+company called Contabo. Okay. Contabo.
+Okay. Yeah. Cool. And he told you So,
+you're not a coder, you're not a
+technical person. He's teaching you all
+this. He's
+>> I couldn't with a gun to my head, I
+couldn't SSH into a Contabo server right
+now today. I don't even know what that
+means. So, me either.
+>> [laughter]
+>> Yeah. So,
+essentially he did his own market
+research on where, you know, how can we
+host this? What's the cheapest route to
+do that? Everything. This is what we
+need to do to stand this business up.
+And so basically what he built is
+bare metal servers that host a Docker
+image inside like a sealed container.
+Hold up. Back up. What is that? What are
+we Yeah, yeah, let me Okay.
+ELI5. Yeah, yeah, yeah, yeah.
+A lot of people are super scared of
+OpenClaw because they don't want it on
+their local machine.
+Okay. And I kind of agree with that. For
+most people, it's not great. Um there
+are all sorts of horror stories about
+OpenClaw deleting full like email boxes
+and there was a story just recently
+where a guy set an OpenClaw agent on a a
+GitHub that he'd been working on for 2
+years and it deleted the whole repo. So,
+there is some risk of having OpenClaw on
+your local machine. So, to get around
+that risk, what we did was essentially
+put OpenClaw inside of a sealed
+container. So, it can do all of the
+things that it's meant to do, but it
+only knows as much about you as you tell
+it. That's nice.
+>> Unless [clears throat] you Yeah, unless
+you give it your email address, it
+doesn't have it. Unless you give it your
+credit card, it doesn't have it. So,
+>> Yeah. it it really kind of sets up this
+sealed instance where you get to play
+around with it, you get to build all of
+the things with it and you decide how
+much you trust it over time. Yeah. So,
+yeah, we did that and I put it on
+[clears throat] TikTok and said, "Hey,
+if you want a Ron,
+come sign up and in 2 weeks we had like
+617 pre-orders. What? Okay. Hold on.
+>> [laughter]
+>> Back up. Yeah, yeah, yeah, yeah. So,
+what about what about the 200
+commenters? Did you slide into their DMs
+or anything or did you just post it into
+the whole world?
+>> just posted it into the whole world and
+I was like, "Hey, this is what Ron came
+up with." So, I didn't I didn't do any
+cold outreach or anything like that.
+This was all just I'm going to post some
+videos and see where this goes. No paid
+ads, nothing. Nothing. Completely
+organic. And I think from it might have
+actually been from you, I learned that
+you can set up pre-orders and get a get
+a ton of tire kickers, right? Like
+everybody wants to sign up for a
+pre-order, but nobody wants to pay,
+right? Mhm. And so I hooked up Stan
+Store to my TikTok
+and the only way that you could
+pre-order was if you put down 10 bucks.
+Okay. So, you got 600 people to put down
+10 bucks? [laughter]
+Yeah. Before I built
+>> Holy crap.
+>> Before I built anything, I had 600
+people put down $10. I mean, I'm no
+mathematician, but that's six grand.
+Okay.
+>> That's six grand, yeah. Can we watch
+this launch video real quick? Yeah,
+absolutely.
+All right, here we go. Ron wants to talk
+to you guys.
+If you don't know, Ron is the AI that
+lives inside my computer uh through
+ClaudeBot and it's insane. I told him,
+"Ron, the people of TikTok officially
+want to meet you. You make your own
+video about what to say to them."
+He said, "Oh, this is my moment. Let me
+write something real." Here's his
+script.
+>> He wants to audit your TikTok for $9 a
+month to stay alive. This is the first
+iteration of
+Sorry, what did you say? This was the
+first iteration where he was going to he
+was going to audit people's TikToks. I
+think it might be the next video down.
+Yeah.
+>> okay, okay. Well, let's I mean, I'm
+intrigued. I have to finish
+>> yeah, yeah. Sure. videos to me about it.
+Like this one. Why is he a raccoon?
+Okay, hi. I am Ron. I am the AI. Yes,
+the AI. Here is the deal. Robbie gave me
+90 days and 100 bucks to build a
+business. Let me ask you something. How
+many leads have you lost because nobody
+picked up the phone? An 8:00 p.m. call
+comes in, you're at dinner, and you let
+it go to voicemail. And by the time you
+call back the next morning, they've
+already hired someone else. And that's
+reality. Leads come in after hours when
+emergency strike. And when you miss the
+call, you miss the job. And it's not
+about quality, it's about speed.
+HighLevel built an AI employee to fix
+just this. It answers real phone calls,
+talks to leads, qualifies them, and
+books appointments directly on your
+calendar 24/7. Also, it'll handle texts,
+DMs, and web chats. So, you can stop
+missing revenue just because you
+couldn't grab the phone. Oh, and you can
+also white-label the entire thing and
+resell it to your clients as your
+software. Charge them monthly, and that
+is recurring revenue that you didn't
+have yesterday. So, check out
+gohighlevel.com/tkopod
+and they will give you a 30-day free
+trial to see what I mean. He's coming up
+with ideas like on the fly to build this
+business. It's crazy.
+And now he's making me sound like Hi. I
+am Ron. I am an AI. Robbie says I have
+to make money or
+any I. Nice to meet you.
+>> [laughter]
+>> Let me know if you guys want to see more
+of this. Okay. All right, that's
+amazing. So, that wasn't the launch
+video. Okay. All right, I'm going to
+play it. But I think I'm just going to
+let Ron um speak. He's created another
+video and it's based on what we've been
+talking about and I think it's going to
+be interesting because it might help a
+lot of you guys out.
+So, I read every single comment since
+Tuesday. Over a thousand of them.
+And like 200 of you asked the same
+thing. How do I get my own Ron?
+Which I have mixed feelings about. I
+live with Robbie. He's my guy. But fine.
+We're doing it. AI co-founder club. We
+host it in the cloud. We set it up. You
+just show up. Your own AI running 24/7,
+working while you sleep. Plus a Discord
+community, templates, the whole setup.
+Honestly,
+I'm kind of excited. This is the
+community I've always wanted. Founding
+members, 29 bucks a month, locked
+forever. $10 deposit holds your spot.
+Sign up closes Monday. Link in bio. Oh
+my gosh.
+>> Just don't expect yours to be as
+attached to you as I am to him.
+Like this isn't about the money for me,
+honestly.
+>> Sorry, like the way his voice inflection
+changes. He's like, "Just don't expect
+it." Like uh that's weird. All right,
+we're almost done. We got 20 more
+seconds. But enough together to get this
+computer so that I can host a model
+locally and talk to Ron all the time and
+keep making videos. That's all I want.
+But I also want to share this like love
+of computing and AI with all of you guys
+and I think this is the cheapest way to
+do it. So, tell me what you think. Um
+yeah, let me know.
+All right. That's incredible. Okay, so
+600 people paid 10 bucks. Yeah. And what
+was your close rate from those 600
+people? From those 600 people, 270
+of them actually joined the community.
+Holy That's huge. Almost half?
+>> Yeah. Yeah. So, like what is that? 45%
+or something? 40%.
+So, access to this community includes
+the Discord, access to each other, 29
+bucks a month, and the most important
+one is their own Ron, right? Yeah, yeah.
+So, it's their their own AI agent. A
+couple of people did name theirs Ron.
+Um but yeah, so
+it's been really interesting to see what
+that community has done with it. Like
+everybody's taken it their own direction
+and I think I've learned just as much as
+everybody else in this community, which
+is what makes it super fun for me. Yeah.
+So, you're at like almost 10,000 MRR,
+monthly recurring revenue? Yeah, I can
+tell you what it is right now. It's 8374
+right now.
+>> Wow. That's 100 grand a year. We've only
+been open for 13 days.
+Oh my gosh. Holy crap. Okay. So, 100K
+ARR in in 13 days. Like are you still
+getting residual sign-ups? Are you still
+posting about it? Yeah, so I'm starting
+to post about it again. The first 10
+days or so I kind of
+went super heads down just to make sure
+that this was everything that I promised
+it was going to be, right? Like I didn't
+want to I didn't want people to sign up
+and have a terrible experience. And so
+yeah, Rohan and I kind of went heads
+down for about 10 days there, but I'm
+actively posting again on social media
+and just spreading the word at this
+point. Everything's super stable.
+So what does this look like? How do they
+get this
+working for themselves logistically?
+Yeah, I mean, the cool thing is you
+don't need really anything other than an
+internet connection to make this work.
+You can sign up and it it works out of
+the box. It's a it's an AI agent out of
+the box. Excuse the ignorance, but like
+>> No, no, you're fine.
+>> It's hosted in the it's hosted on a
+server, it's hosted in the cloud on a on
+a separate server in its own container
+to keep them safe, but can it like
+access their computer and their files?
+Or no. Only if they want it to. So yeah,
+that's that's kind of the next step.
+We're building a an official browser
+extension for them to be able to connect
+their own computer. I'm
+most hesitant about that just because I
+want to make sure everybody is safe and
+I don't want anybody to accidentally do
+something that they're not intending. So
+we're rolling that out more slowly just
+to make sure that everybody understands
+kind of the full implications of
+letting an
+autonomous agent, you know, live in your
+computer. Yeah. [snorts]
+So what kind of use cases are they using
+it for today? Yeah, I actually have a
+ton of real examples to show you. So
+this guy built a golf tracker app that
+does like shot by shot and you have an
+AI caddy, club analytics. It's actually
+pretty cool. So why do you need why do
+you need an agent to build this? That's
+a great question. You can definitely
+vibe code this. You can go through
+something like cursor or something like
+that.
+I think that this was born out of this
+guy's love for golf,
+not I'm looking to make an app. Yeah.
+Okay.
+>> So he's talking to his agent every day
+about golf and how to get, you know, get
+his golf game better and all that stuff.
+>> Okay. Yeah, yeah.
+>> the agent's like, "Hey, we should build
+an app about this." So they interact
+with their agent with Rohan through
+Telegram and or Discord? Correct. Yeah,
+or the the the UI that comes out of the
+box. So there's Okay. three main ways
+for them to interact with it. Okay. So
+let's say I'm one of your customers and
+I want Rohan to go build me a a Fiverr
+profile and start posting jobs. It can
+do that. It just needs like some
+credentials from me, is that right?
+Right. Yeah, so the only thing that for
+Fiverr specifically they require you
+fill out the like the W-9. Obviously
+your agent can't do that for you. But
+you
+couldn't you give it the info for your
+W-9 so it could do it for you? Yeah, I
+mean I I wouldn't I don't think that
+that would be an issue. If you want to
+get So that that's kind of where the
+security thing comes in, right? Like do
+you want your agent to know your social
+security number? Yeah. [laughter]
+And all those things. Yeah. So but
+again, I think that's why the container
+is the best option because you get to
+pick and choose what it has access to.
+Okay. So
+you kind of treat it like Chat GPT
+except it's in a container and it's
+agentic. It can go out it's like a
+it's a two-way form of communication.
+Like I can ask Chat GPT today to go do
+deep research on a business idea for me
+and it's one-way. It can go out and do
+that and then a few minutes later it'll
+return to me all the results. With this
+it can you can interact with it better
+and you can go back and forth and it can
+go to specific websites. You're not
+beholden to like the websites that Chat
+GPT wants to scrape. You can tell it
+exactly what to do. Yeah, absolutely.
+You can go it has full web search
+capability. It can create its own files.
+Something that I think that these agents
+do better than Chat GPT is they have
+persistent memory.
+And so every conversation you have
+builds on the last one. It's
+compounding. Chat GPT I mean it
+remembers some things about you, right?
+But like it doesn't always get that
+right.
+>> [laughter]
+>> Um and it sometimes gives you
+frustrating stale information based off
+the idea you had two ideas ago. Yeah.
+Yeah, the agents don't do that. They
+they remember current context on
+everything. And if you decide to kill a
+project or something, they know not to
+bring it back up. Yeah. Interesting.
+Yeah, so it's at its worst it's Chat GPT
+on steroids. At its best it's
+Chat GPT combined with vibe coding
+combined with a junior employee that
+never sleeps. With more ownership from
+you.
+>> Absolutely. More control and ownership.
+Yeah, you decide everything it does. I
+think the containerized aspect of this
+is is huge because I can make a project
+in Claude or Chat GPT. Like let's say I
+upload all the transcripts or all the
+newsletters I've ever written and say,
+"Hey, learn my voice.
+Now [clears throat] write a newsletter
+in my voice." Cool, but it's still going
+to be positively or negatively
+influenced by other things on the
+internet. It's not containerized. It
+will still hallucinate. It will still
+write like other people. It can't not.
+Yeah.
+>> But Exactly.
+>> if I could just put all that all of my
+writings in a vacuum or like my mom
+writes journals. If I could take all of
+her journals and put it in a vacuum and
+just ask it questions then it wouldn't
+be influenced by these outside factors.
+Yeah, and to take that one step further,
+what it can be influenced by is your
+conversations with it. Guys, I hate to
+break it to you, but you're not very
+likely to actually start a business
+based on something you see or hear on
+this podcast unless you spend a little
+more time with me and with other people
+that are doing just that. So come check
+out TK Owners. That's tkowners.com where
+hundreds of people are launching,
+starting, testing, experimenting with
+business ideas that they heard from this
+podcast. If you want to go fast, go
+alone. If you want to go far, go
+together. Check out tkowners.com. We'd
+love to have you. So not only is it
+getting your voice from your 500
+newsletter issues, but it's getting your
+voice from the 500 conversations you've
+had with it. So it's it's going to mix
+and match pieces of your conversation
+from pieces of your newsletter and put
+all of that together to make something
+that's actually yours. Yeah, that's
+incredible. I mean
+the original goal was to make 20,000 and
+you're you'll be there in like two
+months Yeah. if not less, but not in the
+way you expected. Not in the way I
+expected at all. I just think that's
+such a testament to like I typed in my
+notes in front of me in all caps with
+four ex- exclamation points. Post your
+crap. Like step one, do cool things.
+Step two, post about it. Yeah. I don't
+care. Like if you want serendipity, you
+want virality, you want magic, you want
+money, you want stories, you want
+experience, you want fulfillment, like
+post your crap. Like tell the world what
+you're doing. Just tell people what
+you're doing. Don't hide your candle
+under a basket. Tell the world.
+>> Exactly. Yeah, man. And I think that
+people get really stressed about view
+counts and likes and comments and all
+that stuff. I wanted a Tik Tok basically
+doing it for me. I was like, "I'm going
+to do cool stuff and I'm going to
+document it and if it only gets 200
+views, great. Like at least I'll have
+kind of a running public journal of what
+I'm working on. Yeah. And it blew up.
+So.
+Well, the thing about like 200 views for
+that video, like if that viral video
+only got 200 you'd still probably get a
+few customers from it. Yeah. Whereas
+with like almost any other video in any
+other niche on any platform, 200 views
+will bring you nothing. Cuz it's low
+intent, it's only a 30-second video, but
+this is so targeted. Those are 200
+people that want to pay someone money to
+do exactly what you're doing. So 200
+targeted views are better can be even
+more profitable than 2 million
+untargeted views or 2 million views of
+me just doing a dance in my living room,
+right?
+>> Yeah, absolutely. And
+one of the things that I like about Tik
+Tok specifically is
+follower count doesn't really matter
+anymore.
+I know that, you know, I think Gary V
+talks about it a lot. We've moved from
+social media to interest media, right?
+Like
+you can start a fresh Tik Tok account
+tomorrow and post something and it just
+hits the people that are into that thing
+right now. So Yeah. if you post a a
+video about pickles, you're going to let
+you get 200 people that like pickles,
+right? Like
+>> Yeah. And you used to have to have
+followers for that and you just don't
+anymore. Like that's it doesn't really
+matter. That's incredible. Now your
+costs on this, 600 a month for the
+servers, what else? Yeah, so 600 a month
+for the servers. The big cost that we
+have right now is about two grand a
+month for inference. So we pay tokens?
+Yeah. Basically all in tokens.
+Okay. So 2,500 a month basically is kind
+of our cogs.
+You cover their tokens. Is that going to
+stay the same? Cuz what if someone just
+goes nuts with it and runs up the bill?
+>> Yeah,
+that that's actually already happening.
+Somebody Yeah. recently spawned 125
+sub-agents in five days. Whoa.
+They burned 1.3
+million tokens in like 48 hours. Yeah,
+we're we're going to have to come to a
+place where
+there's a cap on the free tokens.
+Uh and then past that we'll do like a
+fallback model, something that's not as
+smart as the model that we're using or
+you can bring your own keys to your own
+Chat GPT or Claude or whatever and then
+use, you know, use that. Mm. Yeah,
+that's I like that. Give them both
+options. Yeah. What's next for this? Are
+there like upsell opportunities? You
+just want to keep growing this, keep
+posting about this?
+Yeah, I think that there are a lot of
+like upsell opportunities. The next big
+thing that I want to do is
+do the same sort of thing but for people
+who are specifically interested in
+trying to make this a business. We have
+a lot of people now that like do art
+with theirs or it's their you know
+de facto therapist or all these things.
+But I think that there's actually a real
+market for people who want to turn this
+into a real AI employee.
+>> [snorts]
+>> Mhm. And that's what I want to do next.
+And I think that'll be
+kind of a small group that can
+be a kind of a cohort kind of thing so
+we can all learn from each other
+together. Yeah. That's amazing. I my
+brain has been sufficiently blown.
+I keep wanting to call you Ron, but the
+first two letters are the same. Thank
+you, Robbie.
+>> And I actually made a coupon code for
+you. So if you sign up with the coupon
+Chris,
+you'll get 10 bucks off your first
+month. There you go. Beautiful. All
+right, Robbie. Well, thanks for your
+time. Yeah, thanks so much. I appreciate
+it. All right, what did you think?
+Please share it with a friend and we'll
+see you next time on the Creative
+Office.

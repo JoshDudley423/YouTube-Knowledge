@@ -1,0 +1,975 @@
+I launched this about 30 to 45 days ago.
+It's made over $3,000 just passively as
+a digital product.
+>> Are you a technical person by default?
+>> I would consider myself non-technical. I
+don't come from a technical background.
+So, here's the Stripe dashboard, over
+three grand just from this Claude Code
+Skill Stack.
+>> You took what you were already spending
+your time on and you monetized
+>> Correct. Exactly. Most people are still
+using ChatGPT, Claude, or Gemini. I
+would highly encourage people to try
+Claude Code or Codex. It's not scary.
+It's not technical like it sounds. All
+you have to do to do this is literally
+just pull up the Claude app on your
+phone, voice transcribe, brain dump all
+of your thoughts onto this, just say
+"Use the skill creator skill" at the
+end.
+>> And whether you're a gardener, a
+marketer, or you work in nonprofits,
+like the nothing is exempt from selling
+your knowledge through skills. Oh man,
+my brain is just buzzing with ideas
+here. No one is exempt from this. Like
+my 10-year-old could create a skill.
+It's kind of laughable how everyone
+always talks about the Apple App Store
+as if that's where all the money's made,
+but it's not. There's millions of apps.
+It's crowded. What about the Shopify App
+Store? Chrome Extension Store? WordPress
+plugins? Zoom apps? Notion templates?
+HubSpot Marketplace? On and on and on.
+What about Claude skills? Well, my guest
+today has made a living from building
+and selling Claude skills. How does he
+get all this information to make a
+Claude skill out of? He just makes a
+voice note about something he knows, and
+then with one prompt he turns it into a
+skill and sells it. Thousands of
+dollars. And yes, if you can use
+ChatGPT, you are technical enough to
+build a Claude skill. AI is the wild
+wild west, baby. And if you don't have
+the technical chops to build an app like
+I don't, then build and sell some Claude
+skills because it is ripe for the
+picking right now. Please enjoy. Okay.
+Ryan, well, why don't you start by
+telling us who you are and what you do?
+Yeah, so I'm Ryan Dozer, AI marketer,
+entrepreneur. I run a six-figure
+marketing agency by myself.
+>> Okay, so how did you find your first
+client back in 2019?
+>> Yeah, he was a family friend. So, he
+actually worked at the Iowa PGA in the
+golf business of all things and he
+started doing his own thing on the side
+and then it kind of worked as it came
+back around that he wanted to pick me up
+as the first client and then it just
+kind of trickled from there.
+>> And what service did you perform for him
+and what did you charge?
+>> Yeah, SEO and content marketing
+services. So, it's about 10 grand a
+month, little more.
+>> Oh, wow. Okay. So, you're helping him
+rank higher, helping his website rank
+higher partially through fresh content,
+partially through other best practices.
+>> Yep, content updates, fresh content,
+news articles that tend to do very well
+in this niche and several other tactics.
+>> Okay, so when did you first start
+playing around with AI?
+>> Yeah, so this would have been 2021, uh
+Jasper AI, formerly known as Jarvis AI.
+They were actually using GPT-2 under the
+hood and I had no idea how this stuff
+worked at the time. Lo and behold, Chat
+GPT comes around November of 2022 and
+that was kind of my lightbulb moment.
+>> you want to be a competitive marketer,
+you have to adapt this and use this in
+your day-to-day.
+>> Cuz Jasper, they were like on the
+cutting edge of GPT, right? Chat GPT.
+And you I mean, most people had to go
+through Jasper to write blog articles
+with Chat GPT, right?
+>> Yeah.
+>> And as far as I remember, Jasper grew
+like crazy because what they did was
+magical. Really, what OpenAI was doing
+was magical, but they put a front end,
+you know, user-friendly user interface
+on it that really only marketers like
+you and I even knew about or used,
+right?
+>> Yeah, now there's a million Jaspers and
+they were using GPT-2 at the time, which
+if we look back now, it's kind of
+laughable with GPT-5.5, but it was a
+revolutionary thing at the time.
+>> Yeah, it was. So, you were seeing
+results for your clients using using
+GPT-2?
+>> Yeah, I mean, back then, Google and all
+the other algorithms and whatnot, Bing,
+Google mostly, we didn't see really
+Claude or Chat GPT obviously come in the
+mix yet. They weren't too honed on AI
+content back then because it wasn't such
+a big thing in their in their algorithm
+and all their, you know, search rate or
+guidelines and all the policies like it
+is today, but now, I mean,
+mass-generated AI slop and like SEO
+content factories that we see everywhere
+on the internet, they are heavily
+penalizing that area.
+>> Okay. So, let's fast forward to today.
+Why don't you explain to us, like we're
+fifth graders, what a Claude skill is?
+>> Yeah, so a Claude skill is essentially
+an SOP or a standard operating procedure
+for AI. So, the best practices that I
+use in a marketing setup is I have one
+Claude skill per marketing task. So, I
+have an SEO blog post writer skill. I
+have an email newsletter writer skill. I
+also have a sales email skill. So, if
+you have different types of, I would
+say, subtasks, I'd recommend getting
+very granular in that skill versus just
+having a giant skill that covers a very
+broad topic. So, that's kind of a a high
+level of how I would define it.
+>> Okay, so let's like let's simplify it
+down even more. So, like a Claude skill
+is basically like a mini superpower that
+Claude uses to do more specific things
+for you.
+>> Exactly, or a recipe, if you want to tie
+it to a food analogy.
+>> Okay, okay, so like if I if I have a
+website about woodworking that needs
+more content about woodworking, then I
+can use a specific Claude skill that
+will make and upload content for me to
+my website about woodworking, right?
+>> Absolutely. And if we want to go
+granular, you can add MCP connections to
+WordPress. I'm going to show you an
+example of that later on.
+>> Okay, and explain for those that don't
+know, MCPs.
+>> Model context protocol. It's just
+another way to integrate one service
+with an AI coding agent like Claude code
+or codex.
+>> All right, so how did you first start
+getting interested in Claude skills? Cuz
+to me, I look at this as like the Chrome
+extension store, right? Or the iPhone
+app store. Like you've got the the big
+thing, the big behemoth, which is Apple
+and the iPhone, right? It's like, all
+right, what do we How do we make money
+from the iPhone? Or Open AI and
+Anthropic, how do we make money from
+Anthropic? But then fewer people are
+interested in let's go like three levels
+deeper. How do we make money from the
+the a Chrome extension store, right? Uh
+how do we make money from a Claude
+skill? And there might be thousands and
+eventually millions of Claude skills or
+apps. I think you could you could even
+call it like a Claude app, right? But
+how do we find the edge there? Is that
+Is that kind of what you were thinking?
+>> Yeah, absolutely. So, first of all, I
+like to look at Claude skills as kind of
+an updated version of a GPT or a project
+for those who were using that iteration
+of AI. And I actually have a Claude code
+skill stack. You mentioned making money
+from this. I launched this about 30 to
+45 days ago, somewhere in that ballpark.
+It's made over $3,000 just passively as
+a digital product. There are tons of
+ways to make money from Claude skills.
+You could package your skills and sell
+it as a digital product. You could go
+into an individual skill level and maybe
+do consulting on like SEO and then use
+your Claude skill on SEO to help with
+someone consulting in that field and
+probably several others I'm not thinking
+of right on the spot here.
+>> Yeah, so maybe even like a the Chrome
+extension store isn't granular enough.
+Like when I think Chrome extension, I
+think of like AdBlocker Plus, right? But
+then if we want to get even more niche,
+I'm thinking of a time when I wanted to
+make a Google Sheet that would update my
+crypto portfolio in real time. So, I had
+to pay like four bucks to some random
+Google Sheet extension that would, you
+know, update crypto prices in real time
+and then I could just divide that price
+by how much crypto I owned, right? So,
+it sounds like you're building tiny
+little tools like that on top of Claude
+and either selling them individually or
+packaging them up and selling them to
+probably power users of Claude. Like not
+people that are casually prompting, not
+even so much people that are using
+Claude projects, but people that are
+going uh one level deeper than that,
+right?
+>> Yeah, and I'm not just selling these as
+a digital product, Chris. I'm actually
+using these in my day-to-day work.
+That's led to higher-quality work for my
+clients. It's led to more efficiency
+gains throughout the week. So, it's more
+of an internal system, too.
+>> Okay. Okay. Do you start with that?
+Like, you build them for yourself, and
+you're saying like, "I'm a I'm an
+audience of one. This solves a problem
+for me. It'll probably solve a problem
+for others."
+>> Yeah, and if you're already using GPTs
+or projects, you can repurpose those
+into actual Claude skills. And the best
+part about this, there's really two
+parts that made the big unlock for me
+here, is that they update in real time.
+So, every time you're using a Claude
+skill, and let's say you're writing an
+article, and something's off. Well, you
+tell it to make changes, and right there
+on the spot, it updates that skill where
+it will never make those mistakes again.
+And then we can really get into the
+weeds here of something like Karpathy's
+auto research, where you can have an
+automatic skill updating system, where
+you don't have to take that extra step
+and say, "Update the skill." It'll just
+automatically update the skill for you
+in the background.
+>> So, okay, I didn't even realize that you
+can basically take your own personal
+Claude project and convert it to a
+skill.
+>> Yeah.
+>> So, what you're saying with this
+Karpathy project, which for those
+listening, is it Andre Karpathy? He's
+like one of the bleeding pioneers on the
+cutting edge of AI.
+>> Yeah.
+>> You're saying that instead of like
+manually pushing updates to the skill
+based on new context that you're giving
+your project, you can keep it auto
+updated.
+>> Yeah, absolutely. And these are
+transferable, Chris. So, let's say
+Claude code were to go away tomorrow,
+and Codex is the hot thing, or Gemini,
+you can transfer these skills over to
+the next AI coding agent in your
+existing setup, versus copying and
+pasting a GPT, going to a Claude
+project, all right? I used to do that
+before I was using skills, and it was
+super tedious. Hey, YouTube's fine, but
+what about when you're driving around?
+What about when you're mowing the lawn?
+You need my audio podcast, The Kerner
+Office. Just look up TKO Pod in Apple,
+Spotify, or wherever you get your
+podcasts. Okay, so I'm going to do
+something that I didn't plan on doing.
+Let's play a little game. I'm going to
+open the kimono a little bit and put you
+on the spot and I'm I'm a Claude power
+user, but like these chats you see here
+on the left, I got to make sure there's
+nothing nothing embarrassing. Like half
+of these are from this morning and it's
+2:00 p.m., right? And within each one
+there's like many, many prompts. Like I
+am a Claude power user.
+>> Yeah.
+>> Right here I have some of my projects.
+Let's do this real quick. I'm going to
+explain to you what my thought process
+is with these projects and then I would
+love if you could tell me like how I
+might be able to convert one or more of
+these to a skill and make money from it.
+Skill.
+>> Absolutely. Let's do it.
+>> All right, so first one I use the most,
+Kerner Yard. It is springtime. I spend,
+I'm not exaggerating, six days a week
+one to seven hours in the yard every
+day. I love it. It's my happy place.
+>> Yeah.
+>> So I'm constantly asking like, why this
+fertilizer for this for this Bermuda?
+Why this, you know, herbicide for this
+crabgrass? Is my crabgrass dying? What's
+up with my magnolia tree? Like I'm just
+pestering it all day.
+>> Yeah.
+>> And there's a lot of context in there.
+YouTube video outlines, right? Here's a
+transcript from an episode, in this case
+me and you. How should I order this?
+Like what's the best part to front load?
+What should the intro be, etc. MHP
+stuff. This helps I train this with tens
+of thousands of words of my own advice,
+my own Q&A about the RV and mobile home
+parks investing space. YouTube intros. I
+use this specifically for saying here's
+a transcript to a raw interview, what
+should my intro be? For this one, I
+upload all of my podcast growth data,
+retention data, click-through rates and
+say like, what's going on? How can I
+improve my podcast? This one, what
+should I cut for my YouTube videos? This
+one, I don't even know what it is. This
+one, you know, how to write like me, how
+to write better emails. This one was
+only for a conference that I spoke out
+for orthodontists. This one is how to
+make YouTube videos about GoHighLevel.
+This one is how to optimize my short and
+Austin is my employee that works on
+that. This one is how to script solo
+YouTube videos and this is just the
+example of a Claude project. So, what's
+coming to mind as you see these?
+>> Yeah, absolutely. So, first of all, if
+we look at the YouTube ones in
+particular, what you can do is
+Anthropic. They actually have a bunch of
+free skills that you can install on
+their GitHub repository. So, what I
+would do is I would install the skill
+creator skill. It's already built with
+best practices in mind on how to
+properly create a Claude skill versus
+just saying, "Hey, create a skill." And
+expecting this like perfect output,
+right? So, you want to have that first.
+>> I know how to write code and even that
+I'm very bad at. So, if I were to use
+the skill creator, would I do it within
+my project?
+>> exactly. So, yep. Let's just do it.
+Let's say we're going to create a skill
+called better YouTube intros,
+>> Yep.
+>> okay? So, I'm going to go in this
+project, go to skills, skill creator.
+Now, what?
+>> I would voice dump this. Just that's
+what I naturally do, but I would say
+something like, "Use the skill creator
+skill to transform or repurpose this
+project into a into a skill markdown
+file, but make sure you keep the
+instructions, the memory, you look at my
+recent chat history, and then come up
+with a skill markdown file or or
+something along those lines that I as I
+would refine it."
+>> Done.
+>> Yeah, it it should create a skill
+markdown file that you can then not only
+use within the Claude web app, but you
+can download that and then transfer it
+into whatever other system that you want
+to use.
+>> Okay, so it's just it's going to
+reformat this in a more friendly way to
+to give back to Claude.
+>> Correct.
+>> Okay. All right, so then it's going to
+give me this package file, whatever.
+Then what I do with it?
+>> Yeah, well, for internal work, this is
+going to make your life much more
+efficient versus copying and pasting
+from a project all day and going back
+and forth and switching between tabs.
+Or, if you want to make this an opt-in
+guide potentially, or you could sell
+this for those who are interested in the
+YouTube content creation side of what
+you do, you could take five skills just
+like this that you do for your YouTube
+channel, package that into a Chris
+Corner Claude Code skill stack, and then
+sell that as a digital product.
+>> What would something like that sell for?
+>> I sell mine for $99, but there's about
+20 to 25 skills in there.
+>> I meant to ask you this earlier. The The
+80/20 rule exists everywhere. Of your 25
+skills, what which are the ones, you
+know, the one to three that everyone's
+using?
+>> Yeah, the SEO blog post writer. That
+basically takes a YouTube video, and in
+one prompt on Claude Code, turns it into
+an SEO optimized blog post that actually
+ranks with proven data. YouTube
+thumbnail designer, I would say is a
+very popular one lately as I added the
+GPT image 2 model into the mix now. And
+then I'd also say my anti-slop skill. It
+just has those anti-slopification marks,
+right? That not this if that, delve,
+robust, all those slop words that you
+see everywhere.
+>> The not this if that, dude, that is
+everywhere.
+>> Yeah.
+>> So, for someone like me who has almost
+300 long-form YouTube videos, there's no
+good reason why I shouldn't buy your
+skill package and convert all those to
+blog posts so I can get organic free
+traffic to my website.
+>> Absolutely. And of course, you want to
+repurpose it into your own style. And
+that's what I always tell people. If
+you're downloading a free skill, you
+don't just want to plug and play, you
+want to give it your context, your
+instructions, your style guides, etc.,
+so it creates the outputs that are
+relevant to you, not Ryan Dawsy.
+>> Mhm. Okay.
+All right, so here's the our
+I'm just now realizing the .md is
+markdown, I'm assuming. Okay, cool. So,
+what do I do from here?
+>> So, you see that little copy button,
+that little download button to the right
+of it? You can download that, put it on
+your desktop, you can insert it into any
+other system, or you can use this skill
+inside your existing Claude setup on the
+web app if you want to do that.
+>> Mhm. Okay. So, basically, it would take
+everything all the context it knows from
+this project and it would add it to the
+drop-down in Claude. So, if I want to
+reference all that context in a prompt,
+I just hit the drop-down, choose the
+skill.
+>> It should later in terms of the skills,
+or if not, take the markdown file and
+upload that to knowledge in your
+project.
+>> take it to chat or Grok or Gemini or
+whatever.
+>> Yep.
+>> Man, okay. So, that's really cool. That
+means I don't have to like hop between a
+bunch of projects. I could just stay in
+one chat window and
+>> Yep.
+>> That's really cool. So,
+you sell this for 99 bucks. Are you able
+to sell it like through uh Claude's, you
+know, library, or do you have to sell it
+on your own website or whatever?
+>> My own distribution. Yeah, if you want
+me to share my screen, I can definitely
+kind of show you how I'm doing this.
+>> Let's do it.
+>> So, this is the Claude code skill stack.
+I used uh my own web designer skill to
+build this. And so, essentially, what I
+did is I have the actual digital product
+right here on my website where it talks
+about my Claude MD, some tips and
+tricks, and then it has the actual
+download links to download those
+markdown files on your device. So,
+there's a ton of stuff on here. But
+essentially, what I did is I took this
+digital product once it was done, I gave
+it to Claude code, and I used my web
+designer skill that I have right here,
+and then the web designer skill knew my
+ryandozer.com branding, it knew my
+style, it knew my tone, my logo, etc.
+And then it vibe coded or developed this
+landing page right here. But the next
+step was I needed to create a Stripe
+payment pro- or Stripe product. So, then
+I gave it my Stripe payment link, boom,
+into Claude code, and in about 15-20
+minutes, this Claude code skill stack
+was complete, right? You have the social
+proof and FAQs and all the things that
+go into a converting landing page and
+whatnot. But that in a nutshell, Chris,
+is kind of how I built this. I started
+this a couple months ago, and it's
+already gaining significant traffic
+across Google search and LLMs. And so,
+how I'm monetizing this site is that
+when people come here, boom, the
+floating pop-up comes around. I have it
+inside my actual blog post. I have it as
+CTAs in several of my emails and email
+newsletters and drip sequence emails.
+So, it's kind of just like a a soft sell
+CTA right now. That's kind of how I'm
+doing this. I'm not hard pushing it by
+any means.
+>> So, you're Are you a a technical person
+by default?
+>> I would consider myself non-technical. I
+don't come from a technical background.
+>> Okay. You're a marketer. Like many of
+us. And that's not a pejorative. I'm a
+marketer. Okay. So, you are you're kind
+of dog fooding this. Like you're you're
+using your own product to sell your own
+product. You're using your own skills to
+create content on your website to create
+like this flywheel effect that bring
+people to your website to sell the same
+skills that built the website.
+>> Exactly.
+>> Yes, that's partly accurate.
+>> Beautiful. Now, when they buy your skill
+package, is that just a bunch of MD
+markdown files that they can then upload
+to Claude Gemini chat whatever?
+>> They get this exact page right here. And
+then they can take the actual files,
+download them, upload it, repurpose it
+with their context, and use it how they
+please.
+>> Okay. What other opportunities do you
+see specifically in the skills space for
+Claude or for other
+LLM's that you think people should
+attack?
+>> Yeah, I mean they could obviously
+package it and copy what I'm doing and
+use their own context because the real
+power here, Chris, is that I have
+subject matter expertise and you do too
+and a lot of marketing skills, right?
+So, that's
+>> Everyone has expertise in something.
+>> Right. So, like use your subject matter
+expertise. It doesn't have to be a
+marketing skill. It could be a skill for
+I don't know. What's What's something
+that someone's knowledgeable in? Maybe
+trading baseball cards or you know,
+trading Pokémon cards. Maybe package
+your years of experience in that
+particular industry, throw it into a
+skill markdown file, and then someone
+can take that and then basically use
+that as their thought partner. If
+they're trying to to out, hey, should I
+buy this card? Or maybe it's an
+investing skill. Hey, should I invest in
+this stock, right? You're taking your
+expertise and then putting it into one
+file so that someone can use.
+>> Oh, man. My brain is just buzzing with
+with ideas here. Like, no one is exempt
+from this. Like, my 10-year-old could
+create a skill for like, how to most
+efficiently put LEGOs together.
+>> Yeah.
+>> You know, I mean, and the thing is,
+Chris, too, all you have to do to do
+this is literally just pull up the
+Claude app on your phone, voice
+transcribe, brain dump all of your
+thoughts onto this, and just say, use it
+in the correct format, and boom, you
+have a skill.
+>> Now, what is the difference between a
+Anthropic skill and an artifact?
+>> So, an artifact is just kind of a visual
+element that Claude creates. A skill
+markdown file is just a recipe for an AI
+agent to follow for a particular task.
+But, you can also create markdown files
+for other things, right? So, after this
+podcast is over, I'm going to take the
+transcript, save it as a markdown file,
+upload it into my Claude code system as
+context, but I'm going to save that as a
+markdown file. And what I've learned
+about this, Chris, is that AI agents or
+models right now, there are particular
+types of files that they just find
+easier to read, with markdown being one
+of them. HTML being another form that
+they really like to transcribe and
+process. Versus if you try to give it a
+PDF, they struggle with PDFs more than
+they do markdown.
+>> I want you to do something right now.
+Open your bank statement and add up
+every single software subscription that
+you're paying for. Your CRM, your email
+marketing tool, text message platform,
+calendar booking app, funnel builder,
+review management, even a separate form
+builder, or automation tool. I've talked
+to business owners paying $500 to $3,000
+a month across eight or 10 different
+tools, and half of them don't even talk
+to each other. So, then they go pay for
+Zapier on top of that just to make
+things connect. HighLevel replaces all
+of it. CRM, email, SMS, funnels,
+websites, calendars, automations,
+reputation management, invoicing, one
+login, one dashboard, one bill, starting
+at 97 bucks a month. A guy in my
+community was paying 347 just for
+ClickFunnels, 99 for Mailchimp, 25 for
+Calendly, 79 for review tool, and 49
+bucks for Zapier just to glue it all
+together. That's 600 a month if you're
+not counting. He moved everything to
+HighLevel and cut his software costs by
+over 80%. But the best part isn't even
+the savings, it's that everything just
+works together natively. A lead fills
+out a form on your funnel, that creates
+a contact in your CRM, which triggers a
+text and email sequence, books an
+appointment on your calendar, and then
+asks for review when the job's done. One
+workflow, zero duct tape, and then you
+can white label the whole platform to
+resell it to other businesses as your
+own software. Charge them 2 to 500 bucks
+a month. Check out
+gohighlevel.com/tkopod.
+They'll give you a 30-day free trial to
+see what I mean. So, I know this is
+maybe impossible to answer, but let's
+say you have a 10 MB PDF with thousands
+of words on it. To give that same amount
+of context to AI, what percentage less
+context would it be? Like, how much more
+efficient is that if if you were to put
+the same amount of content in a markdown
+file?
+>> Way more efficient. I can't give you an
+exact percent or a text file, {dot}txt.
+One of those two would be much better
+off than just blowing it into a PDF cuz
+it's going to miss things when it's
+trying to read PDFs.
+>> Mhm. Okay. So, you're basically
+translating it to its own language with
+a markdown
+>> Correct.
+>> it more accurate and more efficient.
+>> Correct. They just understand markdown
+better.
+>> Okay. Man. Okay, so just to recap, you
+made $3,000,
+basically all profit, right? Like, this
+is just your time?
+>> Yeah, and then here's the
+>> With 3% Stripe fees?
+>> Yeah, so here's the Stripe dashboard.
+This one actually came as like a
+consulting upsell. Some guy wanted my
+skills and was like so impressed by one
+of them and I was like, "All right, man,
+a thousand dollars for an hour?" And
+boom, he just paid me right there on the
+spot for it. But yeah, over three grand,
+and I could go back into the other ones
+here, but over three grand probably
+total uh just from this Stripe Cloud
+Code skill stack.
+>> Yeah, and the skill stack you created
+just from your own usage. Like you just
+you took what you were already spending
+your time on and you monetize
+>> Correct. Exactly.
+>> And whether you're a gardener or a
+marketer or you work in nonprofits, like
+nothing is exempt from selling your
+knowledge through skills.
+>> No. And you know, if we want to go back
+to the SEO space, I can show you one of
+these skills in action if you're curious
+to watch me go through that.
+>> Yeah, let's do it.
+>> So this workflow here, like I mentioned,
+this repurposes YouTube videos on my
+channel into SEO optimized blog posts
+that look like this, right? And so just
+the proof is in the pudding here. I did
+a quick search before we came on. If you
+pull up a private incognito window and
+like in this example, you search for
+Blatant Auto, one of my favorite AI
+marketing tools owned by Sabrina
+Romanov. I was in the actual AI
+overview. I'm not there anymore,
+unfortunately. There's my video here,
+but there's the YouTube video right
+there and then boom, there's the blog
+post right under Reddit, right?
+>> So which is made from the same YouTube
+video?
+>> Exactly. So you're trying to essentially
+dominate the SERPs and LLM results with
+this strategy. And so that's just for
+example here. And if we go back to the
+actual workflow, all I'm doing here is
+I'm simply coming in here, copying my
+YouTube video URL. Let's pull up Claude
+Code and I'm using the Claude Code
+extension within Visual Studio Code and
+then I use my SEO blog post writer
+skill. So I have a skill that's
+dedicated just from repurposing YouTube
+videos into SEO optimized blog posts.
+And there's a lot of stuff on here,
+right? You know, there's internal
+linking, external linking. I'm giving it
+XML site maps and word structures and
+all sorts of fun SEO jargon. But
+essentially what I'm doing here, and
+this is the chat that I did, is I'm
+giving it my YouTube video URL. I'm
+saying use my SEO blog post writer skill
+so Claude Code knows to call that skill.
+And then I'm giving it some context,
+right? This is just my SEO search brain
+working here. I want it to actually rank
+for a particular keyword. And then I
+just threw it in and it gave some
+secondary keywords, and then I took the
+actual video links in my YouTube
+description, plugged it in there, so it
+knows exactly what to externally link.
+And then I I always like to do this at
+the end of my skills. This is just
+something I like to do. Triple-check the
+SEO blog post writer instructions when
+doing this task because sometimes, like
+you know, Chris, AI can hallucinate. So,
+if you throw in something in like triple
+or double-check something, there's going
+to be a less chance of it hallucinating.
+So, that's kind of the prompt right
+there. And if we go back to my website,
+I'm going to show you the actual article
+that this created. I did this the other
+day. This was a recent YouTube video
+called the best AI marketing tools in
+2026. That's all it did from that one
+prompt. I didn't do anything else
+besides that. And I can keep scrolling
+through here, but like this is a
+high-quality article written from Opus
+4.7. There's no way, Chris, and it has
+my author bio and FAQs. There's no way
+you could objectively go through this
+for the first time and just say that's
+AI slop, right? And it's automatically
+ranking. And it's And some of these are
+already starting to rank over time. I
+just need more backlinks, more
+authority. This is a brand new site
+where I'm just testing out random AI
+systems just like I'm explaining to you
+right now.
+>> Oh, man.
+There's a lot going on there. That's
+very impressive.
+>> And And I'm just starting, Chris. Like,
+you know what I mean? Like, you'll see
+here the results so far. I mean, it's
+not crazy. A lot of people don't even
+get this traffic on high-level
+authoritative sites because they don't
+know what type of content to create,
+what keywords to go after. And so, there
+again comes the value of a skill like
+this. Now I have a repeatable system
+that I can do this for every single
+YouTube video that I put out, which I
+do. Every single video I turn into a
+blog post in about a two-sentence prompt
+within Claude code.
+>> Okay. This is impressive. What didn't I
+ask you? What should I have asked you
+about everything you're doing that's
+just awesome that I we might have
+missed?
+>> There's all sorts of other AI marketing
+hacks that you can do. You know, you can
+scrape LinkedIn profiles. So, like you
+can use Appify and create a skill for
+that and and get LinkedIn profile data
+is another AI marketing hack I was going
+to share with you. So, essentially I
+looked at your profile, had a LinkedIn
+profile scraper skill, used this paired
+with Appify with a free actor, dumped it
+into an Google sheet or a CSV that I
+uploaded, and then boom, I had it
+formatted like this. These are your
+last, I think, 60 or 50 posts where it
+came in here, provided an engagement
+score, provide the post URL. And then so
+that way you can use this going forward
+and saying, "What were my hooks like?
+Which post popped off? Was it image? Was
+it articles? Was it text?" This just
+provides more direction from a LinkedIn
+or social media content strategy
+standpoint. So, that's one other example
+I was going to share.
+>> I mean, that's super helpful.
+>> Yeah. The other thing I was going to
+share is that a I actually vibe coded my
+own AI marketing OS or operating system.
+And so this just has kind of my
+day-to-day tasks. So, I have a countdown
+timer to when my child's going to be
+born, right? Just random stuff like
+this. With this actually this is this is
+a cool thing I wanted to show you. This
+actually syncs up to my Google calendar,
+right? So, see I have the Chris Corner
+podcast today and all these other things
+going on. Same with social media. I have
+a social media tab here. So, this
+actually reflects today and the past
+days of what my social media calendar
+looks like. So, if I click into this,
+it's telling me YouTube shorts, TikTok,
+Instagram Reels, Threads, LinkedIn X.
+But, of course, you know this too,
+captions are different for YouTube
+shorts, Instagram, TikTok than they are
+for Twitter or X or LinkedIn. And then I
+also have the actual Google Drive media
+file
+that it points to right there. So, I can
+see all of this from one dashboard
+versus going into a social media
+scheduler or manually going through, you
+know, each platform and trying to figure
+it out that way. But, I guess that's
+another real-world situation here of
+just kind of vibe coding your own
+marketing OS, social media, YouTube,
+client work, community, SEO pipeline,
+all the day-to-day stuff that we have
+going on. And what's really cool about
+this, Chris, to go another layer here,
+is I have it connected to Blatato, which
+is my social media platform connected
+via MCP. So, I can schedule all of this
+right inside the Claude Code interface
+on my social platforms without ever
+having to leave this interface ever
+again. This is why I'm so optimistic
+about whether it's Claude Code or Codex.
+I never have to leave this interface and
+can just do everything right from this
+screen.
+>> Yeah, I mean, you you you said it best.
+It's your own personal operating system.
+>> Yeah. So, that was kind of what I was
+going to plan on sharing here. If you
+had any other questions, thoughts,
+comments, anything else you want me to
+cover, but those were just a a few
+little AI marketing hacks I like to
+share.
+>> No, I mean, you just packed like 3 hours
+of value into 30 minutes. So, I'm just
+like trying to like take a breath for a
+minute.
+>> Yeah.
+>> It's really good. That was really good.
+I don't even know where to begin. Like,
+there's so many things that I could use
+here. I'm I'm optimistic there will be a
+lot of takeaways for the viewer here. If
+you could like If you could leave people
+with one hack, one tip, whether it's
+about prompting or whatever to that
+would be applicable to the most amount
+of people with how to use AI, what would
+it be?
+>> Yeah, I would say that most people are
+still using ChatGPT, Claude, or Gemini.
+It would kind of be back to what we said
+earlier is I would venture away from the
+GPTs projects, the copy-paste system,
+and start to create some skills as step
+one. And then once you have those
+skills, I would highly encourage people
+to try Claude Code or Codex. It's not
+scary. It's not technical like it
+sounds. And then just start to learn
+that day in day out. Figure out what are
+my tasks that I'm doing every day in
+Claude, ChatGPT, Gemini. How can I
+transfer those tasks and start using
+Claude Code or Codex? They're probably
+my top two.
+>> Okay. Ryan, this was amazing. Where
+Where can we find you?
+>> Yeah, so Ryan Dozer on YouTube,
+ryandozer.com if you want to follow my
+little SEO project. Um and then I'd say
+my community probably AI Marketing
+Insiders. Shoot me a message on LinkedIn
+at Ryan Dozer. Happy to help anyone out.
+>> Okay, thank you.
+>> Awesome. Thanks, Chris.
+>> Listen, I need more people like this to
+interview on my podcast. So if you know
+of someone with a side hustle or a
+business that's unique and cool and
+super profitable, email Molly, m o l l y
+at cofounders.com. That's one word,
+cofounders.com. Molly at cofounders.com.
+Tell her your story and we'll give you
+100 bucks if we end up interviewing
+them. Please share with a friend, hit a
+like or a comment below, and we'll see
+you next time on The Corner Office.

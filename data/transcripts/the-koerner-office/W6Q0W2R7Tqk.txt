@@ -1,0 +1,1025 @@
+Over the last two weeks, I've talked to
+30 entrepreneurs who are using AI in
+their business. Because of that, I now
+understand the use cases that they're
+using it for. Chat GPT as a general
+thought partner, Claude coding partner,
+Perplexity Research. Everyone I spoke to
+who actually uses these models, they
+were like, "It's as good as deep
+research and it's real time. Gemini
+workflows within the Google suite.
+There's a ton of good ideas, not a lot
+of good execution. Stay close to the
+money. Build something that people can
+use to directly make more money. That
+will have the highest likelihood of
+succeeding. the number one use case for
+it right now.
+You know what I love about Chad GBT? I
+just realized this and you might have
+had a different experience and it may
+change because incentives aren't
+aligned. It is not biased. Like if I ask
+it about Republicans or Democrats or the
+Mormon church or the Catholic Church or
+seed oils or health or carbs versus fats
+versus proteins, I really feel like it's
+unbiased. Like it is a superpower. So,
+here's one example. I saw this Instagram
+reel. And do you know what ghee is? G h
+e?
+No. It's like a a clarified butter. It's
+like a different version of butter that
+we've been using for hundreds of years.
+It's whole food. It's healthy. It's it's
+like an alternative to seed oils or
+canola oil or butter. So, I saw this
+stupid Instagram reel that was saying
+basically ghee is unhealthy actually and
+canola oil is healthier than ghee. And
+I'm like, "Oh my gosh, what are we
+doing?" Like there's so much info out
+there that like literally no one knows
+what to eat cuz you don't know who to
+believe because you don't know who has
+the incentive to say whatever. So I went
+to Chad GBT40 and I said, "Who paid for
+this study that says replacing ghee with
+canola oil is better?" So this is what I
+said. Who who paid for this? Right? And
+it's like great question. Here's the
+deal with most of those canola is better
+than ghee studies. Many are funded by
+big food or a companies. example studies
+in the past that have been backed by
+groups like the canola Council of
+Canada, American Heart Association or
+Unilever, like literally like Coke and
+Pepsi are funding the American Heart
+Association, right? So then they put out
+these studies that are like Coke is
+actually good for you. It's like but
+like ChatGpt has no bias because there's
+nothing to click. The incentive is
+there. Whereas if I Google the same
+thing, like the incentives are for me to
+click on stuff. So, I I still can't
+believe what I Google, right? As
+optimistic as I am, I don't think that
+Chad GPT will stay like this forever
+because money, right? But I love that
+it's like this for now. Have you had the
+same experience? I have, but a little
+bit different. So, I think it's pretty
+unbiased when I'm asking it semifactual
+questions, but I do think it's biased
+when I'm asking it for feedback. And
+this is either it's bias or I'm
+insecure. Because whenever I ask her for
+feedback on something that I'm doing or
+about me, I feel like it's it's overly
+praising me, if that makes sense. Where
+I'm like, "Hey, take a look at this post
+I wrote. What do you think?" This post
+is fire. Fire emoji, by the way, open.
+Can we cut the emojis? Like, what's
+happening? Why are there so many
+freaking emojis? I hate them. Anyways,
+this post is fire. And I'm like, how
+would you rate it? I would rate it a 9.5
+out of 10. And it's like, okay. And then
+I have to go back to like you're a
+neutral third party. Your job is you
+know content management everything it
+wants you to hear. Right. Right. Right.
+So to to me that's where I am seeing
+bias is like it says what it thinks that
+I want to hear and there are times where
+like I I want it to be totally unbiased
+and like give me an actual opinion of
+what it thinks of my business plan or
+this post or the argument that I'm
+making with my lawyer. You know what I
+mean? And so anyways, that that's the
+only piece that I would say I'm I do see
+it biased. It's funny cuz I'm I'm going
+to directly contradict myself and it's
+like it's not that it's unbiased, it's
+just biased in a different way. There
+there's always incentives. It's
+impossible to remove incentives.
+OpenAI's incentive is to keep us using
+Jad GBT, right? So it's like the bias is
+not clicked on this study. It's like
+make sure Nick never churns, right? We
+want to keep Nick happy, you know?
+Right. I have a custom GPT where in the
+GPT prompt, I'm like, you're a
+hard-nosed, nononsense content
+specialist. I need you to give me direct
+advice because bad advice is terrible. I
+I give an analogy about being on the
+warfield. Warfield, I'm so stupid. Being
+on the being on the battlefield and uh
+you know, field generals need to have
+not only real-time information, but
+accurate information to make good
+decisions, otherwise bad things happen.
+So like I give it that analogy of like
+this is why I need you to give me good
+good information because I need to make
+good decisions. And so that GPT is great
+because it gives me sort of unfiltered
+responses. But it's it's when I'm just
+like trying to ask it a generalized
+question that it's definitely biased.
+I'm kind of debating if I should say
+this part next part or not.
+Say it. Say it. I don't think I want to.
+I don't think I want to. Relationship
+advice. Have you like with your spouse?
+Have you used it for that? No. But like
+what do you use it for,
+dude? Like I'm going to say this. You
+and I have talked about we each have
+superpowers. When you have a
+superpower, you have to know when to use
+it and when not to use it. And you also
+have to recognize that you can use your
+superpower for evil. Mhm.
+To me, the reasoning that Chat TPT has,
+like, let's say you have an argument
+with your spouse and you're trying to
+get your way where it can help you frame
+an argument
+is is out of this world. And then it's a
+very unfair fight because you you're not
+citing to your wife chat GPT according
+to No, you're not doing No, you're not
+citing. You're like, well, that's an
+interesting point, honey, because I
+would think that you would want to do X,
+Y, and Z based on your pre, you know
+what I And she's like, "Well, that's a
+yeah, that's a really good point." And
+meanwhile, you're like looking down at
+your phone. You're like, "She said it
+was a good point. What do I do
+now? What? This has never happened. She
+said I'm smart. What's happening right
+now?" Dude, I have been very impressed
+with how Chad GPT has handled like
+relationship advice with my spouse. And
+I've I've never we've never seen like a
+marriage counselor or a therapist or
+really talked to anyone. Like we've got
+a good marriage, right? But I've just
+been asking it some things and it has
+been so helpful and it I feel like it's
+advice that like a very expensive very
+very good marriage counselor would give
+and it's literally made our marriage
+better and she has no
+idea. She has no idea. But it's the
+perfect use case for it. Right. And if
+you're like if you're trying to come at
+it from a genuine way and you're like
+look I'm going to try to give you all
+the facts that I can help me understand
+it. Then you're getting like this
+impartial third party and you're like,
+"Well, it's AI." So like if AI thinks
+I'm being a prick, yeah, I guess I am
+being a prick about that, right? Or vice
+versa. And it's it's pretty incredible
+with the way if you give it enough
+context, right? Because you and I might
+have a disagreement. I might give it all
+the context in the world and just be
+like, "Yeah, Nick, you're right." And
+then you might have the same
+disagreement. Put your It doesn't want
+Nick to churn. It doesn't want Chris to
+turn. Well, it doesn't want It doesn't
+want me to turn, but also I'm just
+giving it my context. Yeah. And then you
+do the same thing. Your side of the
+story, right? Like if you feed it biased
+info, it's going to give you biased
+info. Yeah. The trick is I would like to
+start using figuring out a way to use
+this for mediation
+in business disputes. I think would be
+really fascinating if everybody just had
+if everybody just had the the um
+which I ordered by the way. Oh, awesome.
+And it's like it's like, okay, upload
+all your Limitless data. Now, you'd have
+to have two parties who are like okay
+with everything being uploaded, but that
+in and of itself would be a tell, right?
+Where you're like, oh, this guy doesn't
+want it uploaded. What's going on? But
+it's like, all right, take all of the
+side of their story, answer all the
+information, cuz that's essentially what
+an arbitrator is doing anyways. Yeah,
+that's really good. You just create a a
+fresh chat GPT account, and the two
+people could sit side by side, say,
+"Here's my side of the story. Here's my
+side of the story." And then they both
+agree like what the prompt is, right?
+Okay. And it's it's neither one of their
+accounts. And you just hit enter and see
+what happens. Now, the hard part would
+probably be agreeing what the prompt is,
+right? Yeah. And just like any other
+mediation, the hard part would be
+actually agreeing on the output. Cuz
+even if we're in a mediation and it
+sides with you, I'm going to be like,
+"What?" Well, it didn't take stupid
+doesn't know what it's talking about.
+Yeah. But I do think if you're a
+mediator and your business is mediation
+for those types of businesses, your
+bottleneck is you. It's your time
+essentially because you're an agency and
+you can only bill as much as you can
+actually go out and meet with clients.
+If you could use chat tpt to build a
+rapper or to build a prompting system to
+get that information
+quicker so that you save an hour per
+mediation like then all of a sudden you
+can take on 20 more clients a month.
+Like you just you just grew your
+business in a way that's AI enabled.
+That would be a really really cool use
+case. That is cool. You and I talked
+about this idea, I don't know, a couple
+weeks ago where it's just like buy
+Limitless Pendant and give it to
+somebody almost like a lead magnet to
+get into their business and you're
+already doing this because you're
+recording everything at some point. The
+ability of these models to digest more
+data is going to happen. Mhm. So what's
+what becomes the limiting factor in how
+well these models will get to know you
+and be your own personal assistant? The
+limiting factor will be data.
+Compute power. Yeah. Or or the ability
+to process or you know what I mean? Or
+the ability because what's happening
+right now is it may have this massive
+data set but it's it's optimizing for
+speed and so it's only looking for
+certain whatever. At some point it's
+going to get way better and the only the
+limiting factor is going to be the
+amount of data that you have to input it
+into the system for it to then tailor
+itself to you. So I don't have a
+business model off of this. I just think
+using chat GBT, using a limitless
+pendant where you're recording every
+conversation that you have, this just
+creates more and more and more data so
+that when it's there, it's fed in and
+you're accelerated even faster. Yeah.
+Can we barbell this for a minute and go
+offline? Yeah. So, you see my tweet
+about the podcast Billboard? Yeah.
+Putting up. So, that's been a lot of
+fun. It won't go live for like two or
+three weeks, but I used AI to generate a
+bunch of phrases, right? So, you saw
+that I shared my screen. I put the
+podcast art on the left, kerner office
+in the middle, icons to YouTube,
+Spotify, Apple podcast, and then like a
+catchy slogan at the top. So, I had
+Simon make 34 of these. They all look
+the exact same except for the catchy
+slogan at the top is all different. Two
+to five words. Like, you only have so
+much time to read a billboard, right?
+And so the catchy slogans that I'm
+testing
+are your dream is dying. Sell stuff not
+ours. 9 to5s kill dreams. Own your time.
+Never job again. Jobs or jail. Delete
+LinkedIn. Work sucks. Escape the grind.
+Fire your boss. Still rat
+racing. And uh what was the last one?
+Oh, then there was best business
+podcast. and then quit your job with an
+exclamation point. And then there's a
+bunch of others, but I started Facebook
+ads that are all the exact same. It's
+just like the Kerner Office podcast.
+Title, text, description, they all say
+the same thing. The Kerner Office
+podcast, the audience, the four counties
+in and around where the billboard will
+be. And then I exclude anyone that's
+ever interacted with my content. So,
+they don't follow me. They've never seen
+my video. And they live in those
+counties because that's bias. the people
+driving by don't know who I am. Right.
+Right. Right. Right. And then I just run
+the ads on any meta platform, Meta
+thinks, Messenger, marketplace,
+Instagram, it chooses. And then I just
+look at the clicks. Lowest cost per
+click wins. And then I get because it's
+950 bucks to print that billboard. The
+image that I'm using on on the Facebook
+ad is literally a picture of the
+billboard with like trees in the
+background instead of just the image,
+you know? Mhm. And it's 18 plus, any
+gender in those counties that don't know
+who I am. What do you think? I think
+it's amazing. I have an idea for it as
+well. I know we're offline, but I'm
+going to take it back to AI. I used AI
+to generate most of those phrases. By
+the way, what I like to do with AI when
+I'm like creating a title for a video is
+I'll be like, generate me the 10 best
+titles and rank them. And then I'll like
+iterate from there. I would take all of
+your pictures and I would go to chatpt
+Grock, Claude, Gemini, four of them,
+upload them and say, "Rank these from
+what you think would be most to least
+effective. See what the four models spit
+out and then compare it to the actual
+results from Facebook ads." Yeah. Well,
+I'm just going to do it with the phrases
+because all the pictures are the same.
+Oh, okay. Yeah. Yeah. So, like I think
+that would be a really really cool case
+study of like, all right, I'm I'm trying
+it with real humans. This AI has been
+trained on the totality of human
+whatever experience. Which one of them
+wins? Or which how accurate is it?
+Because then in the future, if it's
+like, oh, they were they all said the
+same five and those were actually the
+five that won. It might save you time,
+you know, running Facebook ads in the
+future. Yeah, I like that. It's
+interesting. I I didn't exclude my
+audience at first and I started running
+the ads and the winning one was best
+business podcast and that surprised me
+and I was like I wonder if that's cuz
+like they recognize me, they see me,
+right? And I don't yet know. It's still
+too early, but it just made me think
+like how much power there is in
+marketing to call your thing the best. I
+had Greg Eisenberg on a couple weeks
+ago. His story was he was walking around
+Miami. He had just moved there. He walks
+by a dentist and he sees a sign on the
+window that says voted best dentist. By
+who? What? I don't know. I don't care.
+He walks in because he saw that sign,
+became a customer, been a customer for 8
+years, given them tens of thousands of
+dollars, referred 20 friends there
+because he saw the sign. So, his idea
+was like there needs to be some sort of
+like a marketplace where you could get
+like certified by whoever. It's a
+racket. It doesn't matter. You pay 200
+bucks, you get a sign. And so, it's like
+I just put up this billboard. Yeah, I
+think it's the best. My mom thinks it's
+the best. Whatever. Best business
+podcast according to Chris's mom fine
+print asterisk, right? It doesn't
+matter. So maybe people clicked that the
+most because they knew who I was and I'm
+going to find out that's actually bad
+data. Maybe not. Maybe it's the winner
+again and people just it's confirmation
+bias. They're like, "I believe you,
+internet stranger. I will now click and
+listen because you said it's the best."
+Hearing you talk about Greg Eisenberg
+makes me think of that meme that's like
+internet guy discovers rating agency.
+It's like these these these things
+exist, right? Like best business. Like
+you can to they're already businesses in
+and of themselves, but yeah, this cracks
+me up. Well, there needs to be like for
+SAS companies or for AI rappers like you
+could do a rating agency for any number
+of things, right? Yeah. I mean, that's
+what No BS crypto was when you were
+launching it, right? It's like, hey,
+this is a rating agency. I don't know.
+Looks like we made it. I just like that
+idea a lot because you're like you're
+currently competing. All of the tools,
+all of the advice if you go and look at,
+hey, how do I grow a podcast is do it on
+someone else's newsletter, go do paid
+ads, go to other podcast, brokers, go to
+other podcast, right? It's like, okay,
+well, everybody else is doing the same
+thing. They're all doing the same exact
+thing. Y and that we know that's a
+strategy. Zigg while everybody's
+zacking. Yeah. So, like either this is
+going to be a total waste of money and
+I'm prepared for that to happen because
+I don't see other podcast billboards
+probably for a reason or I'm going to
+unlock something really cool. Right.
+Right. Aren't you going to ask me how
+I'm going to track if I'm getting new
+balance from this? Nick, how are you
+going to track? Softball me here. Set me
+up. Chris, let me ask you a question.
+Like, I get it, but how do you freaking
+track that? It's on a billboard.
+Probably with like a QR code, right? No.
+QR codes are not allowed by Clear
+Channel, the company I'm using for this.
+Okay. Okay. So, Buzzrout is the hosting
+platform that we use. You can export
+your downloads by location by every
+little city. So, like when I export
+mine, there's like 8,500 cities that
+have listened to my podcast. Sometimes
+once, sometimes thousand times. Right
+now, what you don't know is how many
+unique listeners there are per city. You
+just know how many downloads. So, 25
+downloads could mean one person
+downloading your podcast, 25 episodes of
+it. Could mean 25 different people once
+each, right? You don't know. So what I
+did was I went to the bailboard will be
+in Tombball, Texas, which is a city of
+10,000 just north of Houston. I took
+Tombal, the Woodlands, Spring, all the
+cities and Houston itself in and around
+Tombball and I exported every city by
+download and then I found a percentage
+like a ratio. How many downloads have I
+had all time that were in Tombball and
+or Houston?
+0.012% of my downloads. And that's been
+consistent. And so I'm just going to run
+that export every week and see the raw
+number and the percentage as a ratio and
+see if it's climbing or not. Do you see
+any any fault in that? I do see a couple
+of faults like you don't necessarily
+know where it is as a percentage over
+time that as it's mapped. Well, I'm
+going to run the export every week cuz
+that's the really the only way with Buzz
+Sprout you can do it. The other problem
+would be it's just all attribution
+related, right? Like you're looking at
+this geography. Are did you capture the
+right cities? What I would do, this is
+just a suggestion, is I would ask chat
+TPT the best way to track this and the
+best way to analyze it. You can throw
+data into chat TPT and then like ask it
+to run a regression model and the
+regression model will tell you whether
+or
+not that's statistically significant or
+not. Cuz you could just have you could
+just blow up over the next month. Let's
+say you have like a couple episodes that
+are amazing and it's like everybody saw
+a bump, right? So of course Turnball
+would see a bump. It would be
+proportional in that sense. Right? In
+that instance I would have to look at
+the percentage not the the raw number.
+You have so many downloads. You have so
+much data that it would be easy to say
+with confidence whether or not it's
+statistically significant. And just I
+would just ask chatbt. No matter what I
+do it won't be exact. But no but I think
+it's amazing. It would be too
+coincidental if a disproportionate
+amount of people in that part of Houston
+suddenly started downloading my podcast.
+Right. Right. What I what I wish I knew
+is how many because you just don't know
+how many raw people it is, how many
+loyal listeners because there could be a
+hundred people that listen to 5 seconds
+of it once and then bounce and it could
+look really good but not actually be
+good. Why didn't you do the here's the
+website and then have like one
+letter off, right? I just don't want to
+mess with like URLs. I I kind of want to
+go more for brand awareness. That's why
+I put the image of the podcast and one
+of them has tkopod.com in it. I just
+want people to search for it. Another
+thing you can do is you can put up
+Facebook ads based on a latitude and
+longitude point of the exact billboard
+and it will show your ad to people that
+drive by that billboard. And so then you
+get double exposure, triple exposure,
+the billboard even more effective, but
+it will make it even harder to find the
+attribution because you're adding
+another variable. Right. At that point,
+it's like, "Okay, I'll spend $780 for a
+billboard and I'll run $1,000 worth of
+Facebook and, you know, Facebook ads.
+Who who cares about the attribution? I
+know it works." You know what I mean?
+Yeah. Cuz any Joe Schmo can run a
+Facebook ad, but you don't see a lot of
+billboards. It just adds another layer
+of legitimacy to it, right? Yeah. And
+that feeling of like, dude, I'm seeing
+this guy everywhere, right? I kind of
+had the thought like wouldn't it be
+interesting if one of us anyone ran a
+test where they took like a random city
+in the middle of nowhere like Sou Falls
+Iowa and they ran Facebook ads like
+saturated for your podcast your brand
+whatever just in that city and like you
+just became a freaking rockstar in that
+one city and you just put them
+everywhere Instagram ads Tik Tok ads
+everywhere only geoenced to that city
+and just I don't know go speak have an
+event there like it'd be an interesting
+experiment like no one else in the world
+knows who you are except for Sou Falls
+what if you went to chat GBT and you
+said I want you to run a
+contagion analysis or model only of
+cities less than a million people in the
+United States and tell me which city
+would have the highest likelihood of
+spreading this contagion the fastest. M.
+So it's like, you know, it's going to go
+look at De Mo. It's like, well, De Moine
+actually has the most connecting flights
+of any airport in the United States. So,
+I don't know, right? I'm just like, it's
+going to And then it's like, okay, cool.
+I'm going to go target Grand Junction,
+Colorado, cuz it says that of any city
+under a million people, that's the one
+that would have the like worst contagion
+and that's the city I'm going to go
+target. So, like Vegas, like a city
+Orlando where people are coming in and
+out of all the time, right? Like New
+York City has 20 million people anyway,
+right? People are coming in and out, but
+proportionally speaking, there's just a
+lot of people there. But for New York
+City, it's like you're or LA or San
+Francisco, there's just a lot of
+competitors. So standing out is going to
+be hard generally speaking, right? But a
+smaller market like Orlando, I don't
+know, you probably have a better chance
+of standing out. That'd be a cool idea.
+So video is cool, but you know what's
+better? long form audio via podcast and
+my newsletter.
+tkopod.com. Go there to subscribe for
+free to my newsletter. It's one email a
+week, very tactical. And then go to my
+audio podcast. Three episodes a week,
+stuff like this. You're going to love
+it. All free. No sleazy sales pitch.
+tkopod.com. So over the last two weeks,
+I've talked to 30
+entrepreneurs who are using AI in their
+business because I feel like you and I
+have talked about this. There's a ton of
+good ideas, not a lot of good execution.
+like Replet. How many things have you
+made on Replet that you haven't actually
+finished? Seven. So, it's like, "Oh,
+this is cool. I can build an app. This
+is great." And then you get to the final
+point, you're like, "Uh, how do I
+actually complete it?" It's like,
+"That's that last 10%." So, I've been
+having conversations with people. And
+it's been awesome. I've learned so much.
+Like, my my brain hurts every single day
+because I'm learning so much. But, there
+are some really cool insights that I've
+gotten out of this. So, I'm going to
+share some of my findings with you
+because I had chatbt take all my
+findings and put them into summary for
+me. Question number one, Chris, what do
+you think is the most popular LLM for
+people to use as their primary LLM?
+CHBT. It is. What do you think is the
+most popular use case? Like, what are
+they using chatbt for? Writing emails
+like rewarding emails. Mainly they're
+using it as a thought partner. So it
+could be rewriting emails generally not
+that it's usually like hey this is I
+have an idea for this how would I do X Y
+and Z thing and it's like just to get
+them started which was fascinating to
+me. Second most used LLM. What do you
+think it is? Gemini. No. Grock. Nope.
+Perplexity. Nope. Claude. Claude. Dang
+it. Claude. And the surprising thing
+about Claude is it's actually used more
+in aggregate because I asked them two
+questions like what's the primary like
+what's your primary favorite? And then
+what are the other LLMs you use? And I
+mapped it all out. Claude is actually
+used more by more people than Chat GBT
+is. But Chat GBT is the most preferred
+if that makes sense. Mhm. Okay. What do
+you think that they're using Cloud for?
+I have no idea. That's like the only one
+I really hardly ever use. So I have it
+broken down in three tiers.
+Non-technical, technical, intermediate,
+and then expert. For chat GPT, the
+majority of the distribution is in the
+non-technical and intermediate. For
+Claude, the majority of the distribution
+is in expert and intermediate. And the
+main use case that I see people use it
+for is coding. It's the best coding tool
+like to help them actually write code.
+And then the second best thing, this one
+blew my mind. Its organization structure
+is fantastic. So you know how chatbt has
+projects. Mhm. Claude, you can set up
+projects, but it you have two fields.
+One is what is this project about? And
+so you can write a prompt to say like
+this is my content project. And then it
+has files that you can upload for
+context. How's that different from chat
+GPT? From what I've seen, Chat GPT
+doesn't have the same functionality with
+the uploading of files and the reference
+for each one of the threads. Maybe I'm
+just not using Chat GPT. That's how I
+use it.
+So you upload instructions. They call it
+files and instructions. And so you use
+individual files for each one of your
+projects. Yeah. I don't always use
+files, but but it can. One of the people
+I I spoke to, she's a writer and she's
+like Claude does a much better it's it's
+a much better writer apparently and she
+has this whole setup where it's like
+this is my brand voice. Here are recent
+projects that I've done. And so she's
+like constantly changing the context so
+that it's up to date. But the
+interesting thing is I didn't know this.
+You can only upload however big the
+context window is. Does that make sense
+what I'm saying? Yeah. So that was
+interesting. What was the least
+mentioned tool? Well, I would say Grock,
+but I think that a lot of these calls
+came from people on Twitter. So maybe
+Gemini. Gemini. Yeah. It was the least
+mentioned and everybody like dogged on
+it. They're like Gemini is not good. So,
+that was that was just really
+interesting to me. That's interesting.
+Are they dogging on it because they're
+they've actually given it a fair shake
+and they don't like it or they're just
+it kind of has that brand around it? Cuz
+I dog on it, but I don't really use it.
+So, it could be great. They're dogging
+on it not that it sucks. They're dogging
+on it because it's not as good as what
+else they use. If that makes sense.
+They're like the claw model, Chat GPT.
+And I think Chat GPT just has a head
+start because so many people were using
+it. The two use cases that I found out
+about Gemini are if you're trying to
+create workflows within the Google
+suite, Gemini is the best because it
+just knows Google so well. Makes sense.
+So, I thought that was that was really
+interesting. And then the second thing
+that I thought was really interesting is
+the context window. I didn't realize
+this, but do you know how big the
+context window is for Gemini? I looked
+this up a while ago, but I can't
+remember. I think Claude was the biggest
+that I saw. Let's back up. The context
+window is essentially how much
+information you can give the model for
+context of a specific question that
+you're asking it. For chat it's 120,000
+tokens and what that is is it's like a
+300page book. Okay. For Claude it's
+200,000 tokens. So it's a lot bigger
+than ChatP. For Gemini it's a million.
+Wow. Yeah. So it's a much larger context
+window. I thought that was just really
+really interesting. Next finding. What
+do you think was the most used
+tool that that interfaced with the LLMs
+that they worked with? Like feature of
+the specific LLM? No, let me ask it a
+different way. What do you think is the
+most used AI tool that was not an LLM?
+Something that I would have heard of.
+Yeah, I have no idea. Cursor. Okay.
+Cursor. And from several of them that
+like multiple people said, I think
+Cursor is going to be bigger than
+Google. They were like, so Yeah, they
+they were just like so in You must have
+talked to some coders then. I did. I
+did. I talked to a couple of coders. It
+blew my mind though like on the call
+with them. They were on cursor and they
+were showing me you can natural language
+prompt into building an actual website.
+All of them who had like actual coding
+knowledge crapped on replet. Yeah. Which
+was really interesting to me. They're
+like replet.
+Well, but I'm like, yeah, in order to
+use cursor, you actually kind of have to
+have some coding experience. Like you
+can still you can use it at using
+natural language, but it would help if
+you had coding experience. Here's my
+pushpull framework for for this Friday.
+Usability and functionality. That's the
+push pull of today. Replet is more
+approachable to more people, but it's
+less functional as like a coding
+assistant. Whereas cursor is harder to
+use for more people, but it's a more
+functional coding assistant. And the
+magic happens like the unicorn status
+happens when you have like an Airbnb
+with beautiful design, beautiful user
+interface, like easy for anyone on the
+planet to use yet so freaking
+functional. It just works. Everything
+just works. And it looks simple. Like
+from the outside looking in, you assume
+that it's very simply built, but on the
+back end it is just a hairy mess of
+complexity and it's just really good
+engineering and design, right? But most
+companies, 99% of companies have one or
+the other. They have good UI or they
+have good functionality, not both. I
+agree. So, I'm going to go through
+generally, broadly speaking, this is
+what I found to be the use cases. Chat
+GPT as a general thought partner, like
+someone they're collaborating with and
+like trying to figure out ideas. Claude
+coding in particular, it's like that's
+their coding partner.
+Perplexity research, everyone I spoke to
+who actually uses these models, they
+were like it's as good as deep research
+and it's real time, so it can go and
+crawl the web in real time, which
+fascinating in and of itself. Grock,
+there was no like best use case, but it
+just seemed like generally speaking,
+everybody was impressed with Grock. The
+speed and responsiveness. I don't know
+if you've messed with Grock, like it
+spits answers out very quickly. They're
+very good. It has access to real-time
+data. It's everybody's like, it's
+amazing what they they've built a a top
+tier model in such a short period of
+time. And then Gemini is just, hey, it's
+really good for the Google suite. Those
+are like the general use cases that I'm
+seeing people actually use. And I
+thought that was those things were
+fascinating. Can I give you my personal
+takeaways from what you just said?
+Uhhuh. I need to be thinking of using
+Gemini more since I'm so embedded in the
+Google Workspace, right? I just don't
+think of it. We've talked about Notebook
+LM a bunch. I like the contact window
+size. I just don't like what it spits
+out. I don't like what it gives me,
+right? So, who cares how big the context
+window is if it's not working with it?
+Well, in my opinion, I'm using
+Perplexity more and more every day. As
+of today, I don't see a need to keep my
+$200 a month Pro subscription because
+Perplexity does deep research, which is
+the only thing I'm using Pro for now. I
+still like a second layer of redundancy.
+I still take my prompts, my deep
+research prompts, and I put them in deep
+research and perplexity at the same time
+because it does give me different
+answers. And I I still kind of like deep
+research a little better. I think it's
+more thorough. It gives me a longer
+answer with good relevant info. Have you
+tried Gro's deep research? I've barely
+even tested it. I can't really speak to
+it. It's very, very good. Very good.
+Surprisingly good. I should I want to
+make a a YouTube video where I I take
+the same prompts and put them in all
+three for specifically for deep
+research. So cursor, you think you need
+to use cursor more? I need to use cursor
+more and I need to use replet less just
+because I'm I'm not able to wrap up
+these projects. This is one of the
+things that's been fascinating to me is
+like I wanted to learn how to do these
+things. So I did a
+project and have you ever heard of I
+hate bringing these things up to you cuz
+I feel like a high schooler who's in
+chemistry 101 or whatever talking to a
+PhD chemist and it's like have you ever
+heard of
+gravity and the You did ask me what a
+lead magnet was a while back. That was
+offensive. Yeah. Have you ever worked in
+Google Collab? Nick you. It's a good
+thing you asked because no I haven't.
+Okay. I haven't like No, I don't. Okay.
+Genuine. So, I have all of these
+transcripts from my podcasts and
+specifically I just wanted to focus on
+the AI podcast. So, what I wanted to do
+and you know how this works is I want to
+take all the conversations, aggregate
+them and then be able to pull out
+information. Okay. Mhm. But how do you
+do that? The context window is on only
+120,000 tokens and like four of those
+transcripts are more than 120,000. It's
+like I it doesn't work. So I needed to
+clean the transcripts, get rid of all
+the dead space, ums a timestamps, etc.,
+and then get them into a format where
+they would all be combined. And I had
+them all saved. Yeah. What about does do
+the transcripts identify who's speaking?
+Yes, I kept the speaker. Okay, I did
+keep the speaker because I I wanted to
+know by person and I'll show you the
+output that I got. But I wanted to know
+by speaker who's talking and what are
+they saying and why. Anyways, I don't
+know what to do and what do I do? I
+literally just go to chat tpt and I'm
+like, "Hey, this is what I want to do. I
+want to take all these transcripts. I
+want to combine them. I don't want to
+clean them." And it was like, "Okay,
+where are they stored?" It's in Google.
+Okay, perfect. You're going to go to
+Google Collab. Great. Open a new
+project. Attach your your drive. Great.
+I did that. and run this script. So,
+Google Collab is an environment where
+you can run Python script for it to
+actually execute a function. So, I'm
+like, uh, okay. So, it gives me the
+Python script. First couple times it
+doesn't work. Then I go to Claude.
+Claude fixes my Python script and it
+starts working. The first iteration
+suck. Second iteration suck. But by the,
+you know, a couple hours later, I've got
+some really, really good data. In fact,
+I'm going to share my screen with you.
+Again, it took time for me to get to
+this place. Once it was spit out, I took
+it back to Chat TPT and I was like,
+"Hey, please clean up this data for me.
+Make it look presentable, etc." And this
+is what it spit out. So now I have the
+episode with the person. Okay. Interview
+name, their business type, the industry,
+their technical knowledge, what their
+primary LLM was that they used. Oh, this
+is cool. the main tasks and use cases.
+This looks like an lead magnet to me.
+Nate on that motivation for using these
+LLM, strengths, weaknesses, the ideal
+user profile, and then the key insights.
+And like the key insight, I was like,
+"Hey, write me a 500 character summary
+of this conversation." Mhm. But then I
+had to do a couple of other things. Then
+I had to actually go to Zapier and
+create a zap so that it would interface
+with Open AI. And then I learned I could
+actually just attach the API. I'm going
+like real technical here, but whatever.
+The API key into Google Collab, so I
+didn't need Zapier anymore. But because
+of that, I now have this amazing
+spreadsheet with tons of conversations
+with entrepreneurs who are actually
+using AI and I understand the use cases
+that they're using it for. So now I can
+go to this and just ask it questions or
+I don't know make a quiz that says or
+tell chatbt which I've been working on.
+Create a quiz for me. I'm a business
+owner and I want to know which one of
+these models I should use. So create a
+quiz that I can decide which model to
+use and it uses this information to
+create a quiz for somebody so they know
+which model to use. Dude, it's been just
+so
+fascinating to learn from these people
+and see how much application there
+actually is even in the limited state
+that we currently see it. That's
+amazing. I love that you did that
+because we know that I hate hopping on
+calls with people. So, you're able to do
+it and enjoy it and then relay what you
+learn. Yeah. The number one use case for
+it right now sales for AI in general.
+Mhm. Was there a selection bias? Did you
+happen to talk to a bunch of sales guys
+or No, they were all either owners or
+coders. H and they were like, "Oh, I'm
+using it for my sales team to follow up
+with them. I'm using it to track leads.
+I'm using it as an after hours phone
+service. I'm using it as a chatbot for
+customers. I'm using it for my sales
+team to prepare for calls. Like it was
+just all salesreated. I thought that was
+really interesting. You know what
+framework that is? No. What? When you're
+launching products or services, stay
+close to the money, right? Stay close to
+the things that directly generate
+revenue and you can tie it to revenue
+easily, right? So, let's say you want to
+start a SAS a B2B SAS app. It's like,
+oh, let's do HR. Should we do, you know,
+administrative assistant? It's like no,
+like build something that people can use
+to directly make more money and they
+know that your thing helped them
+generate more money that will have the
+highest likelihood of succeeding. Yeah.
+Yeah, it's a great point and that's
+exactly what I found with talking to
+these people. It's all salesreated. All
+right, what' you think? Please share it
+with a friend and we'll see you next
+time on the Kerner

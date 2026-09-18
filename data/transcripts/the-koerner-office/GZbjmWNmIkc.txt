@@ -1,0 +1,1325 @@
+Anything that you do on your computer,
+your agent could be doing and in many
+cases should be doing.
+>> This is someone on my quote unquote
+payroll that never stops working and
+[music] cost 99% less than an actual
+human. It's going to an actual browser
+and browsing like a human.
+>> My hands are off the mouse [music]
+keyboard here. You can hook up Telegram,
+WhatsApp. Anytime anything's on your
+mind while you're just on your phone,
+you can put your agent to work. We
+[music] have probably 20 agents running
+autonomously, like fully endto-end. I
+have an agent that is like my visual
+designer and motion designer. This is
+crazy to me because it would take me
+hours.
+>> You set it up, you go to sleep, you wake
+up, you have leads.
+>> You could do this for any niche. Your
+agent can go and find these candidates
+and actually build them new digital
+properties to the point where you could
+sell the implementation of that website
+specific to them. That becomes your
+template that you then stamp out across
+all your clients.
+>> You could start this for almost nothing.
+The guy that I talked to actually did. I
+knew I asked it to do this, but I didn't
+think it actually would. That's
+incredible. Boom. That was incredibly
+easy.
+I bet you can't find me one person that
+wouldn't want AI to just go out there,
+an AI agent, and do stuff for it while
+they sleep. Well, today we're talking
+about how to do that. Cloud's cool.
+ChatGBT, awesome. Those are awesome.
+What if it went a step further? What if
+Chat GBT was in a robot body and could
+go a step further and do stuff for you?
+times a h 100red AI agents. That's what
+we're talking about today. How to make
+money with them, how to build them, why
+they're cool, why they're important, why
+they're dangerous, how to guard rail
+them. And if you're the type of person
+that agrees it's better to show than
+tell, stick around because at the end of
+this I'm actually going to build
+something with Hyper Agent for myself.
+Super cool. Please enjoy. What is a
+practical realistic use case for an AI
+agent today that you're seeing people
+use on a daily basis?
+>> Yeah, I'll jump right into one that's
+super visual and easy to understand.
+This will start off as kind of like a
+one-time task, like a project for an
+agent, and then I want to show you how
+you can start to change your thinking
+and and consider these agents as
+persistent 247 employees. Okay, so this
+is a run of an agent that has found
+local businesses that have great
+reviews, but no website or outdated
+websites. finds their contact
+information, learns about their brand,
+learns what customers love about them,
+and then actually builds them an
+entirely new website. So, let me walk
+you through what the agent actually did
+here. So, what you're looking at
+basically is all of the thread with the
+agent here is on the left. All of the
+thinking process, it spins up sub aents
+to delegate different uh tasks to break
+things down, make them happen in
+parallel. And then on the right here are
+all of the artifacts. So, you can see
+the agent has visited some websites,
+taken some screenshots. It actually
+literally opens and runs its own browser
+over here on the canvas. So while it's
+running, you will see it actually
+navigating the web. And then the final
+deliverable here is in the form of an
+all-encompassing web page which is meant
+to be for my consumption which contains
+all of the business candidates that it
+found as well as the websites that it
+built for them. So, for example, we've
+got CS Automotive here, 300 plus Google
+reviews, fantastic reviews, but uh no
+real digital presence, no website. And
+so, it has actually based on its
+understanding of what they do just from
+the customer reviews and the things that
+people love about it, built them an
+entire website here that has a booking
+system as well.
+>> Oh, man.
+>> So, you can come through here, even get
+an estimate. These are all just based on
+best judgment,
+>> best guess of of pricing, right? But if
+you were to actually get this in front
+of this business, you could make this
+specific to them. So the idea here is
+from one prompt, if you're watching the
+video, pause it, screenshot it. You can
+do this anywhere. You could do this for
+any niche. Your agent can go and find
+these candidates and actually build them
+new digital properties to the point
+where you could sell the implementation
+of that website specific to them. So you
+could put this in an offer and say,
+"Hey, we've learned about your business.
+We think people probably can't find you
+the way that they should be based on all
+your amazing reviews." here is an
+example of the type of website we'd be
+able to stand up for you within days. Or
+there's even this notion that maybe that
+website is just like a free giveaway
+because of just how easy it is and how
+fast it is to do this at scale. Hey,
+this is yours. This is yours for for
+zero cost. So you see a few different
+things that I'll call out there that
+agents are capable of. One is extensive
+deep research all happening in parallel.
+This whole run was about maybe 20 to 30
+minutes from the research finding the
+candidates to actually building all
+these unique websites. Browser use, like
+I mentioned, being able to actually
+judge visual quality kind of
+qualitatively to say, "Hey, that that to
+me." That's right. Yeah. That looks like
+kind of an outdated website that could
+be better. That's going to be a
+candidate for the outreach. Actually
+managing drafting that outreach per
+business. So tool use in there as well.
+So it's going to be able to use your
+email and draft those messages. is you
+can approve them or you can just trust
+the agent and say go for it. So, uh
+really good example of what pretty close
+to a oneshot task that you can give an
+agent and this skill is on the
+marketplace for free as well. If anyone
+wants to try this for a certain domain
+of businesses or in their local, you
+should uh you should give it a try.
+>> So, let's say three years ago, I have a
+an internet agency that makes websites
+for local business owners.
+>> Yeah. I'm going to spend my downtime,
+you know, browsing through Google
+Business Profile, finding businesses
+with no website, looking into the
+reviews. Do they have pictures? Are they
+optimized? Oh, here's one. Find their
+email, scrape it, cross reference it,
+email them. I see you don't have a
+website. Can I build that for you? Your
+response rate is going to be 0.5%,
+1% maybe. And then you respond, you hop
+on a call back and forth, days elapse,
+weeks elapse. Then it's like, "All
+right, what kind of a website do you
+want? Let me close it. Let me invoice
+you." And now you're saying like you set
+this up, which you can just get the
+template from you. We don't need to
+start from scratch. You set it up, you
+go to sleep, you wake up, theoretically
+you could have leads. Yeah.
+>> So there's a Seinfeld episode where
+Kramer takes this car out and he tries
+to push it as far as he can go
+>> that you know how far it can drive on
+empty. Yeah.
+>> If you were to get really bold with this
+and go further, like send the invoice,
+accept the payment, fulfill the service,
+hop on a call with them
+>> with your product, how like how far
+could you push this agent if you really
+wanted to be hands-off? And I'm not
+saying people should. I'm just curious.
+>> Anything that you do on your computer,
+your agent could be doing and in many
+cases should be doing. If it's more of a
+chore, then your agent absolutely should
+be doing that. Like if you feel while
+you're doing some computer task that
+your brain is like almost off, you
+should never be doing that task again.
+So actually running the outreach and
+watching your inbox 247. This is another
+huge one, Chris, where I'll uh if I go
+into one of my agents here, I'll just
+show you where we can set up tools. So
+when you go into tools and integrations,
+you know, if a lead comes in overnight,
+that needs to get a response
+immediately, right? So there needs to be
+an inbox kind of night owl agent as well
+where anything that comes in inbound or
+earns a reply from your outbound is
+immediately getting that that response
+and that acknowledgement. We have agents
+running uh ads as well autonomously like
+fully endtoend generating the creative
+strategy optimizing the spend uh
+doubling down on the winners killing the
+losers. So everything related to filling
+your pipeline, outbound ads, inbound
+sales coaching is is another one. So get
+your notetaker on your call, have those
+notes automatically passed back to your
+team of agents so they can give you
+feedback on your performance with that
+client. How can you improve your close
+rates? How can you sharpen your own
+script and uh and your ability to
+actually secure that business? Daily
+marketing competitive intel and industry
+briefs. feed that into your team of
+agents as well to to tune up the
+outreach that they're doing. Are there
+things that are more timely or more
+relevant they could be including? I'm
+also just showing directly through the
+web interacting with these agents. But
+another big shift is being able to just
+message your agents as if they're
+teammates. So Slack is a big one for us.
+You can hook up Telegram, you can hook
+up WhatsApp, just like you would
+communicate with an employee anytime
+anything's on your mind while you're
+just on your phone. You can put your
+agent to work. So, if I click in here to
+my team of agents, each of these cards
+here is a different agent that has a
+different job. And that helps me
+actually organize. Okay, I only want to
+give my agent access to be able to post
+on X if it it is the agent that knows my
+brand voice and that I'm explicitly told
+and granted that permission. I want a
+separate agent that's actually touching
+customer data and financial data. Those
+two things better not ever cross. And I
+can create hard guard rails by assigning
+those permissions to different agents.
+It looks like with our team internally,
+these aren't our literal agents, but
+we've got four of us on the growth and
+marketing team here, and we have
+probably 20 agents, each with fairly
+broad sets of responsibility. Like, I'm
+not talking like, oh, like one little
+workflow or approval. You know, I have
+an agent that is like my visual designer
+and motion designer that creates all the
+stuff that we post on website or on X.
+We have like a CMO agent that
+orchestrates to all the other ones,
+copywriter agent. you really start to
+think of these in terms of full-time
+jobs.
+>> Okay. So, what's an example of a
+breadandbut agent like simple but
+helpful that you see a ton of your users
+using and then could you show me how to
+build that live?
+>> Yes, sir. Okay. So, the most popular
+agent on our marketplace, which is where
+we have all these different agent and
+skill templates, is called Signal. This
+is your always on 247 sales agent. So it
+works end to end owning the full
+pipeline. I'll walk you through some of
+its key capabilities and then I'll I'll
+show everyone how to actually grab this
+agent and start setting it up for
+themselves. So it is responsible for
+growing pipeline, growing our business,
+getting us more customers. So that's the
+explainer on Signal and then I'll jump
+into seeing it in action.
+>> Yeah, let's do it.
+>> Okay, so this is our thread with Signal.
+So the way this is structured is in what
+we call live mode. So there's basically
+one thread that keeps getting the same
+prompt on a set cadence. In this case, I
+have this set to every hour. And Signal
+wrote this prompt, this loop effectively
+for itself based on everything that I
+loosely instructed it how to do. So this
+is a good like general point with our
+agents as well. I just describe a job
+description the same way I would give an
+employee a job description. And the
+agent is the one that can actually
+scribe those detailed instructions for
+itself to the point where, you know,
+there's been a lot of, I think,
+excitement over the last several months
+about, you know, skills and we have our
+skills on our marketplace. I'm excited
+when a skill does the job. You won't
+really find me diving into like the
+exact wording in that skill or in the
+pieces of it because it's not really for
+me anymore. It's for the agents to run
+themselves. So every hour in this same
+thread, this live mode prompt gets kind
+of reinserted into that thread and then
+signal goes to work. So it does
+everything that was just in that
+explainer. It goes and finds new
+prospects based on our ICP. It will
+build personalized landing pages for
+them. So let's take a look at this one.
+I've switched my context here. This is a
+different type of company that we're
+kind of representing the sales outbound
+function for. This is a real company uh
+that I've been working with on their
+hyper agent setup. It's called Swiss
+Solar and they actually sell self
+self-cleaning solar panel technology.
+Very very cool tech.
+>> That's cool.
+>> And so you can imagine the types of
+prospects they're looking to sell into
+are like industrial-grade solar
+projects. They have found that their
+agent can go out and actually source
+real information and run deep research
+for specific people that are the project
+leads on specific solar farms and
+industrial projects. And then the idea
+here is that this is a personalized
+landing page just for that person. So
+you have you know what in the the CTA in
+their case is let's let's discuss a
+study or a pilot program.
+>> We actually have videos here that the
+agent has created here as well. It's got
+screenshots of the software. It's got
+real images of that project that's all
+incorporated into this hero video. Some
+animated explainers discussing how the
+technology works. more shots of the
+product UI. So, you can imagine like you
+are receiving this very very personal
+and unique proposal of a technology
+you're not familiar with but has clearly
+put in the work to understand your
+business, the specifics of your project.
+You know, we think we have a much better
+chance getting uh someone on the on the
+phone after receiving a proposal like
+that than just a plain uh text kind of
+cold email. I
+>> I feel like this is very egofriendly. I
+like to say like if you're if we were
+>> Yeah, I like that.
+>> on a live sales call or a demo and I'm
+actually interested, but I don't want to
+really show it, then I'm probably not
+gonna ask as many questions as I want to
+ask. I don't want to lead you on. So,
+I'm like, I don't know. I'll check it
+out and then I might or I might not. But
+this is very async, right? He can do it
+on his own time. He could ask it a bunch
+of questions, go through, take his time
+without the fear of anyone watching him
+or anyone pressuring him, you know?
+>> 100%. Yeah. And think about I mean again
+the old school way to do this the I mean
+the classic copout response from any
+buyer is like oh send me some materials.
+Well now it's like I can send you some
+materials. It is something hyper
+specific and personalized to you. And
+hopefully if we do that actually earlier
+in the process we stay out of that trap
+of just needing to you know send someone
+some materials. And so we're we're
+actually really earning that buyer's
+attention and respect by putting in that
+deeper work for what is in this case
+especially a very high consideration
+type of purchase. We're really starting
+that relationship out on the right note.
+So, as I'm just scrolling through here,
+you can see that Signal, this agent, as
+it's been running in live mode, just
+working 247 has been building out these
+uh these contacts for real projects,
+been building out all these pages, and
+then it's doing all of its other kind of
+routine chores in every run as well. CRM
+discipline. It's going to post an update
+over to Slack for me as well. So, if I
+switch over to Slack, this is what that
+looks like. We're big fans of wherever
+possible, we think agents should be
+prompting their humans rather than
+humans needing to prompt their agents.
+Your agents should just be working. Like
+your agent should be working 24/7. They
+should have clear guard rails, tool
+access,
+>> and then when they need your attention
+or just to update you, they will let you
+know, hey, in my 3pm loop, here's what I
+did. Added some new prospects, built out
+their pages here in the command center.
+Here are some things I learned. That's
+the other really powerful part. Once you
+get this wheel in motion is the constant
+learning. So for the outreach that does
+earn a reply, you're going to see more
+of that from Signal. For the tactics
+that don't work, you're going to see
+less of that and is always going to be
+passing those learnings back to you.
+Hey, here's the type of prospect that
+actually seems to be responding better
+to our offer and the type of messaging
+that's earning that click and that call
+book.
+>> Interesting. Do you have any like
+anecdotal case studies of people using
+your agent for outbound sales that have
+like actual wins that they've reported?
+>> Yeah, there's been a couple. Um, let me
+show visually what some of it looks
+like. We had, for example, a landscaping
+company that has been using agents to
+actually build out their proposals based
+on inbound leads in their case. So,
+imagine you are looking to get some work
+done on your yard. You send in a very
+short description of what you're looking
+done with a picture of your current
+yard. Maybe you send that out to three
+or four different local companies. One
+of them gets back to you, you know, very
+quickly and actually has a vision for
+you of what your backyard could look
+like, your actual yard.
+>> Like this is where you started and this
+is what it could look like.
+>> Meanwhile, the other three companies are
+like, "Uh, well, we'll see when we can
+come on site." Probably took them one or
+two days to get back to you anyways.
+like what a competitive advantage it is
+to not only have an agent that's able to
+reply right away and kind of respect
+that that lead as soon as it comes in,
+but actually potentially sell them a
+little bit of a vision and not have the
+customer have to use their imagination
+for an offering like that.
+>> That's destined to fail. We're not
+creative beings, right? Like we we
+shouldn't have to expend brain power
+into how we can give you more money. We
+need to do all that for you. Take away
+all that.
+>> We got to see Yeah. People have to see
+it to believe it. even things that are,
+you know, a little bit less visual but
+still uh kind of warrant this approach.
+We have a paving company that is using
+satellite imagery of uh large lots like
+parking lots that are clearly, you know,
+past their prime. Yeah.
+>> And showing with that satellite imagery
+and AI image generation, here's exactly
+where we would repave estimates on the
+cost based on what we can see from
+satellite. Interesting. and you know the
+the impact to the value and kind of like
+street curb appeal of your of your
+business or your commercial property
+whatever that might be. So there's some
+really cool use cases like that. I'll
+share one more was uh a company that
+does branded like company apparel
+essentially. So you know you might get
+your your company polos or hats or
+whatever.
+>> Uh again you can see where this is
+going. Let's build that prospect list.
+Let's actually take their branding put
+it on some of our products. use AI image
+generation to show, hey, this is what
+your team could be looking like when
+they show up to the site or show up to
+the trade show. Here's some different
+visual styles, you know, interested in
+in understanding more about what we can
+do. So, those are some of the the fun
+ones that are a little more on the
+visual side that people have been doing.
+>> What about um this is just a personal
+idea I have. So, I I just bought a ranch
+here in North Texas and it has this pond
+that needs to be dredged. And so, I'm
+looking for like pond dredging
+companies, pond maintenance companies.
+And and I had the thought and I prompted
+Claude like,
+>> are there any companies that's like the
+Zoom info for ponds? Like,
+>> if I were a pond management company,
+could I buy a customer list? Could I get
+leads from somewhere? And then I asked
+Claude, "How many ponds are there on
+farms and ranches in Texas?" 800,000.
+Okay, 800,000. And I said, is there a
+directory? Is there a place where I
+could sort through that? It's like, no,
+that's not a thing. It's like, well,
+that that's very niche, but certainly
+people would pay money for that.
+>> So, could I use hyper agent to build an
+agent that could go take
+>> I mean, all this stuff exists, just
+satellite data, GIS, mapping,
+spreadsheets, and just take a
+measurement. All right, like this lake
+is one acre. The address is this based
+on the PIN, and just put it all in like
+a Google sheet.
+>> I like where you're going. Yeah. Do you
+think any of that data would come from
+like zoning applications or anything? Or
+would would straight up satellite image
+analysis be the best sour?
+>> It could come from tax records, zoning
+applications, like
+>> right, let's try. Well, I'll I'll let
+Hyper Agent run and we can we can keep
+chatting and we'll we'll see what it
+does in the background. Let me prompt it
+here. I just got an idea from my friend
+Chris for uh our pond dredging company.
+Uh we're in North Texas. you pick the
+the the town where this might make
+sense, but what we want to do is build
+out a database of all of the ponds that
+might need dredging in the area. Uh
+we're thinking you might be using
+satellite imagery to do that or maybe
+zoning applications or other sources of
+data. Uh do a little proof of concept
+sprint. See what you can find using
+different approaches to find leads for
+our pond dredging business.
+>> Oh man, that's so good. So, we'll let
+our agent run there and see what it
+comes up with. Yeah, it's
+>> not the best use of time, but it is a
+little bit fun to just watch them run.
+>> Yeah,
+>> you get to see their whole thought
+process. You get to see them lay out
+different approaches, rule them out,
+whether they work or don't work. All of
+its actual um artifacts will pop up on
+the canvas here as we go.
+>> It's like Claude in a human form, right?
+It's like a robot whose brain is cla or
+chadypty or grock or all of the above or
+whichever one it decides to use with the
+ability to go out and do the thing that
+you're asking questions about.
+>> Yeah, exactly. Yeah. At a technical
+level, it's worth mentioning in every
+single thread, every agent actually
+literally does have its own computer. It
+has its own virtual machine where it can
+do things like run commands and install
+libraries. And you're going to watch it
+right here open up its own browser. So,
+my hands are off the the mouse and
+keyboard here. It has spawned what we
+call sub aents. So, it's got a couple
+sub agents here where it's it's sort of
+>> they're running like in parallel then.
+>> Yeah, exactly. So, it's kind of got like
+the, you know, it's got the gang
+together and said, "All right, here's
+the overall plan. Agent one, I need you
+to check the satellite data. Agent two,
+I need you to check the zoning
+applications." And they're going to go
+off and run in parallel and then report
+back to uh to the main agent as they
+they complete their their work.
+>> Okay,
+>> that's a good one. Yeah, we'll see how
+it does. I'm curious, what else have you
+seen from your your audience when it
+comes to this concept of having agents
+that you really start to treat more like
+uh like employees or co-workers? Are
+people pretty early in that journey? Are
+you seeing some some cool experiments
+that people have started to to get real
+value out of?
+>> Very early. I know a lot of people that
+have AI implementation businesses,
+they'll go into small to mediumsiz
+businesses and do an AI audit or just
+help them install AI tools. So I am
+curious how agents could help them find
+more customers or help them fulfill
+customers they already have.
+>> Yeah, this is a group that we're
+thinking a ton about and I would speak
+to it on two levels. So one is for the
+AI automation agency itself for your own
+internal operations. use these agents,
+whether you use the pre-built templates
+or come in here and build AI employees
+for yourself to find more customers and
+also to service your customers, run your
+own operations, project management,
+things like that. But you could use that
+exact same flow that I was sharing where
+that that same single agent is running
+outbound, inbound, nurture, finding
+leads within your niche, whether that's
+kind of uh physical service businesses
+or something more upmarket, whatever
+that might be. The second thing is using
+this as a platform to actually deploy
+the agents that you sell. So any agent
+here that you create like you might have
+an agent for your niche that let's say
+we stick with this like pond dredging
+example that's like the pond dredging
+project manager agent and we're going to
+go sell this to all the pond dredging
+companies that becomes your template
+that you then stamp out across all your
+clients. So we think that our platform
+also has a really strong position as
+being the way that AI automation
+agencies actually choose to sell,
+package, and deploy those agents to the
+end client. And I'll I'll come back to
+this agent in a second, but essentially
+the way that's structured is we have
+this concept of teams. They're kind of
+like different workspaces. And so I
+could have a workspace for just one
+client like Apex Landscaping. I could
+have workspace for another client. And
+then I my client can be in there and
+actually be the one paying the bills for
+the ongoing AI costs, but I'm the one
+actually managing and editing those
+agents that are inside this workspace
+just for them. So I have that backend
+access. The client can just use the
+agents. You could give them edit access
+if you want, but for most of those AI
+agencies, we hear that they and their
+clients just want the client to be an
+end user of the agent and any backend
+changes to that agent, any config is
+going to happen by the agency. And so
+you can set up that exact model right in
+here. We hear that AI implementation
+agencies are doing a lot of like very
+creative and I would say often like
+hacky stuff to be able to set up,
+standardize and package their offering,
+deploy it for clients with like a lot of
+technical stuff with different private
+servers, everything like that and then
+actually charging for it is uh is a bit
+of a hassle as well. We can simplify a
+lot of that with uh with this setup.
+>> Yeah. Beautiful. How does Hyper Agent
+know what a good website looks like?
+It's going to be looking both visually,
+and by visually, I just mean literally
+like it'll take a screenshot and then
+process visually what it's saying. It
+can also look at the code itself. So
+things like the color choices, the
+layout choices, the use of negative
+space. I'm looking at the landscaping
+one just because it's what I had handy,
+but this is a obviously a page that that
+agent has built itself. Code has become
+the language of agents now. They're so
+good at looking at code and
+understanding what they're seeing and
+understanding how it could be better and
+how that code is going to visually
+present itself. So it's twofold. It's
+one is straight up image recognition
+like if you were just take a screenshot
+of this and say is this a clear layout?
+Is this good use of color? Is this a
+modern you know font family? Things like
+that. The second is actually by
+inspecting the code. Those are the two
+ways that that age can conclusion
+because they've seen all the examples
+and all the references in the world of
+every website that's out there and how
+web design trends have have changed over
+time as well. I mean, put maybe overly
+simplistically, it could just Google
+best looking websites of 2026 and just
+find random blogs and train itself on
+how that looks. Like, all right, we're
+seeing a lot of SIF fonts. We're seeing
+a lot of pastel colors, choo pattern
+matching, pattern matching. Cool.
+>> Yeah, exactly.
+>> If someone were total beginner to AI
+agents, they've used Cloud, they've used
+Chad GBT, never agents, what do you
+suggest they do from day one on on your
+platform? Yeah, I would say pick a part
+of your work that you find very tedious
+that you would like to not do anymore
+that is like a computer job and start
+with asking hyper agent to build a
+dedicated agent for you to do that job.
+That should hopefully give you the first
+taste of what these agents can do. You
+can put that agent into live mode as
+well like we talked about with signal.
+So just every hour it comes through, it
+runs its checklist, it does that job.
+From there, you can start to get more
+ambitious. And the metaphor is less
+about, oh, what are like chores and
+tedious things that I don't want to do?
+And it's more like, if I had all the
+money and time in the world to make the
+dream higher and make that person really
+successful, who would I hire right now?
+And then what would they do 24/7 if they
+never had to sleep? So, for example,
+with Signal, the sales agent, it's like,
+well, dream sales hire would be
+constantly sourcing new outbound,
+constantly sharpening its messaging and
+its approach to our ICP definitions. It
+would go super super deep in its
+research for every single prospect and
+build them something very personal as a
+proposal or pilot or initial offer. It
+would never let a warm lead go cold. And
+it would track everything perfectly in
+CRM. it would find that you would get
+creative with where it finds contact
+information. List those things out and
+then push your agent to do as many of
+them as possible and hopefully we've
+given a taste today of how far you can
+go with that.
+>> What's something that you've seen Hyper
+Agent do that genuinely surprised you?
+>> Ooh, that's a good question. A lot of
+the browser use stuff is really
+impressive because it's so humanlike.
+The way it will actually just navigate
+through web interfaces that are not
+meant for agents. Like the web at large
+is still pretty hostile to agents. You
+think about things like even like captas
+that are just in the way. They're like
+trivial for agents to solve now, but
+they're still in the way from the era
+where we were so concerned about bots.
+Now the shift that's happening that's
+underway is people actually want to make
+their websites very agent friendly so
+that agents can find them as opposed to
+only being for humans. But seeing agents
+actually browse the web, visually
+process what they're seeing. We had our
+agent do like a a landing page design
+tearown. So if I go back through here,
+yeah, this landing page tear down. So it
+was doing like this would be for like a
+web design analysis or something like
+that using its browser look at web
+design trends and then come back with
+annotated markups the way that like a
+really expert designer would. That was
+really impressive to me between the
+browser use, the visual understanding
+and you use that that word taste which
+is becoming a hot topic for sure with
+any kind of visual work or even
+copyrightiting. In my experience, given
+the right context and instruction, the
+models are getting pretty good. A lot of
+the video work as well, Chris, has
+become really, really exciting. So, if I
+quickly go over to our X feed here, let
+me show you some of the stuff that I've
+been able to do with these agents. So,
+so let me let this play and then I'll
+tell you about why this was so exciting
+to me. So, this video that you're
+looking at was created by a motion
+design agent. So, it's very meta, but I
+have a motion design agent creating
+videos about agents. Historically, for
+me to do these demo videos, I have to
+use the product as if I'm the customer
+I'm trying to represent
+>> and then screen record the process, show
+the agent generating its work, show a
+really good outcome, and then edit that
+video together. It's very like
+handcrafted and artisal. You got to get
+the timing right. You got to make sure
+everything that's on the screen is
+right. What's happening here is this
+agent is actually using its own browser.
+It logs into hyper agent and it says,
+"Hey, Alex has asked me to create a demo
+of an agent monitoring its inbox. It
+will actually do that, understand how
+that would look as a real run and then
+through code actually just create that
+whole visual experience and animate it
+and get all the timing right. It can
+also then take creative liberties where
+it has like these popup messages from
+the agent, a popup message from the
+human user that are there because it
+helps clarify the product story. This is
+crazy to me because it would take me
+hours to create a screen recording of
+this quality and there's even things I
+wouldn't be able to do here where I'd
+have to like awkwardly punch in on the
+text. Now the agent can just have the
+whole storyboard of this whole product
+animation exactly the way that it wants.
+The creative possibilities that this
+unlocked have been pretty amazing for me
+as a marketer.
+>> Okay, first of all, that's wild. Second
+of all, how how much babysitting is
+required? like with other vibe vibe
+coding tools or prompting like it's
+loading it's loading you're checking in
+you're fixing you're fixing the last
+mile is really really hard what would
+you say to that
+>> I would call it less about babysitting
+it's not so much that I have to watch it
+during runtime but there are definitely
+a lot of iteration cycles so to get this
+motion design agent for each of its runs
+I expect to have to probably give it
+three or four rounds of feedback so the
+the rhythm of that is I start the thread
+I let it run it usually takes about 30
+to 40 minutes because again it's using
+its browser to actually study the
+product. It's actually coding up a
+recreation simulation of the product.
+It's thinking through the whole
+storyboard and then rendering the video.
+It then pings me when it's ready.
+There's probably things related to the
+timing or the visuals or the sequence
+that I want to see improved. Maybe some
+copy that is put in the video is off. It
+runs again. That run's going to be much
+shorter. Maybe 5 10 minutes. And then
+maybe we have to do that a couple times.
+So it will get to a serviceable output
+every time. I don't have to babysit it
+in order to get it to a decent output.
+But to get it to my standard is usually
+going to take a couple tries. But that
+time keeps getting lower because during
+every run it is learning as it goes. And
+so it says, "Okay, Alex has given me
+that feedback. I'm not going to forget
+that." There's always that perr run
+feedback and learning that you're going
+to have to be prepared for. Again, just
+like if you were onboarding an employee,
+the difference here is that those
+learnings will stick in the form of
+literal updates to its skills and its
+memories.
+>> Okay. Speaking of marketplace, can this
+browse Facebook marketplace and message
+people?
+>> It can do anything through the browser.
+It can do things more easily and faster
+when there's an API. I haven't tried the
+marketplace example, but of course you
+could do that through through the
+browser directly. So, it could actually
+literally open marketplace, scroll
+through based on what you're looking
+for, try different search terms, and
+either buy or sell on your behalf. For
+sure.
+>> So, another example, you know, I bought
+this ranch, so there's a bunch of stuff
+I need to buy. I need to buy a side by
+side, a Bobcat, a tractor, ton of stuff.
+So, I'm on Facebook Marketplace all the
+time and sorting and talking when can I
+come see it? And I have my assistant
+helping me, but it's still a pain. So,
+I'm wondering if I could go to my Claude
+project that I already have for this. It
+knows exactly the makes and models and
+prices that I'm looking for.
+>> Just say, "Claude, give me a markdown
+file of everything of all this. Give
+that to Hyper Agent and say, "Hey, let
+me log into my Facebook account. You
+know what I want? you know what I'm
+looking for. Every hour, every two, if
+you see something that fits my criteria,
+reach out and ask questions.
+>> Exactly. Right. Yeah. I'll show you even
+step by step how you would do something
+like that. So, let's imagine we had that
+markdown file. You would literally just
+attach it right here as you're getting
+set up. And I would just say like create
+an agent that's going to watch Facebook
+Marketplace for sales that I specify.
+And we'll just see how this agent gets
+spun up. I'll just want you to see the
+uh the create agent flow here, which is
+really, really simple. So, I've kept
+this one really general. If you had like
+specific products, specific buying
+criteria, you would just give all that
+to the agent. If you see this little
+card right here, we're now going to get
+what we would call a named agent. So, a
+specific agent entity that's going to
+have its own name, its own avatar, like
+all these ones we've been seeing,
+signal, funnel, red line. These are all
+named agents.
+>> So, you can always use hyper agent just
+for a general task, uh, kind of a
+one-time thing. But exactly what you
+started describing there is where we're
+seeing all of our customers start to
+shift. And what they want is these
+persistent employee like entities that
+actually perform a job on an ongoing
+basis. So we've got this agent here
+called let's see what it chose to name
+itself marketplace scout. So as you see
+described here this is going to be a
+persistent agent browser access listings
+table. So it's always going to be
+remembering what it's seeing what comes
+back around. So we can go ahead and save
+this agent right here. It's suggesting
+that we put the agent into live mode,
+which is that feature that I talked
+about where it's just gonna wake up
+every hour, run through its list, run
+through its list, and if it sees
+something that fits your criteria, you
+can instruct it on how to notify you,
+whether that's through email, WhatsApp,
+Telegram, Slack, Discord, whatever.
+We'll enable live mode. And then when we
+go see that agent, we can see it's given
+itself the little shopping cart emoji as
+an avatar here for fun. We can uh we can
+generate one as well. Maybe friendly
+robot in a uh noir style. Why not? Let's
+see what we get here. And then I'll show
+you how we set up those integrations as
+well. But that's cool. Yeah, our CEO
+actually has an agent that will watch uh
+vintage sports car listings for him. Uh
+which is very similar to what you're
+describing.
+>> That's a good idea. [snorts] Beautiful.
+Well, how's our pond project doing?
+>> Let's see. The uh the pond dredging lead
+genen analysis agent is still working
+away. Let's see what it's found so far.
+You can always uh jump in and just ask
+your agent to summarize, but it's been
+working hard. you, as you can see, like
+these runs, they do get quite long with
+the more ambitious tasks. And so, let me
+just see what it's learned so far. Just
+pause work for a second and update me
+with a few key bullets on what you've
+learned so far. It gives you the whole
+thought process here. So, a little out
+of my depths in terms of this like
+geographic data it's looking at,
+>> but we can see what data sources it's
+been trying. Yeah, with a little more
+runtime, what I would expect to get back
+from this agent would be basically a
+single web page artifact that is kind of
+like that command center that I had
+going for the solar panel tech company
+where it's here's all the leads, here is
+the buying signal that I specifically
+identified, the data sources where I got
+it from, and here's exactly the message
+I would send to them as a reach out. So
+here's what the agent found. Let's have
+a look here. Here it picked a specific
+town in North Texas looks like based on
+some population figures. It's got
+imagery. It's got a pretty good start
+there, it looks like. And then, like I
+mentioned, I would just have it keep
+running and then deliver its findings
+basically as a a briefing to me that
+uses some of that design and formatting
+that we saw from the other agents.
+>> Amazing. Well, thank you, Alex, for your
+time. Where can we find you? Where can
+we find this product?
+>> Follow us on X would be uh the best
+place to keep up with what we're doing.
+Hyper Agent OnX and uh use uh the link
+that we'll provide for your audience to
+get some initial free credits to get you
+started. Give your agents some ambitious
+jobs. The jobs you would give, you know,
+really skilled people that you were
+hiring and see what they can do when you
+you just let them run. Yeah. Let them
+help you, you know, find customers, grow
+your business, run operations. There's a
+ton of potential here. And we've got
+some other customer stories you can see
+on our socials as well if you want to
+get inspired with with what people are
+doing.
+>> Beautiful. Thank you, Alex.
+>> Awesome. Thanks, Chris. All right, as
+promised, I'm going to log into Hyper
+Agent and build some pretty cool stuff
+so you can see for yourself hands-on how
+this actually works instead of just
+talking about it theoretically. Okay,
+this is Hyper Agent, which I am an
+active user of, and it's built by the
+team at Air Table, which I've been an
+active user of for years. You give it a
+job, it goes off, it uses a browser and
+real tools and comes back with something
+that is actually finished. This thing
+can run a whole team of these agents at
+once. It builds real stuff. We're
+talking like entire web pages,
+dashboards, not just text or images.
+There's this one company that had a
+single dude build a fleet of 14 agents
+that his whole team now uses every day.
+So, today I'm going to use it for my
+favorite thing, which is finding boring
+businesses that quietly make a killing
+and then actually building one out.
+We're going to start right here in the
+search box and type in this prompt. Find
+me 10 boring local businesses that
+quietly make over $500,000 a year and
+that almost no one talks about. For each
+one, tell me what it costs to get
+started, the typical profit margins, and
+why more people aren't doing it. Put it
+all on one clean page that I can read
+fast. Cool. Okay, let's see what it
+does. I'm going to leave it on the model
+that it shows by default, which is GPT
+5.6. Okay, let's see what it's doing.
+Reasoning asking me a couple questions
+here. What should make over $500,000 a
+year mean? You know what? I'm going to
+say owner profit. Which market should
+startup costs and economics reflect?
+United States. Do you want business
+models or 10 specific operating
+companies? Both. So, if you give it a
+crappy prompt, it improves it for you.
+Okay. I think it's really important that
+you actually watch what the agent does
+as it's doing it because it's mimicking
+human behavior. It's going to an actual
+browser in a cloud computer session and
+browsing like a human. It's reading
+documents, searching the web, portable
+sanitation. Oh, a little sneak preview
+right there. Now, it's suggesting a
+couple skills that we can save. This is
+basically like a skill. It's a skill
+that Hyper agent just learned and it
+wants to know if I want to save it and
+recall that skill at any given point.
+Kind of like the Matrix, right? They
+plug into his brain. He's like, I know
+karate now. That's a skill. He doesn't
+have to use that skill when he's talking
+to his grandma, but if a bunch of bad
+dudes in suits approach him on the
+street, he's going to access that skill
+that he had learned previously. Same
+thing here. We'll go ahead and save
+that.
+Let's go ahead and check in with it.
+How's it going? Okay, I went ahead and
+approved the plan as presented right
+here and now it's cooking. Super cool.
+Research four boring US local facility
+or assetbased business models capable of
+exceeding 500,000 and normalize annual
+benefit to the owner at established
+scale. Multi-tore laundromats, laundry
+route, self storage, express car wash,
+parking lots. Cool. The initial screen
+is done. The threshold is genuinely
+demanding. Most qualifying operators
+need several crews yada yada yada.
+Tightening the evidence row, especially
+the named examples. searching the web.
+Bisby by sell. Bisby by sell. Cool. I
+like how it's not just being a yes man
+and saying this one can and this one
+can. This one can. It's saying a
+$500,000 owner profit threshold
+eliminates most easy side hustle
+examples and usually requires multi-crew
+or multilocation scale. Appreciate the
+honesty. So interesting watching it
+learn in real time. It's an interesting
+route it's taking. It says broker
+reported examples. So it's referring to
+a business broker. And it's doing this,
+I'm assuming, because I asked for
+specific examples of 500K SDE, sellers
+discretionary earnings, aka what the
+business owner actually makes, because
+profit is not it. You can make a million
+dollars profit, but the owner is only
+able to pay himself a fraction of that
+because he's reinvesting the profit back
+into growth or he pays 38% in income
+taxes or whatever. So, it decided to go
+look at business broker listings because
+that's where owner reported net profit
+is super interesting. It says it's
+flagging unusually strong earnings
+claims rather than treating them as
+verified facts. So, it's checking
+itself. Elevator maintenance, pest
+control, parking lot striping, towing
+company, commercial cleaning, tree
+service. Very cool. Okay, here we go.
+It's publishing it on a web page for me.
+It didn't even ask it to do that, but
+I'm down. Okay, research brief. 10 quiet
+businesses with the path to 500k in
+owner earnings. Scale is mandatory.
+Broker data is not audited. Okay.
+Parking lot and striping. I've posted
+about this twice. Interviews like long
+form interviews. We'll link to them
+below. 8,000 to 90,000 to start, which
+is not fully accurate. You could start
+this for almost nothing. The guy that I
+talked to actually did. You can buy a $5
+paint roller, but regardless, 35 to 40%
+net profit. You would need $1.25 to
+$1.43 million in revenue to have 500,000
+in net profit. It works because paint
+fades every 18 to 48 months. People
+avoid it because it's night work,
+weather windows, aggressive selling, bid
+accuracy, yada yada. Septic drainage.
+Cool. Portable restroom rental routes,
+commercial janitorial contracts, pest
+control service routes. Number five,
+elevator maintenance number six. And it
+says the downside is license plus labor
+fortress, which I would agree. Fire
+protection inspection. Number seven,
+tree care and arborist. Number eight,
+towing recovery and impound. And number
+10, pallet recovery, repair, and resale.
+Interesting. And it shows how to verify
+these earnings claims. Very cool. Now, I
+kind of want to know more about the
+laundromat business. And I personally
+don't really like the elevator
+maintenance business. So, I'm going to
+ask it to swap that.
+Swap number six with laundromats. Okay,
+look at that. Number six, multi storere
+laundromat portfolio. There it is. Now,
+let's have it go a step further. Take
+number six and build me a page I can
+actually publish. Put every laundromat
+within 30 mi on a map. I'll put a zip
+code. Here's the zip code I grew up in.
+Put every laundromat within 30 mi of
+32796 zip code on a map so I can see
+which towns have a gap. Pull in real
+photos. Which neighborhoods? And I'm
+going to put 100 miles. Have a gap. Pull
+in real photos. Then add what it cost to
+start. Simple pricing and how I land my
+first customers. Pull it all on one
+page. I can share. Okay. Centered the
+study on Titusville, Florida. Building
+an overlapping search grid. Now because
+map indexes cap results per query the
+page will describe. So it's scraping
+Google places which is awesome. Looking
+at census data population buffalo mess.
+Yeah. Okay. Okay. Look at this. It's
+doing exactly what I said. There's where
+I grew up. Tisville, Florida 32796
+within 100 miles. It's making a map.
+Okay. I knew I asked it to do this, but
+I didn't think it actually would. That's
+incredible. It's interactive. It's like
+based on what seems to be the Google
+Maps API. This is incredible. Okay.
+Done. It built and published the Space
+Coast Laundry opportunity map. Okay.
+Interactive map with 78 laundromats and
+four screening gap areas, overlapping
+searches, and then it even has a design
+here. Where should the next laundromat
+go? Amazing. Click on a couple pins.
+Pulls in the reviews, the address, star.
+Beautiful. Remember, these agents
+actually learn as you use them. They
+remember things like you remember
+things. So each time it runs and builds
+stuff like this, it's better than it was
+before. And guys, this is amazing. It's
+interactive. It's handing me the actual
+page, not like some theory, not some
+mockup or wireframe. This is something I
+could hand over to an investor right
+now. We want to publish it. We do. I'm
+just going to hit this drop down right
+here. Allow search engines to index this
+page. Yes, please. Publish. Done. Done.
+That's it. Okay. Now, we want to be sure
+that this saves. So on the left sidebar
+here, we're going to click agents. Cool.
+So, I told it that I wanted to save this
+as an agent because I want it to update
+and run every day, every week, whatever.
+And it says click this save as agent. It
+open this window right here. We're going
+to name it uh deal scout. Then we're
+going to click invocations right here.
+And we're going to create a schedule for
+it just in plain English. Run every
+morning at 7:00 a.m. Oh, got to be more
+specific. Run searches for new
+laundromats in other Florida zip codes
+every morning at 7:00 a.m. Boom. Now it
+is on the team with the rest of my AI
+agents. I've got another one that scouts
+a Facebook marketplace for me personally
+every day looking for skid steers to buy
+because I'm on the market for one right
+now. This is someone on my quote unquote
+payroll that never stops working and
+costs, you know, 99% less than an actual
+human. Boom. That was incredibly easy.
+Just took four or five steps. You can
+let it find an idea for you. You can
+give it an idea. Either one. It'll do
+the research, create videos, publish
+stuff, everything you need. Go try Hyper
+Agent. Use the exact same prompt that I
+used or your own, whatever, and see what
+it digs up in your town. Let me know in
+the comments what you find.

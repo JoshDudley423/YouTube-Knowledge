@@ -1,0 +1,1383 @@
+So, in August, we did 81,000 in revenue.
+>> Holy crap. And how long have you been at
+it?
+>> 85 days. [laughter]
+>> And the crazier part is [music] as we're
+sitting here, September is just begun.
+We have $54,000
+on the calendar for September.
+>> That's wild.
+>> I never had a internship. I never got my
+degree. I [music] had no work
+experience. I had really nothing. I was
+driving Door Dash and I don't want to be
+in that situation. $500 of setup and we
+were ready to go. That was a oneman
+show. The thing I get personally most
+excited about, [music] we are in a time
+period right now where there is an ever
+diminishing amount of skilled laborers.
+My guest today as a 25-year-old went
+from delivering for Door Dash to making
+$80,000 a month. And he started this
+business less than 3 months ago with
+less than $500. He subcontracts out all
+the work. And in this video, we cover
+everything you need to know to launch
+this business. And at the end, we talk
+very specifically about how to find
+customers for cheap. Also, how to find
+the right subcontractors on the right
+platforms because that's the whole
+business here. You don't need
+experience. You don't need a college
+degree. You don't need much money. You
+just need to watch this episode and
+actually do what Parker talks about
+doing. This is legitimately one of the
+best episodes I have ever filmed. Please
+enjoy. So, your girlfriend graduates
+college. What put you onto a cleaning
+business?
+>> Yeah, so it was not my first choice. I
+mean, it was like my 10th choice. I had
+tried a dozen other things. I tried to
+be a fitness content creator. I tried to
+launch a white label supplement brand. I
+did everything right. At some point, I
+was really just I had exhausted my
+runway. You know, it'd been like six
+months since I had worked. Now, I'm
+engaged. I've got my fiance who's
+working as a civil engineer on
+construction sites like in the 100
+degree heat. working 10, 11 hour days
+and she's coming home and I'm like
+sitting at my laptop trying to edit a
+fitness Tik Tok and hope that it goes
+viral and I'm like all right I need to I
+need to do something
+>> and even if she doesn't say anything
+you're just like h
+>> and her mom was saying stuff you know so
+>> that stings even more me
+>> yeah and you know I didn't know at the
+time honestly but you get the feeling
+and you just also like I I'm a prideful
+enough person where I don't want to be
+in that situation you know I actually
+saw a Tik Tok video of a guy talking
+about he had a cleaning business, a
+remote cleaning business. And I was
+like, "This is cool. This is tangible.
+Makes sense to me." I went to my
+girlfriend and I said, "I don't have any
+money. You You're the one paying the
+bills right now. Like, can we do this?"
+And she said, "Yeah, I'll you I'll loan
+it to you." And the guy let me pay like
+in installments. And we started the
+business. And I started cleaning myself.
+Like I would sell jobs. I I went to
+Walmart and spent a hundred bucks on a
+vacuum and a Swiffer and a bottle of
+multi-purpose and went and cleaned
+college apartments. I was billing myself
+out at like 40 bucks an hour, which was
+way better than Door Dash. Then slowly
+learned the business, like how to
+actually delegate and how to not be the
+the means of production, but rather be
+the person running the business. That
+was end of 23 and I ran that business
+for just about 2 years. That kind of
+skill set was what helped me start my
+holiday lighting business, which I still
+own and still run. At the end of 24,
+similar type of thing. I started just
+putting the lights up myself, you know,
+found some installers pretty shortly
+thereafter. And once I knew the
+business, we we ended up kind of taking
+off with that. And um I sold the
+cleaning business at the end of 25. That
+was my first real like giving myself a
+little buffer. You know, honestly,
+probably it was undervalued when I sold
+it. But
+>> to me, you know, as someone who had zero
+dollars to their name 18 months prior,
+it was like a I could get multiple six
+figures for it. And that was
+life-changing money at the time. It
+really just bought me the flexibility.
+And then January of 2020 or February of
+2026, we finished the holiday lighting
+takedowns. Cleaning business was sold. I
+was like, what am I going to do now? You
+know, like now I've got nine months
+until we're looking at holiday lighting
+again here. Yeah. So, I kind of went
+back to scrolling and and looking for
+other things that people were doing and
+um stumbled across, you know, several
+people in like a 3-day period talking
+about water filtration. Hey, if you're
+liking this episode, please just hit
+subscribe. These episodes take a ton of
+work, a whole team of people, a lot of
+equipment. And if you want to say
+thanks, just hit subscribe and maybe
+share this with a friend. What did you
+do specifically? Like, what did you use
+to build a website?
+>> Yeah, so website, I actually used
+Claude.
+>> Okay. Yeah, that was my first time doing
+that which was very fun. Uh I'm a big
+Claude fan and um getting to like
+actually do end to end like development,
+you know, it's kind of funny to call it
+that as
+>> cuz we don't know what we're doing.
+you're just kind of watching and
+clicking allow and you know going from
+there. But uh built the website on
+claude classic like Google Workspace
+domain GHL white label snapshot for a
+CRM
+>> jobber for a uh scheduling platform and
+I was like all right that's my tech
+stack right email phone scheduling CRM.
+>> Sorry did you use go high level for
+phone as well?
+>> Yes. Yep. Lead connector. So go high
+level for your CRM, customer
+relationship management, lead connector,
+and then uh Jabber for scheduling
+specifically, Claude for the website.
+What did I miss?
+>> Google Workspace for the domain email.
+Yep. Okay.
+>> And exactly what I would have used
+basically.
+>> Yeah. And and I mean that whole tech
+stack is 300 bucks a month, maybe. I
+mean, depending on what you pay for the
+snapshot, maybe even less. Yeah. And
+then we got a a general liability
+plumbing insurance policy, which I think
+was about 180 a month, something like
+that. And that was it. we were live, you
+know, $500 of kind of setup and and we
+were ready to go. But the thing people
+overlook is actually because of the
+nature of like the way I wanted to run
+this. I'm not a licensed plumber. I I
+don't really know this stuff that well.
+I wanted to partner with private
+plumbers and just have them handle the
+install part of it. Right. You got to
+know enough to really be able to hold a
+conversation with those guys. It's
+actually easier with the customers than
+it is with the plumbers.
+>> Yeah. Cuz they don't know anything about
+water filters.
+>> No. Most customers are very very naive
+to it. They basically just know whatever
+they got in a pamphlet or I can always
+tell when a customer is just
+regurgitating like chat GPT. Yeah. You
+know, and they're asking me a follow-up
+question. I'm like, you don't even
+really know what you're asking me. But
+the plumbers, you get on the phone with
+them and they're like, "Well, what type
+of pipe are we using and what's the
+fitting and what's the bypass size and
+what do you do about this?" And in this
+case and in this area of town, all these
+people have crawl spaces, but they're
+only and you're very quickly like over
+I'm in over my head.
+>> And your business lives or dies on the
+plumbers. They're doing all the physical
+work, right?
+>> Absolutely.
+>> The customers, that's sales, right?
+That's marketing and sales, which you've
+done before, but the plumbers is like, I
+have to know enough about this industry
+to not sound like an idiot because if I
+don't have good plumbers on my team, I
+don't have a team.
+>> Yes. Absolutely. And the second thing
+was I just old-fashioned way went took
+the plumbers out for coffee or a lunch.
+Sat down manto man face to face and just
+had a conversation. Hey, this is what
+I'm aiming to do. This is what I've done
+in the past.
+>> I don't know everything about water
+softeners and plumbing and water
+filtration right now, but I'm a quick
+learner. And 30 days ago, I didn't even
+know what a softener was. So, we our
+flagship system is resin and carbon to
+soften and filter all of the home's
+water. And then we also couple that with
+what you have, which is a pointofuse
+system,
+>> reverse osmosis. And that is a either a
+tank or a tankless system that just goes
+under the sink,
+>> draws water through it through a reverse
+osmosis membrane, which is the best form
+of filtration, and then pushes it out a
+small dedicated faucet directly for
+drinking water.
+>> And that's like an upsell. Yeah, we we
+like to sell it as a bundle and it kind
+of becomes our our unique value
+proposition is like, hey, we charge the
+same or less than other people for a
+whole home system and we include the
+drinking water system
+>> and that's just that's just part of our
+bundle. Yeah.
+>> So, that's kind of how we sell.
+>> It makes your close rate go up.
+>> Definitely. Okay.
+>> Yep.
+>> What are your price points for these
+packages?
+>> So, we sell our our flagship which is a
+single tank, a 10x 54 tank. So 10-in
+diameter, 54 in tall. A single tank that
+has both resin and carbon in it. It's a
+mixed bed system, which just means it
+has both. That tank with the RORO or
+reverse osmosis drinking water. We sell
+that at $26.99 installed.
+>> Okay.
+>> Taxes included, install included,
+everything included.
+>> Now, is that is that in the ground like
+at the main?
+>> It is most often installed in the garage
+and tied directly just into the water
+line.
+>> Okay. So the water man we can do you
+know whatever.
+>> So the water man at the street comes in
+right where the shut off would be. It
+comes to the garage or whatever and it
+goes there first.
+>> Yes.
+>> Okay.
+>> So it looks like a tall skinny water
+heater.
+>> Yes.
+>> Okay.
+>> Exactly.
+>> Okay.
+>> It's just a tall black cylinder. Um and
+then there's a small little like almost
+garbage can looking black tank that's
+called a brine tank. Okay.
+>> And you put salt in that. That helps the
+resin softener function properly.
+>> Okay. And 2,700 bucks. Y
+>> Okay. How much of that goes to hardware,
+plumber, profit, etc.?
+>> So, at a $2,700 install, we will pay
+about $950
+for all of the we'll call heavy
+machinery. So, the brine tank, the
+control valve, the actual tank that has
+the carbon and resin in it, and then the
+RO system. So, those are all your main
+components, about $950.
+>> Okay. From there, we'll probably spend
+about $100 per job on miscellaneous
+stuff like just pipe fittings, you know,
+salt, insulation if you're in a cold
+climate where you need to insulate the
+pipes, things like that. So, that puts
+us to what $1050. We'll pay on average,
+I would say, about $500 an install. So,
+>> to the plumber.
+>> To the plumber. Yeah. And that that
+could be as low as 400, that could be as
+high as 600, 650. Sometimes we'll add a
+little bit of markup on top if the
+install is very difficult or we need to
+bury a system underground. Like that's a
+lot of labor. So, but on that that
+classic system, I would say probably 450
+to 500 to a plumber, 1050 for all
+materials.
+>> How long does it take him to do?
+>> About 4 hours.
+>> Okay. So, you're shooting for like 40 to
+50% gross margin, give or take.
+>> Yeah. Yeah. I would say, you know, about
+about 40% gross margin.
+>> Okay. So let's say you said 2,700,
+right?
+>> Yeah. So 2,700 minus 1,500.
+>> So call 1,000 bucks in profit, gross
+profit. How much of that is like
+marketing costs or sales costs?
+>> Yeah. We right now acquiring clients for
+like
+175 bucks a client, which is really
+really cheap. I don't expect it to stay
+like that quite frankly. It's it's
+that's uncommon um from what I've seen.
+But I mean, I even feel that a client
+acquisition cost of 300 or 350 is very
+justifiable. I mean, you're still
+running the 3x return on whatever you're
+spending.
+>> Yeah. Cuz that puts your net margins
+closer to 30%. Yeah. Which is amazing
+for any business, especially home
+service. What are the drinking water?
+That's a good investment.
+>> Yes. And that that's a lot of what it
+comes down to is a lot of people, they
+look at the price and what we do that's
+unique about our our kind of marketing
+angle is our best performing ad. We
+closed our first deal on $41 of ad spend
+>> and it was just a static image ad that
+was a photo of our unit and it said
+$26.99 installed
+>> and that was it. That that was it. What
+was the headline or text or
+>> I mean everything was just like whole
+home plus drinking water $26.99
+installed and the entire angle the
+entire thing we try to do is pick up the
+scraps left behind by the billion-dollar
+companies like Cooligans Kinetico Leaf
+home water where they come they do this
+big in-person sales process it's a
+really elaborate thing
+>> they test the water
+>> yes and the price point is 67 8,000 and
+for honestly a very comparable system
+>> and we're like following in their wake
+like picking up all the people that just
+got completely priced out.
+>> Yeah.
+>> You know, because there are plenty of
+people that can afford that $8,000
+system and they'll go with them because
+they're a hundred-year-old company that
+has been doing this forever and they
+know they're going to get a certain
+product and a certain experience.
+>> Yeah. But there are so many people that
+just purely cannot afford it
+>> or don't want like I can afford 8,000. I
+wouldn't pay that. It to me it doesn't
+have that much value. Right. That it has
+to match the value.
+>> Yes. And a lot of people are just the
+analogy I always love to use is like we
+we opened up a uh a Chevy dealership
+next to a Ferrari dealership.
+>> It's price anchoring.
+>> Exactly.
+>> They're they're doing your heavy
+lifting. They're anchoring. So, if you
+put 2,700 bucks in the ad, you don't
+need a killer sales guy.
+>> No.
+>> Which is great because you don't have to
+pay a sales guy 25% commission.
+>> Nope.
+>> Quick word about today's sponsor,
+Beehive. They just launched something
+called community, and it does something
+that I've never seen on any other
+platform. Every newsletter and podcast
+you publish gets added to your feed
+automatically, sitting right in front of
+the people who already love your stuff.
+So, your biggest fans get a whole new
+way to find out what you love with no
+algorithm getting in the way of what it
+wants them to see. and the conversation
+keeps going. The replies that your
+readers send come out of your inbox and
+into a live town hall where everyone can
+jump in. You can add community access to
+any subscription you already sell in
+about 5 minutes. Whether it's free,
+premium, fully paywalled, or paywalled
+with upsells inside. And yes, of course,
+Behive doesn't even take a cut of those
+earnings. A quick community post is easy
+to write, and the feed is easy to
+scroll. So now you can keep your short
+form and your long form in the same
+place instead of renting that space on
+social media. Get more juice from
+everything you produce. The links in the
+description below. Well, how did you
+land on that price point?
+>> Two things. The first thing was that I
+always wanted to target when I made this
+step up, I said, I want to target $1,000
+net margin. That's my ideal price point
+to be at. Can I make $1,000 in net? And
+that gives me a lot of wiggle room for
+promos, for, you know, uh, bulk
+discounts, for referral programs, for a
+lot of things. And then the other thing
+that I thought is, why wouldn't I just
+sell as many as I can at this price
+point and my two options are either it's
+working phenomenally and we just keep
+going or if it's working well, but the
+margin isn't strong enough, then we can
+just raise price once we have a
+reputation that allows us to do it. So,
+I just said, "What's the cheapest I can
+go where I can still target making
+$1,000 a job?" And then I can inch my
+way up from there as I have a review
+that or like a a reputation that allows
+me to do so.
+>> Yeah. What percentage of your customers
+are you getting from Facebook ads?
+>> 95.
+>> What about the other five uh referrals?
+>> Yeah, referrals. Business profile.
+>> Google business profile. Yep. We we have
+52 fivestar reviews. Wow.
+>> In 80 days. I think today is 85 days
+since we turned on ads.
+>> Wow.
+>> I am like a psycho about Google reviews.
+Like
+>> if we do a Google review for or we do an
+install for a client and I've been
+speaking with Zach after the job's done,
+I'm going to say, "Zack, hey, do you
+mind leaving a review?" I'm going to get
+Zach to do it. I'm going to say, "Hey,
+Zach, I'm going to be in the area
+actually later this week. I would love
+to come by, drop off some extra water
+softener salt for you guys. Would you
+mind uh having your wife leave a review?
+Would you mind having your brother leave
+a review?" reciprocity, right? You're
+saying like here's some free salt. Also,
+can you do me a favor?
+>> And it's not a if you do this, then I'll
+be
+>> It's implied though. Yes. And that's
+okay.
+>> Absolutely.
+>> And I feel like the the higher ticket
+your home service, the more you have to
+be a maniac about begging for reviews
+because if I'm a landscaper doing $50
+jobs all day, like whatever, I'm doing a
+hundred of these a week. But if it's a
+$3,000 ticket, a $3,000 item, then
+you're only going to do so many of
+those.
+>> Yeah.
+>> Right. Few a week, 10 a week, whatever.
+So you got to get more reviews.
+>> Absolutely. And we are the on the east
+side of Raleigh where our GBP pin is
+located. So I guess like where our
+physical location is, we are the number
+one ranked water filtration company.
+Like if you look up water filtration in
+Raleigh and you are on the east side of
+town, we are number one.
+>> And how long have you been at it?
+>> 85 days. [laughter]
+>> All right. So let's start. So what day
+did you start the business?
+>> June 8th.
+>> June 8th. Like you built the website
+that day or before that? That was like
+>> that was like go live.
+>> That was go live.
+>> You told the world that you existed,
+right? Building a website isn't really
+doing that.
+>> No. No. You know that it's I could have
+built the web. I think I I filed the LLC
+maybe on like May 15th or something and
+then I spent three weeks like just
+getting everything ready. Okay,
+>> that was those uh coffees with my
+plumbers and getting them on boarded and
+comfortable. That was building out my
+website, building my first ad creative,
+setting up my ads manager, little things
+like that. June 8th was the day we said
+we're live, right? And that was ads on.
+Plumbers were eagerly waiting work,
+>> you know, and that and that's kind of
+what I consider our first day one.
+>> Okay. Who did your Facebook ads?
+>> I did.
+>> Okay. Yourself. And you had experience
+with your other businesses?
+>> Yes.
+>> Okay. How many ads did you launch with?
+Like one that still that static image,
+multiple
+>> three static images. Okay. No videos.
+What are like your tips and tricks for
+making Facebook ads successful for this
+industry? So, do you use Advantage Plus
+for targeting?
+>> No, I turn most of that stuff off. In
+the beginning, we actually started with
+just a broad targeting, just geo
+targeting. That was it.
+>> Zip code or or cities?
+>> Yeah, we did kind of
+>> radius.
+>> Yeah, more more like radius. And the way
+that Raleigh is laid out is it's it's
+very sprawling. kind of similar to a DFW
+where it's all one metro, but it it's
+it's big. Um, so we kind of expanded out
+that way. We set a couple focal points
+and then expanded radiuses around those
+focal points. And then over time, we've
+just
+>> now actually trained a pixel and now we
+can actually do a little bit of
+retargeting and we can, you know, create
+lookalike audiences and things like
+that. But before, were you saying
+Facebook, you know, we want 30 to 60
+year old homeowners or did you just say
+this is the radius? You go
+>> Raleigh 30 to 60
+>> age.
+>> Yep. That's it.
+>> Okay. Not male or female, just not
+homeowner.
+>> Nope.
+>> Okay. And now you're still doing that,
+but with the pixel that's trained, but
+with a lookalike audience of people that
+have clicked or called or purchased.
+>> Correct. Exactly. By the way, if you are
+a diehard fan here on YouTube and you
+want episodes early or exclusive
+episodes or unedited full episodes, join
+my community. It's only five bucks a
+month. Don't join on iPhone cuz it'll be
+seven bucks a month and that doesn't go
+to me. Join on desktop and it's only
+five bucks a month and you can get
+exclusive replies from me. Early access
+to all these episodes, exclusive
+episodes that never make it to the
+general public and every single $19
+business plan is free. Five bucks a
+month. You can check us out at the link
+below or on my channel page that's
+hosted right here on YouTube. So June
+8th, first day, what do you do in sales
+and profits in June?
+>> So in June, we did about I think it was
+five installs. We sold our first job on
+June 8th. Second lead we ever got. We
+installed on June. Yes. On the phone.
+Super nice guy. David was his name. And
+he was like, "Yeah, I want a your
+classic flagship system in my garage.
+Easy install. I just moved in yesterday.
+I just want the system in.
+>> And I said, $26.99. He said, great. When
+can you come?
+>> And we said, two days. So, we came out.
+Uh, we installed on Wednesday. We ended
+up selling, I believe, fulfilling four
+more jobs that that month. So,
+>> 10 grandish.
+>> 15.
+>> Okay.
+>> Yeah. Cuz I think we had one that was
+about 4,000. It was like a well system.
+And then the rest were all around 2,700.
+So, I think it got us right around 15.
+>> So, 15 grand in sales your first month.
+How much profit? Well, I mean, if you're
+looking at operating profit, it was
+probably about 800 bucks a job, but if
+you're looking at real profit, it was
+zero because I I frontloaded inventory
+and, you know, reinvested everything.
+So, but I'd say operating profit
+probably
+>> probably about $3,000.
+>> Okay. And then July,
+>> uh July, we did uh just under $50,000 of
+installs. So, we did uh it was 16 jobs.
+Um it ended up being like 498 like just
+shy of 50,000. Um and again I would say
+our operating profit would have been
+slightly lower than that that first
+month because we were kind of figuring
+out some of the um sales side and I was
+struggling because I was a oneman show.
+Mhm.
+>> I was struggling to follow up with
+leads. And the big thing that was
+different about this industry was we
+have a 25% true closing rate, which is
+very high
+>> once you get them on the phone.
+>> No.
+>> Or
+>> true closing rate. Like 25% lead to
+close. 25%. Super high.
+>> Yeah.
+>> But the problem is
+>> we don't get a client on the phone
+normally within the first like four or
+five touch points. So, we've got to call
+them for a week before we even get to
+speak to them. Once we speak to them, we
+close at an extremely high percentage.
+Like, we're closing probably 35% of the
+people we actually speak to.
+>> Wow.
+>> But I was only speaking to a very small
+percentage because I had to call them
+when they opted in and they didn't
+answer and then the next morning and
+then the next evening and then the next
+morning and the next evening and we had
+automations running but I was just
+getting inundated with leads. Too many
+leads. I didn't have the time to call
+everyone. So our CAC went up because we
+were overspending. We had too many leads
+in the pipeline and people weren't
+dealing with them. But still probably
+let's say 650 I would say is probably a
+pretty good
+>> 12 grand in profit give or take.
+>> I I would say something something around
+there. Probably 11 to 12.
+>> And what what were you paying per lead
+to Meta?
+>> It's always range between 30 and 40
+>> per lead. Yeah. Okay. It is crazy
+because I have a like a backyard sport
+business and then a tree trimming
+business and those instant form leads
+can be so weak.
+>> Oh yeah.
+>> Like sometimes you call them like who
+are you? What? I don't know what you're
+talking about. And like bro this you
+submitted this 45 seconds ago. Like
+speed delete is everything, right? What
+do you do about that? You just keep
+calling.
+>> Yep.
+>> Remind them.
+>> We live by a mantra in my business and
+my my uh operations manager Jack could
+attest to this. until the lead either
+opts out of conversation or says, "Leave
+me alone." Yeah.
+>> It's incessant. Like, we we are we are
+ruthless with followup because if you
+filled out my form and you tell me that
+you didn't fill out my form, fine,
+whatever. We'll we'll remove you from
+the CRM. There's 10% of metal leads,
+that's just how they are. I I don't
+understand it. It's got to be an
+algorithm problem. But we get that all
+the time. We call and they're like, "Why
+are you calling me?" I'm like, "You
+filled out a form yesterday and I've
+just been trying to get a hold of you."
+I never filled out a form. I don't know
+what you're talking about. Yeah,
+>> that's not even my name. I'm like,
+"Okay, sorry. And have a nice day." You
+know, but everyone else, it's a yes or a
+no. We don't take not answers. That's
+that's not an option.
+>> But there is a correlation between how
+many times it takes you to follow up
+with someone and the chance that they'll
+ever actually answer, right? Of course,
+a month from now, the the likelihood
+drops way off. But what we saw and I
+looked at my numbers before coming on
+here so I could be well educated as we
+talked about it. Um, when I brought my
+operations manager in, I brought him in
+on like the 3rd of July or of August
+because July I got overrun. I was like,
+I need to bring somebody in. Originally
+brought him in just as a sales guy. Was
+like just follow up with the leads, call
+the leads and and sell jobs. It didn't
+really work very well in that regard
+because there was too much disconnect
+because he had to also, you know, have
+conversations with the plumbers about
+special installs and scheduling and, you
+know, get service agreements or things
+like that. And I was like, "Okay, I'm
+going to have you're going to be an
+operations manager and you're going to
+just own it end to end, right? Lead to
+job completed. You need to own that
+process." And that's worked much better
+for us. So, I gave him the first two
+weeks. He basically just called old
+leads. We didn't really spend anything
+the first half of August because we had
+so many old leads in the pipeline and I
+I wanted him to get his feet underneath
+him.
+>> August 15th, we go back to $200 a day of
+spend.
+>> I meant to ask, what were you spending
+per day in June and July?
+>> June it was probably uh $100 a day on
+average.
+>> You spent two two grandish in June,
+>> something like that. Um and then in July
+it was probably $300 a day for the first
+10 days. Then $400 a day for the middle
+10 days and then like nothing for the
+back half because I was just overrun
+with Yes. Exactly. And um so I bring in
+Jack and uh he starts August 15th is
+when I consider his first real like he's
+in the big leagues now. Leads are
+flying. Everything is we're we're going
+and we're at we're at full steam ad u
+$200 a day of ad spend. He just sent me
+the readout from August 15th to August
+31st. So about 17 days we got 89 leads.
+>> Those are fresh leads, not old ones.
+>> Yes. Not old ones. New leads. 89 leads.
+>> All right. So we're talking like four
+leads a day or three. Three to four.
+>> Yeah. Something like that. Yeah.
+>> Four even five some days, you know, and
+you know how Meta is. Some days it's two
+and then it's eight. And some I'm sure
+we're duplicates, but let's say 89 was
+the actual number on the Meta Ads
+Manager. We actually connected with 70%
+of those leads. So 30% of them never got
+a
+>> hold. Not texting phone. Do you do you
+count a text as a
+>> connect? We actually prefer text. Um
+>> sure. But are they as effective?
+>> I think that text is just as effective
+because so many buyers are so averse to
+calling that our intro is not speed
+delete immediately call. It's speed
+delete immediately text. When is a good
+time for us to talk?
+>> Okay. So, you're setting up a call but
+texting first.
+>> Yes. And so, always they opt in and
+it'll be, "Hey, Kevin, this is Jack with
+Raleigh Water Pros. I got your form.
+When's a good time for us to chat for 5
+minutes so I can get you a quote on a on
+a whole home system."
+>> And is that automated?
+>> Yes.
+>> GHL?
+>> Yes.
+>> Okay. So, as soon as the new lead's
+created, that that message gets
+automated, sent out. And then the
+majority of our customers will text and
+respond and say, let's say 50% of our
+customers will text and respond and
+either say now or in a week or Monday or
+who is this, I don't even know what
+you're talking about, right? And then
+we'll schedule the calls from there.
+Then we have another flex 20 25% that
+don't respond to the text and then they
+just go into the call cycle. We're just
+calling and texting them trying to get
+some form of life from them.
+>> So on your follow-ups, are you texting
+them over and over until they respond to
+get them on a call or do you text them
+once and then you start calling?
+>> Then we start calling. Yep. So we text
+them and we'll give them about an hour
+to respond to that first text and then
+they get called and texted after that
+>> and the call is manual.
+>> Yes.
+>> Okay. You're getting a trigger in GHL or
+whatever. Then a human's picking up the
+phone.
+>> Yes. Correct. So we're doing that. So we
+had about 70% connection rate. So 30% of
+leads we never got a response from
+>> text or phone.
+>> Text or phone they they were or they
+just opted out immediately. Of that 70%
+we closed 20% of the full 90 of them. So
+I think that would be you it was 18
+leads out of what would that be 60. So
+you know it it was a good percent about
+30% of the leads that we actually closed
+that we got on the phone with. Let's say
+hypothetically between August 15th to
+31st you got 100 leads
+>> of those you connected with 70 and then
+what was the next step down the funnel
+there?
+>> So the best way would be we got 90 leads
+we connected with 60 of them and then we
+closed 20 of them.
+>> Wow. Okay. So you closed Yeah. I mean 20
+a quarter of all all of your leads which
+is what you said a few minutes ago. Yep.
+>> At an average ticket of 3,000
+>> 3,300.
+>> Okay.
+>> Yeah. cuz we we sell a lot of a lot of
+people are eager to buy the upsell when
+they see how valuable the main is.
+>> They're like, "Wow, I was I was really
+about to pay five grand for this." So,
+now that it's 2,700, sure, I'll buy the
+$500 upsell thing, no problem.
+>> So, what were your August sales then?
+>> So, in August, we did uh 81,000 in
+revenue.
+>> Holy crap. Your your second full month.
+>> Yes.
+>> Or your third month?
+>> 81,000. And the crazier part is as we're
+sitting here, you know, and and we're
+September is just begun, we have 54,000
+of installs on the calendar for
+September.
+>> That's wild.
+>> And that's all from August. August.
+Yeah.
+>> Yeah. Right.
+>> So, of the 80 Wait, 81,000, how much was
+profit?
+>> So, 81 installs was generated by uh
+about 25 jobs roughly. Mhm.
+>> And 25 jobs our net margin. It went up
+because we did better with the CAC, but
+it went down because now I pay Jack for
+every closed job. So, uh, Jack gets $200
+per closed job, not a percentage of
+sales cuz I don't want him selling a
+product that people don't need, right?
+So, he gets $200 flat plus his base
+salary. So, the gross profit per job
+kind of ended up back around like 750
+800.
+>> Yeah. Beautiful.
+>> Yep. So at 27 jobs,
+>> 18 grand.
+>> Yeah,
+>> give or take.
+>> Something like that,
+>> man. Yep.
+>> Your third, your second full month.
+>> But again, we didn't take any profit. I
+haven't taken a dime
+>> because you're growing it like you want
+to build
+>> and we're buying so much inventory cuz
+one of the biggest bottlenecks that we
+really faced in the third week of July
+and in the second week of August and
+that 81 grand that we did was with zero
+installs in the second week of August.
+>> H
+>> because we didn't have product. we were
+waiting for inventory to come in. That
+has been a a recurring issue for us. And
+so I finally was just like, I'm done
+with that. I'm done with that game.
+>> I want to have way more than I'm going
+to need of every system that we're going
+to sell. So that
+>> it's too expensive.
+>> It's way too expensive to not be able to
+install it.
+>> Where do you store it all?
+>> Uh I have a 10x20 storage unit
+>> and 150 a month. 200 a month.
+>> Uh 125. Yep.
+>> Jeez.
+>> And it is um remote access. So my
+plumbers I have a smart lock on it.
+Every plumber has their own access code
+and then they all have the gate code and
+my delivery driver has his own access
+code. We do all of our freight LTL and
+it's we had the same driver and
+>> so you don't need to ever go there or
+touch it or do anything.
+>> I go there twice a month.
+>> Yeah.
+>> And honestly the only time I go there is
+to break down deliveries cuz they come
+in pallets and they're shrink wrapped
+and all that. So I go spend a couple
+hours sweating out in the sun, breaking
+everything down, getting it organized,
+clearing out all the trash that the
+plumbers are leaving behind. But other
+than that, there's really not much.
+>> When it comes to plumbers, how does
+someone find a good plumber?
+>> My experience has been more
+straightforward than I think most people
+would. What I did, I went to Indeed, I
+made a sponsor job post. I said, "Hey,
+I'm looking for a plumber. I'm looking
+to pay between 75 and 125 an hour, and I
+need you to be licensed independently,
+have all your own supplies, and be ready
+and willing to take at least two jobs a
+week. And this is what you're going to
+do. You are only doing whole home
+softener, carbon filtration, and point
+of use drinking water. That's it. And I
+ran that as an sponsored Indeed post.
+$90 a day budget for four days. I got
+four four qualified leads. I hired three
+of them and I was done.
+>> So, not a lot of leads, but good leads.
+>> Yes.
+>> What types of people are these? Are they
+business owners? Are they employees?
+>> They're all private business owners.
+They all own
+>> just like Chuck in a truck guy.
+>> Yes. All of them. They're all, you know,
+Kevin's plumbing company and maybe they
+have a website, maybe they have a a van
+with a cool decal on it and, you know,
+but they just can't stay busy enough.
+Yeah.
+>> And [clears throat] we I I personally am
+not a fan of hiring people that are in a
+place of struggle.
+>> And I know that could sound insensitive,
+but it's just the reality. I don't want
+to hire the plumber who is like, "Hey
+man, I'm like about to get evicted. I
+can't get any work. on.
+>> Yeah.
+>> But I don't You also can't hire a
+plumber that is busy seven days a week.
+>> 3,000 fivestar reviews.
+>> Yeah. It's never a bunch of wrapped
+trucks, a bunch of crews.
+>> No. I need a guy who's really good at
+what he does. And he's busy 30 hours a
+week, but he'd love to be busy 40, 50
+hours a week. And the way that I view
+it, I mean, we we're we'll do in
+September, we better do 150,000 plus,
+which will be call it 47 installs.
+That's I think the number we've set out
+for. 47 installs. That's two and a half
+plumbers. I mean, that's not even full
+capacity for three plumbers. Yeah.
+>> And when you do the math on what they're
+going to make, then let's say it's three
+plumbers. They do 16 jobs each and they
+make an average of 500 bucks a job.
+>> I mean, that's a really good setup for
+them as well. They're going to make an
+extra $8,000 a month.
+>> Yeah.
+>> No, nothing impeding on their schedule.
+You know, they don't have to do anything
+outside of a comfort zone. They don't
+have to buy new equipment. They don't
+have to stock inventory. They don't have
+to run ads, sell jobs, do estimates,
+none of it.
+>> I mean, if I'm a plumber, I'm going to
+do this exclusively.
+>> Oh, and and many of our guys come in and
+they start to trend towards that. Yeah.
+>> Please, I need you. I need you to send
+me your stories. If you or someone you
+know made thousands of dollars in a
+short period of time with a business, a
+side hustle, a growth hack, I don't care
+what it is. I want you on this podcast
+to give you free publicity and to help
+grow my podcast. So, if that's you, go
+to tkos.com,
+fill out the form. If it's a friend of
+yours, send them tkos.com,
+have them enter your name, and I'll give
+you a thousand bucks for the referral.
+That's tko.com.
+>> The first guy that we hired, he was
+like, "Yeah, you know, I can maybe take
+two or three a week." He does like nine
+a week for us now,
+>> cuz it's better than fixing a toilet,
+right? Like,
+>> he can't get better work. I mean, he
+makes on average $100 an hour working
+for us, and I keep his schedule as full
+as he'll let me. Do you have any data on
+specifically what percentage of your
+previous paying customers had someone in
+their home from a different company?
+>> I don't have the exact number, but I
+could very confidently say it is over
+over 35%.
+>> Wow, that's wild. Just anecdotally, what
+based on what people are saying
+>> just based on the pure number of people
+that send us a water test,
+>> which you don't just have a water test
+laying around, right? That means
+somebody came and did a water test for
+you. And we always say on the call, do
+you have a water test? Did you get one
+done? And then if they say yes, we say
+great, send that over. And then now
+we're on even terms with Eco Water or
+whatever it is because we have the same
+information in front of them. They
+already had the shop, even if we don't
+see their pricing,
+>> but we know exactly what Eco Water
+knows. So there's no knowledge gap. And
+now the inhome visit has no value. They
+already had the shock value, which we
+can piggyback off of, and we have the
+test results. So there you go. Now we're
+on even terms with whoever already
+quoted them. and our price is cheaper.
+Or if they say, "No, we didn't have a
+water test done." Can you come and do a
+water test? If it's a private well, we
+will do a water test or send them to
+someone else to do a water test, like a
+third party, the county, whatever, cuz
+wells are a little bit more intricate
+and you don't want to prescribe the
+wrong well system. But the majority of
+our customers are city water systems. In
+which case, I can say, you know what,
+you might have been told by someone that
+they need to come out and test your
+water. That's really just kind of a
+sales gimmick. I'm not a fan of that
+personally. I'd rather save you your
+Saturday afternoon and save you the cost
+of a sales rep. Just pass that savings
+on to you. I can pull up the EWG water
+report public government database and I
+can tell you exactly what's in your tap
+from the second that it left the water
+filtr the water treatment center.
+>> Yeah.
+>> And people love that. They eat that up.
+So, if you want to start a water
+filtration business just like Parker,
+you'll see below in the description it
+says Parker's website, go there and you
+can get more info. I promise it is super
+tactical, high quality. You can work
+with Parker directly. I would not be
+pitching it if I didn't believe in him
+and in his product. So, right below
+you'll see Parker's link colon. Go to
+that link and you'll see exactly what I
+mean. How can people avoid the most
+headache when starting this business or
+accelerate their success? I think
+accelerating your success. Um, if you're
+going to sell jobs and you're not going
+to have inventory, take a deposit. It'll
+stop people from walking if your
+inventory gets delayed.
+>> Okay. Do you take deposits?
+>> I do not because I have inventory. So, I
+just install right away. Okay. Like, if
+you said yes today, I'd say, can we come
+tomorrow? That's how we operate. But if
+you're not going to have inventory on
+hand and you're going to get a customer
+to say yes, sign a service agreement,
+and then you're going to order
+inventory, wait for it to ship in, all
+that, which a lot of people want to do
+if they want to cut cost in the
+beginning, take a deposit. It stops the
+customer from just walking because they
+get bored of waiting or because they're
+they got a better offer from someone
+else. Right? That's the first thing. And
+then the second thing I would say is do
+not stress at all about any of your
+sales or marketing data until you're at
+least a month in. We actually looked at
+the numbers of that closing of those 18
+jobs that we closed. Only one of the 18
+jobs from that uh 90 leads we talked
+about earlier. Only one of them was
+closed on the day that they opt in opted
+in on their first call.
+>> Yeah.
+>> One.
+>> That doesn't normally happen.
+17 of them were closed at least one
+additional touch point.
+>> Okay?
+>> And 10 of the 18 were closed outside of
+3 days after their first touch point.
+>> Okay? So, keep following up. Don't be
+depressed if they don't pay on the first
+day because most people won't by nature
+of how expensive this is.
+>> Yes. and and even like getting the first
+touch point actually with them like
+understand you might have to contact a
+lead eight times before you even get the
+conversation and then the timer starts
+>> then.
+>> Yeah.
+>> So it still could be two weeks until
+they pay after that. Our longest lead to
+close cycle so far was 49 days.
+>> Wow.
+>> And there was probably two dozen touch
+points in there.
+>> Most people are going to quit on them by
+then.
+>> Most people are 100% quitting on them by
+then. And when you do the math, quitting
+on them makes no sense. Even with that
+customer that we waited 50 days and had
+20 plus touch points, the average touch
+point costs you 60 seconds. You know, a
+non-answered phone call, a non-answered
+text costs you 60 seconds.
+>> Yeah.
+>> So 20 minutes of time plus, let's call
+it three real lengthy conversations of
+20 minutes, it's an hour and a half of
+your life to close that one customer.
+and we made $1,000 on it.
+>> Yeah.
+>> Like it still makes a lot of sense.
+People just get very discouraged and
+it's almost why I don't like saying I
+one call closed my second lead on $40.
+It's not realistic at all.
+>> And we have one call closed like five
+customers since then. Yeah.
+>> We have two, three, 10, 20 call closed.
+Five times as many.
+>> Yeah. Before I ask you where we can find
+you, is there anything I I should have
+asked you about but I didn't? anything
+interesting about this industry?
+>> I think the most interesting thing is
+the fact that the model has nothing to
+do with water filtration. That's I think
+the thing I get personally most excited
+about. We are in a time period right now
+where there is an ever diminishing
+amount of skilled laborers and people
+that are really really talented at at
+what they do. I mean way more people are
+retiring than there are people that are
+starting. And what's what's what's
+happening is effectively between that
+and the giant PE entrance into this
+space, you have so many service types
+that have a market rate that is just
+completely made up by whoever the five
+people that offer the service are.
+>> Yeah.
+>> Like the fact that the going rate for
+this service was $8,000 has nothing to
+do with water filtration. Yeah. I
+guarantee you if you spent a weekend,
+you could find 6 to 10 more services. If
+you went in the electrical, like a MPU,
+a main panel upgrade, I guarantee you
+that is a $10,000 price point. There's
+no reason that that cost $10,000
+>> and no one's thinking about it.
+>> No. And there's just a shortage of good
+electricians and people that can bring
+leads in and and you know, make it make
+sense for a customer. I think there's so
+many of these opportunities that exist
+in the trades, in HVAC, in electrical,
+in plumbing. And it's not a this isn't a
+water filtration business model. Water
+filtration is the product and the
+service, but it's not the water
+filtration that made it special. It's
+that gap that exists in so many of these
+high ticket, very skilled trades.
+>> Yeah. Well, Jeff Bezos used to say,
+"Your margin is my opportunity." That's
+kind of what you're saying.
+>> Yeah. And I always say on this podcast,
+there's over a thousand home service
+industries, but you're saying like the
+industry is the product within the
+industry. So if if any given industry
+like plumbing has, let's be conservative
+and say five like higher ticket
+offerings within that water heater
+install. I know a guy that only does
+water heater installs. He's not a
+plumber. He subs it out to plumbers.
+>> Then there's 5,000, 10,000, 20,000
+subindustries industries of just
+offering one high ticket service within
+a bigger industry like
+>> Yes. And how many entrepreneurs out
+there are even have those on their radar
+to compete with you? They're vibe coding
+apps, right? And so you're saying like,
+"Cool, that's cool. I vibe code apps,
+too." But the more people that are doing
+that, the more opportunity there is for
+stuff like this.
+>> Yes. And it will always be overlooked
+because people they don't understand it.
+They think that it is harder or more
+complicated than it really is. Yeah. And
+I think they they think that they don't
+understand how high margin some of this
+bluecollar stuff is. They think all the
+margin is in tech. They think all the
+margin is in, you know, these fancy new
+school businesses SAS that has 100%
+margin. Yes. You're not going to do
+water heaters at 100% margin. But that
+$8,000 water heater is 70% margin.
+>> Yeah.
+>> You can come in and not really even be
+very good at sales or marketing.
+>> Yeah. just put your price in there. Just
+wedge the market on price and deliver a
+good service with a high quality,
+especially if you can do licensed
+installer. That's a business and it's
+really not. It's a website and a chat
+GPT ad and a decent sales script
+>> and then just enough product knowledge
+to, you know, hold a conversation with
+an installer.
+>> Yeah. For me personally, one of the
+biggest takeaways from this is just
+putting the price in the ad for a high
+ticket home service and finding the
+people that are already educated. I'm
+sitting here wondering like one of the
+first things I do after you leave my
+house is I'm going to log into my meta
+ads manager and I'm going to go to my
+backyard funhouse Facebook ads where we
+sell sport courts and pools and I'm
+going to make an ad that just says it
+has it'll have a picture of a sport
+court painted with pickle ball and
+basketball and it's going to say $29,000
+sport courts and I'm only going to find
+those random people that know that
+that's actually a $40,000 sport court.
+I'm going to call that guy. Yes.
+>> Like why wouldn't the same principle
+apply? Fewer people that need a sport
+car, of course. But there's still people
+Meta can find them.
+>> Absolutely. I mean, that that that is
+exactly I think the the thing that was
+so mind-boggling to me because I think a
+lot of people know that home services
+advertising is either founder focused or
+offer focused. That's what I've found
+works, right? It's either about you and
+the brand and your locality and all of
+that, or it's about the offer,
+>> buy one get one free, you know, a great
+price, etc. So why try to force a good
+offer in an ultra competitive niche?
+Just go find a niche that is lacking
+people with a great offer. Yeah.
+>> And then that is the sales and
+marketing.
+>> The whole is the offer.
+>> Yeah.
+>> That's brilliant. Parker, this has been
+amazing. Where can people find you andor
+your businesses?
+>> Parker J. Smith on everything. So uh
+that's Parker Jay Smith. Instagram,
+LinkedIn, Tik Tok, Twitter X, whatever.
+Uh, and then Parker Home Services on
+YouTube. And I upload twice a week on
+YouTube, post every day on Shore Form
+and everything else. And I help people
+start home service businesses, grow
+existing ones, and I love them. I I've
+been constantly building my own for
+three years. I plan to keep doing it for
+another decade. So,
+>> beautiful. Thank you, Parker.
+>> Absolutely. Thanks for having me. By the
+way, we took this transcript from this
+episode plus a ton of research of other
+people running this business and put it
+into a 25page
+business plan. super thorough charts,
+graphs, marketing tips, everything. You
+can get that for only 19 bucks at the
+link in the pin comment or in the
+description. And if you want to get all
+of those $19 business plans for free
+forever, just join the $5 a month
+YouTube community. Hit a like or a
+comment below and we'll see you next
+time on the Coloner

@@ -1,0 +1,635 @@
+Some businesses were here before AI, and
+they're going to be here long after AI,
+and one of those is a boring old
+directory site. [music] And if you don't
+know what a directory site is, they're
+sites that look like this or this or
+even ugly ones like this. I'm going to
+build one of these today using an AI
+tool that [music] will pit a bunch of AI
+models against each other, so I can be
+sure that I'm getting the best one. Not
+just that, but I'm going to ask the AI
+tool which type of directory should I
+even build? Cuz I don't know what type
+of directory is the most likely to get a
+lot of traffic, therefore [music] make
+me a lot of money. I'm going to use this
+tool to do all of that. It used to take
+a developer months worth of work even to
+build a simple directory website, but
+today we can do that [music] in minutes.
+And believe it or not, there are still a
+zillion directory opportunities out
+there because there's so many niches
+[music] that people aren't even thinking
+about. What I love about directories is
+that once they're built, they're quite
+passive. They basically run themselves.
+[music] You can monetize with ads,
+subscriptions, or you can collect leads
+organically and sell them to the
+businesses that are listed on the
+directory site. But enough talking, over
+the next few minutes I'm going to build
+one live, share my screen, show you the
+prompts, show you how to do it, connect
+payments, and publish it to [music] the
+internet all throughout the course of
+this video.
+So, to start, we're going to go to this
+website right here, is the tool that
+enables us to use all the different
+models in one chat interface and even
+make them compete
+against each other, so we can be sure to
+get the best output. The link to this is
+in the description, by the way. So,
+we're talking chat GPT 5.6, Opus 4.8,
+Gemini 3.5, Grok, Deep Seek, and a bunch
+of other models you've probably never
+heard of. And we can access any of them
+just by hitting this drop-down, going to
+chat, and then we go to this drop-down
+and picking the one that we prefer, or
+we just pick route LLM, and that will
+automatically make all of them compete
+against each other and just give us the
+best possible output. Now, if we want
+this tool to be an AI agent to go out
+and use these models and actually do
+stuff for us, then we're just going to
+hit this drop-down and click agent. And
+it costs about 10 bucks a month, which
+is less than what any of these
+individual tools would charge you for
+the same pro models that you get right
+here. Okay, but we're going to start
+with the old standby, which is ChatGPT
+5.6. Boom, right there. There's my
+prompt. What's an underserved local
+directory niche I could build and
+monetize? Give me one specific niche,
+who pays for it, and how it makes money.
+Okay, super fast. Commercial kitchen
+equipment repair directory. Not anything
+I would ever think of, but for some
+reason ChatGPT is seeing signals out
+there that tells it that this is an
+underserved niche directory idea. But
+we're not content with this. We're going
+to give it the same prompt. We're going
+to paste it. We're going to go Opus 4.8,
+which is one of my favorites right now.
+Same prompt, hit enter. Estate cleanout
+and senior downsizing directory. Never
+would have thought of that either. Now,
+let's go to my least favorite model
+right now. Sorry, Google. Gemini 3.5.
+Same prompt, hit enter. And remember,
+how I feel about these ideas doesn't
+really mean anything. I haven't done
+enough research to know which of these
+three ideas is the best. Okay, Gemini
+says aging in place an accessibility
+home modification directory.
+Another very random one I never would
+have would have thought of. So,
+commercial kitchen equipment from
+Claude. Claude thinks this niche is
+attractive because it avoids the crowded
+generic local business directory. That
+is true. Oops, sorry, that was ChatGPT
+that said that. And Claude thinks the
+estate cleanout directory is underserved
+because people that are searching for
+this tool are grieving, overwhelmed, and
+time-pressed, and they want a trusted
+shortlist not to vet 15 different
+companies. All right, I like that. And
+then Gemini thinks that aging in place
+as a directory is underserved because
+well, it didn't it didn't tell me why.
+So, call it confirmation bias, but
+telling you I don't really like Gemini.
+But hey, if it wins, it wins. Okay,
+let's pick a winner. So, we've got one
+B2B directory, business-to-business.
+That one's from ChatGPT. Commercial
+kitchen equipment repair directory. It's
+not going to be consumer searching for
+that. So, I like that because it's
+higher dollar value. You can usually
+make more money in business-to-business
+businesses, but it's also harder to get
+traction there. It's harder to break
+through to a decision maker. That's the
+trade-off that you make. And the other
+two directory ideas are consumer ideas.
+These are just individuals, normal
+civilians searching for these things,
+which typically make less money, but
+it's easier to break through to
+consumers. There's no decision maker.
+You're talking directly to the person
+that will be paying you. Okay. Call it
+bias, doesn't matter. I really like this
+estate cleanout and senior downsizing
+directory the most. Maybe because I just
+have a good friend that's making a lot
+of money going to estates and
+basically selling all the leftovers. So,
+an estate sale will happen and there's
+always a bunch of stuff left over and he
+will go in like the day after it ends
+and say, "Hey, you know, all the stuff
+left over, I'll give you 200 bucks for
+it." And usually they're just happy to
+get rid of it because what are they
+going to do with it? They're going to
+have to list it individually on Facebook
+Marketplace. That's his whole niche and
+he makes a lot of money doing it. He
+travels around the country doing that.
+So, we're all biased creatures. I know
+that this is growing like crazy. There
+are 10,000 baby boomers retiring every
+single day and their kids, their
+millennial kids like me, need to sell
+their parents' stuff as they
+unfortunately move on to the next life.
+So, I like Claude. I have a friend
+that's doing this and I like selling to
+consumers more than businesses. But
+let's do one more step. I'm going to go
+to a trends.google.com. I'm just going
+to search for the phrase estate sale
+over the last 5 years. Okay, let's go
+2004 to present. Okay, so it dropped
+from 2004 until about 2024 for some
+reason and now it's heading back up. I
+don't know why it would have been
+dropping. It's kind of an interesting
+phenomenon that I didn't expect, but
+it's going back up. So, I like that. But
+while we're pitting these models against
+each other, let's put Google Trends term
+search terms against each other as well,
+side by side by side so we can see what
+the demand shows on the search side of
+things. Right here, I'm going to type in
+a much, much, much more niche term,
+commercial kitchen equipment repair. Of
+course, there's a ton more people
+searching for the term estate sale than
+commercial kitchen equipment repair, but
+we're still going to get an accurate
+view of how all three of these terms are
+trending. So, you can see this is
+basically not moving the needle at all.
+There's very, very few companies
+searching for this term. So, it's
+probably not fair to compare these
+against each other. Let's just search
+equipment repair. Okay, so that's
+trending upwards, the red line right
+there. Then over here, we're going to
+search aging in place. All right, let's
+go ahead and delete the term estate sale
+so we can get a more accurate view of
+this. So, equipment repair is booming,
+but this could be heavy equipment
+repair, could be anything. But clearly,
+these two terms are both growing more
+than estate sale. But of course, it's
+not really fair to do estate sale
+because we're not looking for people
+that are searching for an estate sale,
+we're looking for people that are about
+to host an estate sale. So, I just
+searched for the term how to host an
+estate sale, and the search volume
+basically went from nothing to 100 over
+the last month or two. And if you search
+host estate sale, it looks the same. So,
+I realized I just went back to the
+actual output from the prompt, and we're
+talking about estate cleanout help. So,
+when I search for the phrase estate
+cleanout, it is the best-looking chart
+that I've seen thus far in all of the
+estate categories. Like, it's just
+looking really, really spicy right now.
+So, we're going to stick with estates.
+So, here's my prompt now. Compile 20
+real estate cleanout businesses in the
+greater Dallas-Fort Worth area. For each
+one, give the business name, category,
+phone, and a one-line description. Put
+it all in a table.
+Now, very important that on this one, I
+choose route LLM because it's going to
+choose the best model to do the heavy
+lifting cuz this prompt is is a much
+heavier prompt, for lack of a better
+word, than the ones that we had just
+done. Boom. Okay, so it looks like we've
+got some junk removal businesses, some
+cleanout businesses, mostly junk removal
+businesses because honestly, how many
+like estate cleanout businesses are out
+there? Which by the way, that's probably
+a really good business. It's kind of
+like what my friend's doing. I mean, it
+only got 11 or 12 11, and I asked for
+20. So, what's cool here is you can see
+the thinking that it did, and then you
+can regenerate the output to this prompt
+using whatever model you want. So, I'm
+going to have it regenerate it with
+Claude Opus 4.8 cuz it's my favorite.
+Quick note on this, you want to
+fact-check all of these listings before
+we publish them on a directory website.
+I love getting an output from a model
+and then using a different model that's
+unbiased to fact-check everything in
+that output, right? In other words, is
+the phone number for this junk removal
+business accurate, or the address, or
+the website, etc. So, Claude wins again.
+I actually got 20 results this time
+because I regenerated with Claude. I'm
+going to do a control find for the word
+cleanout, the non-cleanout, commercial
+care. Okay, estate pros. Not only did I
+get 20 this time, but they seem to be
+more relevant because, come on,
+Dallas-Fort Worth has 8 million people.
+Surely there are 20 relevant businesses
+that do something like this. And what's
+cool is even if we get Abacus to
+regenerate the output, we don't lose the
+original one because I still want to see
+what ChatGPT 5.5 can do here. But, if
+you just click these arrow buttons, you
+can see all of the different
+regenerations. So, let's go ahead and
+see what ChatGPT 5.5 can do, and then
+just for fun, let's see what Fable 5 can
+do cuz that's the best right now, in my
+opinion. I just realized my prompt does
+something stupid. 20 real estate
+cleanout businesses. That is different
+than like an estate sale cleanout
+business. I meant to say 20 real estate
+So,
+I'm going to redo this all together, and
+I I I will probably get a better output.
+Remember, when it comes to AI, garbage
+in equals garbage out, and I'm making
+mistakes here just like anyone else, and
+we don't edit those out. Remember, I can
+still use the output from these other
+prompts even if it had a bad input
+because there are still good businesses
+in those tables, but I'm going to go
+ahead and give it a better prompt that
+says, "Compile 20 real businesses that
+do estate sale cleanouts in the greater
+Dallas Fort Worth area and the rest is
+the same. So, we're going to do that
+with Route LLM to see which model it
+uses. Side note, I'm not sure if you've
+heard the phrase token maxing, right?
+But, you should do that. It's basically
+using AI models that are way more
+powerful than what you need done, right?
+You want a restaurant for date night?
+Use Fable 5. Why not? If you're paying
+for Fable 5, use the heck out of it. For
+no other reason so you can better learn
+these models and like the nuances of
+them and how to prompt them and what
+their outputs look like as compared to
+other models. Until you get to the point
+where you're hitting your limits
+regularly, token max the heck out of
+these models. Okay, here's my output
+here. We've got 20 results this time.
+DFW, I want to see what Fable 5 can do.
+So, I'm going to put the same prompt
+there and then choose Fable 5 from the
+drop-down instead of Route LLM, but I
+really like what Route LLM gave me here.
+This is making me realize that there
+there is a big opportunity for these
+estate sale cleanout businesses. Most
+people aren't going to think to hire a
+junk removal business. They hear junk
+removal and they think hoarder. My
+mother's not a hoarder. My grandmother's
+not a hoarder. Like, they almost might
+find it disrespectful to hire a junk
+removal business to get rid of those
+last few things that didn't sell from
+her estate sale. They might be China
+cabinets. They might be valuable. They
+might have been impeccably maintained
+over the last century. So, we don't
+think to go to junk removal. It's not
+junk. It's their prized possessions,
+right? So, the naming of a business
+really, really matters. How you position
+yourself. And if you call yourself the
+estate cleanout pros, then you're
+probably not going to get many calls for
+a hoarder house, a junk removal house.
+You're going to lose that. But, the
+trade-off is that you are going to be
+known as the guy or the gal for estate
+sale cleanouts. And what's better about
+the estate sale cleanout business? I
+know this video is supposed to be about
+directories, but we're going to tangent
+just for a minute because the ADHD is
+flaring and we we give in to that.
+What's better about an estate sale
+cleanout business than junk removal
+business is that you get more stuff that
+you can sell, right? Which is what a lot
+of junk removal businesses to do to make
+a lot of their profit. They get a bunch
+of stuff that's like, "Huh, we're not
+taking this to the dump. We're selling
+this on Facebook Marketplace." They make
+a ton of money doing that. But in the in
+state sale cleanout business, that's
+mostly what you get. Stuff that you can
+resell. So, you're getting paid, not
+getting it for free, but you are getting
+paid to take things that you can sell.
+That's called a negative cost of goods
+sold big business or a negative COGS
+business, and it's a beautiful,
+beautiful thing. You're getting paid to
+get paid. But, we're here for
+directories, passive business, not
+active. Sorry. Okay. So, here is the Row
+LLM output. Here's the Fable 5 output.
+If you do a control find for the word
+estate, look at the Fable 5 output.
+Okay, and let's just look at the
+business name. 1 2 3. It's pretty clear
+that there are more results tied
+directly to estate sales and not junk
+removal. Cuz look, estate liquidators,
+refined estate sales. Actually, I take
+that back. The outputs look pretty
+similar. I'd be curious if Row LLM used
+Fable 5 on its output as well. Okay, so
+we've got plenty to work with. Now, we
+want to use an AI agent to do the heavy
+lifting for us cuz we don't know how to
+do the heavy lifting in this case. No
+pun intended. Estate sales, china
+cabinets. Sorry, it was dumb. Okay,
+we're going to go back to Abacus. We're
+going to hit this purple button. We're
+going to hit this drop down, go from
+chat to agent. But wait, we've got to
+get that table to give it to it. We're
+going to go back here. We'll use Fable
+5, and we just click this little
+download button in the top right. That's
+it. We don't need to prompt it again.
+Okay.
+We've got agent. Here's our prompt.
+Build a directory website that lists
+estate sale cleanout businesses. Include
+a searchable home page, category pages,
+and individual listing pages with a
+photo, description, and contact info.
+Prefill it with the list I attached. Add
+a paid featured listing upgrade with a
+stripe so a business can pay 30 bucks a
+month to appear at the top. Okay. Got
+agent.
+We're going to hit the plus button,
+upload from computer, get the CSV that I
+just downloaded from the other chat
+window, and hit enter. I'll get started
+on building that directory website for
+you right away. This is the part that
+used to take a developer weeks or even
+months. And we could do like a DFW
+directory for estate sales, but what the
+heck, let's go nationwide. If after a
+few months we see that a lot of these uh
+searches are coming from the DFW area,
+then we can always spend 10 bucks, buy
+another domain name, put the letters DFW
+in there, and make this more niche down.
+But I don't think there's a need for
+that. I think this is already so niche
+that we want to go more broad on their
+geography, right? If the industry is
+very niche, then the geography should be
+more broad. If the geography is very
+broad, like for instance uh small
+neighborhood in Dallas or a small suburb
+of Dallas, then the industry should be
+more broad, right? But some industries
+and or geographies have enough search
+demand to where you can go niche on
+both. I just don't think estate sale
+clean outs is one of them. So the agent
+has a few questions for me. So I'm going
+to put one, the name is going to be
+estate clean out pros. Two, should
+businesses be able to submit their own
+listing? Yes. Three, categories. Are
+there specific categories you'd like to
+organize listings by? Infer from the
+data. Four, when a business pays for a
+featured listings, where should payment
+confirmation emails be sent? Now that's
+one I like to answer.
+I'll put in my email here. Five, color
+scheme. Let's do clean and minimal. And
+I liked that it gave me the option to
+just say go ahead and it would yes all
+five of my answers for these, but it
+only took me about a minute to give it
+those answers. K, now
+it needs Stripe API credentials from me.
+And if you don't know what that means,
+it basically just means it needs to know
+how to talk to my Stripe account so I
+can accept money, which is the most
+important part of this whole endeavor.
+So it gives me instructions on how to
+find that. Thankfully, I've done this a
+zillion times. I'll show you how to do
+that. And then it just needs my secret
+key. So log in to my Stripe account. It
+takes 30 seconds to create this. I'm
+going to go to the search bar and do API
+keys. I'm going to hit this plus button,
+create secret key, powering an
+integration you built. I'm going to use
+my touchpad. I'm going to name it Estate
+Cleanout Pros. Okay, there's my key.
+That's my secret key, and this is my
+publishable key. We're going to go
+there. Submit, and voila, we have
+payments connected. Okay, that's done.
+Now it's actually building the website.
+All right, I'll build this full-feature
+directory website step-by-step. Let me
+start by reading the CSV data in the
+style guide. Okay, so
+if we wanted to really scale this, we
+need a lot more directory businesses cuz
+this is only DFW. So, to do that, we go
+back to Abacus. I, personally, you can
+do whatever you want, would choose Fable
+5, because that's the one that just will
+do the most work, and it will work the
+longest to get you the output that you
+really need. And I would just basically
+give it the same prompt and just say
+nationwide. And then even tell it
+specifically, there should be over a
+1,000 listings here. Something like you
+need to tell the model how hard it needs
+to work, because it's always going to
+default for less work, because it
+doesn't want us to be token maxing. It
+wants The company wants to save money,
+right? And the more we token max, the
+less money Anthropic, ChatGPT, Gemini,
+whoever makes. But they're funded by
+VCs, they're trillion-dollar companies.
+They're doing fine. Lot of stuff going
+on here that I don't understand, but I
+know that when it's done, I just need to
+click this button up here on the top
+right, deploy. It's generating all the
+images for the site right now. You
+couldn't pay me to understand what
+Ubuntu Sandbox means. Ubuntu sounds like
+a Mongolian appetizer or something. Oh,
+okay, we got some pictures here, some
+good images. Okay, we're done. The web
+app is ready. Let's see how it looks.
+Okay, Estate Cleanout Pros get featured,
+submit listing. We've got a search bar
+right here. Okay, we've got filter
+buttons here. Click on that. Boom,
+filter buttons work great. Submit free
+listing, get featured. Cool. All right,
+and then this is the Stripe integration
+that we're looking at live. That seems
+to work. Loads It's fast, it's
+responsive. If we want to see how it
+looks on mobile. Looks great.
+Presentation view, desktop, etc. Cool.
+Go to the search bar, just do junk.
+Let's go ahead and click deploy. We'll
+put it on an Abacus domain name for now.
+Boom, done. Okay, so if we want to see
+how it looks on the actual internet, we
+can go here and we'll type {slash}
+admin. Then it gave us a password to
+enter and then here's what it looks like
+on the back end. We can see how many um
+listings there are, how many featured,
+how many are pending to be featured. And
+there's only 20 cuz we only gave it 20,
+but it would upload as many as we gave
+it. Now, let's add some more images to
+this because the ones it gave me are
+decent, but I want some better ones.
+Okay, we're going to go click on image
+up here at the top. We'll take the URL
+and say make a hero image for this site
+because if you need images for your site
+or for ads or whatever, it's built right
+here into Abacus. So, we can have it
+choose the model for us, but I love GPT
+image too. I think it's the best image
+model on the market right now. So, I'm
+going to purposely give it a very light
+prompt because I want to see how well it
+thinks. Okay, let's talk about how this
+website and other directory websites
+like it can actually make us money.
+Number one, featured positioning,
+featured placements of the businesses
+that we list on the directory. We're
+listing these businesses on the
+directory without their permission. We
+don't need to ask their permission
+because we're doing them a favor. And
+we'll leave it on our website forever
+for free. They only need to pay if they
+want a higher [snorts] placement. And it
+only really makes sense for them to pay
+for a higher placement once they're
+actually getting some leads and some
+traffic from our website. Another way we
+can make money here is just by banner
+ads. Now, this is probably the lowest
+friction, most passive way of making
+money on most websites, but it's also
+like the lowest and worst use of these
+clicks, of this valuable attention that
+we're able to garner here. So, that's
+the trade-off you're making. Another
+thing we can do is just kind of collect
+leads from consumers that need an estate
+sale clean out and they can all go to us
+directly instead of to the businesses in
+the directory. And then we can reach out
+to the businesses in the directory and
+sell them to the highest bidder. We
+could literally email all of them at the
+same time and say, "Hey, I have this
+lead. It's in this neighborhood. We
+think it's worth this much. Who wants
+it?" And just let the bidding begin. I
+think directories are going to be more
+important than ever with the advent of
+AI because it needs more good,
+knowledgeable, well-organized sources to
+pull from, and a directory is a super
+efficient way of getting that done.
+Okay. Uh it looks like it created a
+polished hero image that matches the
+look and feel. I like how the colors
+match. Looks good. Cool. We can add that
+right to the website. Now, if we wanted
+to make a video, that's just as easy as
+an image, and you can choose the model
+that it uses, Kling, Sea Dance, etc. We
+don't really need it to do that right
+now. A pitch deck, if we wanted to raise
+money for this, you could do that with a
+couple clicks. Slides, you just choose
+that little connector right there. You
+can invite teammates to collaborate on
+these projects with you. Think about it.
+If you paid for all of these premium
+models, it costs between $20 and $200 a
+month for them each, but Abacus is only
+10 bucks a month total for
+usage of all of these combined. If you
+want to use Chat LLM by Abacus AI, check
+out the link in my description. They
+support the channel. I use them. They're
+awesome. Go build something today, not
+next week, today. There's never been a
+better time in the whole history of this
+wonderful universe. We'll see you next
+time on the Corner Office.

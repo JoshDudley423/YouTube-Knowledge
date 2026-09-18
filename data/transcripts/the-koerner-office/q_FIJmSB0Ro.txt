@@ -1,0 +1,596 @@
+The most powerful AI ever released to
+the public was online for only 3 days.
+Three, and I had a chance to play around
+with it, but then [music]
+the United States government sent a
+letter and the company that built it
+shut it off worldwide in a matter of
+hours. Not throttled down, we're talking
+off off. So, I'm going to tell [music]
+you what it was, why the government
+killed it, and the stuff it did in those
+3 days that honestly scared the crap out
+of the same people that built it. Then,
+I'm going to hand you five businesses
+that you can set up right now while this
+AI model is still dark, [music] so the
+day that this AI model comes back
+online, which it will, you are going to
+be primed and [music] ready to make some
+money on it. And at the end, I'm going
+to show you the one signal that everyone
+out there is getting wrong. They're
+reading it backwards. People see the
+word banned [music] and they run away,
+but I'm going to show you why the word
+banned is the strongest buy signal the
+government has ever handed a regular
+person. Let's dive in.
+Okay, let's get on the same page. The
+company is Anthropic. They make Claude.
+This is the AI that a lot of you already
+use, as do I. On June 9th, they released
+a new model called Fable 5. This was
+kind of a big deal because Fable came
+off of a tier that they'd been holding
+back. And this tier is a class of AI
+models that they were calling Mythos.
+Think of their normal models like Opus,
+Sonnet, stuff that you're probably
+familiar with as the strong stuff that
+everybody gets, but Mythos was like the
+locked vault in the back. The one they
+said was too powerful to hand out. So,
+Fable 5 was Anthropic finally cracking
+that vault open for the public with
+safety guardrails bolted on, and that's
+important. I'm going to get back to
+that. And you're probably non-technical
+like I am. You've probably never written
+a line of code. So, this matters to you
+because the thing that Fable can do is
+the exact thing that every online
+business has been waiting for. But
+before I get to that, I want to get to
+the part that reads like a movie. Here's
+why they pulled Fable. So, 3 days after
+launch on June 12th at around 5:21 in
+the evening, Anthropic got a letter from
+the US Commerce Department. This letter
+ordered them to cut off access to Fable
+5 for any foreign national. But, listen,
+that doesn't really work. Anthropic
+can't just check your passport when you
+log in. And if they tried, that friction
+would turn almost everyone away. So, to
+follow this order from the US Commerce
+Department, they had no choice. They had
+to shut down the whole thing for
+everybody. You, me, paying customers,
+enterprise, doesn't matter. Even their
+own employees who weren't US citizens,
+they had to shut it down for. But, the
+craziest part about this is that this is
+the first time in history that the US
+government used export controls on an AI
+model itself. Export controls, like
+we're talking physical goods. This has
+never happened before. Here's the kind
+of company that this AI is now keeping.
+Export controls are the rules that cover
+stuff like nuclear material, fighter
+jets, missiles, and the guidance systems
+inside them, or spy satellites, night
+vision. The whole list of stuff the
+government decides is too dangerous to
+let walk out of the country. That's the
+club that Fable just got drafted into. A
+thing that you just log into with a
+password is sitting on the same shelf as
+weapons. But, individuals have never had
+access to weapons or missiles or nuclear
+reactors until now. It's called Fable. A
+couple years back, the government banned
+the best AI chips, the Nvidia chips that
+everybody wanted. They banned it from
+being sold to China. So, Nvidia just
+turned around and built weaker versions
+on purpose so they could stay legal. Of
+course, they don't want to stop selling
+to China. So, then they went after the
+machines that built the chips. There's
+this Dutch company called ASML that
+makes the one machine on Earth that can
+actually print the most advanced chips.
+One machine costs over 100 million
+bucks, and it weighs like 170 tons. And
+the US government said that machine does
+not go to China, period. So, follow the
+pattern. First, they controlled the
+chips. Then, they controlled the
+machines that make the chips. And now,
+for the first time ever, they're
+controlling the model itself, the AI.
+They skipped the hardware and went
+straight for the brain. So, here's the
+part that should make like the hair on
+the back of your neck stand up. This is
+the second time in history that the
+government has looked at a piece of
+software and called it a weapon. The
+first time set off a fight that changed
+the internet forever. And how that fight
+ended is the whole reason you should be
+paying attention right now. But, I'm
+going to get to that later. And why? Why
+did they do this? Well, there's the
+official reason and the unofficial
+reason. The official reason is because
+of a security hole. The government said
+somebody found a way to jailbreak Fable.
+Remember the early days of the iPhone?
+You could jailbreak it and like have it
+do things that Apple didn't authorize?
+Someone was doing that, allegedly, with
+Fable. And this was like a trick to slip
+past its safety rules, its guardrails.
+And they got worried about what a
+foreign actor could do with it. I mean,
+think about it. I I like to think about
+things in a upside and downside.
+Basically, the government was like, "Uh,
+it's kind of more downside than upside
+here, at least in its current state."
+And that's the whole thing is what these
+Mythos class models like Fable are
+scary, scary good at is finding
+weaknesses in software. So, this is
+awesome if you're defending a company,
+but bad if you're a bad guy and you want
+to break into one. Hey, please subscribe
+to the channel. Whether you're on
+Spotify, Apple, YouTube, doesn't matter.
+It would mean a ton. So, of course,
+Anthropic, which by the way is privately
+valued at about a trillion dollars,
+okay? They pushed back hard. They said
+that, "Listen, that jailbreak that you
+heard about was narrow. And other public
+AI models can already do the same thing.
+So, yanking a model that are used by
+hundreds of millions of people over one
+alleged jailbreak is a massive
+overreaction." Now, of course, Anthropic
+is biased. Of course, they're saying
+that. They know what this means to their
+bottom line or top line, both. And the
+timing of this could not have been worse
+for Anthropic because they're right
+about to go public.
+>> What just happened to SpaceX that went
+public? Up 40% in the first 2 days.
+We're talking a $3 trillion company.
+>> Anthropic's licking their chops hoping
+for something similar. Terrible timing
+for them. And I don't know the full
+politics behind this. I'm sure there
+were some conversations that went on
+behind closed doors that nobody will
+ever know about. But what I do know is
+the result. The single best AI tool in
+the world went dark. It had never
+happened before and the window to get
+ready for it to come back swung wide
+open. Now we kind of know what we're
+getting and we can prepare for it. All
+right, remember when I said, you know,
+the first time the government called a
+piece of software a weapon? Here's how
+that ended. So, back in the '90s there
+was a program called PGP. And this
+program let regular people scramble
+their messages so nobody could read
+them. The government freaked out. They
+classified that software as a munition,
+the same legal bucket as a missile, and
+they opened the criminal case on the guy
+who built it. He was facing literal
+prison time for letting code leave the
+country. And how did he beat it? He
+simply printed the code in a book
+because a physical book is protected
+speech. So, they were stuck. The
+government was stuck. Their hands were
+tied. The case fell apart and they lost.
+And that weapon they tried so hard to
+lock down turned into the little padlock
+that you see on every website. It's the
+whole reason you're able to put your
+credit card into the internet at all.
+So, this thing that in the '90s they
+called too dangerous to export became
+the whole freaking foundation of the
+entire online economy. But let me tell
+you why I care this much about this
+model. And again, this is not sponsored.
+Anthropic does not pay me, okay? This is
+just Chris Kerner talking here. Here's
+the one thing that makes Fable different
+the most because everything else that we
+talk about is going to flow from that.
+So, every AI you've used so far is smart
+for like a minute, okay? You ask it, it
+answers. And if the job is big and the
+context window is what it's called, gets
+too big, too onerous for the model to
+handle, it loses the plot. It starts
+hallucinating. You're like, "Whoa, what
+are you talking about? Why are you
+talking about this? We're over here."
+Halfway through the chat and you're
+going to be back to babysitting it, but
+Fable was built to be left alone, right?
+Like a really good employee. You give it
+a real job, let's say it has 10 steps to
+it, and it plans it out, it does the
+work, it checks its own work, fixes its
+own mistake, and then it hands you the
+finished product with a nice little bow
+on top, and it can run for hours. It
+did. It can run for days. It can even
+spin up copies of itself, split the
+work, and review the copies. And that's
+the whole game here. The magic is not
+that it's just smart. Lots of AI is
+smart. It's all smart. The magic is that
+you can walk away and it'll just do.
+It'll just work while you sleep, and you
+can trust the result enough to put your
+name on it and to sell it. Okay? That's
+why we're here, to sell it. That has
+never existed before. So, if you've
+tried AI for real work and just watched
+it quit on you halfway, you're not
+crazy. That wall is exactly what Fable
+just knocked down. Here's some receipts.
+Here's some examples of how crazy this
+is. So, Stripe, you know, giant payments
+company, they tested uh Fable early.
+They had a codebase with 50 million
+lines of code, and they needed to
+overhaul it. They needed to update it,
+and something like this would usually
+take a whole team of engineers 2 to 4
+months. Fable did it in a freaking day.
+One day. That's a real example. Another
+example, a physics researcher ran it on
+a hard frontier problem. Now, a hard
+frontier problem is like a an unsolved
+question in physics, where our current
+understanding of physics just fails to
+get us all the way across the finish
+line. The frontier problem is something
+that requires like a huge leap in
+understanding to solve. AKA, a big
+freaking deal. So, Fable got nearly as
+far in solving this frontier problem in
+36 hours as a top competing model got in
+4 days, okay? A little more gimmicky of
+an example, but still interesting.
+Someone had it play a card game called
+Slay the Spire, and when they gave it a
+simple memory file so it could just take
+notes on its own runs of this card game,
+it started winning three times more
+often. So, it taught itself. It learned
+mid-task and then kept retraining itself
+from its own notes. That's freaky.
+That's scary. That's amazing. All of the
+above. And the example that probably
+explains the whole reason for the ban in
+the first place is this thing called a
+hacking skill test, okay? This is like a
+pre-employment test that an employer
+would give to a software developer to
+help them try and expose security
+vulnerabilities. So, the locked-down
+twin of this model, Fable, this version
+did not have safety filters or
+guardrails, scored about double what the
+normal top model scores, double. And
+that reason is the main reason why this
+thing has a safety version in the first
+place. It's It's really why the
+government got nervous enough to pull
+it. And the most ironic thing about all
+this is that this mandate locked out
+every foreign national. And the country
+like South Korea makes a huge percentage
+of the memory chips that power these
+American AI models in the first place.
+So, we cut off the exact people building
+the parts, which I just find hilarious.
+So, the part that you're, you know, you
+probably came here for is the money. I
+want you to do something right now. Open
+your bank statement and add up every
+single software subscription that you're
+paying for. Your CRM, your email
+marketing tool, text message platform,
+calendar booking app, funnel builder,
+review management, even a separate form
+builder or automation tool. I've talked
+to business owners paying $500 to $3,000
+a month across eight or 10 different
+tools, and half of them don't even talk
+to each other. So, then they go pay for
+Zapier on top of that just to make
+things connect. HighLevel replaces all
+of it. CRM, email, SMS, funnels,
+websites, calendars, automations,
+reputation management, invoicing. One
+login, one dashboard, one bill starting
+at 97 bucks a month. A guy in my
+community was paying 347 just for
+ClickFunnels, 99 for Mailchimp, 25 for
+Calendly, 79 for a review tool, and 49
+bucks for Zapier just to glue it all
+together. That's 600 a month if you're
+not counting. He moved everything to
+HighLevel and cut his software cost by
+over 80% but the best part isn't even
+the savings. It's that everything just
+works together natively. A lead fills
+out a form on your funnel, that creates
+a contact in your CRM, which triggers a
+text and email sequence, books an
+appointment on your calendar, and then
+asks for a review when the job's done.
+One workflow, zero duct tape, and then
+you can white label the whole platform
+to resell it to other businesses as your
+own software. Charge them 2 to 500 bucks
+a month. Check out
+gohighlevel.com/tkopod.
+They'll give you a 30-day free trial to
+see what I mean. Here's five ideas of
+businesses that can be built on this one
+superpower. And for each example, I'm
+going to show you a real business that's
+already making money the hard way with
+employees. So, like these are not like
+wacky off-the-wall ideas. These are
+already proven to be working with humans
+the hard way, the old-school way, right?
+The 2025 way. Okay, idea number one.
+Legacy code rescue. So, there are
+agencies right now that charge 30 to 70
+grand to move one old clunky software
+system over to something modern. Okay,
+this is a big problem that companies
+need solved and one job could run into
+the hundreds of thousands easily cuz a
+company might have hundreds or thousands
+of employees and it's just very tedious.
+And this one job can take a team of
+engineers
+like 6 months to complete. So, they're
+justified in charging hundreds of
+thousands of dollars. But Fable could do
+this entire migration on its own. So, to
+find customers instead of cold calling
+owners, use tools like BuiltWith or
+Outscraper or freaking Chamber of
+Commerce website to find businesses that
+are still running on ancient systems.
+Then, you want to talk to the office
+manager because that's the person who
+probably hates that old ancient system
+the most and just say, "Listen, I can
+get you off your old system in a weekend
+with zero downtime." The companies that
+do this today are called modernization
+firms, by the way. There's a pretty good
+chance that you watching that you, the
+person consuming this episode right now,
+work for a company that uses an ancient
+system like this. Who's saying that that
+company, the one you work for today,
+can't be your first customer? Did you
+know that 95%
+of ATM transactions are run on an
+outdated software system called COBOL?
+Ancient. Tons of million, hundred
+million, billion dollar companies are
+running on 20-year-old software. You
+don't have to start with a big Fortune
+500 company. In fact, I'd advise you to
+not. Start with a local company that has
+13 employees and needs to migrate from
+QuickBooks Desktop to QuickBooks Online.
+Something simple. You won't be able to
+charge nearly as much, but you can at
+least get your feet wet. Idea number
+two, the overnight turnaround shop,
+okay? There's a ton of small to
+medium-sized businesses that are way
+behind on their books, their financials,
+and they end up having to pay between
+3,500 to 10 grand just to get their
+books cleaned up. And this is a
+miserable, tedious job, which is why few
+people want to do it. Now, using today's
+AI models, before Fable, you'd still
+have to babysit these transactions and
+keep training and retraining them and
+worry that your context window runs out.
+But with Fable, you could just drop the
+mess in, everything at 5:00 p.m., all
+the account statements, bank statements,
+spreadsheets, everything, and it will
+reconcile everything overnight by
+itself. And you can review and deliver
+it to your customer by 9:00 a.m. Go to
+bed, wake up, it's done. You know how
+many Facebook groups there are for
+bookkeepers that are just turning down
+what they call cleanup work because they
+hate it and they have more important
+things to do. You don't need to be a
+bookkeeper. You don't need to have a
+finance background. Post in these groups
+that you take overflow cleanup and you
+have 48-hour turnaround, which is
+unheard of. You do one of these a week,
+three grand a piece, and six figures a
+year. Your costs are almost nothing. All
+right, number three. Do you remember my
+episode with Brett Williams, the Design
+Joy guy? Does like 60 to 80k a month
+with a design studio, one-person design
+studio. He's charging five grand a month
+per client and he's capped out cuz he's
+the one doing all the designing, but
+Fable could be the team that he never
+had to hire. It could be your team, your
+agency team. So, find a service, go back
+and listen to that episode, we'll link
+to it below. Productize it. People can
+have one request in at a time. Make
+Fable do the work. Number four. How
+about a custom product for every single
+customer? So, we all know that a generic
+sales email is not nearly as good as a
+personalized one. Your reply rate will
+jump two to three X, but companies
+aren't really doing this for sales
+emails cuz with a human it takes too
+long. And there are AI tools that will
+kind of do this for you, but they're not
+super accurate. I get these emails every
+day, but with every piece of
+personalization in your email, your
+reply rate will go up by a few percent,
+right? First name, great. First name
+plus business that they own, even
+better. First name plus business that
+they own plus city they live in,
+awesome. Why not eight to 12 pieces of
+personalized information? Fable can do
+that. And if you don't want to send
+these cold emails to acquire customers,
+then you just find a customer, a
+business customer that has an email list
+that needs to get more out of it. And
+almost every business is not fully
+utilizing their email list or even close
+to it. So, you take their list, their
+strategy, their process, attach Fable to
+it, and you can make amazing things
+happen with their email list. Doesn't
+need to be a big company, it could be a
+gym, a med spa, anything. There's no
+business too small for this as long as
+they have emails. Number five. How about
+digital assets that run themselves? So,
+there are people out there, I've
+interviewed a lot of them, that have
+little portfolios of small websites that
+earn, you know, 300 bucks to 3,000 bucks
+a month each, but they have multiple or
+dozens of these little digital assets,
+and it really adds up over time, like
+directory sites, right? Being a website
+landlord. Now, these portfolios can be a
+grind to build and to feed, but Fable
+can build them and keep improving the
+winners on its own for days. It can log
+in to Google Analytics, Google Tag
+Manager, Google Search Console. It could
+see where the holes are and
+automatically fix them. It's going to
+make a lot of mistakes, for sure. It's
+going to miss a lot of things, for sure.
+You're going to have to train it, but
+the training process is so much shorter
+now, and the work ethic from this model
+is unlike anything we've ever seen. So,
+what can we do now while Fable five is
+still dark? Don't just sit around and
+wait. Pick one of these five ideas, or
+better yet, pick one of your own, cuz
+you're probably going to love that one
+even more. Pick one niche, pick one
+offer, one landing page, whatever, and
+start using the inferior models, which
+are still incredible, like Opus 4.8, to
+start hacking together some of these
+things, and just know that when Fable
+five does come back, it's just going to
+be easier. But, here's the truth of it.
+If this model got switched off once, it
+can get switched off again. It can get
+nerfed. So, don't bet your entire life
+on one AI tool. You always want to test
+a bunch of different tools. It's going
+to give you more insight into each one
+of them individually, cuz you'll have
+something to compare them against. The
+AI should be the engine or the gasoline.
+It's not the car. It's not the company.
+So, the signal that I referred to at the
+beginning that everyone's reading
+backwards is when the government wants
+to slow something down, they regulate
+it. We've seen it over and over again.
+They do it with military drones, with
+nuclear materials, fighter jets,
+missiles, supercomputers. When they
+think something can shift the balance of
+power in the world, they export control
+it, same as a weapon. They just did it
+to a piece of software that you can rent
+for 10 bucks. The most powerful
+institution on the planet looked at this
+tool and said, "Uh,
+this is as dangerous as a missile." But,
+individuals have never had access to
+things as powerful or dangerous as
+missiles until now. So, don't hear the
+word banned and think, "Oh, stay away."
+The truth is the opposite. The US
+government just did all of your market
+research for you. They told you in
+writing that this is the most powerful
+software ever built. So, the only
+question left is whether you spend this
+blackout getting ready or whether you
+find out like 2 years later like
+everyone else will. By the way, I have a
+new private YouTube community where I
+post exclusive interviews and videos
+that no one else in the world will see.
+All you got to do is pay five bucks a
+month. You know what? YouTube takes 30%
+of that. So, I'm hardly getting anything
+from that. In addition, you're going to
+get every single 25-plus page business
+plan that we make from every episode we
+publish. And we sell these for 19 bucks
+and we do 15 episodes a month. So, this
+is about $300 a month worth of value
+plus extra interviews and videos that
+you'll never see anywhere else for five
+bucks a month. And you can cancel
+anytime. You'll also get my previous
+backlog of every business plan I've ever
+published. So, you can get the link
+right down below. It's all done right
+here on YouTube and you'll even get
+little custom emojis or stars next to
+your name when you comment on videos so
+you can get priority replies from yours
+truly. Thanks a lot. If you like this
+content, please share with a friend, hit
+a like or a comment below, and we'll see
+you next time on The Corner Office.

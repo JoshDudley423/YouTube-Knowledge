@@ -1,0 +1,381 @@
+We've all heard the phrase, "Good
+artists copy, great artists steal." But
+how can you do that ethically? How can
+you do that tactically? Especially when
+it comes to websites because we all want
+a beautifully designed website for
+whatever it is that we're doing, but we
+don't all know how to do it. Don't even
+have a creative vision for what that
+beautiful website should look like. But
+every now and then, we come across
+someone else's website that just looks
+gorgeous, and we think, "Huh, I wish I
+had that website." Right. Well, today
+I'm going to show you the AI tool and
+the AI prompt that can help you copy and
+paste other people's websites, even if
+it's in a completely different industry
+than yours.
+So, little backstory. I own a tree
+trimming business and we recently
+discovered that we love the sport court
+business because our tree trimming jobs
+are about $1,500 on average and a sport
+court job is about $50 to $60,000 on
+average. And as luck would have it, I
+just had my own sport court built and I
+subcontracted out all the work and saved
+about $25,000 on the job. So now I have
+a whole rolodex of subcontractors that I
+can use to sell sport courts to someone
+else. But I need a website for this and
+it needs to be a beautiful website
+because this is a luxury service that
+I'm offering. But I'm a little lazy. I'm
+a little strapped for time. So I want to
+take someone else's beautiful website in
+another industry and apply it to mine.
+Now, there's a handful of tools that do
+this, but I just discovered one that
+I've been liking for website design,
+specifically liking for copying and
+pasting other people's websites, and
+it's called ready. And the prompt is
+very simple. Copy this website. And then
+you want to give it specifics of like,
+make sure it has this section or that
+section, make sure it highlights these
+features, make sure it has a form submit
+button, etc. But basically, you just
+copy and paste domain name and ask it to
+copy and paste the website. And I love
+this tool because you can publish
+instantly. you can be running within
+minutes. If you want to get more custom,
+more creative, you can export the code
+to wherever it needs to go. And the
+websites just look really good. They're
+really professional. So, let's go ahead
+and see how this works. So, I went to
+Google and I typed in beautiful home
+service business websites and I found
+some lists. And I found this kitchen
+cabinet website that I really like. I
+don't know who these guys are. They
+don't know who I am. Kitchen cabinet
+guys. I love the hero image. I love how
+you can play a video of how it works.
+You can get your estimate right here.
+There's a timer. There's a coupon.
+They're doing a lot of sophisticated
+things that you don't usually see in the
+home service industry. And I want to
+copy them. You've got animations as you
+scroll and several calls to action as
+you scroll, not just one. This one's
+persistent. This one's at the bottom.
+This one's at the top. It's got
+everything I want and need in a website.
+It's SEO friendly. And then you have a
+more detailed form at the bottom of the
+site. So, without further ado, I'm going
+to copy the domain. I'm going to go to
+ready.ai, rea y.ai, and I'm going to
+call it backyard
+funhouse
+website because that's the name of my
+business. And click create. Okay. Copy
+the design from All right. Copy the
+design from kitchenc cabinet.net. But
+the new website needs to be for a
+business called Backyard Funhouse, which
+is a business that builds sport courts,
+pools, putting greens, and other fun
+backyard amenities only within the
+greater DFW area. Be sure to insert
+beautiful images of completed projects
+and list out the five to 10 biggest
+cities in DFW. As well, there should be
+a form where people can request more
+info, too. Go. So, I'm probably asking
+it to do too much on this first prompt,
+and it may break, but let's give it a
+shot, and I'll time it. It's 12:40 right
+now.
+Okay, here we go. 12:45. 5 minutes
+exactly. That is pretty dang good. It
+just says logo up here. They don't have
+a logo yet, but I didn't give them one.
+Okay. AI generated images, but that's
+better than uh you know, stealing images
+from Google images and potential
+copyright issues. Not sure what that
+text is, but easy to fix. Artificial
+putting greens, outdoor kitchens. Didn't
+even talk to it about that. Pergas and
+shade structures. Absolutely. Why not?
+Sport courts special financing
+available. Why not? Yeah, we could do
+that. It's got a full gallery
+testimonials
+step one, two, three. Wow, look at that.
+Okay, it's a map of Texas as an outline
+of the DFW area, which is interesting.
+We could change that. We could fix that.
+But, uh, for a oneshot prompt, look at
+that. Select your project type.
+Interactive. Beautiful form. Now, if we
+compare this side by side with the
+kitchen cabinet, guys, the differences,
+it's actually very similar. These
+segments are rounded on the edges. Call
+to action one, two, three, step
+financing available. So, it copied that
+from this website. And the thing is is
+if this kitchen cabinet guy's business
+is if they have like a a high converting
+website or a welloptimized website, it
+probably means they're doing the other
+small things in their business, right?
+So, if they're offering financing, I
+should probably offer financing. If they
+have their number persistently on the
+top row, I should probably do the same
+thing. If these are their menu options
+up here, I should probably have the same
+thing. Look, very similar. It has the
+interactive segments here. So, I'm
+actually very pleasantly surprised by
+this. In doing a little research, Ready
+also autooptimize for SEO. It'll index
+you to Google so you don't have to do
+that separately and it will create all
+the technical files for you
+automatically as well. You could buy
+your domain through them or you could
+buy it elsewhere and import it into
+ready. All right, I want to see if I can
+trip up this website builder a little
+bit. So, I'm going to ask it to do a
+couple things to the hero image.
+Add a timer, coupon, or promotional tag
+to my hero image. I like how it was able
+to discern why I wanted this. Drive more
+urgency. Drive more conversions. All
+right, look at that. Promotional timer
+banner. $2,500 off complete backyard
+packages. That's cool. It definitely
+stands out. Let's ask it to do something
+else. Maybe I'm not super happy with a
+couple of these photos and I want to
+swap them out with something else or
+with something that's not AI generated
+and a real photo of one of my projects.
+In this case, I want to show a high-end
+project, something very custom and
+unique, beautiful, and then I want to
+show a more affordable standard project.
+So, I'm going to say, all right, let's
+take this. I'm going to take this photo
+of a very standard project. Replace the
+second photo on this site with this
+attached one. Perfect. And it even
+included that 15-year experience badge.
+Now, let's do the Let's see if it'll
+replace the hero image.
+Now replace the hero image at the top
+with this one. This is the more custom
+eyegrabbing image. Perfect. Each one of
+these photo swaps took about 15 20
+seconds. All right. Now I want to see
+what this ready agent up here does. So
+click on that. Now this is like the
+global prompt that the agent created for
+me because I might not know how to
+prompt this website perfectly. So, what
+the ready agent does is takes my caveman
+language and turns it into a prompt that
+looks to be perfectly prompt engineered,
+if you will. Okay, we're going to see
+how well this chat agent works. So,
+right now, I'm going to interact with it
+as if I were a prospective customer
+wanting a sport put in my backyard.
+I want a sport court quote. I'd be happy
+to help. yada yada yada. How soon can
+you come quote me? Okay. November 6.
+Sure. 3 p.m. on the 6th. Chris Jones
+5555.
+Okay. Yep. Okay. Awesome. Super fast.
+Super simple. Now I got to make sure
+that this lead actually appeared. Okay.
+There it is.
+Very cool. I go to appointments.
+Chris Jones. There it is. Awesome. Now,
+let's try the voice agent feature. So,
+I'm going to click the microphone. And
+before I do that, this is where we will
+set the voice agent prompt. So, we can
+customize this as much as we want. We
+can say be funny or be strict or be sure
+to ask all of them what their budget is.
+I'm going to leave it at the default
+prompt right here because I don't want
+to get too into the weeds. But, this is
+fully customizable. So, I'm just going
+to trust that the global prompt that it
+gives me is good enough for
+demonstration purposes. All right. All
+right, we got to make sure that my
+browser's microphone is enabled. I'm
+going to click the microphone.
+>> Hi, thanks for reaching out to Backyard
+Funhouse. How can I assist you with your
+outdoor fun plans today?
+>> Yes.
+>> Would you like to schedule an
+appointment or have question?
+>> Carolton, Texas, and I want a swimming
+pool quote maybe next Thursday or so.
+>> Great choice. We can definitely help
+with a swimming pool quote. Just to
+confirm, you mentioned next Thursday.
+Could you please provide your full name
+and phone number so I can check
+availability and offer you some
+appointment time options for that day?
+>> Chris Peterson, my number is 5557327723.
+>> Thanks, Chris Peterson. Just to confirm
+your phone number, you said 5557327723,
+right? And you want to book a swimming
+pool quote appointment next Thursday.
+Let me check the available time slots
+for that day. One moment, please.
+>> Bingo. Next Thursday is November 13th,
+but I see we have availability on
+Monday, November 11th from 9:00 a.m. to
+5:00 p.m. Would you like to book your
+swimming pool quote appointment then, or
+would you prefer another day?
+>> That day is perfect. Thank you.
+>> Great. What time on Monday, November
+11th works best for you? We have
+openings throughout the day from 9:00
+a.m. to 5:00 p.m.
+>> How about 9:03 in the morning?
+>> Thanks for that. Just to confirm, you
+want to book your swimming pool quote
+appointment on Monday, November 11th at
+9:03 a.m., right? Can you please confirm
+your full phone number again before I
+finalize the booking? Yes, that is
+correct. And my phone number is
+555732-7723.
+>> Thanks, Chris. I've booked your swimming
+pool quote appointment for Monday,
+November 11th at 9:03 a.m. Is there
+anything else I can help you with today?
+>> That's it. Good to go.
+>> Thanks for calling Backyard Funhouse. If
+you have any other needs, feel free to
+contact us anytime. Have a great day.
+>> Thanks. All right. I'm super pleased by
+how low latency that was. There wasn't
+really a pause or a delay of any sort.
+And that makes sense because it's the
+prompt is preloaded in there and people
+are asking kind of the same things over
+and over. But that's one of the shortest
+delays I've ever seen in any voice
+agent. Let's go make sure that it booked
+that appointment. We'll click here.
+Appointments. We've got Chris Peterson.
+Chris Jones. There's the phone number.
+There's the time. 9:03 to 10:03. And it
+even says swimming pool quote. I love
+it. Okay, so the desktop version looks
+great, but we all know that about
+twothirds of website visitors are
+looking at their phone. So, let's look
+at the mobile version of this site. All
+right. I like how it shrinks down the
+timer. Looks good.
+Buttons look good. I could remove some
+of the padding there if I wanted. Looks
+good. I love it. Mobile version looks
+great. Here's what I love about AI
+website builders like Ready. Your speed
+of testing just increased by 10x. Just a
+few years ago, we'd have to spend hours
+making very similar versions of the same
+landing page to see which one converts
+better. But with Ready, you can just
+copy and paste them all. You can host
+them on different landing pages. It
+speeds up the learning process so you
+can speed up your earning process. So if
+I were trying to launch a digital
+product, a training course, a physical
+product, I would just publish a simple
+site first and then measure how much
+interest I get across different
+variations of those sites. And then
+whichever one looks the most promising,
+I can go all in on that one. All in all,
+I'm stoked with Ready. Check outdy.ai
+AI if you want to build an awesome
+website with just a couple prompts for
+very very little money. Now, what I love
+about AI tools like Ready is that you
+don't need to have a website or have a
+business to use this. You could start
+your own website agency. And I talk
+about that in a few other videos. We'll
+link those below. So, I don't want to go
+too deeply into it. But not too long
+ago, you could charge thousands of
+dollars to build websites like these. In
+fact, today you still can because the
+vast majority of people out there,
+especially the types of people that own
+home service businesses, don't know that
+you can build beautiful, gorgeous
+websites or copy and paste other
+companies beautiful, gorgeous websites
+with just a prompt. They don't know,
+right? So, you shouldn't charge for the
+amount of time it takes you or for the
+amount of effort it takes you. You need
+to charge for the level of value that
+you create. And how valuable is a highly
+converting, highly optimized website to
+a business owner? It could be the
+difference between getting 10 $50,000
+leads a month or 13 $50,000 leads a
+month. It could be worth millions of
+dollars a year. So, you need to charge
+based on what that value is. But if you
+charge too much, then they're going to
+leave you or they're not going to say
+yes and you won't close enough deals.
+So, use all of this cold outreach to
+business owners as an opportunity to ABC
+test your pricing. One flat fee to one
+guy, 100 bucks a month to another guy, a
+combo of both to a third guy. Test it
+until you find the sweet spot of what
+the market is willing to pay. If you
+look at their integrations, you can
+integrate with Stripe so you can charge
+directly on the website, Calendarly to
+set up appointments, Google Analytics to
+see what your traffic is, or even
+Shopify so you can sell physical and or
+digital products. So, if this video was
+helpful, you can use my ready link. I'll
+get a little kickback if you use that
+below. Go copy paste some websites
+already, either for yourself or for
+other businesses. We'll see you next
+time on the Kerner

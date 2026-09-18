@@ -1,0 +1,346 @@
+As a red-blooded American millennial
+male, I have a tendency to log on to
+Robin Hood and make some degenerate
+stock investing moves. I hope you can
+relate with this, but that's not
+necessarily good. How can I use AI and
+AI vibe coding tools to help me develop
+a stock investing strategy so I can beat
+the market without risking my family's
+financial future? Well, today I did
+that. I just built it in Replet. And if
+you're not familiar with vibe coding, it
+just means using natural language like
+the language I'm using right now to code
+apps because most of us don't know how
+to code. So, I'm pretty hyped about what
+I just built and I want to show you and
+I want to show you how I got there so
+you could build something like this for
+yourself. And at the end of this, I'm
+going to give you about a dozen really
+cool prompts that you can use in ChatGpt
+or any other ChatG clone out there to
+find cool investing strategies that fit
+your risk profile or income level. So,
+let me start by telling you what
+assumption I led with. I led with the
+assumption that companies that still
+have the founder as the leader and
+companies that enjoy network effects,
+and I'll get to what that is in a
+minute, outperform the market. And by
+outperform the market, I mean provide
+better returns than just investing in
+the entire S&P 500. Now, what are
+network effects? Well, network effects
+are when a company gets more valuable
+with every new user that they add. For
+instance, eBay. eBay is a buyell
+marketplace. The more sellers they have,
+the more legitimate their marketplace
+appears to buyers, therefore the more
+buyers flood to the market and it just
+grows and grows from there. Facebook,
+the more friends you have on Facebook,
+the more likely you are to be on
+Facebook. That's a network effect. It's
+a moat. It makes companies very
+resilient. Tesla has their supercharger
+network. That's a network effect. Other
+companies can use their superchargers.
+Tesla owners rely on them. StubHub has
+network effects because it's also a
+marketplace like eBay. You get the idea.
+So if a company has network effects and
+is still led by the founder, then it
+will outperform the market. That was my
+thesis. So Replet is one of my favorite
+vibe coding tools and they just came out
+with this new thing called Agent 3 where
+you can vibe code a tool and then it
+will start stress testing your tool,
+breaking it, fixing it, breaking it,
+fixing it, all while you just sit there
+and wait. Whereas before you would have
+to break it and then figure out how to
+prompt it in the right way to get it to
+fix itself. Those days are gone. It's
+amazing. So, let me share my screen,
+show you how I built what I built, show
+you the final product, and then give you
+these prompts so you can develop your
+own thesis for stock market investing.
+All right, my first prompt was, I want a
+portfolio tracker that I can benchmark
+against the S&P. In other words, that I
+can compare against the stock market as
+a whole, and upload via spreadsheet all
+of my historical trades. Here is the
+spreadsheet in question. I want to see
+one day, one week, one month, one year,
+5year, 10 year, 20-year performance in a
+sleek chart like Robin Hood shows.
+Here's the spreadsheet. So, to get this
+spreadsheet, I went to chat GPT. I used
+deep research and I said, "Find me all
+of the companies in the S&P 500 that
+have both network effects and are still
+founderled." There were 26 of them. And
+then I said, make a spreadsheet that
+would show what my returns would look
+like today in 2025 if on the day those
+companies went public, I invested $100
+in that company and $100 in the S&P in
+the market. So then I can track over
+time how much money would I have today
+because really we're talking about
+investing $2,600. 26 companies times
+$100. So one scenario is $100 in each of
+the 26 companies and the other scenario
+is $100 in the S&P 500 on the same day
+that each of those companies went
+public. So it spit out this spreadsheet
+and then I uploaded the spreadsheet into
+Replet because that's how I started this
+project. I wanted to just visualize this
+data that my spreadsheet was showing me.
+But then it evolved into something much
+cooler. So I did. I uploaded the
+spreadsheet. I hardcoded it in the app
+and it showed me something kind of like
+this like this chart right here which is
+really cool. But I had no way of knowing
+if it was actually accurate. So, it gave
+me a rough draft of my app. It told me
+everything it was doing and it worked.
+One shot prompted it. It worked right
+off the get-go. But then I realized,
+okay, I need more data than this. I need
+to know what days all of these companies
+went public. I need to know what their
+share price was when it went public. And
+that was a lot more tedious to find. But
+I did. I eventually found it. Most of it
+was in Wikipedia. And then I had to
+supplement it with some other AI tools.
+And I ended up with this Google sheet
+right here. I'll share this with you as
+well. Called all S&P 500 stocks. You can
+see the name of the company, the ticker,
+the IPO price, how many shares you would
+need to buy $100 worth, today's price,
+and if you look at the formula right
+here, I'm just using the Google Finance
+formula. So, this updates every minute
+or two. the current market cap, the PE
+ratio, the year it was founded, the date
+it was added to the S&P 500, because
+that's usually not the same day that it
+had an IPO, and the exchange it's on, if
+it's founder led, if it has network
+effects. And then I did something
+really, really cool that I'm proud of. I
+used this tool called GPT for Sheets
+right here. Okay? And GPT for sheets is
+what it sounds like. You can basically
+use any AI tool inside of a Google
+sheet. And so over here I had a prompt
+that said tell me on a scale of 1 to 10
+and then I inserted the name of the
+company how much in this case Kagra
+Brands enjoys network effects. One is
+not at all. Maybe they just sell
+widgets. There's no network effects
+there. 10 is very strong network
+effects. And then I did basically the
+same prompt for founder. You would think
+that it's binary. Either a company is
+led by its founder or it's not. But it's
+not because sometimes the company's
+founder sits on the board and they have
+a strong influence over the board or
+over the company but they're not
+technically the founder. Sometimes like
+Meta, Mark Zuckerberg is the literal
+founder and the literal CEO of Meta. So
+that's a 10 out of 10. So I wanted to
+rank these. So it did. I just drugg it
+down. It cost me like 15 bucks in
+credits and I got this sliding scale of
+how much a company has network effects
+and how much they are founder led or
+not. So then I took the editable link
+for this Google sheet and I went back to
+Replet and I said, "Hey, forget that
+spreadsheet I uploaded with only 26
+stocks. Here's the whole S&P 500. Here's
+what each of the columns mean. I want
+this to be your database that you pull
+from when displaying data." And it was
+like, "No problem. It did it for me
+exactly." Because not only did I want to
+see what stock should I invest in, but
+what does it look like? How much does my
+thesis beat the market? And I was pretty
+shocked. I also wanted to see like
+should I invest in companies that have a
+five plus network effect score only 8
+plus 5 plus founder etc. Mix of the
+both? How does market cap come into
+play? I kind of over complicated a
+little bit but I was really happy with
+what came out. I also wanted to see a
+timew weighted returns and unweighted
+returns. Let's say I invested in one
+stock that fits these criteria 10 years
+ago and one that fits it 15 years ago.
+Well, I want to see a weighted average
+return of the S&P if I invested $100 on
+each of those two dates that are five
+years apart and an unweighted like what
+is the S&P 500 in total done over the
+last 15 years. So, I wanted to see both
+of those on the chart. Here was my
+prompt. Okay, we need to revamp the app.
+Ignore the stocks in the upload
+entirely. Pull the data from this live
+Google sheet. And you can see I told it
+what each column meant. Now, it can
+surmise what each column means, but I
+don't want to assume that it knows. I
+would rather get ahead of it, take a few
+more extra minutes to tell it just to
+reduce the potential for error. And then
+I did little things like I want a comma
+in all of my numbers. I only want one
+decimal point on my percentages. And it
+fixed all those really easily. I wanted
+to check the math of the chart and show
+me the stocks at the bottom of all this
+so I can make sure that it was filtering
+correctly. And I was shocked at how
+accurate it was just from the jump. And
+so at the end of the day to see the
+final product, this probably took 45
+minutes of prompting. All in all, boom,
+right here. It's called Neil Stocks,
+NEL, Network Effects, Founderled. And if
+I rank it, let's go 8 to 10 on network
+effects, 8 to 10 on founder. I won't
+touch the PE ratios or the market cap
+ranges. The default is a 10-year time
+horizon. And I can change that on this
+dropown right here. And it's loading.
+You can see right here, six companies
+match your filters. Five of those six
+have valid IPO price data because some
+of them I just wasn't able to get all
+the data for. And now look at this. The
+S&P has returned 9% over this time frame
+weighted and 12% unweed and this
+portfolio would have returned 22.4%.
+Which is over twice the weighted return.
+Crazy. The red line is the S&P, the
+green is this portfolio. And then it
+shows you the six stocks that have it
+filtered here. And then you can verify
+that the IPO prices were correct on all
+those. How cool is that? All right, as
+promised, if you want to find cool
+stocks to invest in, here are some of my
+favorite prompts. Or, you know, teach a
+man to fish, yada yada yada. If you want
+to come up with your own frameworks to
+pick your own stocks to invest in, here
+are the best prompts. Number one, show
+me small micro caps with moat, high
+ROIC, return on invested capital, but
+low analyst coverage. In other words,
+really small, obscure, unknown companies
+that analysts are not covering, which is
+kind of similar to the thesis that I had
+with John McAfee when I launched that
+crypto company. Companies that had a lot
+of hype but very little market cap were
+about to go up in value. People that had
+low hype but a high market cap were
+about to go down in value. Number two,
+companies where insiders are buying
+materially over the last 6 months, but
+stock is down over 20%. Wow, I love that
+one. Holy cow, cuz it's public
+information if an insider is buying a
+stock. So, what stock are all the
+employees buying? Because they know
+something we don't know, but they're
+still down. Aka, the stock hasn't been
+reflected of these impending awesome
+things yet. Number three, stocks with
+high free cash flow yields of over X%
+but PE price to earnings below peer
+median. In other words, stocks that are
+outperforming their peers that aren't
+reflected yet in their share price.
+Number four, businesses in structural
+secular tailwinds that the market is
+ignoring. This is going to be like a new
+regulation or demographic shift,
+tariffs, etc. Number five, industries
+undergoing disruption. List incumbents
+with weak balance sheets versus
+disruptors with strong balance sheets.
+This is like a valuation mismatch. Kind
+of like Nvidia, the chip company.
+Everyone's investing in them. Everyone
+knows them. It's the most valuable
+company in the world. And then you've
+got AMD, which is a direct competitor of
+Nvidia, but they're not as hot. They're
+not as sexy, but they're still doing
+awesome things with AI. Number seven,
+look for companies where short interest
+is high, but fundamentals are improving.
+In other words, investors are predicting
+it's going to go down in value, but the
+underlying fundamentals of the business
+are looking stronger than ever. Number
+seven, companies with recurring revenue,
+customer stickiness, operating leverage,
+but market giving little credit. It's
+kind of self-explanatory. The next one,
+find underfollowed stocks with improving
+margins, and growth inflection. List
+stocks trading below their private
+market value or liquidation value. This
+happened with Coinbase like 3 years ago.
+Coinbase had more cash on their balance
+sheet than they were worth as a company.
+That's a fact. And I looked at it and I
+was like, "Huh?" And some people were
+tweeting about it. It was a thing. But
+crypto was still risky in the eyes of
+many investors today and then. So, I
+took that risk. I went in hard on
+Coinbase. And it's my biggest holding
+and my best performing holding right
+now, which is a great little pair.
+Companies with high barriers to entry,
+scale advantages, but currently in
+boring sectors. I en I really like that
+stock right now because it has it's a
+data center stock that used to be in
+Bitcoin mining and now is in AI. Very
+high barrier to entry riding an insanely
+large title wave and is pretty boring
+and unsexy. All right, that should be
+plenty to get you going. Also, you know,
+I couldn't help myself. I went and
+bought a domain name, ntocks.com.
+I put this free website behind an email
+form. So, if you want to use it for
+free, it's completely free. There's
+nothing to pay for. You just got to put
+in your email and you can play around
+with it. And maybe one day I'll build
+more stuff on

@@ -1,0 +1,1128 @@
+there's an unfair advantage today if you
+know how to use some of these tools you
+want to poke holes in that there's no
+holes to poke this is going to happen
+and someone will make a billion dollars
+doing this it's low risk high
+probability of success putting it in
+your daily workflow is going to pay the
+greatest dividends you've probably ever
+seen it required a team to create a
+product launch a product now you have
+people like us sharing how to create
+products for nothing all that's required
+is motivation can I tell you the tool
+that I've been using for the last week
+that has probably changed the game for
+me from a productivity
+[Music]
+standpoint what is your go-to you have a
+question you move your cursor to a tab
+I'm sure you're using all kinds of AIS
+but what is your go-to is it open AI is
+a deep seek Claude what are we talking
+do I look like a deep seek guy to you
+Chris no yeah no thank you no as of
+February 27th that's when we're
+recording this and I say this because
+I'm constantly changing my stack my AI
+stack you know and I think that's
+everyone I think anyone who's making AI
+as a part of their workflow like they're
+constantly learning like oh my God clo
+just dropped 37 I'm gonna go move to
+that or perplexity just launched deep
+research I'm gonna go use that so my
+current stack right now when it comes to
+I have a question and I want to figure
+out an answer to that question right now
+I'm using like deep research for 80% of
+my questions and what that means is I'm
+going to grock I grock 3 which is just
+grock 3 deep research as of recording
+this free amazing I use chat GPT Pro
+deep research when I want like a little
+extra horsepower but it well you're
+paying $200 a month but I mean you're
+going to pay in time it's going to take
+you grock 3 deep research query takes
+about a minute or two chat gbt Pro deep
+research is going to take 5 to 10
+minutes and for like the light stuff I'm
+using
+perplexity still I really like
+perplexity I like the UI I know I should
+be using Gemini more I just don't no to
+me Google's like the the Boomer in the
+room Google we know you have all this
+data I don't think you're using it right
+I think you drop the ball it almost
+feels like they're late I've been
+playing with the Google stuff a little
+bit over the last week and I will say
+that it's really good notebook LM how do
+you like notebook LM it's really good I
+think it's it's like that's their MVP
+right like so my hot take on on Google
+is I think that they actually are just
+you know launching the tip of the
+iceberg like I feel like they've they're
+probably from a tech perspective like
+above and beyond everyone else you know
+their incentive is I I don't know how
+forward thinking they want to like
+launch things right because they have
+that search business that's making money
+on ads right so I don't know if they
+want an AI first world to happen ASAP
+but anyways my point is for the average
+person like we all should be playing
+with Gemini because it is really good
+how do you like using deep research on
+perplexity versus deep research on open
+AI deep research on perplexity
+feels like it's really good what I like
+about it is you can it gets the main
+points across and it's the UI again is
+just so simple but you know sometimes I
+I don't want simple like I don't want
+headlines I I want to go deep like you
+know they call it deep research for a
+reason you know so there's some I'm not
+like saying that perplexity is a bad
+product or perplexity deep research is a
+bad product I'm just saying that when
+I'm in the mood for like it's Sunday
+morning and I need to go deep on
+something I need chat GPT Pro deep
+research but if I'm like I've got two
+minutes before
+meeting and I really wanted to answer
+this question but I I don't want like a
+quick chat GPT or a quick perplexity
+answer or quick Rock answer that's what
+I'm going to perplexity deep research
+yeah I don't know if you probably didn't
+see this but about 20 minutes ago I
+tweeted about deep research vers
+operator on chat GPT and like to me like
+operator came out first we made some
+videos it was fun to me it's kind of
+like a party trick and deep research is
+like the the replacement because it's
+it's just doing all that in the
+background but better but faster without
+the API limitations without like all
+right you're on Facebook monitor the
+window every 5 Seconds like I haven't
+touched operator in like two weeks
+almost because of deep research the
+problem with deep research is The
+Branding of deep research like no one
+wakes up every morning and it's like wow
+I want deep research I think a lot of
+people wake up every morning and they're
+like I want agents to go and do my work
+for me what people don't realize is that
+deep research is is still agents like
+there there's agents going and scouring
+the web and and and putting it in a way
+and formatting in a way that that is
+easy to consume so I think if open AI
+launched deep research and called it a
+research agent no we wouldn't be talking
+everyone would be using them it would be
+you know but I think because it's called
+Deep research it's just lot less
+exciting to the average Joe I mean they
+nailed The Branding with operator and
+they completely whiffed it with deep
+research yeah totally now grock three
+big step forward in my opinion do do you
+think like I just don't understand how
+how companies like Twitter are catching
+up so fast with such a smaller data set
+I know they have a lot of data but it's
+different data like how how is it so
+good well it's good data it's really
+really good data I mean how you know
+Twitter has been around for 20 years
+almost almost you know closer to 20 than
+10 right I think Twitter came out in
+2006 or something we're talking about
+billions of tweets and also a lot of new
+tweets that are super timely so they've
+got a really interesting data set so
+it's a mix of they've got a really
+interesting data set and Elon Musk is
+like Elon Musk you know I heard some
+crazy stories about him figuring out
+ways to get a lot of gpus and creating a
+I think they stores them in in Tennesse
+and you know making the impossible
+possible Elon Musk is is you know this
+is not a political statement it's just
+like he he's able to do these things
+that a lot of other people can't do I
+think that's the reason why grock 3 has
+become such a good product like I
+thought grock 3 was going to suck
+honestly yeah it's in the stack it's in
+the daily driver is grock pulling from
+like e externally outside of Twitter as
+well yeah I think so okay because I'm
+over here thinking like there's 80
+billion websites and open AI is buil on
+that and then there's billions of tweets
+if grock is pulling from a fraction of
+those websites and then I could see how
+they could be competitive you could say
+that people create websites so it's kind
+of like tweets but it's people create
+tweets you know I think people are
+underestimating how valuable Twitter is
+to creating a high quality llm yeah what
+do you feel about this thing this
+pendant have you looked into these what
+is that this is the Limitless pendant
+where it records everything I'm like the
+total weirdo I wear it everywhere and
+people like what is that and I'm like
+I'm I'm just like an evangelist cuz I
+think it's awesome and I want to record
+everything I don't care about privacy
+I'm like I don't have privacy whatever I
+want to record my whole life and then
+like I could write an autobiography with
+a prompt or I could ask it you know how
+am I a good dad you know based on how I
+talk to my kids or am I a piece of crap
+husband was that gaslighting you know
+like it's just it's just everything I
+don't understand why more people aren't
+taken to it is it because of privacy is
+it because it's just too early what do
+you think okay walk me through what
+Limitless is and yeah this is not an ad
+they don't sponsor me but I think it's
+cool so they're only on test flight
+right now on the App Store so that it is
+an iPhone app and then a piece of
+Hardware it works well two days battery
+life and it's just always listening you
+got to keep it within two feet of your
+mouth it they just came out with an
+update last week that will identify my
+voice
+so I trained it on my voice but it
+doesn't know anyone else's voice it just
+says like you and then speaker one
+speaker two speaker three and it shows
+summaries of conversations and then you
+can click into it and open it and it
+will show verbatim every single word
+spoken and then you can ask it questions
+you can say like give me highlights of
+my conversation with Nick yesterday or
+what were the 10 most funny things said
+in my presence yesterday you can't ask
+it to cover like a week or multiple days
+only day at a time so it's still pretty
+early but it just records everything and
+I just think that's cool and I don't
+even know why I think it's cool yet I
+just think it's really going to come in
+handy one day I understand why you think
+it's cool and I'm a nerd like you at the
+same time I really don't want to wear a
+device personally so I don't know if
+people are watching this on YouTube or
+on Spotify and apple but I have a analog
+of course you do Casio blacked out you
+know cuz I'm wearing an all black out
+wow that must have been expensive man
+dude you didn't even know we're talking
+did you put that on your credit card I
+put it on my credit card and let's just
+say that I got 100 points it was 56
+bucks okay okay wow okay it's a flex
+it's a flex right I have an Apple Watch
+it's sitting at home collecting dust the
+reason is when I'm in front of a
+computer I want to be as plugged in as
+possible possible and I've got tons of
+apps that I'm constantly using lately
+I've been using granola the not taking
+Ai No taking app things like that but
+when I'm away from the computer I don't
+want to I don't want a device on me yeah
+I just don't that's that's where I'm at
+I agree with that my phone my default
+setting is do not disturb 247 I have
+this watch for running long races but
+there's no notifications nothing pushes
+to my watch I'm totally in the camp of
+like why is it so normal for anyone to
+get anyone's attention at any moment in
+the day like that should not be normal
+or healthy right this at least is not
+interactive it's just like a piece of
+metal right there's no touchcreen it
+doesn't buzz it just records so at least
+it has that I think that this is going
+to be very temporary eventually you know
+my watch will just be recording because
+you know if a phone's in your pocket
+it's not going to hear I kind of look at
+it like I look at biohacking when I
+first got into biohacking like all right
+let's track everything what's my pulse
+oxygen level like what's this this is
+and then it's like okay am I getting fat
+no do I feel okay it's just the mid whip
+meme 8020 right so I'm probably just
+like in the middle of that mid whip meme
+right now I'm like in my church Church
+of Jesus Christ of latterday saints
+we're big on U genealogy ancestry um you
+know recordkeeping and so it's probably
+in My DNA to an extent and my grandkids
+probably don't care that I had a
+conversation with Greg today you know in
+a hundred years I think they will by the
+way I think that well because it's you
+well no not even I think I'm just
+kidding I think if I could go and listen
+to my ancestors or people that have
+passed like I would pay any amount of
+money for that I'm a nerd like that like
+I need like I'm I would love to hear
+that here's an analogy my mom is a an
+avid Journal she has written in her
+journal daily her entire life she has
+like 150 journals that are this
+and I told like every time I see her I'm
+like Mom I got to get your journals I'm
+going to scan them I'm going to
+transcribe them and I'm going to turn it
+into an llm and I can ask it questions
+and I she doesn't really care she's you
+know it's obviously her journal she
+doesn't want it on the internet but when
+she dies and I told her this like those
+journals are all mine and I just think
+it would be cool to be like you know
+what what were the 10 biggest trials my
+mom experienced when was she the saddest
+when was she the happiest and I'm not a
+journaler I can't do it I don't want to
+but this is like my cheat code to
+journaling you know what I'm saying so
+some so my kids can do that to me one
+day but I will say Greg let me interrupt
+myself I'll take the other side of that
+argument for a minute it doesn't get
+like my insecurities my feelings my
+thoughts and that's the important stuff
+you know hopefully it can combine with
+what I'm doing on my screen it could
+make assumptions y y y I hear you I like
+I want the the outcome of what you're
+doing with the Limitless but I don't
+want to actually wear it is kind of
+where I'm at it's the same like someone
+asked me this morning oh Greg you should
+totally Vlog more because I was telling
+him a story of how I I got invited to
+this Billionaire's house this famous
+Billionaire's house and all it was a
+crazy event just put it that way and he
+was like oh man if you would have
+vlogged that I'm sure so many people
+would wanted to see what it's like to
+have met that person and gone for dinner
+and seen some of you know the craziness
+and I was like yeah but then I'd have to
+like take out my phone or have like a
+GoPro type thing and I would feel weird
+about it I don't know it changes the
+dynamic there's there's two types of
+people there's people like you who want
+to adopt Hardware type devices that
+because you believe that the outcome is
+worth it like the upside is worth it and
+then there's people like me who from a
+hardware perspective like software I'll
+try anything like I will try anything
+but from a hardware persp persective I'm
+really if I'm going to purchase a piece
+of Hardware or even if someone wants to
+give it to me I need to make sure that
+the upside of it is absolutely massive
+okay that's fair that's fair that's
+where I'm at yeah understood are there
+any like interesting kind of gimmicky AI
+wrappers or just like these any
+interesting tools that you're working
+with nowadays that that are really cool
+or interesting either from a user
+consumer perspective or from a business
+perspective can I tell you the tool that
+I've been using for the last week that
+has probably changed the game for me
+from a productivity standpoint yes
+please there's an app called whisper
+flow have you heard about it it sounds
+familiar but I don't know anything about
+it I always used to make fun of the
+person that would transcribe their voice
+you know go into the notes app and be
+like Siri like take this note you know
+note for Uncle does that I I it was the
+it is the by far the most Boomer thing
+of all time I always saw it and I was
+like how do you look yourself in the
+mirror honestly until I discovered
+whisper flow whisper flow it uses AI to
+basically transcribe what you what
+you're saying and it does so in a way
+that is a magical experience I remember
+the first time I tried chat GPT and and
+I queried it and I got an answer and I
+was like it was an aha moment I had the
+same
+with whisper flow my friend told me to
+try it and then we started texting back
+and forth through voice I would record
+it and I would just say like hey like
+glad you're having a good time on
+vacation and you know I hope to see you
+soon and thanks for sending me that
+picture of my niece or whatever it is it
+was the aha moment because it was
+literally perfect the commas were
+perfect it took out when I said
+literally or took out when I said like
+or and now I'm using it everywhere I use
+whisper flow everywhere when people get
+slack messages from me it's likely
+whisper flow so thinking about how you
+use voice as a part of your
+day-to-day I was never thinking about
+voice I've introduced voice into my
+day-to-day and people think that you
+know I'm sending these long slack
+messages that are like really well
+thought out of in the past what I would
+be doing is like on liners because I
+didn't have the time to write right
+right right and format format format
+with whisper flow and again I'm not like
+I'm involved in whisper I just think
+that didn't use voice now I use voice
+we've gotten to the place where like
+Siri isn't good let's be real but with
+llms and AI something like whisper
+whisper flow is a GameChanger so it
+basically takes what you can already do
+an iMessage and it just levels it up it
+everywhere on your iPhone exactly you
+can like whisper to it literally like
+you don't even need yeah you don't need
+you know Siri it's like okay Siri or hey
+Siri and you got to like
+literally oh my Siri like went off you
+literally have
+to grab a loudspeaker and blast your
+message into it for it to hear but for
+with whisper flow you just quietly say
+it and it's going to pick up on it okay
+that's a good one I'm going to try that
+and it's it like embedded in your
+keyboard or it's a standalone app
+exactly it's cool because it also like
+it'll like bullet out like let's say I'm
+sending a slack message to someone
+sometimes you know I'll say a paragraph
+or I'll just start talking to it and
+it'll just format it in a way that it's
+easy for the recipient to understand
+that's a good one what else anything
+else you're playing with I'm trying to
+think of like nonobvious ones or maybe
+not even ones that you're using but ones
+that you've seen in the wild that kind
+of make you go huh oh that could be an
+interesting business or that's a stupid
+idea but it has 100K Mr its second month
+I brought up granola have you used
+granola I use uh fathom yeah team uses
+fathom when you go to granola it's
+granola.bar
+oh sorry go ahead I was going to say
+like with all these AI note taking apps
+we take all these notes everyone's
+taking notes are you ever going back and
+reading them like honestly and it's the
+same Principle as this thing I'm wearing
+yeah you know like if I never read this
+stuff what's the point well if you're
+never going to read it there's no point
+there isn't and that's why dude I've
+been I I'll say it I'll admit it I'm not
+a notaker me either I'm not a notaker
+never was never will be in school I
+always thought it was like I was guy to
+like there's a girl in the class and I'd
+be like you know next to me and and I'd
+make friends with her or a guy you know
+there's just one girl in particular I'm
+thinking of that I just went through so
+many grades with and she was like my
+note girl she took the most meticulous
+notes I was like be become friends with
+the notaker now I don't become friends
+with the notaker I'm not sure that I
+need the notes if I do need the notes
+even if it's once a month or once every
+three months it's worth it for that I
+think it's almost like note taking is
+one of life's coping mechanisms to make
+us feel good about like not really
+knowing the material or it's kind of
+like you know I'm going to eat pizza for
+lunch but I drank my athletic greens
+this morning so I'm good you know it's
+like is you're checking a box and I use
+faom like I use a note taker but I never
+ever go back and read them but it's good
+to have it's kind of like a form of
+insurance I guess it's a form it's
+schmuck Insurance yeah yeah that's what
+it is so video is cool but you know
+what's better long form audio via
+podcast and my newsletter TKO pod.com go
+there to subscribe for free to my
+newsletter it's one email a week very
+tactical and then go to my audio podcast
+three episodes a week stuff like this
+you're going to love it all free no
+sleazy sales TKO pod.com what are
+you excited about well I want to talk
+about one more tool that is one more AI
+tool actually if that's okay that I've
+been obsessed with over the last week or
+two which is have you played with gum
+loop I keep hearing about it from
+everyone so there's must be something to
+it a lot of people oh yes okay yes yeah
+a lot of people chief of is using it
+yeah a lot of people would will go to
+gum Loop like a lot of people in the
+tech world will go to gum loop I think
+it's gum loop.com and they'll be like
+I've seen this before I've seen zapier
+I've seen M I've seen Lindy AI yeah and
+you're right you have like granola gum
+Loops UI is just a lot more beautiful so
+if you're someone like me who really
+values like beautiful
+experiences and you're you're just going
+to retain better on gum Loop and you're
+going to end up doing more and you're
+going to be able to automate more of
+your business using it so I've been
+having fun just like building flows on
+gum Loop and you're talking to a guy
+who's like used every like played a lot
+with zappier played a lot with make
+played a lot with all of these and
+wasn't the guy who would actually finish
+them like I would start a lot of things
+and come up with a lot of ideas and then
+I would have to go to my team and be
+like do you mind just like hooking this
+stuff up same you know yeah but with G
+gum loop I think what's really cool
+about it is a lot of people are actually
+gonna finish them start to finish what
+cool flows do you use with gum Loop
+today a lot of like
+scraping data and putting it into Google
+Docs or Google Sheets yeah just finding
+data organizing data curating data
+presenting that data to the right member
+of our team at the right time
+to me that's the most interesting what's
+cool about it is if you scrape data and
+you put it into let's say a Google
+Sheets you can use intelligence you know
+in between there right so you can say
+like okay here's all this data that I
+scraped from you know the best Cuban
+food in Miami and then you can use
+intelligence to be like okay here's
+here's what the internet says which is
+basically like highly ranked SEO
+articles which by the way not be the
+best like just because it's on a list
+and it's ranked number one doesn't mean
+it's actually the best kubano for
+example and then you can use
+intelligence and you can pick which llm
+you want to use to actually add to that
+edit it challenge it put it
+into some sort of cloud software that
+you know your team could see and then
+you create like slack Bots and stuff
+like that that notifies people I just
+think that the concept of when people
+say they want AI what they really when
+business people say they want AI I think
+a lot of the times they actually really
+want automation but the word AI is just
+a lot more sexy than automation zapier
+has had an open AI integration for like
+two years now but it's it's just clunky
+and zapier breaks all the time Here's a
+thought we started a business not even a
+business we built a programmatic SEO
+site a year ago for Pet Cremations did I
+tell you about this already no yeah
+because like there's there's more
+puppies than than kids nowadays there's
+all these animals there's only a few
+hundred pet cremation facilities but the
+demand for cremation is going through
+the roof and so the thesis was you know
+in all these far-flung cities there's no
+there's no one starting a horse
+cremation facility because there's not
+enough demand but there's still people
+searching for it so we called it animal
+after care and this was really more of a
+a test a programmatic SEO learning
+experience we built it a year ago we
+didn't touch it and I get calls on my
+personal phone every hour from people
+wanting to cremate a thorough bread in
+uname city in the United States or
+Canada and it's really interesting
+because I saw a guy on Twitter doing
+this uh with other keywords and he
+basically finds keywords on the Google
+Keyword tool that have high search
+volume low competition and then he's
+using repet to build a programmatic SEO
+site and so what is stopping anyone
+doing a Mad Dash a gold rush if if you
+will of taking all those like high
+volume low competition and high ticket
+orthopedic surgery for for example and
+just spinning up hundreds or thousands
+of programmatic SEO sites you do it once
+in repet and then you copy paste over
+and over same design different keyword
+5,000 landing pages per website and just
+aggregating countless leads and then
+selling the whole thing to private
+Equity to the biggest player in the
+market or just selling the leads you
+know poke in that there's no holes to
+poke this is going to happen and someone
+will make a billion dollars doing this
+this happened thank you in Web 2.0 ERA
+with I don't know if you remember a
+company called demand media demand media
+basically would use started in 2006 they
+would use algorithms to identify topics
+with high advertising potential based on
+search engine query data and bids on
+Advertising auctions so it's basically a
+lot of of you know advice in how to
+websites so for example you might have
+heard of ehow.com started through demand
+media okay I have I just didn't know was
+called the man media I've heard of these
+guys yes so they are credited with
+spearheading this idea around a Content
+Farm before them the idea of a Content
+Farm didn't really exist on the internet
+the idea that you'd hire writers to
+write in a in one of these niches based
+on Google Trends data and keyword data
+like this is content Farm 2.0 I think
+that there's going to be a demand media
+of our generation of this generation
+demand media wasn't a small business by
+any stretch it I think in it's Heyday
+half a billion dollars a year in Revenue
+like we're talking serious revenue and
+this was like pretty early you know mid
+2000s right so that's a lot Arbitrage at
+scale it's Arbitrage at scale and it's
+never been easier like we will have such
+an easier time doing this than demand
+media ever did with these tools yeah I
+think if I was in college right now this
+would be something I would be doing I'm
+gonna share my screen this is our Google
+search console for animal Aftercare we
+had it at animal- aftercare
+for animala care.com and started
+transferring all the traffic but look at
+like I I I go weeks at a time forgetting
+that I own this business other than the
+fact that these calls come in because we
+don't do anything we're not selling the
+leads we're not doing anything with them
+and look at all these keywords that
+we're ranking for private cremation for
+Cats pet cremation West coina like
+because we have 5,000 landing pages in
+the in the states which is five keywords
+across the top 10,000 cities by
+population and then same for Canada top
+100 cities in Canada five keywords pet
+cremation dog cremation pet youth in
+Asia dog youth in Asia horse cremation
+and we're just ranking and we just
+picked a random thing but you could do
+this with thousands of keywords yeah
+what I love about this is it's it's
+lowrisk high probability of success I
+mean the hard part it's figuring out I
+mean you got to use like HS or or
+something like that to figure out the
+opportunity zones if you can get the
+right domain I actually think that a do
+domain and single two-word English
+dictionary Doom domains are going to be
+more valuable in an AI world so there's
+a whole Arbitrage there I mean we've got
+like a programmatic SEO agency we
+invested in a programmatic SEO agency
+because we were like this is the there's
+going to be a huge opportunity to build
+businesses on top of these keywords it's
+called boring marketing.com and I've
+just been able to see firsthand like the
+right programmatic approach approach how
+well it works and then you marry that
+with this prompt to software movement
+that's happening and it's amazing so I
+think that this is a window in time
+opportunity I don't know how long it
+lasts but for right now it's definitely
+a huge idea so I'll take two sides to
+that argument I completely agree but as
+far as how long does it last like you
+ever seen that Viral Reddit post that
+says it's all priced in of course it's
+classic right so it's like here's my
+version of that we're always early
+everything's early right we're so early
+like we're we're early on crypto we're
+early on e-commerce we're early on AI
+like you don't know if you're early or
+late until the history of the human race
+has played out already right so early is
+relative to how long that thing will be
+around are we early on laser discs no
+like it's behind us right but like let's
+let's talk about Roll-Ups right rolling
+up marinas and dsos dental offices and
+like there's thousands of Industries
+micro Industries and sub Industries to
+roll up that we're going to be rolling
+up you know gutter cleaning businesses
+in 15 years there just because the sheer
+number of things there are to roll up
+right and then in 15 years there's going
+to be hundreds of new industries that we
+don't even know about yet right so when
+it comes to Opportunities like this on
+one hand I completely agree if you take
+like braces near me like someone's going
+to build a programmatic site for that if
+they haven't already and they're going
+to be they're going to be number one
+just like Uber's number one they're
+going to have 80% market share and then
+a bunch of other people will fill in the
+20% right so you know we're probably
+late for that but there's so many
+different keywords so many different
+combinations of keywords that even
+though we are early for the best maybe
+the biggest opportunities I think this
+is still an opportunity in five or 10
+years yeah so here's the way I think
+about it was it easier to launch in
+iPhone app in 2009
+2011 right after the App Store came out
+yeah absolutely it it was easier does
+that mean that you can't launch an app
+in 2025 or 2024 like the Cal AI guys and
+make a million dollars a month or
+whatever it is they're making no of
+course you can still launch a mobile app
+today and still do really well the
+difference between mobile and this world
+we live in now is there was back then it
+required a team to create a product and
+launch a product and go to market and
+often times you actually have to raise
+money to go and do that now you have
+people like us sharing how to create
+products for products for nothing and
+all that really required is some
+motivation honestly all that's required
+is motivation that's literally it it's
+true yeah there is just going to be by
+that you know a lot more competition
+because there's a lot of motivated
+people out there I understand what
+you're saying and I agree with you that
+you're early even in 2032 you'll be
+early and there'll be opportunities to
+build something but as a whole it's
+definitely easier to win today than I
+think it will be in 10 years from now I
+agree and another thing though that I
+would say is if you know we're talking
+about programmatic SEO and building
+stuff like this on repet right and so in
+that sense you you don't have to raise
+money you don't have to hire a team so
+it's going to get more competitive more
+saturated faster right but on the other
+hand the fact that AI has opened up so
+many other opportunities that have
+nothing to do with even websites or
+programmatic SEO all the enterprising
+entrepreneurs out there we're just
+chasing so many more rabbits now the pie
+is so much bigger that I feel like it's
+it's proportional you know what I'm
+saying like even though you don't have
+to raise money even like it's still it
+just kind of it's a wash it offsets I
+want to believe what you're saying is
+true you know and a past version of me
+would say don't worry about it
+you know when the time is right there's
+still going to be
+opportunity and I agree but like the
+reality is there's an unfair advantage
+today if you know how to use some of
+these tools yeah and put stuff out there
+you could have bought Real Estate in
+Manhattan in
+1907 when there was a lot less
+competition you can still make money
+buying Real Estate in Manhattan today
+it's just a lot harder and the price is
+a lot more that do that you want to buy
+like once people realize that buying
+these Dooms and and the keywords are are
+sort of worth it I'm going to guess that
+a lot of the prices of Dooms are going
+to go up yeah yeah agreed and if nothing
+else this is kind of intangible but like
+you just act now because the the more
+you wait before acting the more likely
+you are to never act so just do it now
+do it now that's just bias for Action is
+just best practices regardless and do it
+now because you're going to suck for a
+while and and by the time 2028 rolls
+around or 2027 rolls around you'll be
+good yeah yep yeah I don't really get
+the people that are like yeah I'll just
+wait until like the tools get easier or
+you know oh I used chat gbt and it
+didn't really work that well it's like
+no no no like this all these tools
+putting it in your daily workflow is
+going to pay the greatest dividends
+you've probably ever seen yeah agreed
+when it comes to the repats of the world
+bolt wind surf what are your go-tos for
+trying to build an app prompt to code I
+think bolt and and lovable are great
+places for non-technical people to to
+begin with Bolt's a client of our design
+agency LCA so I just have a little more
+love for that you know I went to CS
+school and I dropped out but I only had
+three classes left so I have like a
+decent understanding of like technical
+infrastructure and and how to think
+about these things so cursor to me
+doesn't feel for a lot of people I think
+they'll use it and they'll be like this
+is overwhelming but to me it doesn't
+feel unknown I also really like cursor
+what about the last like I feel like the
+last mile is just as hard as it's ever
+been like I can whip up something and
+repl it so fast but then it's like it
+still doesn't work it looks really cool
+what have you found any solutions to
+that to me it's like it does its trick
+which is to me I need get something out
+and deployed and stuff might be wonky or
+not working great but if I can validate
+that there's demand and I'm like okay
+great then I can go and hire you know
+one two three developers to take it the
+last mile today is is still humans in my
+opinion will that be forever no but as
+of recording this I do believe that you
+do need a human to I mean it depends on
+what you want to create like you're just
+creating like lining Pages or a basic s
+at may you know maybe you can just do it
+yourself but once you start getting
+into a lot of different features and a
+more heavy software application having a
+human in the loop is probably a good
+idea I don't know if it's just because
+I'm an idiot or what not but I'm I have
+like six projects in repa right now and
+I can't close any of them out i' I've
+hired some bounties but still even
+they're not figuring it out so I do
+think that there needs to be some sort
+of like school for this you know like I
+feel like there's so many people who
+have a graveyard of repet ideas or or
+cursor ideas that are like 90% there and
+I think that I wish there was like a
+modern-day business school that people
+can like go and go online and I wish it
+was free that people can like learn to
+actually like know enough technical
+knooow to take it home but I just I
+think that the tools aren't there just
+yet all right so you got any business
+ideas for us I mean I always have
+business ideas I have a notes file Apple
+notes where it's just called ideas and
+I've got a million ideas so let me just
+pull it up any category or just anything
+that excites you today I'll give this
+one to you and your
+audience I don't know if it's an idea as
+as is an Insight but when I first moved
+to Miami when I was walking and I saw a
+dental office and in the window it said
+best dentist in America 2020 and they
+had this big plaque and I I looked at it
+and then I looked inside the dental
+office and I was like oh it's a clean
+dental office it's one of the best you
+know confirmation bias yeah exactly one
+of the best dentists in America I
+deserve a great dentist you know and so
+I walk in and I was like are you guys
+taking customers Lo and beh whole
+thousands of dollars later lots of
+cleanings later referred probably 25
+people there I'm a customer and a good
+customer now is she the best dentist in
+America like probably not but it got me
+thinking that there's a huge opportunity
+to sell like basically sell plaques my
+initial idea was selling almost like how
+product hunt has like product of the day
+number one what if you can sell some
+accreditation to startups any Niche or
+you start with one Niche do you think I
+was thinking just like startups in
+general and it could be as simple as
+like product of the year or product you
+know product yeah product of the year
+it's like yeah and you can put this like
+badge on your website and the reality is
+that's going to increase conversion and
+in a sea of AI startups like you kind of
+want to stand out so it's like are you
+willing to pay
+$200 so that you could have that on your
+website and it's going to convert more
+and also like optimize it around people
+like doing unboxings of physical award
+like that's worth $200 so you know and
+you know who does this really well is
+YouTube their 100,000 Subs like did you
+get one I did yeah I got one right there
+you got one too right yeah I got one
+yeah it's nice see we're talking about
+it I know right all right I like this
+idea and I'm gonna I'm gonna hopefully
+level it up a bit okay yeah so like AI
+tool directories out there you probably
+see them right different categories chat
+Bots whatever so it could be something
+like that a directory and you could have
+like a silent auction where you I get a
+cold email let's say I have a I have an
+app that I just released and I scrape
+product hunt this business scrapes
+product hunt and they email me the owner
+of this new app and they're like hey we
+want to add you to our directory
+congratulations we nominated you for
+product of the year now this is it gets
+a little gets a little iffy here okay
+let's say there's 20 people on this
+category of the directory it's a silent
+auction and they bid who wants to be
+number one and whoever bids the most is
+number one whoever bids second most is
+number two and then they get a physical
+plaque mail to them so it's a total
+racket but according to this random
+website that no one's heard of but that
+doesn't matter that's just the fine
+print they are product of the year I
+mean this is a a very easy one to $3
+million a year business like super high
+margins don't need a big team I like
+that it could expand to different
+categories I'm bullish on the trend of
+like accreditation basically yeah like
+something in the age of AI you're saying
+like a human stamp of approval or just
+kind of going the opposite direction of
+AI That's right I think I always try to
+think about that around when you're
+coming up with startup ideas and you see
+a trend or Paradigm Shift like AI you
+have to be like okay what are my
+favorite AI ideas and you like List It
+Out by priority and then you're like
+okay what are my favorite anti-ai ideas
+and then you List It Out by priority so
+that's how that like barbell strategy is
+is something I think a lot about yeah I
+like it what about an agent so you see
+right there I've got the YouTube plaque
+and the Shopify plaque both smart an
+agent that basically links up with
+Twitter anytime someone posts a picture
+or tweet TW or something about their
+Shopify or YouTube plaque the agent goes
+and does a deep dive on that person or
+that business how did they get there
+when did their Shopify store open it
+looks at the web archive it looks at all
+these tools that already exist to just
+do this reverse engineering Deep dive of
+the YouTube channel or the Shopify store
+or whatever it is and then presents a
+clean little nice report here's how to
+copy this business or here's how to
+launch your own Shopify store based on
+how this random store did it in only 97
+days or whatever is I like that a lot
+and the beauty is you can use tools like
+gum Loop that's scrape and and write the
+Articles and write the breakdowns you
+probably put like a newsletter on top of
+it too get people to subscribe for like
+a weekly breakdown or something like
+that that's a good one it' be a paid
+newsletter where hey we don't know if
+someone's going to post about this three
+times a day three times a month but as
+soon as they do about seven minutes
+later you're going to have an email in
+your inbox of exactly how to do that
+that's a good one what is that company
+that raised like $50 million for their
+sales agent there like like 10 it's
+crazy to me the agents raising all this
+money yeah it's it's wild I'm writing
+I'm gonna post this newsletter it's all
+about this idea called Vibe Revenue
+where can we find that newsletter to
+read it Greg Eisenberg decom okay Vibe
+Revenue what is that just like we're
+hopping on the gravy train well you know
+what it was I tweeted the other day I
+had like too much coffee and I tweeted
+I'm usually not this spicy but I said
+fine I'll say the thing that no one is
+saying there's a bunch of AI companies
+with1 to10 million AR raising big VC
+money on what I'll call curiosity
+Revenue not real sustainable AR
+basically what's happening right now is
+a lot of people have high willingness to
+try AI products they sign up for a free
+trial convert but it's just temporary
+Revenue spikes that don't look like
+product Market fit and I wrote a whole
+long post about so smart
+and it got me thinking about this
+concept called Vibe Revenue which is
+like people people have been talking
+about Vibe coding which is like using
+tools like bolt and cursor and repet to
+like one prompt to software but I think
+the other side of it is there's a lot of
+apps software companies that are that
+are being put out there that frankly
+like it's just they're calling it ARR
+but it's like people are just window
+shopping you know they're just trying it
+out yeah it's like it's a sugar high
+it's a sugar high and that which is
+easily gained is easily lost right
+that's right exactly the harder way is
+usually the better way yeah so I'm I've
+been thinking about that a lot it's
+really top of mind like how do you
+create an indispensable business and try
+to like avoid the hype so I think a lot
+of people are going to be listening to
+to this and they listen to you know or
+they're on Twitter or X just seeing
+other people posting and they're going
+to be they're going to feel the fomo to
+build AI businesses it's good to feel
+fomo in some sense because it increases
+motivation which I think is is a really
+positive side effect of
+fomo but it's bad if people end up
+creating a bunch of businesses companies
+that they take other people's money and
+they end up chasing these sugar highs
+when the reality is there's no need to
+chase sugar highs when there's so many
+indispensable businesses sustainable
+businesses that people be creating today
+and if they're listening to this or you
+on your podcast they should have no
+shortage of ideas I mean come on no I
+mean don't give me that I can't come up
+with an idea yeah I don't want to hear
+it just literally ask chpd for ideas
+yeah Chris thank you so much for having
+me I know your audience Are My People
+too I love people interested in ideas
+and stuff like that so I'm grateful that
+you invited me here and it's really nice
+to see you and I hope you'll have me
+back on sometime I would love that and
+where can we all find you on my podcast
+startup ideas podcast and if you like
+that stuff then you'll find me elsewhere
+thank you for coming on all right thanks
+Chris I'll see you later all right what
+you think please share it with a friend
+and we'll see you next time on the ker
+office

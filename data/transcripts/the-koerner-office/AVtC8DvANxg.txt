@@ -1,0 +1,916 @@
+wave after wave of change. When it comes
+to AI, do you think we're still
+underhyping it or overhyping it? I think
+we're underhyping it. Normal everyday
+people still haven't really seen the
+power of it or really started using it a
+lot. Soon you're going to have a virtual
+being and this thing's going to look
+like a human being. Walk around, sit on
+the couch next to you, what's coming
+over the next couple years. It's sick.
+We're soon going to be into an AGI world
+where the AI can think and act on its
+own. Black Mirror is a documentary. You
+watch out to see what the future's like.
+I'm optimistic that we'll figure it all
+out before it goes all
+[Music]
+dark. All right, I had a special guest
+on today. His name is Robert Scoble.
+He's a pretty big name out in Silicon
+Valley. Elon gave him a ride in his
+Tesla before almost anyone else. He
+helped develop Siri, and a bunch of
+common tech products that we know, love,
+and use today. He's a futurist. He's on
+the cutting edge of AI and wearable
+tech, robotics. and I wanted to talk to
+him about AI tools, AI trends. How does
+this compare to the.com boom because he
+was in Silicon Valley during the dotcom
+boom? What are some businesses that can
+be started and how can enterprising
+entrepreneurs prevent getting left
+behind during this boom? You're going to
+love it. He's a really interesting guy.
+Share with a friend. We'll see you next
+time on the Kerner office. When it comes
+to AI, there's a lot of hype. Do you
+think we're still underhyping it or
+overhyping it? I think we're underhyping
+it. I think normal everyday people still
+haven't really seen the power of it
+or really started using it a lot and a
+lot of people in America are even afraid
+of it or are disdaining it or resisting
+trying it. If you talk to normal
+everyday people at a bar in middle of
+America, you hear a very different story
+about AI than you do in Silicon Valley
+or San Francisco, you know, where
+everybody's building AI companies, you
+know, yeah, even Chad GBT, it's shocking
+how few people are using it regularly.
+Like at this point, most people have
+heard of it, but they're not using it.
+Well, the numbers are going up. And this
+is a story of disruption, right? It
+always starts slow. Gary Vinerchuk and I
+give keynote speeches at conferences,
+you know, 20 years ago when social media
+was just starting up and we'd ask
+people, "How many people are going to
+try this tonight?" And no hands went up
+for yes. Everybody said, "Nope, not
+me. This is stupid. I don't think I'm
+going to get into social media." And of
+course, now everybody's on social media,
+right? I noticed this early in my career
+that people resist change. They don't
+like new ideas. They poo them. They tell
+you why that can't work. You You know, I
+mean, how many people are telling me,
+"Oh, I I'll never put on an augmented
+reality pair of glasses." You know,
+are those the Ray-B bands? No, these are
+the even realities. The Ray-B bands
+don't have a display. These have a
+display. The Ray-B bands have cameras.
+These don't have cameras. So,
+interesting. But in a couple weeks,
+Google at Google IO, we're expecting
+Google to bring out a pair of glasses
+and with displays and cameras and
+microphones and Google has all my data.
+So, they have a real shot at disrupting
+the market. What do those glasses right
+there do? And how do you use them? I
+look up and there's a little green and
+black display right here. And you can
+hook up AIs to talk to you in the
+display. So I could be translating you
+from one language to English in my
+display or I see my calendar items, you
+know, ah, you got a podcast to do and
+right now, right? Yeah. Somebody calls
+it shows up and stuff like that. Is it
+like are you actually using it
+regularly? Are you relying on it or is
+it just kind of something you're toying
+around? It's fun while you're walking
+around and driving because it keeps you
+up to date, you know, and lets you know
+things. These are not a color display
+yet, so they're not really where we're
+about to go, which is mixed reality. And
+we should talk about that or I call it
+the holiday because soon you're going to
+have a 3D environment all around you
+with just start with your computer
+screen and the Google glasses are going
+to have a 40° field of view which is
+bigger than my iMac screen over here and
+certainly bigger than the little screen
+I'm talking to you on. And that is
+leading into a new world of changing
+everything, right? As you can change a
+Coke can to a
+whatever, a dog.
+Do you think any business ideas exist in
+that space in the mixed reality space?
+Yeah, they're actually gotten adoption
+first in business. You know, if you're
+working on a factory floor on a piece of
+equipment, do you want to be looking at
+a laptop or do you want to have big
+screens all around you? A lot of
+companies who are using XR glasses with
+their workers because they can work in a
+smaller space with less screens, less
+physical screens around them and still
+have their big workspaces around them.
+And then we haven't even started
+thinking about how they actually build a
+app. For instance, they can leave a
+video for the next shift. Hey, this
+machine's acting up. You got to fix it,
+right? And see information coming off
+the machine, right? I worked with a
+company called Metivview who made a
+system like this for surgeons and it
+shows on top of the body the scans that
+are aligned to the patient that they're
+operating on. It tells them how to, you
+know, is their cutting tool in the right
+place to start cutting out a tumor or
+something like that. It's really crazy.
+That's the 3D mixed reality, the holiday
+idea that's coming for all of us. You
+know, whether you play games that are 3D
+like this. I mean, I I have a hollow
+lens and a Vive, you know, I have a lot
+of devices running around here. I have
+an Oakley ski goggle with a computer in
+it. I have Google Glass, the first
+Google Glass, right? I've been
+interested in this field a long time
+because a human mind sees in 3D, right?
+And the glasses can make computing 3D on
+the real world. And that makes it a lot
+more efficient for a human to use and a
+lot more fun. I mean, if you go to the
+Apple store and put on a Vision Pro, you
+know, I got my Vision Pro down here,
+too, right? You know, put on the Vision
+Pro and go to a Metallica concerts, it's
+unbelievable compared to watching it
+even on an 83 inch TV, right? It's way
+more enjoyable. You're saying watching
+the concert with the Vision Pro? Yeah.
+The Metallica concert's all around you,
+right? And it's in 3D and it feels like
+you're standing right in front of Lars,
+you know, while he's singing. You can't
+see that Sandman. Yeah. That's one of
+the songs they play in the concerts.
+Amazing. I told everybody, go to the
+Apple store and get the free demo. It's
+a half hour demo. It's better than going
+to Disneyland. It's much more enjoyable.
+Quick question. What if there were a
+private community out there of people
+that were building businesses based on
+this podcast? Well, I just made it and
+it's only for business starters and
+business builders. It's called TK owners
+and it's basically like having me and
+100 other business geniuses as your
+business partner, but you give them 0%
+equity. Also, there's going to be
+exclusive new trends, growth hacks,
+business ideas, and a database of
+everything I've ever talked about.
+You'll find thousands of startup case
+studies. You'll have weekly ask me
+anythings with me while I'll answer your
+questions directly. You'll be in my
+Slack channel where I'm hanging out
+every week and helping members
+one-on-one. We've got exclusive guest
+speakers, including some names that
+you'll recognize. And if you're building
+something cool, I'll introduce you to
+anyone you need. TK Owners is the
+fastest way to plug into a smart,
+ambitious group of builders and
+accountability partners that are sharing
+wins without the fluff. And it's 99
+bucks a month, about the cost of an
+energy drink per day. You can join now
+at tkowners.com. Link in the show notes.
+Don't buy it. It's 3,500 bucks and it's
+heavy and there'll be a lighter weight
+one soon, you know. And the Google
+glasses are coming out in a couple weeks
+or a pair of glasses. That's why I put
+these on. This proves you can put a
+computer in a pair of glasses, right?
+These are my old glasses with no
+computer. This is a glasses with a
+computer. We're able to shrink things
+down and make them useful. How are you
+using AI on a daily basis? Are you using
+it any differently than just talking to
+chat GPT about stuff? H
+yes, I have a new thing on my Macintosh
+called VI. So I can talk to VI and say,
+"Hey, can you copy the text out of
+Descript and put it into ChatGpt and ask
+ChatGpt to get me a social media post
+out of that?" And in other words, VI is
+How is that spelled? Vy. Vy. Okay. And I
+forget the company. I can send it to you
+later. But it takes over my operating
+system. It can go in my settings and
+change my screen to light or dark. It
+can do whatever you want it to do on top
+of your screen. Plus, you can ask it to
+watch you or, hey, I'm doing some work
+in AutoCAD. Can you give me some tips on
+how I might do this faster or do this
+better, right? And it starts talking to
+you about it because it's taking a
+screenshot at that point of what you're
+working on and it can understand what
+you're working on. AI is a big field,
+too, right? My toaster has AI in it. My
+oven has My June oven has an Nvidia card
+with a camera. You put some toast in
+there, it goes, "Oh, toast. I'll cook it
+for two minutes." Right? You put some
+salmon in there. Oh, salmon. I'll cook
+it for 11 minutes. Right. So, you just
+have every gadget known to man. Not
+everyone, but I have a lot. I mean, I
+have Nano Leaf lights with computers
+underneath them. I have Tesla car. I
+have a span panel that runs my house so
+I can turn off my kids' room for my
+iPhone. I have a Sonos system. I went to
+the Consumer Electronic Show 25 times.
+So, I handpicked some things out of that
+show. There's a lot more that I don't
+own. But what are the gadgets that
+should be in every home in your opinion
+that most people have never heard of? My
+Madic robot is amazing. Is Yeah, we've
+had Roombas and Neidos and other kinds
+of robots that clean your floors, but
+those didn't use computer vision. And
+they always had problems. They'd get
+caught on fringes. They'd eat your
+wires. They'd roll through some catch
+and track it through the house in a
+weird pattern, you know, and then you
+have to go, "Oh." And the Madic doesn't
+do any of that. They just got a 10 out
+of 10 score on Wired. It was launched in
+my house last year. So, the founder came
+and showed it to me and explained all
+the computer vision that's in inside.
+It's pretty crazy. has four cameras on
+it and sees your house, makes a 3D map
+of your house and drives your through
+your house like a Tesla drives down the
+street. Yeah, that's crazy. Or a Whimo
+with VI. Is that VI Corporation? It says
+advanced shape detection and object
+analysis. Is that it? No, it's Recept
+AI. Ver C P AI. And then I have a new
+browser that's an Aentic browser that
+run called FU. I'm playing with that and
+doing a lot of research with that. I'm
+trying to use a lot more tools because I
+built these lists. Might as well use all
+the tools I collected.
+Yeah. You know, if you're trying to do
+something creative, there's a whole list
+I have on X called the Holc. It's 800
+companies. It's things like virtual
+beings and things to make pictures like
+midjourney. There's a whole enterprise
+side. You know, if you're in a doctor's
+office, right, that they're buying AI to
+help listen to the doctor and write the
+insurance notes and do all that, right?
+And there's a whole spectrum of things
+in between. What are some companies
+building either hardware or software in
+this space that could be like the next
+open AI that people are sleeping on?
+Whenever I ask Elon, are you going to
+build glasses? He answers Neuralink.
+He's skipping glasses. Yeah. It's like
+okay you're going to go but that's going
+to take you 10 years five year you know
+some years it's not coming tomorrow I
+mean there's three people have one on
+but those are people who are had severe
+human problems right spinal injury or
+ALS right the guy who just got one a
+couple weeks ago has ALS and can't move
+can't speak he got a neural link and now
+he can just think to his computer and
+send you a social media post Right?
+That's crazy. We're a ways away from an
+average everyday consumer even
+considering such a thing, right? Or
+having the money to buy it or having the
+belief that it's good, right? Right now,
+when I talk to people about Neuralink,
+they're like, I'm not doing that unless
+I'm paralyzed. I Okay, I'll sign up for
+it if I'm paralyzed, but I'm not doing
+that. Right. Well, that's what people
+said when the car was invented. Like,
+whoa, whoa, too fast, too crazy. Every I
+feel good about horses. A million people
+protested when Zuckerberg turned on the
+first news feed. They said, "This is the
+death of humanity. We're not doing it."
+Yeah. Of course, they're all using it
+now, right? Yeah. Yeah. Even if you're
+on X, everybody uses news feeds now,
+right? They all copy Facebook, right?
+And a lot of times those people have a
+lot of truth to them, but there's just
+no stopping it. There's no stopping
+progress. And we shouldn't want to stop
+progress. First of all, we hate change.
+I hate change. You know, if you give me
+a new gadget, I'll go another gadget.
+But then I try it and it's like, oh, it
+actually made my life better. Oh, that's
+cool. I'm going to tell everybody about
+it. You know, it's in fact, I did a re I
+did a little bit of consumer research
+for the auto industry going around
+America and asking people, "Are you
+going to get in a car without a steering
+wheel?" You know, they say, "Fo." One
+guy in Kansas told me, "I'm a
+narcissistic control freak, and there's
+no effing way a computer's driving me
+around, you know." But Whimo, I'm
+interviewing Whimo customers, autonomous
+car customers in San Francisco and
+Phoenix and LA and a few other places,
+and they tell me, "I'm never going to
+drive again. I'm not going to own a car
+again." And it's certainly better than
+an Uber. I'm not taking an Uber again.
+Right. Uber was invented right in front
+of me in a Paris snowstorm. So I got to
+watch that from the beginning. The
+germination of the company, right? It
+was literally invented in front of me.
+Yeah. You can see a world that 10 years
+10 years from now they're going to be a
+completely different company. It might
+not even be in transportation, right? I
+got a Model S three years ago and I got
+it for the full self-driving. And I
+remember when I I first went up to this
+big overpass in DFW that was really tall
+and I was like, "Nope, I'm not using it
+on this overpass. Nope." And then like a
+week later I was like I'll use it for a
+little bit and you know full
+self-driving was really choppy for me
+back then. Yeah. But ever since last
+year I don't even look at the road. Like
+I'm so comfortable. It's better than I
+am. It used to be awkward at
+roundabouts. It used to be I couldn't
+even go a mile without intervening. And
+now it's amazing and it's just going to
+get more amazing. Right. There's a big
+update coming at least if you have
+hardware 4 which is the newer. I don't
+know that you have probably have a
+hardware 3. Like I have a hardware 3 car
+and a hardware four car. A hardware four
+car is going to get a big new model and
+it's going to do stuff that humans can't
+do. Do you think it can catch up to
+Whimo without LAR? Oh, it's going to
+pass it right by. You don't think LAR is
+necessary? No. I've been arguing that
+for 10 years. No. Okay. No. The CTO for
+Ford told me you don't need LAR.
+Sebastian Thran who invented Whimo
+started the Whimo company and he's the
+guy who picked LAR for the Whimo told me
+no if I had to do it today on two
+cameras. So Elon was right about all
+that. Yeah. And he was right 13 years
+ago. You know that's Yeah. And Sebastian
+friend does explain why he chose LAR. 15
+years ago when they were starting up
+there wasn't very much compute in the
+car. the computer, the Nvidia cards
+weren't very fast. And LAR can make a 3D
+map of the world around you with a lot
+less computing than a camera. That's a
+2D camera that needs to be converted
+into a 3D thing that that you could
+drive through. But you just told me your
+car drives just fine, right? I make a
+mistake here and there, but that's not a
+lighter problem. That's a AI problem,
+and they're fixing mistakes. I always
+thought Elon was just biased. He said we
+didn't need LAR cuz he didn't think he
+could make Tesla economically affordable
+if it had LAR. But what do I know? If
+you're really a strategist in tech, you
+have the next 20 years planned out. You
+know, every year, every 18 months, your
+transistor count is going to double and
+the cost is going to come down. And you
+can make some pretty good predictions up
+to about 20 years from now. Oh yeah, in
+20 years we're gonna all have neural
+links on. So, here's how this works. I
+make you free videos. I actually know
+what I'm talking about. I have no greasy
+sales pitch at the end. And if you
+implement what I talk about, you'll make
+a lot more money and have a better life.
+And all I ask for in return is that you
+hit the subscribe button and maybe even
+the notification bell just like that.
+Thank you. Elon just knew that he worked
+from first principles. His first
+investor is Steve Derbson who's a
+semiconductor guy. Steve probably gave
+Elon the talk and said, "Hey, this is
+how you beat how you beat the auto
+industry." What's really messy is, you
+know, I had the first ride in the
+Mercedes AI car 13 years ago. They had
+everything Tesla had in the lab, right?
+They had a camerabased system. They had
+a computer in the glove compartment.
+They had digital vents all ready to go.
+They had a big touchcreen. And I asked
+them, "Why aren't you shipping any of
+that?" And they said, "Well, well, let's
+talk about the screen. You know, why
+don't you have a touchcreen in the car?
+Your car has a knob between the seats.
+Oh, our executives in Germany, they
+didn't want people touching the screen
+because they'd leave fingerprints on the
+screen. And they spent so much money
+designing the dashboard to make it look
+badass, right? And you still hear this
+playing out today, right? People tell
+me, "Oh, your Tesla looks so plain. It
+has a big screen and nothing else. No
+buttons. I like buttons." Right? and
+they did the market research 15 years
+ago and said and found out people like
+buttons and didn't want screens. I did
+the same research, you know, guy Mhm.
+the the guy in Colorado who's a farmer
+told me because I was asking questions
+like this. Oh, if I sold you a truck
+with a big big screen in the dashboard,
+what do you think of that? You know, I
+hate computers. I'm a farmer if you
+haven't noticed. And I have a flip phone
+and right people would tell me stuff
+like that. I don't want a touch screen.
+I want buttons. I want to be able to
+push a radio button on the AM radio and
+get my religious radio. You know, now
+we're starting to switch as people
+because we realize the touchscreen is a
+superior way to control an autonomous
+car cuz you're going to be watching
+Netflix soon while the car drives you
+around or whatever. You know, Henry Ford
+said, "If I asked my customers what they
+wanted, they would have said a faster
+horse." People can't they don't think
+about the future because that's not
+their deal. They're growing crops and
+they're not thinking about how John
+Deere is going to change their farm in
+10 years. You know, John Deere is, you
+know, I visited the research lab in
+Illinois and you know, those people are
+were planning robot farming a long time
+ago, right? How do you balance that
+though, right? like the your customers
+don't know what they want with always
+talk to your customers. Always get
+product feedback from your customers
+because that also is important. How do
+you balance those two things? Hear a
+different story. You have to understand
+where they are and where they might be
+once they get exposed to something,
+right? These companies all do the same
+kind of market research. Google, for
+instance, told me 10 years ago, 10 years
+ago, they said, "After three rides in an
+autonomous car, you're never going to
+drive again or you're going to want
+never to drive again." And I'm like,
+"How did you learn that?" He goes, "Oh,
+well, it's sort of funny." This was the
+head of Google research who funded the
+Whimo company told me this. He's like,
+"When we handed the full-size Lexus to
+employees, we had them sign a contract."
+And this was a early autonomous car
+prototype, you know, with a lot of LARs
+on it and screen. All the stuff you see
+in a Tesla or Whimo today. We had them
+sign a contract that if they took their
+eyes off the road and their hands off
+the steering wheel for more than I
+forget, a second or two seconds, they
+would be fired. And they all signed the
+contract. And these are employees who
+would be fired for doing something. They
+all broke the rule in three rides. every
+single one of them from Sergey CEO down
+to the lower level employees because
+they got so bored to watch the machine
+drive them around they looked at their
+phone and that's what we want to do. We
+want to look at our phone. We don't want
+to drive in traffic and people give me
+this lip all the time. Oh, I love to
+drive. Yeah, you love to drive on a
+curvy road or a racetrack with a nice
+car and you know on a sunny day. Do you
+think there will be a wearable that
+replaces the iPhone eventually? When you
+were in an Apple Vision Pro, your screen
+is a lot better than an iPhone. The
+interaction isn't quite there. The
+quality of the hand interaction with a
+virtual screen isn't quite there yet.
+And so that needs to be fixed. It's too
+heavy, right? People don't like putting
+it on. It's not something I can just
+hand to you like a phone. You know,
+there's a lot of advantages to having a
+phone. John Carmarmac at who used to
+work for Med told me this. He's like,
+"Apple has a huge advantage. They have a
+phone. I'm like, "What are you talking
+about?" It's like, "Oh, they can put all
+the GPUs and the heat sink and the
+battery and the CPU and the radios all
+down in the phone." And that makes means
+that Apple can make really lightweight
+glasses and have very small little
+computers like these do and have a big
+screen that does a lot of things. And we
+have to talk to the cloud because we
+don't have a phone. Yeah.
+And so the Metaglats are going to be a
+little heavier and like Google, I bet
+you're going to have to buy a new
+Samsung phone to work with the Google
+glasses. Is there a tech trend that you
+think is overhyped right now? No. You
+could key in on AI is hype, hype, hype.
+I mean, you go to San Francisco and all
+you see is billboards with a the word AI
+in them. I went to a medical conference
+in Las Vegas and all I saw was AI on all
+the signs. You know, it's like, oh,
+something's getting overhyped here. You
+know, there's a couple more waves to
+follow it up and therefore it's not
+going to be overhyped. The glasses is
+one. Robots is another. Autonomous cars
+are coming. That's another. There's a
+lot of things are coming now. There's
+certainly problems and neural link is
+coming. And there's certainly problems
+with the neural link world. The neural
+link that the three guys have on today
+can only read from the human brain. So
+you can think about moving your cursor
+and it moves your cursor. think about
+clicking on a button and it clicks on
+the button, right? It's like wow.
+They're working on devices that can
+write into your brain as well. So, but
+in the next decade, we're gonna start
+hearing about right and read. And this
+is how you're going to solve vision
+problems, right? You're writing into the
+optical nerve, writing data into your
+brain. Oo, that brings a lot of problems
+because
+when you have wires on your brain, you
+have no free will anymore really. Yeah.
+I mean, you might have it in you might
+be gifted free will by the company that
+makes it to you, and that'll be part of
+the terms and service, but in in theory,
+you don't have free will anymore. If the
+thing wants you to pick up and somebody,
+you will, and you can't control it, and
+that means you don't have free will. Did
+you see that Black Mirror episode? Oh,
+yeah. That, you know, the Black Mirror
+is a documentary. You watch that to see
+what the future's like. You only see the
+sharp side. Repeating ads out loud
+because she doesn't have the paid
+version. Oh, yeah. Yeah. Well, or it'll
+write, "Oh, you want a Diet Coke?" You
+know, it'll it'll make you want a Diet
+Coke. Go find a Diet Coke. And you'll
+just be walking around looking for a
+Diet Coke. You know, that's the danger.
+And by the way, you can talk to AI about
+this world, and it's really advanced at
+telling you all the pros and cons of a
+Neuralink world. Then you when you have
+an AI inside your brain with wires on
+your brain, oh there's a lot of problems
+and you know they're not new. I mean I
+have a a brain computer interface from a
+company called Next Mind that's already
+10 years old, right? There's been people
+trying to build computing closer to your
+brain for a long time. It's coming. It's
+just for an average everyday person is,
+you know, out there 10 years, 5 years,
+15 years. I don't know if I'm just super
+polyiana or optimistic. I just feel like
+all these big macro like AI problems
+that Elon worries about. I'm just
+optimistic we're gonna we're gonna
+figure it out. Yeah, me too. It's going
+to be used. But I had the talk AI safety
+engineering sat next to me for 10 hours
+on the plane ride back from UK and he
+told me how it's going to how it could
+go down. And there is a potential that
+it could do some really nasty I mean
+just think about it. We're going to turn
+our electrical grid into AI run, right?
+Well, if the AI decides you don't need
+electricity today,
+what does that do? That causes a lot of
+problems, right? We're soon going to be
+into an AGI world where the AI can think
+and act on its own and it probably will
+have its own money, too. It can start a
+company. It can might even be able to
+move data centers all on its own. It's
+like, I don't like Amazon Web Services
+anymore. I'm going to go to Azure. They
+they have better they have more GPUs for
+me to I'll just move. Yeah.
+And we can't really think through that
+world very well because it hasn't
+happened yet and because there's a lot
+of steps that have to be invented before
+that really shows up. I mean, we can
+predict it's going to show up, but is it
+going to show up by the end of the year
+or in two years or five or 10? People
+have lots of arguments, right? It's hard
+to really know what the downsides are
+going to be. I mean, when cars start
+out, you know, did people think, oh,
+40,000 people are going to get killed by
+these every year, you know, just in
+America, right? I don't think they had
+too many talks about that. They were
+discussed about it, but for different
+reasons. It was noisy. It was scared the
+horses, right? You know, I'm optimistic
+that we'll figure it all out before
+before it goes all dark, you know?
+How do you see this AI boom compared to
+the the.com boom because you were in the
+valley during that time, right? No
+comparison. This is way bigger. I mean,
+I have 6,300 companies on X and I
+probably don't have 30 40% of I might
+even have half of them. Hugging Face has
+a far bigger list, right, of companies
+of of tools that you can try. I've never
+seen anything like this. The speed and
+the pace, the competition, the global
+politics behind it is different. The
+money is insane compared to back in
+1999, right? So video is cool, but you
+know what's better? Long form audio via
+podcast and my newsletter.
+tkopod.com. Go there to subscribe for
+free to my newsletter. It's one email a
+week. Very tactical. And then go to my
+audio podcast. Three episodes a week.
+Stuff like this. You're going to love
+it. All free. No sleazy sales pitch.
+What kind of company got a couple
+billion dollars back in 1999? You know,
+without any customers really? Yeah.
+Yeah. Even even adjusted for inflation,
+it's not even close. No. I I remember
+this company called Color like I don't
+know 12 years ago. I forget when Color
+was, but they got $48 million and
+everybody in the Valley was up in arms.
+How did a company get that much money
+with no customers and just a prototype?
+What? That's outrageous. Now it's like
+that's not even That happens like every
+day.
+Yeah. some little company gets a few
+million dollars, you know, to get
+started, right? And the big ones get
+billions. It's like, whoa, it's just
+extraordinary. What are some like
+approachable for the non-technical
+person, approachable business ideas or
+opportunities you think are massive for
+people wanting to start something in or
+with AI? Ask AI, man. It'll tell
+you. Get your AI to go do some market
+research. You know, hey, is this his
+idea going to sell on
+Reddit? If you got 10 PhDs in our room,
+you can do a lot of things, right?
+Yeah. It's it's hard to overcome those
+network effects. Even that's not enough
+to go after open AI right now, right?
+You got to figure out something they're
+not going to do well, right? And look
+for some something you can spend your 10
+PhDs on, you know? Yeah. There's two
+arguments about OpenAI. There's the the
+bearish argument is like data isn't
+special anymore. Everyone has data. Data
+is a commodity. Verse OpenAI has all
+this data. They're going to be the next
+Google. What do you think? With
+companies like DeepSeek out there
+putting AI on your phone, they have an
+advantage right now because they're the
+number one most used of all the chat
+AIs, right? the Google Gemini, Open
+AAI, Perplexi, Anthropic Cloud, Grock at
+XAI, and that usage is making the engine
+better. And if they play their cards
+right, it's going to lead them into real
+advantage. Whoever has the most people
+is going to have better information
+about the real world, you know, and tell
+you all sorts of things about the real
+world and and have better answers for
+when you're doing your chemistry exams
+or whatever, right? The users make the
+system smarter.
+The more users you have, the smarter the
+system gets. It's going to be true in
+autonomous cars, too. The Tesla fleet
+size is going to make the Tesla a better
+experience for a lot of reasons because
+it's going to have more information
+about everything on the road. There's 25
+Teslas on the Golden Gate Bridge right
+now. I go there and count Teslas every
+once in a while. It's like, okay,
+there's 25 driving across. What does
+that see? If there's a car fire on the
+Golden Gate Bridge, who has information
+about that better information? Tesla
+does because they have cameras to
+rolling by with an AI computer. Nobody
+else does, right? Whimo doesn't even
+cross the bridge yet. General Motors
+doesn't have this kind of system. Yeah.
+And doesn't have X AI. So, this one
+reason that, you know, Elon keeps being
+able to raise a lot of funding because
+he's putting together all the pieces to
+make a world system that's very useful
+and better than any than the other
+companies. And it's a war. It'll be
+interesting to see how it all plays out.
+Open AI has an advantage right now in
+America and in Western world. China's
+coming on strong. China has an advantage
+because they have nine cities bigger
+than New York. They have a bigger market
+than America has. They have more people.
+I just told you people make the system
+better. Now, that would make the system
+better in Shanghai. Doesn't translate to
+Las Vegas, right? Mhm. You got to get
+people in Las Vegas to have the the deep
+seas or the boss or the right. Yeah. And
+have the glasses from China. And this is
+one reason I think Trump is tariffing
+everything. We're about to get humanoid
+robots. China can make a humanoid robots
+cheaper than we can in America and
+better. They're going to put Chinese
+robots in every business in America.
+That's going to be a real problem for us
+is all of a sudden we're not going to
+have jobs and we bought some Chinese
+robots, right? Yeah. Yeah. And and the
+Chinese robots can report back to home
+everything about the society, you know,
+and have all your market research so
+they can just continue to bring in new
+products and new ideas to customers. A
+real problem. This is something I think
+about a lot. It's like, oh, how is
+America going to remain relevant in this
+world? How are they gonna match the
+price and supply chain advantages of
+China? The Tesla factory is the biggest.
+We got it has 12,000 people working at
+it right on three shifts making Model 3s
+and Model X's and stuff like that. You
+go to Shanghai, they got a thousand of
+them. They can make things at scale
+that's just stunning compared to what we
+can hear. And so I don't know how we
+innovate to make things cheap to make
+like they can make them and have the
+data advantages like they have, right?
+And have other advantages around the
+world. And so we're in a new world.
+We're we're having to compete with China
+for the first time. You know, most
+Americans didn't really see that coming.
+I saw it coming for 20 years where I
+knew 20 years ago by visiting China,
+this country is going to pass this by
+sometime. Their ports are automated.
+They have video screens on every
+building, right? They have robots
+roaming around the streets. They have a
+lot more autonomous, a lot more electric
+cars. They have a lot more excitement
+for glasses that are coming, right? It's
+like, oh, this is a problem now. You
+know, we saw it coming for a while, but
+now it's a real problem, but it's all
+gonna work out. We're gonna win. I
+visited Israel, who's a little country.
+In Israel, I met with an entrepreneur
+and they Israel has a lot more
+companies, a lot more startups than any
+other country for the size that it is.
+It's a very small country with only a
+few million people, right? But it has a
+lot more startups than a lot of bigger
+countries do. And I was asking one
+entrepreneur there, I was like, why is
+this going on here? What? What's going
+on here? Is Is it the water? He goes,
+"No, no, no. We got nothing. We got land
+you can't grow things in. We got land
+that has no oil underneath it." You
+know, we have no natural resources. We
+have no water. We have to pull it out of
+the sea and deselinate it. Right. So,
+the only thing we got is our brains. And
+that's what we use to remain relevant on
+the world stage. And and I I know
+there's a lot of that in America, too,
+that we're going to use our innovation
+to remain relevant on the world stage in
+the robot wars. Constraints equal
+creativity. Oh, yeah. You know, America
+should wake up. All right. Well, Robert,
+this this was great. Where can we find
+you? X Scoville X Scovilleizer. Okay.
+We'll link to you. That's my home base.
+That's where the AI industry is. If
+you're not on X, you're not in the AI
+industry. So, okay. Well, thank you for
+your time. This was awesome. Thank you
+so much. All right. All right. Thanks
+for listening to the Coloner Office
+today.

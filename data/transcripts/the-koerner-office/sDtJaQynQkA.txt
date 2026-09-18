@@ -1,0 +1,457 @@
+This is my friend Shannon and he owns a
+bunch of businesses but his favorite
+revenue stream are his Amazon books.
+Yes, he has ebooks that he's written
+over the last who knows how many years
+and he sells them passively on Amazon
+and he makes thousands of dollars a
+month completely passively. Yes, it was
+active to write the books but today it's
+passive and he did this before AI and of
+all the things he runs he told me that
+his Amazon payments every month just
+taste the sweetest. So today we're going
+to talk about how can you leverage AI
+tools to write books that you sell on
+Amazon without having to take possession
+of a book or ship a book or anything.
+You just type in some prompts, you
+publish a book and you sell it. Not only
+do we have AI tools but we have
+third-party AI tools right now that will
+tell us what is hot on Amazon. What
+types of books are people searching for
+and not finding? What is the random
+backyard gardening beehive holistic
+organic Southeastern Montana book that
+people keep searching for and just not
+finding? Well, I'm going to show you how
+to find the demand, how to use some cool
+tools and how to start making money with
+AI books in Amazon. Also, we're going to
+talk about professional templates, how
+you can estimate how many sales you'll
+make every day, week, month and we'll
+also talk about some case studies of
+people that are using AI to make good
+money on Amazon.
+[Music]
+Okay, so anytime I try to reverse
+engineer someone using a specific tool
+or software, I like to go directly to
+the home page of that software to see
+what they're promoting to people. So let
+me share my screen. If I go to
+bookbolt.io, I'm going to see create and
+upload coloring books, story books and
+low content books to Amazon in seconds.
+Okay, so I'm guessing and this is a big
+assumption here that they are pushing on
+us what people are using BookBolt for
+the most and the other assumption is
+that what people are using BookBolt for
+are the things most likely to be
+profitable on BookBolt. So, I'm going to
+look down here on the home page. They're
+talking about the studio, know what
+sells on Amazon, market research.
+Because if BookBolt Lister was their
+most used product, then they would have
+put this at the top. But good websites,
+and I'm assuming this is a good website,
+I've heard great things, put the things
+that people use the most and search for
+the most at the top to remove the most
+amount of friction to get the most
+amount of people finding what they're
+looking for. Training calls every month,
+they've got success stories. Okay, now
+while I'm working on this, I want
+ChatGPT to be working for me. And so I
+started a deep research prompt that says
+find case studies about people who made
+serious cash publishing coloring books,
+story books and low content books to
+Amazon.
+I just copy this directly from the
+header right here. Who they are and how
+they did it. Remove all the spammy,
+scammy stuff from people merely selling
+courses. I want tactics. Look on
+YouTube, Reddit, Indie Hackers, message
+boards, Facebook, etc. anywhere. Let's
+do solo creators.
+Are you looking for recent success
+stories or older stuff but if it's
+solid, the more recent the better. Any
+preferences on what kind of low content
+books? What I listed plus what you can
+find. Are you only interested in Amazon
+KDP? Focus mostly on KDP but also look
+to Etsy and Gumroad.
+And then I said try to find tactics for
+people specifically using BookBolt.io as
+well. All right, so that's going to get
+cranking but I don't want it to bias me.
+I want to go do my own research and my
+own fact-finding while deep research
+cranks for me.
+Okay, so I have a paid account here.
+Now, I do know that BookBolt has built
+their system from the ground up to
+enable even complete beginners to use
+it. And I've talked to a lot of people
+that have used Amazon KDP which stands
+for Kindle Direct Publishing and be
+honest most of them don't find the
+success that they're looking for because
+they don't have the tools that they
+need. What if you were trying to build a
+shed in your backyard and all you had
+was a hammer and some nails and some
+2x4s? Well, you really need a power
+drill, some screws, a chop saw. You need
+a lot more. If you don't have the right
+tools, then you're going to say, "Oh,
+this isn't successful. I guess people
+just can't build sheds. I guess sheds
+just aren't a thing. I guess it's a
+psyop from the government." No, they
+just don't have the right tools. We
+really need sales estimates. We got to
+see what stuff that's currently listed
+on Amazon is selling for, how much
+they're selling per month. We really
+need keyword research tools so we could
+know what to spend our time on before we
+actually dive way into it. And we also
+need templates because we're not
+designers. I'm not a designer. I need a
+starting point. And from what I
+understand, BookBolt offers all three of
+those things and more. So while deep
+research works for us, let's dive right
+into their keyword tool to do a little
+research on what to launch. So it says
+the more specific and niche your
+keywords are the better your search
+results will be. Try using long-tail
+phrases or combining multiple terms to
+target a more defined audience. Now, I
+use the phrase long-tail a lot but what
+does it actually mean? Well, if you look
+at this right here, this is a
+distribution curve. This is the head of
+the curve and this is the tail, right?
+And it's long. So in this case, in
+looking for what types of content to
+publish, the head of the tail would be
+like self-help, business, fiction,
+non-fiction. That's what most people are
+searching for, the 80% of the 80/20
+rule. But this tail here is where all
+the money is made because the results
+are unevenly distributed. You really got
+to put the legwork in to see where is
+there more demand for a keyword than
+supply. If you're willing to put a
+little bit of legwork in, you will get a
+lot more results out of that legwork.
+We're not Tony Robbins, we're not Dave
+Ramsey, we're not trying to beat them.
+They make seven, eight, nine figures a
+year on Amazon because they've been
+building a brand for decades. We're just
+trying to make a thousand bucks a month,
+five, 10, 15,000 bucks a month. Okay,
+now in
+thinking of keywords to pick, we want to
+think of things that are familiar to us.
+Even though we're going to use AI to
+write most of this, we need to be able
+to edit it so the book or piece of
+content reads in a way that just makes
+sense, that doesn't sound like AI. So
+what do I know inside and out? Texas
+barbecue. I know it, I love it, I cook
+it. So with that in mind, I want to
+search for Texas barbecue because that
+is a topic that I know and love and cook
+with every single week. Texas barbecue
+search. All right, all right, look at
+this. Look at this. Okay. Texas
+barbecue. 91,000
+searches on Google. 96 cent cost per
+click. Low competition. What does that
+mean? Why does it have so much search
+volume and low competition? Well, I'm
+guessing it's because people are looking
+for restaurants and paid Google Ads is
+not something that restaurants usually
+use to advertise. They're usually paying
+Google Maps or Apple Maps or Yelp or
+other products outside of Google Ads to
+rank. This creates a little arbitrage
+opportunity because the same person
+searching for a Texas barbecue
+restaurant might likely be searching for
+a Texas barbecue book or instructions or
+a blog. And so we can hijack all that
+search traffic that other brands aren't
+paying for and send users to a different
+place that's still relevant to them.
+Now, if we look on the Amazon side of
+things and click on the more details pie
+chart here, we can see that it has an A
+competition score which means
+other people aren't competing on this
+term but it has a one estimated monthly
+sales volume which clearly is not great.
+So let's go less niche on this and just
+search barbecue. All right, looking a
+lot better. Has about 25 times the
+search volume. Let's click on more
+details. 149 monthly sales volume.
+Competition score F. So it's very
+competitive. And on the Google side of
+things
+it's very competitive as well. All
+right, now one of the favorite tools I
+like to use on this is right at the very
+top. Once again, go with what the system
+is telling you to do. Product search.
+This is just the home page of the
+product search tab. This is 1,000%
+designed by AI. Spooky cutie cute and
+comfy coloring book. $10. Was published
+a little over a year ago. BSR stands for
+book sales ranking. That's how well this
+book is selling in its specific category
+and right here it shows you that it's
+ranked 30th right now and it used to be
+47. It's come up 17 spots. 865 estimated
+sales which means this book has made
+almost $10,000. This book very similar,
+same seller, same price, similar amount
+of sales. Now, what is a low content
+book? It's stuff like this. Coloring
+book, Dad I want to hear your story.
+This is basically a journal for someone
+to gift to their dad so that they can
+write down their stories. Coco Wyo
+stress relief. Another 10 grand from
+this book. All AI generated.
+And here's the thing, guys. Stop
+overthinking the fact that it's AI
+generated. If we're solving a problem
+that people have, if we're fulfilling a
+need that they're searching for on the
+internet, then even if they know it's
+AI, they don't care because you're
+selling them something that they're
+looking for. Imagine logging into
+ChatGPT and saying, "What is the capital
+of Florida?" And then it spits out the
+answer Tallahassee and it's like, "Oh,
+you of course. Yeah, you're chat like
+no."
+Yes, it's AI generated but it's also
+right. It's also the answer you were
+looking for cuz it's accurate. Speaking
+of ChatGPT generated answers, I'm about
+to read my deep research generated
+answer even though it's from ChatGPT
+because it's what I'm looking for. So,
+coloring and low content books. Chris
+Ray Dog $16,000 coloring book win. A
+YouTuber who earned over $15,000 from a
+single coloring book. He credits using
+high demand niches, using smart
+advertising, creating quality content,
+spotting trends, yada yada yada.
+One low content notebook analyzed by
+publisher Kristen Walters sold 28,000
+copies in a single month. A funny gag
+journal or a trendy theme and benefited
+from high demand. Such success isn't
+average but proves a solo creator can
+strike gold with the right idea at the
+right time. This is called an asymmetric
+bet. You pay 20 bucks a month for
+software, use that software to research
+trends, use AI another $20 a month
+software to generate some low content
+books, publish them on Amazon. You'll
+either win or you'll learn and use those
+same skills in whatever else you launch
+next. Maybe it's another book that does
+even better or worse. Maybe it's another
+business entirely. This book had
+therapeutic prompts. It was priced at
+$12 and it sold over 1 million copies
+earning millions of revenue. Earning
+about $12 million in revenue. Word
+search puzzle book with only 22 reviews
+pulls in over 11,000 a month at a $9.99
+price point. Coloring books remain one
+of the most lucrative niches on KDP.
+Some self-publishers have scaled to
+100,000 per year through multiple
+coloring book titles. Akara Sarah, a
+content creator turned two books into
+500,000 per month business. Spanish
+language learning books. Spanish in 60
+days and Spanish for real. So, you can
+look at them and say, "Oh, Duolingo. Oh,
+Rosetta Stone. Oh, ChatGPT. Oh, the new
+AirPods automatically translate. People
+don't need need to learn new languages
+anymore. Especially, they don't need to
+learn them through books. Like, what is
+this 1984?" Stop. It's still there. For
+the same reason that physical paper
+books didn't go out of business when the
+Kindle was invented. We still want
+books. All right, this is incredible.
+There's a ton of case studies. I don't
+even have time to read them all. Mom, I
+want to hear a story. Okay, similar to
+the dad book. Preschool activity book. I
+think you should go all in on homeschool
+books. Look, things I need to write down
+because I'm old and I forget stuff. This
+is just a journal and the only
+differentiator is a funny title. So,
+let's do this. Screenshot this title.
+Back to ChatGPT. Give me 10 more journal
+ideas with funny titles like these.
+What's stopping you from selling
+journals that are just a bunch of blank
+pages as most journals are that just
+have funny titles and seeing which one
+hits. What's stopping you from
+publishing all 10 of the ideas and
+seeing which one hits? Then once you
+find a winner, then you can put Amazon
+ads behind it. All right, let's get a
+little granular on the filtering here. I
+want to find titles that do not have a
+high BSR sales ranking because this is
+going to be more realistic for us. So, a
+100 to 1,000. Price between 10 and $30.
+Sales between 100 and 5,000. Okay, this
+book has made about 10,000 bucks. Okay,
+guys, first of all, I'm an idiot. These
+sales numbers, this is a monthly number.
+Okay? Of course, they haven't had 646
+all-time sales and 17,000 ratings. This
+book's been around for over 6 years and
+if they have 17,000 ratings, then
+they've sold several times more than
+that in number of books because only a
+small single-digit percentage of people
+actually leave a rating. So, let's say
+it sold 100,000 books. They probably
+sold the the bulk of them in the first
+year or so and it slowed down since
+then. That means that this book has made
+over a million dollars if only one in
+six people left a rating for it. Let's
+go back to ChatGPT. Here are 10 funny
+relatable journal title ideas in the
+same tone as your example. I had a
+thought once, better write it down.
+Stuff I swear I told someone already.
+Plans on yada yada yada. You can see
+what those are. Password hints that will
+make zero sense later. World-changing
+thoughts I'll never act on. What is
+stopping you from selling a journal like
+this? If this person could do it and
+their only differentiator is a cute
+title, then why can't you? Go back to
+the keyword tool. Let's search for
+journal. 2.6 million searches. Click the
+pie chart. High competition. Tea
+journal, tea tasting journal. 10,000
+searches a month for a tea tasting
+journal. Fibromyalgia
+journal system journal symptom tracking
+journal. 1,500 searches a month. Tell me
+your idea is too niche. I dare you.
+RV journal hardcover spiral journal.
+10,000. Guys, what are we talking about
+here? Competition score A. Why aren't
+you selling an RV journal hardcover
+spiral journal? So, here's what's cool.
+Take this, click on the A keyword
+search. It opens this page right here
+and it tells you all the keywords that
+people are using to find this. Let's
+click on movers and shakers.
+2026 calendar, 2026 graduation guest
+book. These are all low content book
+ideas. Food word search puzzle. Yada
+yada yada. Look at these charts here.
+When you click on evergreens, you can
+see things that are trending right now.
+You can see exactly what their sales
+volumes are. Okay, I'm here in the Book
+Bolt studio and this is where all the
+magic happens. I'm creating a paperback
+journal called Conversations I Rehearse
+in the Shower. 6 by 9, black and white
+interior with white paper, 100 pages.
+Cool. Now, keep in mind the studio
+formats everything in the right way for
+Amazon KDP. So, you don't have to do all
+this work twice. While this loads, I'll
+just give you some tips for this. The
+reason that people fail at this endeavor
+is because they're picking niches that
+are oversaturated or they're not doing
+any keyword research whatsoever. They're
+using generic designs that nobody's
+asking for. They don't actually know
+what's selling versus what isn't. Just
+cuz you think your idea is good doesn't
+mean that the market does. And you got
+to customize your templates.
+Don't just give what the software spits
+out to you. You got to make it
+different, cute, unique, etc. That's why
+doing all this research beforehand is so
+invaluable. This idea is awesome for
+working parents, single moms, side
+hustler looking for income. But if
+you're looking to get rich quick, you
+hate doing research, you don't like the
+process, you won't stick with it past
+the first attempt because newsflash,
+your first book probably won't be that
+good. Your first book is mostly for
+learning. This is not a get-rich-quick
+scheme and it's not guaranteed.
+Nothing's guaranteed. So, let's say you
+make a planner or a journal that sells
+10 copies a day, you make $3 in
+royalties per copy. That's 30 bucks a
+day, a thousand bucks a month. Do that
+10 times. Now, granted, you might have
+to do that 20 or 30 times to find 10
+winners that are as good if not better
+than the first one. But if you do, then
+that's 10 grand a month. You got to put
+work in on the front end, but after
+that, it's quite passive. There's no
+customer support. There's nothing to
+ship, package, returns, tracking, etc.
+If you do this for 3, 6, 12 plus months
+consistently, you will earn real, real
+income. Start by trying this for 30
+days. Start by testing one product just
+to see how it works. Then you can test a
+coloring book, a planner, a calendar, a
+graduation party guest list book, etc.
+Start testing all those things and
+you're going to learn very, very fast.

@@ -1,0 +1,261 @@
+The US government spent $834 billion on
+contracts last year, and most small
+business owners don't even know this
+money exists. So, I went and built a
+tool that finds all of these government
+contracts for you, and it took me only
+this many minutes to build it. And no, I
+don't know how to code. I'm just talking
+to an AI. Let me show you exactly how I
+built this, and then how you can profit
+from it as well. So, it all starts on
+sam.gov. This is the federal website
+where every federal contract gets
+posted. This website gets 2.2 million
+visits a month, and it's an ugly
+website. It's clunky. It's hard to use.
+But new, amazing deals are posted here
+every single day. Lawn care, IT,
+construction, consulting, you name it.
+But this site is brutal to use. It looks
+like it was built in 2004. Filtering is
+a nightmare. Most people give up before
+they ever find anything. So, what I
+wanted to do is to build something that
+makes this dead simple. Type in what
+your business does, pick your state, and
+see contracts you can actually bid on
+with dollar amounts. Also, you don't
+need to be a business owner. If you're
+an aspiring business owner, that also
+counts. Now, a website like this would
+normally cost between 10 and 20,000 to
+build, plus a team of developers, and
+weeks or months of going back and forth.
+But instead, I just used Replit Agent 4.
+Now, AI coding tools have been out for a
+couple years now, and they're amazing,
+but they're still kind of clunky. You
+got to go one step at a time. You
+describe what you want, you wait, you
+review, you repeat, you fix it. Agent 4
+is different because I can have multiple
+AI agents working on different parts of
+the app at the same time. One's building
+the back end that pulls the contract
+data. One's building the front end that
+helps people search more efficiently.
+And then another agent is generating the
+landing page. And they're all running in
+parallel. So, it's kind of like managing
+a team of engineers, except they're
+always clocked in, no one takes breaks,
+and they don't talk back. So, let's
+build this together. I'm going to show
+you exactly how I do what I do, so you
+can build whatever you want, and maybe
+you can find some cool government
+contracts while we're at it. All right,
+so I'm here in Replit and I wanted to
+give Replit a really good thorough
+prompt. So, I went over to Claude and I
+said, "Claude, I want to build this
+website that piggybacks on sam.gov. It
+makes it easier to use." I gave it like
+three simple sentences. Then I said,
+"Make me a beautiful prompt to give to
+Replit to make sure that it does a great
+job." So, here's my prompt. I'm not
+going to read it all. You can pause and
+read it yourself if you want. Boom,
+there's the top part. Boom, there's the
+bottom part. Boom, there's the last
+part. I don't know what half this stuff
+means, but looks smart, so I'm going to
+go with it. And then I just pasted that
+in there and said, "Build this for me,
+please." Okay, right here it's asking
+for my sam.gov API key. Anyone in the
+world can make an account at sam.gov.
+Once you do, you just click on account
+details, then API, then you click
+generate API key. I don't even know what
+API stands for. You don't need to,
+either. You just need a big string of
+numbers and you paste it right here into
+Replit. All right, there's my key. Now,
+this key will enable me to pull all the
+data I need from sam.gov without having
+to scrape or work around any of their
+restrictions. So, what you're looking at
+here is all of those agents that I
+talked about running in parallel. It's
+generating the front end right here.
+It's checking something with open API
+right here. It's talking about proxy
+routes over here. I have no idea what
+that is. Front end is generated. Man,
+this is incredible. Boom! Look at that.
+Okay, that took about 4 minutes.
+Wow, the US government spent 834 billion
+on contracts last year. Find yours. That
+looks incredible. It's really good
+design. I own a tree trimming business,
+so this is the preview. This should work
+as it actually works in real life. Let's
+go ahead and see if there's a tree
+trimming contract. Boom!
+There it is. Posted March 9th,
+Department of Defense. That's
+incredible. I mean, look, it even has a
+quiz. That was probably part of my
+prompt that I didn't even read, where
+people can find out if they qualify by
+answering this quiz. They even put a
+disclaimer here at the bottom. Okay, now
+if you look at the preview, it looks
+great, but there's
+some other things I want to do to it. I
+would love for it to have a email
+collection field so people can be
+notified when new government contracts
+are posted that meet their filters. So,
+I'm going to ask Replit to do that.
+Okay, my prompt is add a way for people
+to be able to subscribe to get email
+notifications when new contracts appear
+that match their filters. After they run
+their first search, show a pop-up that
+says don't miss out, we'll email you
+when new listings appear that match your
+filters. So you can be the first to
+attack it. After showing that pop-up,
+also give people the option to do the
+same across pages they navigate to.
+Now I'm asking it to add three to five
+blog posts that will help my site appear
+better in search results when looking
+for government contracts. And if I want
+even better search engine optimization,
+I can click plus here to use a skill and
+I can do a branding generator, I can do
+an SEO optimizer, SEO auditor, all kinds
+of cool things. Here's what's cool about
+Agent 4. If you click this plus up here,
+I can ask Replit to have its multiple
+agents run concurrent tasks. Whereas
+before you had to wait, wait, wait,
+wait, wait for Replit to finish the task
+that it was working on. And I'm
+impatient, I never really liked that. So
+now, not only will it automatically run
+concurrent agents without you asking,
+but if there's something specific you
+want that it doesn't know about, you can
+click that plus button and ask him to do
+it. Okay, now I do like this landing
+page as it is. This is my one-shot
+prompt. But I'm going to use this thing
+called infinite canvas where I can go
+look at other versions of the same
+landing page. And maybe I'll find one
+that I like more. So, after clicking
+canvas, I'm going to click just
+reimagine. And nothing's permanent here,
+I can reverse anything. It's just giving
+me previews of what it might look like.
+So, explore different approaches, try
+different layouts, explore different
+vibes, more like this but better,
+optimized for usability, show me the
+opposite of this and surprise me. I'm
+just going to click surprise me. So it
+says it's going I'm going three
+different variations of the hero
+section, which is what you see right
+here.
+So, if I swipe over here to the right, I
+can see the other three versions that
+it's generating right now. Okay,
+awesome. Version one, it's calling the
+opportunity pulse, aka live urgency. 347
+contracts are closing this week. Don't
+let them slip away. Ooh, I like that
+one. Option two is find your lane
+industry selector, come boring. And
+option three is proof it works success
+story. Well, I don't really like that
+cuz that's not real. I don't want to
+lie. So, you know what? I think I like
+the original one the best. So,
+I like this one the most out of these
+three, but I I like the one I came up
+with the most. So, I'm going to keep it.
+So, now the second to last thing I'm
+going to do is I want it to make a
+five-slide pitch deck. Let's say,
+hypothetically, I want to go raise money
+for this. I want to take everything on
+this website, put it in a in a
+PowerPoint because I hate making
+PowerPoints, and I know you do, too. So,
+I'm just going to say, "Make a
+five-slide pitch deck. Explain what this
+tool does, the market size, and how it
+helps small businesses find set-aside
+opportunities." Okay? It has the context
+it needs. Now, it's making the pitch
+deck. Okay, there it is. There's my
+pitch deck. Six slides. All right. Boom,
+boom, boom. Looks amazing. So, if I
+wanted to go raise money for this, I
+could use this. And if I want someone on
+my team to put real human eyes on it and
+to fix it, they have all these like team
+sharing abilities where multiple people
+can work on the same Replit project. So,
+the last step of this process is just to
+hit publish. Okay, so now I got to think
+of a name for this business, and the
+name that Replit automatically assigned
+it was GovDealFinder, and I kind of like
+that. So, I'm going to go see if the
+domain name is available. Oh. And look
+at that, it is. So, I'm going to spend
+12 bucks, buy the domain name, and go
+ahead and link it to this Replit
+project, and click publish. Boom. So,
+how cool is this? I wanted to build a
+business in the government contract
+space because Google Trends and AHRefs
+and all these other random tools were
+screaming at me, there's opportunity
+here. And also, Replit is a partner of
+this podcast, so I thought, why don't I
+just use that tool that I use every day
+off camera? I personally love it. Why
+don't I use that tool to build what I
+want to build anyway and hit record so
+you guys can hopefully learn something.
+So, if you sign up for Replit with the
+link in my description, you'll get 10
+bucks in credits for free, so you can go
+build and ship something yourself. And
+remember, the government hands out
+almost a trillion dollars a year in
+contracts and about 200 billion of that
+is reserved for small businesses. Those
+are businesses with under 10 employees,
+even zero employees. And most business
+owners have never even looked at a
+government contract or even thought
+about it. So, no matter what you want to
+build, use Replit Agent for, it's
+incredible. And if you want to go look
+at government contracts, check out
+govdealfiner.com cuz I just built it
+right in front of you. The website is
+live. Otherwise, you can go to sam.gov
+and we all know that's going to be a
+terrible experience. Anyway, thanks for
+hanging out in the corner office.

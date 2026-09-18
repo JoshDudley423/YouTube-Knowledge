@@ -1,0 +1,1508 @@
+I want the product experience when you
+land on my website to be an AI voice
+agent. All right, it looks like it's
+done. 66 seconds. Let's try it. Hey,
+how's it going? It's going well. Thanks
+for asking. Could I get your full name,
+email address, and company name? Okay,
+my mind is buzzing with the
+possibilities. How big is the
+opportunity to have like an agency that
+helps implement these tools into small
+businesses? I was at a an event in Santa
+Barbara last week, the top executives in
+the world from Fortune 200 companies,
+and even these top executives don't know
+how to use AI tools. You're 10 prompts
+away from the home run. Could you
+imagine how arrogant that advice would
+sound 3 years ago? Just launch 50
+different things. Now it's like, no,
+that's 50 prompts. You can do that.
+>> You're literally going from like, ah, I
+have that idea to deploying the thing in
+literally 90 seconds, and like the cost
+and barrier to entry is literally free.
+[Music]
+All right, guys, I just recorded a
+banger of an episode, and I feel the
+need to issue a public apology. What
+apology? Well, in the past, I've talked
+a little bit of crap about Gemini and or
+Google's AI products. I'm a changed man.
+Today I chat with Logan Kilpatrick. He
+is from Google's DeepMind team. He knows
+a ton about all of Google's AI products,
+about what ideas you should vibe code,
+what AI tools you should use to vibe
+code, what types of ideas. He shared a
+screen and we vibe coded two different
+apps with one prompt each. This is not a
+sponsored episode. Google paid me $0 to
+publish this, but I am a shareholder of
+Google and a personal fan of their
+company, and I think there's a lot that
+we can learn and a lot that we can build
+on top of Google's AI products. So today
+we covered VO3, Nano Banana, Gemini, AI
+search, and more. So if you are here for
+ideas and tactics and tools, this is the
+episode for you. Please share with a
+friend, and enjoy. My name is Logan
+Kilpatrick. I lead the developer product
+team for AI Studio and the Gemini API at
+Google DeepMind, and we're really
+focused on how do we take the latest AI
+capabilities coming from Google and
+coming out of DeepMind and put those in
+the hands of people who want to build
+stuff. And the whole sort of spectrum of
+builders these days from everyone from,
+you know, developers at enterprises who
+are like building massive companies and
+products to like, hey, I just have this
+idea and I want to build my first AI app
+or build my first app at all and, you
+know, share with a friend or someone in
+my family. So we're building for all of
+those people, which is challenging but
+also a lot of fun. That's exciting. What
+of like all the products within Google's
+AI Studio, what are like the main ones?
+Why don't you just list them off? The
+fun part about Google is we have a
+massive spectrum of products. You get
+everything from, if folks have heard of
+of the Gemini app, so the Gemini app is
+like Google's personal assistant powered
+by Gemini, to, you know, all of the
+Gemini integrations that you might find
+in like other Google product services.
+So that's everything like Google Docs
+and Sheets and Drive, etc., all have
+Gemini integrations, to search with AI
+overviews and AI mode, uh, if folks
+haven't tried is like an awesome
+experience inside of search, to, as you
+mentioned, like actually custom-built a
+like almost like AI-native products, and
+that's Notebook LM, which is sort of
+like a research assistant that takes all
+this like content that you have and
+makes it infinitely repurposable, to AI
+Studio, which is our sort of AI builder
+platform. If you want to create software
+and you want to build something powered
+by AI and put it in the hands of users,
+it's the platform for you, to Google
+Labs, which has all these like
+early-stage bets and things like Opal
+and and others. So there's there's a
+huge spectrum. The simple answer to your
+question, Chris, is you can go to
+google.ai, and it has sort of like the
+suite of all of these different products
+that are available, and you can sort of
+look through and find what maybe is most
+exciting to you. Okay. So you've got a
+really unique insight into all of
+Google's AI products. If you were
+forced, heaven forbid, to have to pick
+one of them to build a business with or
+to start a business with, only one of
+them, what would you choose and why?
+Yeah, it's a good question. I'm biased
+because I spend my time thinking about
+AI Studio, so probably AI Studio. If you
+want to build a product and build a
+business, I think the my pitch to you
+would be build AI products. And the
+reason for this is like AI is both
+extremely monetizable. There's edges
+everywhere you look. Like there's all of
+these emerging interesting product
+experiences that you could potentially
+build, and actually the barrier to entry
+is pretty pretty minimal. The beauty is
+you don't need to be an AI expert to go
+and like build AI products. You just
+need to have some problem that you're
+trying to solve, and like there's a
+probably a good chance, if it's at least
+a digital problem, that AI can help
+solve that for you. It is this like
+unique combination of all of these
+things, plus like consumer interest is
+increasing, consumer willingness to pay
+for AI products is increasing, costs are
+going down, the technology's improving.
+So there's like all of these
+very unique tailwinds that are happening
+at the same time, which I think makes
+this like such a exciting moment to
+build AI products. In AI Studio, you've
+probably seen a lot of people building
+cool stuff with Google products. What
+are like some interesting stories or
+case studies of people that have used
+your products to build something
+awesome, or something simple, or
+something profitable, or any and all of
+the above? I'll give sort of two ends of
+the spectrum from a from an answer
+perspective. So on one hand, like in AI
+Studio today, teams across Google are
+like prototyping the next versions of a
+flow, which is our video editing
+creation products for creatives, like
+experiences around Google Search and
+YouTube and other things like that. So
+it is really like becoming sort of the
+engine room for Google to prototype and
+like build next-gen AI experiences. So I
+see like one end of like, you know,
+these experiences might end up impacting
+billions of users, to with the Nano
+Banana launch a few weeks ago. On day
+one of the Nano Banana launch, users
+inside of AI Studio were vibe coding
+literally tens of thousands of
+AI-powered apps using that new model,
+and like much thinner experiences,
+things that are like kind of goofy but
+also like interesting, like Haircut AI
+and like all these like photo
+restoration product. These like very,
+very vertical use cases, but like you're
+literally going from like, ah, I have
+that idea, I could see why people would
+want that, to deploying the thing into
+production and like putting in front of
+users in literally 90 seconds, and like
+the cost and barrier to entry is is
+literally free. It's paid when you
+deploy and you have to like, you know,
+service extra users and stuff, but to
+actually build the thing is doesn't cost
+anything, which is just such a unique
+moment that I don't think like, if you
+look at the arc of what's happened in AI
+historically, there's this lag of like
+new capabilities relative to products on
+the market actually being available, and
+I think what vibe coding is enabling is
+this like compression of like new
+capability to there's a thousand new
+products built on top of that capability
+on day one literally being deployed,
+which is a really unique combination.
+Now, if someone's hearing that, you
+know, tens of thousands of products
+being tested or deployed on day one or
+week one, give me reasons why, and I'm
+I'm in your camp here. Give me reasons
+why people should not feel discouraged
+by that. Like, oh, it's I'm already too
+late. Oh, there's Haircut AI, I had that
+idea. Like
+What are you seeing out there? Yeah,
+that's such a great question. I think a
+couple of things. Like one, the thing
+that gets me excited about this
+experience that we're building in AI
+Studio is how easy it is to go and
+remix. So like, yeah, maybe somebody has
+like generally the same idea, but like
+you're like, oh, actually, you know, I
+am a hair stylist, and like I have some
+unique insights, or like I get my
+haircut and I hate these four things
+about that experience, and like
+therefore I'm going to put a unique
+twist and a unique spin, and like that's
+literally like one that's a prompt away.
+So you're a prompt away from like, yeah,
+maybe like roughly there's other people
+doing the same thing, but like you have
+some unique differentiated perspective.
+So I think even if you take like all of
+those like very basic verticals, there's
+like this massive like tree explosion at
+the bottom end of like how to make a
+difference and how to keep adding
+features and like discoverability and
+how you position and how you make the
+experience fun. So I really think it's
+like every at every one of those
+different thousand, 10,000 things,
+there's, you know, maybe a thousand
+other additional
+options that like could be interesting
+and fun and exciting that people start
+with what they know. Let's say you're a
+hairdresser, right? And you just hear
+anecdotally, you know, what's that going
+to look like? What's it going to Well,
+do you want your hair like this? What is
+it going to look like? And you have a
+unique insight into the market that
+makes you want to do Haircut AI, right?
+But if you're just listening to this and
+you have no background in in working in
+a salon, you're probably not the person
+to do this. But if you do a quick audit
+of your own life and experience, you
+could have ideas that are 10 times more
+valuable than that, right? Like when we
+solve our own problems with these vibe
+coding tools, it has the greatest
+likelihood of succeeding cuz we know it
+more intimately than anyone else. Yeah.
+Believe it or not, 67% of the people
+that watch my YouTube videos don't
+subscribe to me, and over 90% think that
+they're subscribed to me. So do me a
+quick favor and check that you're
+subscribed to me. If you're not, please
+do. It would mean a lot.
+>> It is also fun. I think while at the
+same time that that's true, Chris, it is
+also fun to just like take random shots
+at things that I know nothing about. I'm
+like, Haircut AI.
+>> do it all the time. Yeah, it's it's all
+the time. That it's like both things are
+true at the same time that like while
+the value of your expertise and your
+edge is like very real, it's like also
+so much more approachable to like go
+into domains in which you're not an
+expert, and like maybe you actually just
+get lucky and stumble upon the thing
+that's like really interesting, or you
+have some like random unique insight
+that actually is super valuable. So it
+is just another another plus in my book
+for this vibe coding moment being like
+such an interesting experience. Have you
+ever read the book Range? Yes. Yeah,
+yeah, yeah. That's what I'm thinking of
+as we talk about this, cuz they did a
+study, and a lot of times the experts
+have like the worst insight because
+they're so biased, and they look at
+something a very specific and narrow
+way, whereas an quote-unquote ignorant
+outsider comes in and they
+you know, it's like the midwit meme.
+They look at it like a caveman and they
+have this big unlock because they're not
+biased by their previous history. So, I
+do think there's there's a range there,
+right? Between like what you know, what
+you recognize, you being able to see
+opportunities more clearly than others,
+and like you being way too biased,
+right? You being like the old fogey in
+the room that's like, "Oh, that would
+never work because I've been in that
+business for 10 years." Like I've had
+people tell me that and I've launched
+anyway and it's gone great, right? So, I
+think it's a matter of like finding
+where your place is on that spectrum and
+just taking wild home run shots on goal
+just because you either win or you
+learn, you know? I think you're 100%
+right and it's also because of how
+accessible this is now, literally you
+could be doing and taking a shot at
+building something every single day,
+which is awesome. And like that's how I
+feel. I'm like I I wish I had more time
+in the day, but like there's a thousand
+things I want to build and like you
+actually could be building one AI app
+every day with like probably 30 minutes
+of work or something like that. And like
+again, maybe the first 50 things you
+build aren't interesting and no one
+cares, but like the 51st might be. And
+like again, you spend $0 in that whole
+process to get to the point where you
+like you actually built something that
+you're really excited about. So,
+such a special moment again from that
+perspective. Well, and could you imagine
+how arrogant that advice would sound 3
+years ago? Like just launch 50 different
+things. It's like, "What? I don't have
+unlimited time and money." And now it's
+like, "No, that's 50 prompts." Like you
+can do that. Yeah, there's something
+interesting about if folks follow like
+levels.io and some of these like people
+online who talk about like, you know,
+they had like 20 ideas and only three of
+them worked and the three that worked
+are now like, you know, $100,000 a month
+businesses or whatever. Like that
+experience probably doesn't perfectly
+generalize across everyone who tries to
+do this, but like that is now like more
+in reach than it's ever been. You can
+literally take 100 shots at it. And like
+yeah, you should be thoughtful and
+deliberate about what shots you want to
+take, but like the barrier is like
+basically non-existent, which is really
+exciting. Like it really is just like do
+you have agency, you know, are you
+interested, are you spending your time
+doing this or is like there's something
+that's more high value in the world that
+you're spending your time on instead?
+Yeah, that's beautifully said. And I ask
+you this next question more as like
+someone who I know is a student of the
+game and like in the startup community
+ecosystem seeing what's happening. How
+are you seeing people find success at
+actually marketing these apps that they
+vibe coded and not just building them?
+Yeah, one of the interesting things is
+this goes back to like what is the edge
+that you have? Like I'm somewhat biased
+because I spend a lot of time on like
+seeing what people are building on
+social, which I think is like one
+version of this of this like flywheel of
+like how people are coming to market
+these days. It's like you could
+basically for free social first engage
+and go and do that. I think there's
+another angle of this, which I've seen
+more and more startups and this is like
+more in like the indie hacker
+bootstrapped space, but people are
+building these like packages of not just
+a single tool, but it's like, "Hey,
+you're a student or hey, you are X, Y,
+and Z persona. Here's the package of
+like 10 AI tools that you need." So,
+it's not like
+I'm trying to make the tool to rule all
+tools. It's like, "Actually no, you have
+10 different needs as a student or as a
+as a lawyer or as a whatever your your
+persona is and like I'm going to package
+all these things up." I think some of
+the challenges like how you go to market
+with that package looks very different
+than how you would go to market with one
+of those individual tools. Like the
+search volume for example for like, you
+know, haircut AI might be extremely
+thin, but you sort of package together
+the like seven different tools in some
+specific domain and then all of a sudden
+like you've actually reached a critical
+mass where there might be a business
+that you can build. So, I think that's
+one of the things that I've been most
+interested in and I I don't know if like
+I haven't seen a lot of people doing
+this and could be an interesting edge to
+like try to to try to come up with what
+that package would look like for like a
+getting to a wider audience. Well, I
+just interviewed a guy, John Rush. Do
+you follow him at all? I don't know. I'm
+not sure. It was episode 228 and he he
+makes 3 million bucks a year from a
+dozen AI tools. Maybe like 20 AI tools
+and it's definitely 80/20, right? Like
+most of them don't make much money.
+But he has like an an AI SEO tool and a
+marketing tool and all these other tools
+and it's all like he's selling them to
+startup guys, to indie hackers, etc. But
+he's able to cross-sell and
+cross-promote between all of his email
+lists. And he's able to triple down on
+his same like meta ad accounts. And he's
+able to, you know, share all these
+resources, his AWS account and all these
+things. He just has a lot of surface
+area for learning what people want and
+what they're asking for or not asking
+for. And he's able to take all these
+shots on goal. And you know, if I might
+have signed up for this
+you know, AI SEO tool for 100 bucks a
+month, but never actually paid for it or
+I churned out. But then I end up
+spending $200 a month for this other
+tool that he offered me. I think that's
+a really smart idea. Like there's no
+point in building something and not
+hitting publish on it, right? Or telling
+people how or why you're building it.
+Like it's very little incremental
+friction to publish what you're doing
+compared to actually doing the thing,
+right?
+>> Yeah, I think there's also something
+which is an interesting point that
+you're making, Chris, which is I also
+think there's just like a level of
+complexity in what you have to build.
+And if you think about like if you're
+just getting started doing this stuff,
+like again, building the like full
+end-to-end AI marketer that does SEO and
+outbound and ads and five other It's
+just like really daunting. And I think
+for a lot of people like your experience
+is like probably not broad enough that
+you would have enough domain expertise
+to like really have a point of view on
+like what's the right product experience
+for all those things. But like you can
+maybe build the like sliver again, like
+thin version of like three of those
+products pretty easily. It makes me
+ponder what the future is going to look
+like as as people sort of, you know,
+there maybe will be these like all the
+like big companies or maybe not all of
+them, but like all these companies are
+trying to build the everything app. And
+at the same time that everyone's trying
+to build the everything app, like it's
+now becoming easier and easier to also
+build the like just one thing app. And I
+think users actually appreciate that
+sometimes. Like I don't want all this
+complexity. I just want to stick a
+picture of myself into an app and like
+see what I look like with different
+haircuts. I don't need a bunch of other
+stuff. Like I mean, Elon Musk isn't even
+really finding success at building an
+everything app. But you're you're out
+there trying to build the next HubSpot,
+you know? Like what what are you Just
+build a tool that puts furniture in
+people's empty rooms and go from there.
+There's like very specific niches of
+this. Like I love the furniture one, but
+like I was helping my girlfriend with
+this. She wanted curtains. That was the
+only thing that she cared about. She was
+like, "I don't need to redesign my whole
+room with AI. I just want to see seven
+different types of curtains." And like
+going deep on that experience. Like
+again, it's maybe it's maybe the funnel
+to your, you know, furniture AI
+business, but like really the thing that
+people are trying to solve is like some
+very specific problem and you can win on
+the niche and like then get people back
+into the larger funnel. Um I love that.
+Like I just wish people had more of a
+bias towards like that's not niche
+enough as opposed to that's too niche.
+AI curtains, you know? Like that's not
+too niche. It's not too niche, but I I
+do think and it's interesting. I think
+this like bias comes from like the
+historical cognitive dissonance of like
+the cost to build software being high.
+So, like all the conventional wisdom,
+the way that humanity has been
+programmed is like you have to take a
+big enough swing for it to be worth it
+to build software because the cost of
+building software is high. And I think
+it is like not trivial, I think for a
+lot of people to go through the like
+flipping the switch that like actually
+the cost of building software is now
+trivial and like the strategy in which
+you should employ in that world looks
+very different than the conventional
+wisdom. I genuinely think the way that
+the flip happens is you like experience
+it first-hand. Like you go build 15
+different furniture apps powered by AI
+in a single day and you're like, "Wait,
+holy crap. The limitations are all
+different than what I thought they
+were."
+Yeah, you spoke on a a different
+interview about I forget which product
+it was that watched like a 30-minute
+museum video and pulled out a list of
+exhibits.
+What are you seeing with AI tools that
+can
+quote-unquote watch video, even if it's
+just frame by frame? And what
+applications do you think are that's a
+great question. Do you want to build
+stuff or I can I can answer this
+question. But we should also I'm happy
+to also give vibe coded answers to all
+of these questions and then and then
+we'll try and I'll also talk while it
+while it writes the apps. Yeah.
+This is a fairly selfish question
+because this is something that I've been
+trying to do personally. Like I want a
+tool that can like watch short-form
+videos for me. And like extract
+interesting points from it where I can
+ask it questions. It can go out
+agentically and find interesting
+short-form videos that I might be able
+to post content about, right? Yeah, I
+love that. So, I'll kick off building
+something and then I'll give you my
+answer. So, we want to build let's do
+and then maybe I'll try I'll see if it's
+speech-to-text on a podcast. Does it
+work? Let's see. Build me an app that
+takes in a video and then parses out
+perhaps the most interesting stuff from
+the video, picks up on the trends, gives
+me sort of maybe an entire analysis of
+what happened, what the gist of the
+video is, what the takeaway should be,
+10 insights, but make it so that I can
+actually use AI to customize that report
+that's being generated in addition to
+using AI to analyze the video as it's
+processed. What a prompt. It's like
+watching Picasso in his prime. Yeah, my
+my word vomit of uh watching that doing
+that prompt live without being thought
+more thoughtful about it, but No, that's
+great.
+Yeah, so what to answer the question
+like that example that I was referring
+to about a tool that can like take
+videos and and you know, in the example
+I was giving it was a museum and you can
+sort of extract all of the exhibits in
+in
+The beauty is it's just Gemini. Like
+literally that is just like the Gemini
+model out of the box. So you can
+actually do this in AI Studio. So if you
+just go to ai.studio, you upload a
+video, you ask the prompt is like
+extract all of the different scenes from
+this video, it will literally go and do
+that for you. So it's like very simple
+that works out of the box. The question
+then is like what is the product
+experience that you sort of build around
+that model and I think that's where the
+magic is. I've just seen like Gemini has
+state of the art image and video
+understanding. It's it's one of the only
+models that has native video
+understanding as well and it's more than
+just like the frame. Like it's not just
+if you were to like pull sample a
+specific frame, it's more than that.
+It's like the interleave frame and audio
+coming together and like the context
+that it shared on a like a frame and
+audio by audio basis. So it's a little
+bit more complicated than that. Oh man.
+All right. I have my video analysis
+engine. Now I need to see do I actually
+have a video on my desktop that I can
+use for this. All right, 270 megabytes.
+Let's see if
+it says I can do supposedly up to 1
+gigabyte. So let me
+drag this in and analyze video. Let's
+see. And so just to give context on
+this, you know, the prompt was building
+application that takes a video, parses
+it. Application should identify the most
+interesting etc. etc. You can see it in
+the top left hand corner. Gemini 2.5 Pro
+went and you know, did a plan, wrote all
+the code for this and actually made me
+an AI video analysis engine. I just copy
+and dragged this and was able to get an
+analysis, was able to get 10 key
+takeaways and then the cool thing is we
+can actually again and this is powered
+by AI in real time, we could change what
+we want from this analysis. So Chris, I
+don't know if you if you have
+suggestions of like how
+we would potentially change this
+analysis, but we can change it if you
+want.
+>> Yeah. What about videos that have no
+text or no audio? It's just
+Just frame just like pure video.
+>> Yeah. Uh-huh. Yeah, yeah, we can also do
+that. So I think it's it has this goes
+to like Gemini has like native image
+understanding and video understanding.
+So it can if there's no audio like it's
+perfectly fine. We could find a video
+that has no audio and it'll actually
+like look Okay, my mind is just like
+buzzing with the possibilities. I don't
+know why I've never had much success
+with like
+an AI watching videos, but I just
+haven't. But this seems interesting.
+>> it works really really well. So this is
+we have like tons of customers who are
+super successfully doing like AI
+watching videos and there's this
+interesting loop now where it's like AI
+watching video that is then AI
+generating video with VO3 which is then
+like using Nano Banana to do something.
+Like I've seen a lot more of this
+activity where you can sort of take this
+full suite of models, stitch them all up
+together and we have some examples of
+this where it's like can you Yeah, can
+you stitch all these things up together
+and these are just a bunch of the like
+random examples in our in our gallery
+right now. But yeah, lots of cool stuff
+and like I genuinely think you're
+probably three prompts away from
+something that works really well. Again,
+it's like critically the Gemini model
+that's enabling that analysis. What are
+some other use cases for watching videos
+that you've seen people use? That's a
+good question. I think one of them one
+of the most interesting ones is like
+there's all of this intelligence in
+videos and it's just like how do you
+extract intelligence from videos? Like I
+talk to a lot of companies that just
+like have lots of video data internally
+inside of the company and they're like
+yeah, wouldn't it be nice? And I think
+like content creators actually is like
+another great example where like I, you
+know, very inactively do my own podcast
+and like for that I'm like, you know, if
+I wanted some montage, I did this in the
+past where like I basically uploaded all
+of the data and I built this pipeline
+that would just like go through the
+video and I would ask a question and it
+would like search across all of my
+videos completely vibe coded and like
+pull out interesting insights that like
+I didn't even know that I talked about
+that on one of my podcasts. Mhm. It's
+super cool. All right, I've talked about
+this company before and why? Because you
+can make a lot of money with it. You can
+start with nothing and have no
+experience. Right now local businesses
+are drowning in software subscriptions.
+CRM here, email there, booking system.
+What if you could just solve all of that
+for other business owners with one tool
+that they pay you for every month and
+you don't even need to build the tool.
+HighLevel lets you white label their
+entire platform. You brand it, you sell
+it, you keep the monthly recurring
+revenue. I have watched people build six
+figure businesses doing exactly this and
+I know of others that built seven or
+eight figure businesses doing exactly
+this. So check out gohighlevel.com/chris
+for 30 days free. Seriously guys, this
+could be your next move. You can just do
+things. What are mistakes that you're
+seeing people make when it comes to
+prompting and/or vibe coding that are
+easily fixed? Yeah, I think the big one
+is like people and actually think like
+building software is very much like this
+as well. It requires persistence. You
+know, in this example of that we were
+just looking at like it kind of worked.
+It like kind of didn't. Like maybe I it
+kind of like missed the point of like
+the second part of what I wanted, but
+like the beauty is the cost to continue
+to iterate is literally just like
+putting something in the prompt box. I
+mean we even added a bunch of, you know,
+suggested downloading the report as text
+or clearing error messages or refining
+report sections. A bunch of pre-made
+prompts that will like show up here
+based on the context of what you're
+building. So I think people often times
+if that first one doesn't just like hit
+the home run, they're like ah, this
+thing doesn't work. But I think it's
+like really, you know, you're 10 prompts
+away from the home run and the important
+part is that you do the 10 prompts to
+get there. I think that's the biggest
+mistake right now. With everything
+changing so fast, what skills
+or habits do you think will stay
+valuable throughout all these changes
+that we're seeing with AI? Yeah, it's
+funny and like back to the a similar
+thread of the last question you asked. I
+think everyone talks about like ah,
+building soft you know, being a software
+engineer is this like diminishing thing
+that you should be doing and it's it's
+funny because I think about the skills
+that I've learned as somebody who's like
+traditionally trained in building
+software as a, you know, a computer
+science undergrad and someone who's
+formerly a software engineer. I think
+about almost none of that of what I
+learned having to be like typing typing
+letters into a key into a keyboard that
+then translates into code and like I
+think almost all of it is like how to
+think about solving problems, how to be
+resilient and I don't know about you all
+or other folks who have built software,
+but like my experience of building
+software is error messages.
+And I think that's like a spending years
+of your life just seeing error messages.
+I think like things basically not
+working. I think trains you in a very
+different way of like how to be
+resilient. I think the reality is like
+how to be resilient and how to have
+agency and like go and take initiative.
+I think are like the two determining
+factors in all of this and just life in
+general. The challenge is like how do
+you put yourself into an environment
+where you can do both of those things.
+The nice thing is like for AI is sort of
+enabling you to be have more agency.
+Like you now have all these tools at
+your disposal. The floor is sort of is
+leveled up so that you don't have to
+worry about like the drudgery of a lot
+of the tasks that you were doing before.
+I think it's a beautiful moment from
+that perspective. Yeah, I mean it more
+agency can make or break people
+depending on the person, right? It could
+drive us to be our best selves or more
+of our worst selves. But I think the
+people listening to and/or watching this
+are are in the the former category. What
+are some overhyped like AI use cases
+that you're seeing right now that you're
+you're not bullish on? Travel. I hate
+the idea that I'm going to be booking my
+flights with
+and this is as somebody who travels too
+much. We were talking before this off
+camera. I travel too much. I wish I
+wasn't traveling, but I just think it's
+like the most quintessential like demo
+use case that is like not actually
+valuable that much. I think it's also
+because the form factor that I've seen.
+Like I do think there's something
+interesting in AI, you know, enabled
+travel planning, but I think the product
+experience that most people are building
+is like AI to book your flight ticket.
+I'm like I don't know about you, but the
+United website is like pretty simple to
+use. Like I don't actually need AI to
+book my flight. I need AI to like
+orchestrate the like actual complexity
+of traveling and like the most of the
+products are not doing that. So it's
+just like the easy thing they're
+actually helping me solve and I'm like I
+don't need the easy thing to be solved.
+I need the hard thing to be solved.
+Yeah, people are trying to to solve a
+problem that's not a problem and the
+cost of AI getting it wrong is quite
+high. I have I have AI book me a flight
+to Vegas with a layover anywhere, you
+know, is really messed up.
+There's like 50 nonstop flights from DFW
+to Vegas every day. But that would
+happen. Like something in the logic
+would happen to save me $3. It would it
+would have me layover in Miami or
+something. And that's to save me 3
+minutes. What are some travel AI use
+cases that you think could be useful if
+any? There's something interesting about
+like how do you bring together all of
+these like disparate sources across the
+internet? Like you know, I think there's
+some amount of useful signal that you
+get from like main travel websites as an
+example. But there's also like you kind
+of want to discount the opinions that
+you get like depending on what
+experience you're looking for. If you
+want like a nuanced travel experience,
+choose your favorite like rating
+websites that that rates like places on
+travel. Like often times you might
+actually get like, you know, it's four
+and a half stars, but it's like very
+biased because it's like a bunch of you
+know, US travelers or it's like some,
+you know, specific persona that is like
+maybe not the persona that you're
+looking for even though you might be a
+US traveler yourself, which is the
+irony. So I think there's something that
+like how do you sort of connect all of
+this stuff together and have like real
+sort of like travel intelligence of like
+where you're going and like the places
+that you should be going to that like
+maybe are haven't bubbled up to the top
+level of like, you know, the the hottest
+place to be and also like discounting a
+lot of those places. Like if you want to
+avoid those things and also just like
+the logistics. I think about this like
+traveling places that have like public
+transportation systems that are like
+new. I was in London a few weeks ago and
+hadn't used the like London train system
+to get from the airport before and I was
+like halfway through this process of
+like walking around the airport. I was
+like, I sure hope I'm going the right
+way. The information about how these
+systems work is like out there on the
+internet. You just need to like build an
+experience that make if I gotten like
+email from my AI travel agent saying
+like, hey by the way, you're in London.
+Here are your three options for how to
+travel and like here's literally the map
+of how to do that. Like that wouldn't
+even be that hard. I could have probably
+vibe coded it beforehand, but I just
+didn't send it set it up. What if it was
+like a a travel companion that texted
+you? Like it was it tracked you like
+Uber might and texted you as you got to
+different spots along your journey.
+Like, hey I see I see you landed. You're
+going to head to terminal four because
+that's where the new, you know, subway
+is, right? Oh cool, you found the
+subway. Awesome. I know you love
+Lebanese food. There's a five-star rated
+place right at this stop, right? Like
+just kind of like text along the way and
+you could tell it to stop at any point,
+but it's it's tracking you. Text as the
+form factor is is something that I'm
+like overly I'm overly excited and
+bullish on. 100% 100%. I don't want more
+notifications, but I can handle it if
+it's all within my messages app. And
+like you're traveling with your friends
+and then like all of a sudden now it's
+multiplayer in the conversation. Like I
+want to put my sort of travel companion
+into the group chat and like I'm I'm
+traveling with my family in a few in a
+few weeks and like I would love to be
+able to like just not have to be the
+arbiter of information about like what's
+our plan and our like all this like
+conversation toil that you have to have.
+Like put my companion there, drop the
+little thing and then whoever forgets to
+check the Google sheet that has all the
+list of the itinerary, you just text in
+a group chat and like the companion is
+going to answer. Like technologically
+like it's actually not that hard to
+build that, which is awesome. Yeah, it's
+it's a Twilio integration. What other
+cool things like are you like did we not
+get to that you're just excited like a
+proud parent to show me? Yeah, that's a
+good question. So there's two that are
+top of mind and I'll show one of them
+and the other one we're working on like
+a great showcase for. I think like voice
+AI agents and like computer use agents,
+I think are two things that are really
+exciting. Computer use agents, we just
+launched the time of this recording like
+literally yesterday a state-of-the-art
+model that's able to sort of like
+navigate and do all this stuff for you
+and it's like a really helpful if you've
+if you're somebody who's like thinking
+about building agents. It's really
+helpful as like a supplemental mechanism
+to like go and gather information or to
+do like automate repetitive like UI
+tasks that you're potentially doing. So
+really excited about that. The other one
+which is like adjacent to this is like
+voice agents. I think there's a huge
+amount of alpha in this. Like if folks
+have like tracked the voice AI market,
+the like amount of companies, the model
+quality, the like investment, the use
+cases are all like up into the right.
+There's like a huge amount of potential
+impact and like it's actually not that
+hard to build and the fun thing is like
+you can literally go and vibe code voice
+AI experiences inside of AI Studio,
+which is really cool. So I'm going to
+show you this demo and then we'll I'm
+trying to think of like what do what do
+we want to build that's like voice AI
+powered. I will say I had this lead
+magnet that was just a form for this
+initiative I have and I just swapped it
+out with a voice AI agent and I'm up
+front that it's a a voice AI agent and I
+see every day like the transcripts of
+whoever having a conversation with my
+agent and I've talked to them like
+afterwards and they love it. Like they
+know it's AI, it's a great experience. I
+think we have this perception that a
+voice AI agent is taking over and people
+aren't going to like it and it's more
+frustrating than being on hold with
+AT&T, but it's a better experience. And
+if you know it's AI and you don't feel
+tricked, it's just superior. Extremely
+bullish on it.
+Yeah, yeah. Well, that's actually a
+great thing. Let me try vibe coding
+this. So I'll I'll describe what I
+understand of what this is doing and
+we'll see if the model can we'll see if
+AI Studio can actually build me an app
+that does this out of the box. Okay. All
+right, I want a landing page for my
+website where we sell we actually sell
+AI services and I want the product
+experience when you land on my website
+to be an AI voice agent powered by the
+live API. And basically the whole
+experience is going to be a it's you
+know, it's a veneer on top of a lead gen
+form. Behind So the user will talk to
+the live API and behind the scenes the
+model will actually just be filling out
+a form and then once the model has the
+information that it needs, which let's
+say that it's like the name and the
+email address and the company that the
+the person works at, the model will say
+thanks. It'll end the conversation and
+then it'll kick off a workflow behind
+the scenes to email that person and like
+create a lead gen in in some database.
+So let's do all that. Let's power it by
+the live API and let's make the website
+look futuristic. I want a little bit of
+I want to feel like I'm in the future
+for this. And my nickname for this is
+yap yap to app. So we'll we'll see if uh
+I like that. how good it is. This is a
+fairly involved so like this might be an
+example to, you know, level set my own
+expectations. This might be an example
+where like it doesn't work the first
+time because we're actually I didn't
+think deeply about my prompt and I was
+truly just yapping, but we'll see
+whether or not we get anything
+interesting from this. But yeah, I'm not
+surprised. There's that like not you as
+you were describing Chris that like
+experience that's a lot of the users
+have. I also think there's this like
+novelty effect where like you might be
+able to like it's people are surprised
+and interested in this because they
+don't see that experience everywhere and
+like I do think maybe there's a
+there's a time window of like when
+that's true, but like it feels like it's
+right now where like people are open and
+willing to try because they know how AI
+is changing stuff. Well, and the bar is
+pretty low. Like if I need to call
+customer support for anything, my day is
+ruined. I'm
+I'm yelling at my kids. It's I'm on
+hold. I'm going to get hung up on. Like
+that's what AI has to be. We will never
+be on hold ever again, right? It's
+either that or I'm calling a restaurant
+to make a reservation and they don't
+answer, right? Like that's kind of what
+we're up against here.
+Yeah. All right, it looks like it's
+done. 66 seconds.
+I have low confidence it's going to
+work, but let's try it. Hey, how's it
+going? It's going well. Thanks for
+asking. I'm here to help you with
+Stellar AI. Could I get your full name,
+email address, and company name? Yes, my
+name's Logan Kilpatrick. My email is
+email@xyz.com
+and I work for Google. Thank you, Logan
+Fitzpatrick, for providing your full
+name, email address, and company. I have
+noted that you work for Google. Is there
+anything else I can help you with today?
+Nope, I'm all good.
+Can you
+contact Stellar AI and let them know
+that I'm interested? We were so close.
+Almost almost zero shot experience
+except that uh That's amazing. Yeah.
+Well, I'm curious, but I think it you
+sort of close. Like I'm like two prompts
+away from this thing being what I need.
+Is it like a walled garden? Like if you
+said, what's the capital of of Kansas?
+Would it answer you or would it be like,
+uh I'm not trained on that, you know?
+>> That's a good question. So I think my my
+hypothesis is like the guard actually So
+this is where looking at the code is
+actually helpful. So if I go to code and
+then I go to
+see not voice agent.tsx.
+Oh no, here it is. Yeah, actually system
+instructions. You are a helpful,
+friendly, and personal AI agent for
+Stellar AI. Your primary goal is to
+collect the user's full name, email, and
+company name. Be conversational and in
+be conversational and engaging. Once you
+successfully collect all the pieces of
+information, you must call the submit
+leads form function. Do not ask for
+other personal information. Give the
+user an introduction to yourself before
+starting. So my guess is like this
+system instruction doesn't say anything
+about like don't answer other questions.
+My So my guess is it'll answer right
+now. We can try and then we could try
+adding in like only talk about Stellar
+AI. Do not talk about anything else and
+see how much it works, but my assumption
+is that works out of the box as well.
+The pause, the latency is so much better
+than even a year ago, right? It was it
+was awkwardly long. I didn't notice it
+at all there. Yeah, you don't. It feels
+it feels extremely natural. It is
+actually always surprising to me how
+quick it is. But yeah, it is it's it's
+very fast. So I'm going to keep playing
+around with this. I might maybe I'll add
+a voice AI agent to my personal website
+and see if people
+want to talk to my voice AI agent and
+I'll just have it make up random stuff
+and confuse people just to throw them
+off my trail.
+Oh man, that is really cool.
+What are some things that you're excited
+about that feels like still very
+underexplored like unexploited by the
+everyday person?
+Yeah, that's a good question.
+Let me ask a follow-up which is related.
+Yeah. How big is the opportunity to have
+like an AI automation and or
+implementation business or agency that
+helps implement these tools into small
+businesses? Cuz you and I toy around
+with them and it's easy. You one shot
+prompt it. Cool. It doesn't matter how
+easy it is, right? It doesn't matter how
+easy Google Ads or Facebook Ads or
+building websites are. Like there will
+always be business owners that just want
+someone to do it for them. Quick
+question. What if there were a private
+community out there of people that were
+building businesses based on this
+podcast?
+I just made it and it's only for
+business starters and business builders.
+It's called TK Owners and it's basically
+like having me and a hundred other
+business geniuses as your business
+partner. Also, there's going to be
+exclusive new trends, growth hacks,
+business ideas, and a database of
+everything I've ever talked about.
+You'll find thousands of startup case
+studies. You'll have weekly ask me
+anythings with me. Well, I'll answer
+your questions directly. You can join
+now at tkowners.com. Link in the show
+notes. It's not the the complexity, it's
+about the brain space, and like the the
+perception of difficulty. Do you see
+that as being a a big opportunity? Well,
+so I'll give my bias, which is like I
+don't know what the actual numbers look
+like. My intuition and like my personal
+experience engaging with people, and
+I'll share I was at a I was an event in
+Santa Barbara last week, and it was like
+some of the top executives in the world
+from like all the like Fortune 200
+companies, and even these top
+executives, who I think are like
+obviously extremely smart, like in the
+know, they they're they have teams that
+are telling them how important AI is.
+You like actually get into the
+nitty-gritty, like a lot of folks don't
+know how to use AI tools, and like they
+would need to go and delegate to like go
+and do a bunch of these things. And
+they're like extremely well-paid, like
+at the frontier of sort of knowledge and
+they can talk the talk, but that's about
+it. Yeah, exactly. And they're like and
+it's like really interesting to see
+this, and then they actually like need a
+lot of hand-holding in in order to make
+progress on this stuff. So, I think like
+you take small businesses that are like
+just trying to get by and like go and
+make, you know, move the needle on, you
+know,
+their family business or some small
+business with only a few people. Like I
+think there's just not enough time in
+the day to be deeply embedded, and like
+you show them these three experiences.
+Like I was on a call with a clothing
+brand, and they were talking about how
+they like wanted to do all these ideas
+with mood boarding and like using AI and
+virtual try-on, and I was literally on
+this call just like vibe coding the
+things that they're saying. I was like,
+"Yeah, uh-huh, uh-huh, uh-huh." And like
+we were just like, "Here, here's the app
+that actually does that." And they're
+like, "How is that possible that you
+already have this thing ready?" And like
+you can give people like the timeline
+the like fact that it took 66 seconds to
+build this thing. And again, it wasn't
+perfect, but like you get the point
+across of like this is within reach,
+which I think is a lot of the cognitive
+dissonance that folks have right now.
+It's like they don't actually believe
+that it's in reach. And I think there's
+a world where like you can actually just
+go and the experience sells itself so
+much because you can go and take this
+vibe coded experience, you can go find
+this com- the company website that you
+want to work with, you can take their
+products or their website, reimagine it
+with AI, and like that's your lead gen.
+And like the cost to you is like
+basically zero, but you can do that
+outreach, and instead of being like,
+"Hey, I'm blah blah blah and I do AI
+stuff." you can be like, "Hey, I
+redesigned your website using AI. Here
+it is. If this seems interesting to you,
+let me know. If not, like your marginal
+cost was basically nothing." So, it's
+like on both ends of the spectrum of
+building this type of like AI agency,
+you can do really targeted, really rich,
+really deep outreach, and at the same
+time, like you have a customer base
+that's like potentially really excited
+and interested. And again, I'll my
+caveat to this, I don't know how big the
+actual market is, but like I would
+imagine it's large and there's a lot of
+people who want this as a as a service.
+So, well, I mean there's there's 400
+million small businesses around the
+world. All of them need AI to some
+extent. Maybe not all of them can afford
+$1,000 a month, but
+I'm insanely bullish about that. What do
+you think VO3 is going to look like in 5
+years? I think it'll look like a toy,
+but also like an important like to me
+VO3, and this is from from conversations
+that I've seen, like VO3 was the GPT-4
+moment for generative media. I think
+there's like all of these companies that
+are engaged in that space have now
+realized like, "Oh, no, this technology
+is actually possible and going to be
+good enough." And like it's basically
+here right now. The exponential increase
+in like sort of maybe not exponential,
+but the increase in like capabilities
+and how good the models are becoming, I
+think has made like lots of folks across
+the ecosystem aware. So, I think
+there'll be like a huge amount of
+investment over the next 3 years, and it
+will be like a massive accelerant of
+like the media and entertainment
+industry, which is which is exciting and
+sort of like the outcome that you would
+want as yeah, as a as a fan of the
+space. Will we be in
+in a Cinemark theater in 5 years
+watching a a Tom Cruise movie that cost
+500,000 to produce with VO3? Is that
+realistic? It's a good question. I don't
+know. My my sense is like actually
+what's more realistic to me is that
+there's this like infinite canvas of
+media that I think is really
+interesting. So, I think I think my my
+expectation is like the Tom Cruise movie
+will still have a high, you know, maybe
+something like roughly the production
+cost will go down, but it'll still be
+expensive. It'll still, you know,
+they'll still really deeply like art and
+craft put into making this an experience
+that both like the people producing it
+and also the audience is going to love.
+The thing that will be net new is the
+the content lifespan with this like
+infinite repurposing and adventure is
+going to dramatically change. So, the
+way you experience content is like
+you'll have a base video, and you'll be
+able to be like, "Wait, this is I love
+this story, but what would happen if,
+you know, Tom Cruise decided not to hang
+out on the side of an airplane and to do
+something else instead?" And like you
+can go and see what what's possible. So,
+I think there's they'll And I don't know
+it'll be interesting to see how like the
+platforms adopt this, but like I think
+this infinite content remixing and like
+exploration is going to be very much
+possible, which is exciting. I
+completely agree, and I'm not of the
+mindset that like VO3 is going to
+replace Hollywood, right? The Kindle
+didn't replace books. There's going to
+be a world for both, but I just think
+it's going to look so different. And
+what we see on VO3 today is going to
+look laughable in a few years. And it
+today it looks amazing.
+It's pretty good today.
+What what's like a Google product that
+you wish everyone knew existed that is
+just completely slept on and ignored
+and underrated? It it'll sound
+counterintuitive, but AI mode in Google
+Search. Despite it being such a big
+product surface, like has actually
+gotten like the the user journey of like
+I ask a query, it's sort of I get an AI
+overview, I want to sort of go deeper
+and like look at the, you know, look at
+the links and have a deeper
+conversation, one click into AI mode.
+The AI mode experience is like so fast.
+They're like constantly rolling it out
+into new countries and languages and all
+that stuff. So, I think also
+specifically the US, where like the
+prevalence of like all of these AI tools
+is so large, like we don't think about
+AI mode that much in the US, but
+actually like it is likely the first
+experience that billions of people are
+going to have using AI, and it's
+actually like comparable against the
+rest of the AI ecosystem. Like it's a
+frontier AI experience. It's like the
+quality is really great. It's super
+fast. I'm proud for the Google Search
+team who was able to build that because
+like I think they've actually built like
+a really top-tier experience, and it's
+great that that also gets to be the
+experience that like billions of people
+who haven't used AI before will will get
+to feel. Yeah, I feel like those that
+are on like the online tech bubble or
+the Twitter bubble think that ChatGPT is
+king and then that is secondary, but
+when I talk to my friends that are not
+on Twitter, which is honestly most of
+them, like my real-world friends,
+they're not on Twitter. They're using
+Gemini, and they're using AI search
+through Google. That is they should.
+Like we're millennials, and we've been
+using Google our whole lives. It's the
+it's the most frictionless way to
+experience it. With that in mind, and
+this is I know this is kind of a
+different question, but what is your
+bold thesis for Google as a company in
+an age of, you know, Google's Google Ads
+being eaten by other LLMs? Yeah, it's an
+interesting question. I think my
+worldview is everywhere I look, I get
+excited about Google. And there's
+there's so many interesting places where
+like Google has built, and like search I
+think is one of these where like Google
+has this like steward responsibility in
+the ecosystem. And like if you look at
+what that means from a product
+perspective, it means that like our
+obligation to the world is to not like
+snap our fingers and then all of a
+sudden everything changes inside of
+Google because actually in a lot of ways
+Google is the front door to the internet
+and the internet economy. So, I think
+like how you approach building that
+product and the responsibility that
+Google has to build that product looks
+very different than in other domains,
+where like it's a complete completely
+green field. Like Google's basically
+competing against, you know, all of
+these like other top companies, and like
+it's super competitive, and like it's a,
+you know, no there's no clear winner
+yet. And so, I think it it's been
+interesting to see us
+make bets across the board. I think the
+thing that gets me like I'll make two
+like small comments about what gets me
+most excited. I think DeepMind helping
+solve all of these scientific problems
+is like a very real
+potential positive outcome for the
+world. And I don't know if you saw this,
+but sort of folks at Google, we just got
+our third Nobel Prize in in 2 years,
+which is awesome. So, like Google really
+knows this like home of frontier science
+that's taking place. Demis and John John
+John Jumper won last year, and then we
+just won one for a bunch of the the guy
+who runs our our the Google AI Quantum
+Lab. And so, there's
+like so much frontier science work
+that's happening. It's really exciting.
+The other angle is infrastructure, and I
+think Google builds the world's best
+infrastructure. So, for me as like
+somebody who, if you think about the
+future, like ultimately dependent on
+this AI infrastructure that's being
+built out, Google is like well
+integrated in that world. And we have
+our TPUs, which are sort of on the
+frontier of what's possible with with
+computing hardware. And like I actually
+have two TPUs behind me if you can see,
+which is really fun. So, yeah, I think
+there's everywhere I look, there's
+reasons to be bullish in addition to,
+you know, Waymo and all these other
+experiences. Like it's just yeah, it's a
+ton of fun to be at Google these days,
+and I think it's we're just getting
+started, which is funny to say given how
+how great things have gone for Google.
+You only realize how early you are
+decades later, right? It's easy to feel
+that you're late at anything, but
+usually when you look back on it, you
+were early like most of the time, right?
+And we're very early. Is there anything
+that I should have asked you that you
+just find super interesting that people
+would find helpful before we go? I'll
+make one last pitch that ai.studio/build
+get started with coding for free. If
+folks have product feedback or questions
+or need us to build things for you, let
+me know. We're We're very much like
+building AI studio in public, which is
+what I love to do. So, you're on the
+internet,
+email, Twitter, whatever. Send us
+feedback, send a suggestion suggestions.
+And Chris, thank you for for having me
+on and for taking the time to chat. I
+would love to We got to vibe code some
+stuff together and would love feedback.
+I would love that. And where can we find
+you, Logan, if anyone wants to reach
+out? Yeah, I'm on Twitter, LinkedIn,
+Logan Patrick. You can find me Find me
+all over the internet where people are
+talking about AI. Okay. Well, thanks,
+Logan. Thank you. All right, what did
+you think? Please share it with a friend
+and we'll see you next time on The
+Kurner Office.

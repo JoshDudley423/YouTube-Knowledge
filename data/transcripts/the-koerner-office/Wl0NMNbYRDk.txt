@@ -1,0 +1,474 @@
+Why is it that the most simple websites
+seem to make the most money? Is it
+because they do one thing really well?
+Is it because millions of people are
+searching for these things and no one
+else thought to build it? I don't know,
+but what I do know is that these simple
+websites that merely have a quiz, a
+calculator, an XYZ generator have never
+been easier to build and two to five
+years from now this won't be an
+opportunity, but right now non-coders
+such as myself can vibe code simple
+sites like these, forget about it
+entirely and maybe, hopefully, possibly
+make hundreds or thousands or tens of
+thousands of dollars a month almost
+perfectly passively. So, today I'm going
+to do two things. I'm going to profile a
+handful of these simple calculator sites
+that are now, thanks to AI, very easy to
+build. And the second thing I'm going to
+do is show you exactly how to build one
+in a niche that is likely to be
+high-demand and profitable. And most
+importantly, I'm going to show you how
+to monetize this calculator website cuz
+if you don't have ads on the site, it
+will never be monetized. And your
+downside is a few bucks and a couple
+hours of tinkering around. So, let's
+dive in.
+Let's talk about calculators for a
+minute. Not these, but these. Boom.
+Boom. Boom. Boom. This simple paycheck
+calculator website gets over 700,000
+unique visitors per month, which if you
+just host ads on the site and do nothing
+else makes it worth about $1.1 million.
+And why is it a thing? Because people
+want to know how much of their paycheck
+is actually going to end up in their
+bank account. So, they search paycheck
+calculator and this guy pops up. Here's
+a simple calorie calculator. 456,000
+organic visitors a month. So, if you
+just build this thing, put some ads on
+it, it's worth six figures. And let me
+be clear, these things take no work. You
+don't need employees. You don't even
+need to invest more than an hour a week
+in this once it's built and running.
+Now, I could go on and on, but we only
+have so much time today. A compound
+interest calculator, ovulation
+calculator, pregnancy calculator,
+percentage calculator, mortgage
+calculator, you get the ideas. And this
+is not just a winner-take-all market.
+There's a bunch of websites that simply
+have mortgage calculators that get
+thousands and hundreds of thousands and
+millions of visitors. So, I did a little
+research on how many people are
+searching for terms on Google or AI with
+the word calculator in it. And according
+to Ahrefs, which that's all they do,
+there's almost 36,000
+different keyword clusters that have the
+word calculator in it. Now, an example
+of one of those could just be mortgage
+calculator or it could be 15-year
+mortgage calculator or VA loan mortgage
+calculator. There's 36,000 of those
+things with the word calculator in it.
+And I don't want you to think that this
+is done, it's played out, all the best
+calculators have been built. Absolutely
+not because new things are being
+invented, new trends are happening,
+people and things are changing, which
+also means that some of these older
+calculators don't get much traffic like
+they used to. That also happens. And
+guys, no pun intended, but I'm eating my
+own dog food here. I have this website
+that is a directory for pet and horse
+cremation and euthanasia facilities and
+we added a bunch of calculators all
+built with AI to our website to get more
+traffic. This is our pet cremation cost
+calculator. Pet type, pet weight,
+cremation type and location. This helps
+us generate leads that we can sell to
+veterinarians and horse cremation
+facilities. So, I'm actually doing what
+we're talking about here today. But
+before I show you how to build a
+calculator, I just have to show you the
+mac daddy of all calculators and that's
+the site Omni Calculator. This dude in
+Poland wanted to learn how to code, so
+he thought, "I'll build a calculator so
+I can learn." People started visiting
+it. It started getting 800 downloads a
+day and then he thought, "Why don't I
+put more calculators on this same
+website?" So, now he has over 3,700
+custom calculators and he gets over 17
+million visitors per month. He has 70
+employees and they bring in over
+$500,000 a month of revenue, most of
+that profit. Am I saying that's
+realistic? Absolutely not, but it's an
+awesome example and it's something that
+we can be inspired by. So, I'm going to
+build one of these from scratch today.
+I'm going to use a new AI tool called
+Hostinger Horizons and by the end of
+this video it's going to be on the
+internet and hopefully making a little
+bit of money with ads. So, the first
+thing you're going to do is go to
+hostinger.com/kerner10.
+Looks like that. We're going to click
+start now. We're going to choose the
+starter plan cuz we're starters. Also,
+on the starter plan you get up to 25
+websites, which is important for this
+business because if one calculator
+works, we want why not 24 more
+calculators? Again, we can build these
+things in minutes, not hours. We get
+e-commerce built in, we get a free
+domain name and we can use it to prompt
+with both images and voice instead of
+just text. So, we're going to go for the
+12-month plan. We're going to use code
+kerneroffice to get 10% off. Okay, we're
+good to go. Remember, the best tool
+sites, that's what we'll call these
+calculator sites. Best tool sites solve
+a very specific problem that have high
+and or growing search volume. How do we
+know what terms those are? What has good
+search volume? Okay, so you can use
+tools like SEMrush and Ahrefs and
+ChatGPT, Claude, whatever to find out
+what some of these keywords might be.
+You've got like core keywords like
+mortgage calculator and then what they
+call long-tail keywords, which in this
+case would be something like FHA loan
+mortgage calculator Texas. That's a
+long-tail keyword that's obviously going
+to get fewer searches per month, but
+will also likely have fewer competitors,
+which is important. The question is,
+where is the supply and demand
+imbalance? Which term or terms have more
+volume, but fewer competitors? So,
+what's up and coming right now? What
+tidal waves are happening right now that
+we can hop on for dear life and build a
+calculator around? Well, AI, health and
+fitness, GLP-1s, solar, green energy,
+protein, creatine. Side hustles are
+growing like crazy right now. Why?
+Because everyone's afraid and rightfully
+so that AI is going to steal all our
+jobs, so we'll have time for a side
+hustle and or we'll need a side hustle
+to pay the bills or a full-time
+business. Obviously, that's the niche
+I'm going to go down cuz that's the one
+I know best. And I will say it's
+important that you choose a niche that
+you love and that you know. You don't
+have to, but it makes your endeavor more
+scalable, more sustainable, whether it
+is a calculator website or a taco truck.
+Doesn't matter. Now, I think I've
+whittled it down to two finalists of
+calculators that I want to build. Number
+one is the side hustle profit
+calculator. I think more people are
+going to be searching for that, but I
+don't want to guess, I want data to show
+me. And number two, an AI cost
+calculator because anyone vibe coding,
+building apps, doing anything with AI,
+there are costs associated with it over
+and above the flat fees that platforms
+charge. There are often overages that
+you have to pay for these tokens. In
+other words, the amount of data you're
+using when you're prompting these AI
+tools. It would be helpful for layman
+like me to be able to calculate what the
+costs would be using an AI tool or a
+vibe coding app like Hostinger, for
+example. So, what I'm going to do is go
+to Google Trends and I'm going to put
+these two finalists for my calculator
+side by side and see which one wins.
+Okay, well, that's an easy choice. AI
+cost calculator over the last five years
+is growing, growing, growing and side
+hustle profit calculator is not really
+growing. In fact, there's very little
+search volume whatsoever. So, it's an
+easy decision. Okay, so I'm going to go
+back to Hostinger Horizons and type in
+my prompt to get this calculator built.
+Here's my prompt. I want a simple
+website that will be an AI token cost
+calculator. It will help vibe coders and
+other people wanting to build with AI
+tools to be able to determine how much
+they will have to pay in token usage
+using any of the popular or obscure AI
+tools and LLMs out there based on
+publicly available token pricing. Make
+it look clean and simple and easy to use
+and don't display the result for the end
+user until I get their email address.
+Okay, let's see what it comes up with.
+We're going to time it as well.
+It's 12:59 right now. All right, you can
+see it working here. A clean and
+professional calculator interface, 22
+popular and obscure AI models with real
+pricing data, email collection before
+showing results, all emails are stored
+in your database. Okay, awesome. Said it
+better than I could have. Okay, here we
+are.
+It's been a total of six minutes and we
+have what we're looking for, an AI token
+cost calculator. All right, let's check
+it out. Mm, let's say let's say Claude 3
+Opus. Okay, I don't like that it just
+says input and output tokens cuz I don't
+think that's clear enough to the average
+user. Now, what I understand that to
+mean is how many tokens it uses when you
+prompt the AI, that's the input, and
+then how many tokens the AI uses when it
+gives you the output is referred to as
+the output token. So, I just reprompted
+it and said, "Make it more simple to use
+and understandable for the average
+layman that doesn't know what input or
+output tokens are and show examples on
+the page of how many tokens a few
+different prompts would be at varying
+sizes and prompt outputs as well so
+people can gauge how many tokens 1,000,
+for example, actually is. Okay, done.
+But this gave me an idea of how to make
+it even better. For some reason it made
+the user interface even more attractive
+as well, which I didn't even ask it to
+do. But I would love for people to also
+see how many tokens their prompt is. So,
+this is very cool. At the bottom, this
+is what I asked it to do, real-world
+token examples, but how cool would it be
+at the top if they could type in a
+prompt and it could tell them how many
+tokens that is and then they can use
+that number of tokens to get their cost
+calculator. Boom. So, I love
+screenshotting specific things on these
+vibe coding tools, so I'm going to do
+this,
+drag it over here and say, "Okay, my
+reprompt. This is awesome." Added
+screenshot, but add in a field to this
+section where people can type in a
+prompt or paste in an output from
+another model like ChatGPT or Claude and
+your calculator will tell them how many
+tokens either one represents. Then at
+the bottom of the page give them tips on
+how to reduce token usage as well. I'm
+thinking those tips will really help
+with SEO, search engine optimization, so
+more people can organically find the
+site. And I don't know if you noticed
+this, but I put in my original prompt
+that I want their email address before
+they see the result. That's kind of what
+you do when you go take like one of
+those dumb IQ tests. It's called a sunk
+cost fallacy. You spend 15 minutes
+taking an IQ test and by the time you go
+to see the result, they want your email.
+You are for sure going to give them your
+email. Now, that can work here. It won't
+work as well cuz it won't take them 15
+minutes to fill this out. But, I want to
+have my cake and eat it, too. I want to
+monetize this site both with ads and to
+collect email addresses cuz these are
+valuable email addresses. These are
+people that are going to be using AI
+tools, that are going to be vibe coding.
+There's a decent chance they have some
+money. So, I can use those emails to
+start a newsletter, to send them my
+Hostinger affiliate link, or whatever.
+All right, here's the token counter
+tool. I'm going to type in something
+like, "Show me some obscure websites
+that are obscure calculators that make a
+lot of money organically." That's only
+23 tokens. So, then I can take that 23,
+I can put it up here. And if I really
+want to know, then let's go to an AI
+tool like Claude. I'm going to paste in
+that same prompt. I'm just going to do
+Opus 3. Okay, there's the output. Let's
+go back to Hostinger. Boom, put the
+output into the tool, 248. So, about 10
+times more than what my input was. We
+used Claude 3 Opus. Calculate total
+cost. Boom. So, that cost almost 2
+cents. The vast majority of about 90% of
+it on the output tokens, which makes
+sense. Now, it's a little broken here
+because it's giving me the result before
+it asked for my email. It shouldn't do
+that. So, anytime you're using a vibe
+coding tool like Hostinger, you're going
+to have some hang-ups. That's always
+going to happen cuz it doesn't know
+what's in your brain, right? So, what I
+love about Hostinger Horizon is they
+have like an AI tool on top of their AI
+tool. Basically, a robot that fixes the
+other robot. It's called Cody. I'm going
+to pull this up and say, "Boom." I
+clearly did not prompt this well enough.
+So, I'm going to ask Cody, the AI
+assistant, "Give me a good prompt to fix
+my AI token cost calculator tool to
+where it won't show the user the result
+until they enter in their email address.
+Okay. Now, it gave me a much more
+complex prompt that I can just paste
+right over to the main window here
+to be sure that it's fixed. Boom. Let's
+try it again. I'm just going to type in
+some dummy data. Boom, there it is. Look
+at that. Look at that. It's blurred out,
+but I can unlock my results if I type in
+my email. It's perfect.
+Cody, you work perfectly. Thank you,
+Cody. By the way, why are there no Cody
+adults? We all knew Cody's in high
+school, but I don't know one Cody adult
+other than Cody Sanchez, which is a
+female. Side note. Okay, now with most
+of the vibe coding tools, if you want to
+edit something simple like the text, you
+have to prompt it again. You got to
+screenshot something like this and say,
+"Change the title to X, Y, or Z." But,
+what are we talking about right now,
+guys? We're talking about tokens. That
+costs tokens. It costs you money to edit
+the text. It should not cost you money
+to edit simple things like this. So, I'm
+not a huge fan of this sub-headline, so
+I'm going to change it to say this. "How
+much does your AI tool cost you? Find
+out here." Boom. Love it. Okay, I'm
+ready. Let's publish this bad boy. Big
+purple button on the top right. Now,
+we're going to monetize it. So, stay
+tuned. It'll only take a minute. While
+we wait for the site to be published,
+let's talk some real numbers on how much
+money you can make from these with
+Google AdSense. If you're unfamiliar
+with Google AdSense, it is like the ad
+platform. Any banner ad, sidebar ad,
+anything like it's all Google AdSense.
+And I will say, Google AdSense is a
+great starting point. It is a very
+low-friction way of making money on the
+internet, but it should not be what you
+end with. I love Hostinger because it
+has a built-in integration with Google
+AdSense. So, you don't have to go
+through all the rigmarole on Google's
+website. You can just do it with a few
+clicks. But, don't stop there. Don't be
+content with that because if you're
+getting like, let's say, 10,000 page
+views a month, that's going to be like
+30 to 100 bucks a month. Not bad. But,
+if you use other ad tools, or if you
+collect emails, those emails could be
+worth 10 bucks each, right? Each. How
+many emails could you get from 10,000
+visitors a month? If you get 1%, that's
+100 emails. That'd be 1,000 bucks a
+month, over 10 times as much as if you
+just use AdSense. So, we're going to
+show you how to use AdSense because we
+don't want any friction to make money.
+But, don't be content with AdSense. Now,
+how do we integrate AdSense? I'm just
+asking Horizons, "Please enable AdSense
+on my site." Cuz they already have an
+integration. You just have to ask it to
+do it, and it's done. Boom. Your
+calculator is now a complete monetized
+tool. Done. One sentence prompt. Okay,
+so we need to add a custom domain to
+this bad boy. And I chose the starter
+plan because it includes a free domain
+name, a free email, and hosting as well.
+All right, so we just go here, and what
+domain name do I want to connect to the
+site? I'm going to type in
+aitokenscalculators.com.
+Click it, go next. All right, you can
+see that it's a cent for the first year,
+which is almost free. But, if I want a
+free one, then I can choose a dot cloud
+domain name, which is fully free,
+included in the starter plan that I
+bought. And here's what's crazy.
+Everything I've done so far to build the
+final product here cost me four credits
+on Hostinger. I have 70 for the month,
+and I have 66 left. Looks like I got to
+update this as well. 2024 pricing, nope,
+2026.
+Boom. Now, how does my website look on
+the actual internet? Well, here it is.
+Published. We did it. And because we
+chose calculators with an S, we can add
+multiple calculators to our site. And
+with Hostinger, you can just copy and
+paste. You We can copy and paste this
+calculator and swap out different
+features or functions. Different niche,
+same-looking calculator. You can share
+your template with other people, and you
+can manage the domain, the SSL,
+everything all in one platform, one
+dashboard. So, I've started over 80
+businesses over the last 18 years. Some
+took me months or years to start. Many
+failed. This business took me minutes.
+If you want to win online, you got to
+ship. You got to ship more. You got to
+build. You got to post your crap. Post
+it to the internet. Analysis paralysis
+is a four-letter word here on the Corner
+Office. So, don't even think about doing
+it. Hostinger Horizons is a great
+partner to the Corner Office. They're
+obviously sponsoring this video, and I
+wouldn't choose them as a sponsor if I
+didn't love their product and their
+company. So, use code Corner Office for
+10% off. Link in the description, and go
+build something already. We'll see you
+next time on the Corner Office.

@@ -1,0 +1,930 @@
+welcome to the Kerner office this is
+Chris kerer here and it's Friday so
+today is holdco Bros with my partner
+Nick of the podcast Nick onomics and we
+talked about four different things today
+that I'm very excited about the second
+half of this podcast will be next Friday
+and the four ideas we talk about are
+Reddit growth hack so anyone could have
+and grow their own subreddit which is
+very very powerful we talked about a
+business in a box idea that anyone could
+monetize we talked about a cool website
+that tracks any changes made and how you
+can make money on it and we landed on
+something really really exciting dealing
+with car dealerships that could be
+really profitable for anyone listening
+and then our fourth idea was a CPA idea
+how you could piggyback on CPAs to make
+money helping people save on their taxes
+super good you're going to love it but
+we will interrupt ourselves in the
+middle of one of these segments and
+continue it a week from today so please
+like And subscribe share with a friend
+and we'll see you next
+[Music]
+time what is the big social media
+platform that is now publicly traded
+that is full of toxicity that people
+don't really take very seriously with an
+orange logo oh Trump media
+Reddit dude dude Reddit is so freaking
+toxic it's so toxic honestly and this
+surprise me Reddit most toxic you know
+what the second threads threads threads
+is the freaking worst it's the worst I
+thought it was Twitter it's not Twitter
+it's threads there's some angry cat moms
+over there that's true and don't mess
+with cats okay all right Reddit go
+anyway so I've got all these platforms
+where I publish my content and I've I've
+got like an I call it a EO strategy
+everything everywhere all at once okay
+that's true so if I put out a banger
+tweet I want that repurpose everywhere
+okay but I'm not putting on Reddit
+because reddit's different right you got
+to put it in subreddits and if you do
+people are going to downvote you they're
+going to call you stupid and it hurts my
+feelings okay it it genuinely does yeah
+yeah and so so I was I was thinking I
+was like all right you can't really grow
+a Reddit account I have an aged Reddit
+account I have 40 Reddit Gold which is a
+lot and the algorithm likes me when I
+post a Reddit because I have so much
+Karma but you don't really grow Reddit
+accounts you can follow a Reddit account
+but people don't really do that right
+you you follow subreddits you grow
+subreddits right you with me yeah
+totally it's it's a different Dynamic
+right like other social platforms it's
+about the person on Reddit it's about
+the topic exactly and so I've posted in
+the entrepreneurship subreddit the side
+hustle subreddit bunch of times and
+they've done well but it doesn't really
+get you anything it can't even really
+get you clicks because as soon as you
+add a link they'll delete your post most
+times unless you find some sneaky ways
+around it which is another podcast for
+another day so I thought I need my own
+subreddit and this just needs to be a
+place where I just publish my content
+and I'm the I'm the the judge and the
+jury and the Executioner and I control
+what goes in what comes out and I can
+put in whatever links I want right yeah
+so then I start going down this rabbit
+hole and it's like well how do you
+create like okay anyone can create a
+subreddit how do you grow it because you
+just post in there it's just you it
+doesn't go anywhere unless people start
+crossposting it you have to already have
+members it's a big catch22 then those
+members have to share it either
+externally to other platforms where
+people see it and then they happen to
+join your subreddit or you can cross
+post it to other subreddits which is
+tricky because many subreddits if not
+most of them don't even allow
+crossposting so what I would do in this
+case I would take my long tweet about
+how to start a tree tring business I
+would post it in my subreddit and then I
+would go cross poost it to the Home
+Service subreddit the sweaty starter
+subreddit yada yada y all the tangential
+subreddits but even if a subreddit does
+allow for crossposting the cross post
+don't do as well it's like retweeting a
+retweet doesn't do nearly as well as the
+original TW tweet right yeah and I know
+this for a fact because I've posted the
+same thing originally in a subreddit and
+then crossposted to another subreddit
+and it gets 2% of the views I had to get
+creative and what do we do when we have
+constraints Nick we get creative yes
+okay so I created a subreddit called Biz
+ideas B ideas one word there's already a
+business ideas there's already a
+business underscore ideas and so this
+isn't anything new but that's something
+I talk about a lot so I created a
+business ideas one person in there me
+I'm the only moderator only person so
+then I start repurposing a bunch of my
+old Twitter content and I start
+crossposting it and it does okay and I
+get you know 5 10 20 30 40 people to
+join my subreddit which is cool
+especially because they don't know who I
+am they just like the content and they
+joined but you you know you've got kind
+of a low ceiling on that so I think okay
+how can I get AI involved how can I get
+zapier involved Okay so so here's where
+it gets
+interesting okay you ready Chris what's
+up you had my
+interest but now you have my
+attention no you don't have my interest
+but now you have my
+respect all right so there are limits
+with reddits API they don't want you
+they don't want the API permissions to
+be able to post comments so that has to
+be done manually but will read comments
+and you can use AI to respond to
+comments you just can't post them unless
+you do it manually so here's what I did
+I went to zapier and I had it search for
+every time something was posted in any
+subreddit worldwide with the word idea
+in the title not business idea but just
+idea okay okay okay and then I had it
+fil I had it filter out all of the posts
+that were media only because AI can't
+understand that in the way that I want
+it to right some some people say wow
+this looks like a bad idea and then they
+put in a video of something crazy
+happening that doesn't apply and so if
+there's only media filter it out if it
+was posted the filter says if it was
+posted in the last 30 minutes and it
+already has at least four up votes then
+only then which only applies about 10%
+of the time write a comment that says
+this huh what a interesting idea but you
+know what any good idea could be a good
+business idea here's how i' turn this
+into a business and then AI comes up
+with whatever right sometimes it's
+pretty smart sometimes it's not and then
+at the end of it there's a line break
+and it says TBH all lowercase I have it
+put in misspellings I have it put do all
+lowercase it really doesn't look like AI
+it really doesn't Okay and then the last
+sentence is like TBH this post is
+probably a better fit for rbiz ideas
+which is a direct hyperlink to my
+subreddit yeah okay so instead of
+controlling the posts I'm in the
+comments and I'm only piggybacking on
+posts that are growing popularity really
+quickly I'm filtering out everything
+else and so tens or hundreds of times a
+day I'm posting comments in all these
+random subreddits with the smart
+sounding business idea linking back to
+my subreddit is it working yeah
+it's
+working I've got like two 200 and
+something members in there and I've only
+posted like nine comments all right
+here's my question I love it like for
+what like why are you why are you
+growing a sub
+brother you're a dictator who's like I
+only want kind words around me so you
+speak if it's
+flattery no if that were the case I
+wouldn't post on threads or really
+anywhere because here's the thing you
+get want to join your subreddit you can
+send them a welcome message with as many
+hyperlinks as you want here's my
+newsletter here's XYZ that that ends up
+in their inbox so that's cool second of
+all I can pin any post I want I can
+highlight it I can pin it I can post all
+of my content with as many links as I
+want and like the algorithm doesn't mind
+like the only people that mind on Reddit
+that these things happen are the
+moderators and I'm the only moderator so
+I get a bunch of strangers in there that
+have no idea who I am thousands or tens
+of thousands or hundreds of thousands
+and then I can just start repurposing
+all of my content with links to my
+newsletter and get it's just another
+Channel my question was misunderstood I
+I get why you're doing it right like Hey
+we're trying to grow an audience social
+media but like if I'm just listening I'm
+an entrepreneur like okay cool you told
+me a growth hack to grow Reddit like
+what does that do what does that do for
+a just typical
+entrepreneur give me an example of
+someone that just owns like a regular
+business and I'll apply it to that let's
+say somebody who has a digital marketing
+agency perfect example you softball me
+love it I didn't mean to all right so
+let's say I could set up a zapier I
+could create a subreddit called we're
+not just going to do digital marketing
+we're going to go more Niche than that
+we're going to say Google business
+profile Google business profile agencies
+G GBP agency rgbp agency okay owner
+owners or whatever and then I'm going to
+set up a zap that searches for anything
+that says SEO sem marketing email Mark
+I'm going to go Niche I'm going to go
+broad all along the marketing Spectrum
+content marketing anything doesn't take
+very long to set up all these triggers
+and then I'm gonna I'm going to use open
+AI API to say um to basically take a
+post about anything marketing and apply
+it to Google business profile right so
+I'll say somehow take this post and say
+you know what like yeah SEO is great but
+most people that have digital marketing
+agencies don't have a physical presence
+so they don't think that Google business
+profile is relevant to them but it
+actually is here's why here's the three
+reasons why it's relevant it's like
+honestly like I learned this from
+rgbp agency owners right and so you
+could just leave comments there
+everywhere maybe it's not owners but
+it's like business owners where it
+depends do you want do you want to sell
+something to agency owners or do you
+want to sell your services to business
+owners your GBP this strategy would be
+geared towards somebody who already
+believes in the power of social
+media to to essentially Market or
+identify customers and it's just another
+channel for them to go out and find
+people who are interested in their
+services is that fair yeah yeah it's a
+it's a it's an untapped marketing
+channel what people don't know I don't
+know how much we've talked about this
+but like one of the things that I've
+always admired about you is your ability
+to leverage underutilized marketing
+channels
+Reddit is one of those so you've been
+writing on Reddit for years and you
+really cut your teeth on Reddit Nick
+Huber was the same way right like he
+started writing on Reddit and then it
+translated really well to social media
+Huber's terrible on camera you are not
+so I think you have a much higher ceing
+than he does but like your ability to
+write copy is incredibly important in
+growing businesses so while Reddit sucks
+I do think it's a really good testing
+ground for ideas to go out and test and
+we've launched several businesses tested
+several IDE gotten lots of leads off of
+Reddit in non-traditional ways this
+feels like a much more scalable way to
+get leads off of Reddit whereas in the
+past like you're saying you had yeah not
+only did you go have to find a subreddit
+that was perfect for that type of
+business you then had to write a post
+that went viral whereas if you own the
+subreddit you can control the
+information and people are coming like
+you're you're tracking the right type of
+people and your content will play even
+better it's true Did you know that the
+sweaty startup subred has like over
+200,000 people in it
+it's owned by Huber yeah it's like a
+really popular one yeah that makes sense
+he figured this out years ago yeah but
+he doesn't really use it much and maybe
+that's for a reason that I haven't
+learned yet right couple cool things so
+I posted my tree business long form
+thread from a year ago in the business
+uncore ideas subreddit which has a
+couple hundred thousand people in it
+okay and it did really well it got
+600,000 views but early on one of the
+commenters like you're just ripping off
+Chris kerer you're just this you're just
+copy pasting Chris Kerner and my my name
+on Reddit is not my name it's an
+anonymous name so I was like and so they
+deleted it and I was like guys I am him
+I am him like I promise like I'll verify
+it any way you want and then the
+moderator luckily like the main
+moderator was like oh you are oh my gosh
+Chris kerer is is in our subreddit so he
+made it live again and then I dm'd him
+and I thanked him and I was like hey I'd
+really love to start syndicating my
+content in here but you don't allow
+links like can we work out a deal
+because like thousands of people shared
+this post in other subreddits which grew
+your channel and theoretically thousands
+of people could click which would grow
+my channel like is there some symbiotic
+relationship we could work out here and
+he was like hey I'll tell you what you
+can post whatever you want in here once
+a week with a link to whatever you want
+and we won't delete it so I was like
+first of all that's awesome second of
+all what a cool model it's like a it's
+like a radio syndication right it's like
+a you scratch my back I scratch yours we
+eat kind of grow each other but I don't
+know if anyone really doing that on
+Reddit so that's something else I love
+these ideas like to to take it political
+if you look at the last election that we
+just had the Democrats spent something
+like they had like a billion dollars
+that they could spend on President
+Harris's election campaign and they
+ended up going $20 million in debt so
+they they not only spent the billion but
+they went into debt I want to say the
+Trump team spent like somewhere in the
+ballpark of like $300 million but the
+Harris campaign spent on traditional
+media they had Beyonce come out they had
+celebrities come out they went on all
+the shows they bought advertising like
+it they it it's almost like the
+difference between a well-funded startup
+and a scrappy startup you know what I
+mean like they just have constraints
+they got to get creative right and so
+Trump and he did this in the first two
+times that he ran he has a lot of earned
+media because he's just a personality so
+if he goes on anything people are going
+to tune into it but he did the the
+podcast circuit and she did call her
+daddy but it didn't really get good
+ratings but he did Joe Rogan he did um I
+can't remember the name of the other
+comedian who has a show but he he did
+these shows and he reached the audience
+that ended up kind of getting him the
+election which were young men like that
+kind of swamp that was a big difference
+maker and I'm not like making a judgment
+on right right one way or the other but
+I've now been listening to political
+commentary that are like all right if
+you are watching this clip right now you
+are watching this on YouTube and if you
+are a fan of podcast please check out my
+podcast while you're at it because
+sometimes I have podcasts that aren't on
+YouTube and sometimes I have YouTubes
+that aren't on podcast so check out the
+ker office on any podcast platform or
+you can go to TKO pod.com also my
+newsletter will throw that in there
+there are no ads It's weekly it's
+different content than my podcast and
+YouTube newsletter. chrisj cerner.com
+You'll see the link and we'll see you
+there like this election was decided by
+podcasts and you're going to see a
+massive shift in spending in podcasts in
+non-traditional media because
+traditional media is not reaching people
+in the same ways that it used to so this
+to me is an an example of going to
+Reddit and finding a way to reach people
+that is creative that will probably
+there will be an Arbitrage here right
+like if you can move in early you're
+going to see an outsized return on that
+it was JD Vance was on Theo Von's
+podcast I think that's what you were
+talking I know JD Vance was on Theo
+Von's podcast but then Trump went on I
+can't remember his name he's the guy
+with dark hair has a
+mustache I don't know anyways he's a
+comedian as well but well and then I
+mean then Rogan endorsed him the night
+before the election that doesn't hurt
+did you see that no it doesn't it
+doesn't hurt at all the weird thing is
+that like K Harris wouldn't go to Joe
+Rogan right right again maybe out of
+Pride or I think it was a little bit of
+Pride but like Trump did Trump went and
+kissed the ring and he reached the
+audience that he needed to reach in
+order to win the election my personal
+opinion is K is not great in those
+interview Styles right she doesn't have
+good interviews Trump does like Trump is
+charismatic and you you like him whereas
+kamla isn't that and that's what's
+interesting about presidential elections
+it seems like the candidate who's best
+on camera win every time the charismatic
+the guy with the RZ you gota have RZ
+like Joe Biden beat Trump but that was
+just because there was a huge back like
+that would be the only case in the last
+30 years that I would say it's an
+outlier it doesn't work but actually
+there's one more So Reagan way better on
+cam JFK when he won way better on camera
+but Reagan better on camera then you
+have George HW Bush not better on camera
+but he's kind of a continuation of
+Ronald Reagan Bill Clinton better on
+camera George W bush versus Al Gore I
+mean come on way better on camera versus
+John krey way better on camera Barack
+Obama versus John McCain way better on
+camera Donald Trump Hillary Clinton
+Donald Trump way better on camera so
+it's like if you're more charismatic
+you're going to win the presidency I
+don't know that that's the best way to
+elect the president you know what I mean
+but I think he like he knew that and
+it's it's the same with marketing if you
+can figure out a way to reach people
+that aren't being reached by traditional
+media there's an Arbitrage there that
+you can play and this Reddit idea is
+perfect for that and I think what why
+the Reddit idea works is because back to
+politics generally speaking the
+moderators of these subreddits lean very
+Left Right which you could argue is very
+anti- capitalist therefore like no links
+in here no promotion in here nothing so
+if you can find a way to be the
+moderator of your own little kingdom and
+put as many links in there as you want
+you could still capture the audience
+that is hundreds of millions of daily
+active users without having to have
+links be suppressed I think it's a
+freaking great idea look at look at the
+top 10 media podcasts news media
+podcasts eight of the top 10 are
+conservative two of the top 10 are
+liberal and like they're both by the
+same woman Caris Wisher on with Caris
+Wisher and pivot the the rest are Ben
+Shapiro and Mark Levin and Charlie Kirk
+and all these other guys but it's
+because traditional media has like left
+this hole where you know those
+conservatives don't feel like they're
+being spoken to so they've got to go and
+create their own media platforms it's
+probably going to be the same way in
+Reddit right like you have all of these
+subreddits that are just so tightly
+controlled by people that if you get
+somebody like you or Huber and you
+create your own subreddit it's going to
+be popular just because of the novelty
+like it's it's just different it's
+swimming in in a different direction
+side I like that idea d one more idea to
+grow a subreddit that anyone could use
+you ready so it's pretty common for
+people to launch podcasts just interview
+podcasts right and it's not too
+difficult to find people to interview
+that are like more have a a bigger
+presence than you right there are a lot
+of like bigname people on podcasts that
+you've never heard of okay yeah yeah
+another way to grow a subreddit is to
+kind of take the same angle but find
+those people to do amas ask me anything
+inside your brand new subreddit so like
+to grow my subreddit I'm going to do an
+AMA one day I'm going to push it out to
+all of my channels and I'm going to host
+it in my subreddit so you go in there
+and like you you don't have to join to
+participate but you probably will or I
+could make the permissions in the subred
+to if you comment you have to be a
+member of the subreddit so technically
+you can't does that make sense dude yeah
+it makes sense that would be an
+interesting way to grow our podcast
+think about growing like having okay an
+economic subreddit or the ker office
+subreddit and you post WE Post every
+episode and that's just the Forum where
+people can go and comment on it right
+and have interactions like oh I didn't
+like this I like that and then you set
+up you're doing with zapier I had Zack
+Prince on it's like all right every post
+on Reddit that mentioned Zack Prince
+whatever you got to send set up an if
+then statement but we have a comment and
+it points us back to his
+interview idea onomics right like and
+then they like they subscribe they they
+listen and you're getting a community of
+people the flip side is it can get
+really toxic really quick now if you
+control the subreddit then you can kick
+people out but that would be a really
+freaking that potentially could be an
+exceptional growth hack for podcasting
+anyways the problem with Reddit is
+you've spent so many years on Reddit so
+it's like you got to catch people up to
+help them understand why it's a good
+idea so you had to do that all right
+cool yeah Chris I got I got some cool
+ideas do you want to listen to Silver
+tsunami idea business in a box idea CPA
+idea business in box okay so that's
+funny I should have known you were gonna
+do that I know that this already exists
+okay but hear me out I think there needs
+to be a DIY service for side Hustlers
+and you've started businesses I've
+started businesses you've started way
+more businesses than I've started from
+scratch it's a freaking nightmare to get
+your books cleaned up it's a freaking
+nightmare to know where you are relative
+to where you thought you would be what's
+your Revenue what's your cost per unit
+you know what are your gross margins
+like you don't know any of that stuff
+early on you're just going and you
+you're trying to look for little signals
+so that you know whether or not you're
+moving in the right direction but it's
+it's hard to get those kis and even if
+you wanted to start getting those kpis
+it's like all right I need a CRM but do
+I need HubSpot like do I need to pay or
+do I need Salesforce do I need to be
+paying $1,000 a month for this stuff
+okay I need accounting but do I need
+QuickBooks I need to incorporate but do
+I need to go to Legal Zoom do I need to
+have an attorney like there's just all
+of these kind of things that you go
+through as a business owner when you're
+getting up and start up and running but
+people like you and I have growth tactic
+and we kind of have a tech stack that we
+use now right it's like okay we kind of
+use Google Sheets until we get to a
+certain level and then we we kind of
+professionalize it so I think that
+there's an opportunity for someone to
+create a business in a box that says
+basically here are the tools that you
+need to get started and then here are
+the Integrations that you need to create
+go for people who are trying to do side
+hustles so like accounting bank accounts
+Finance invoicing software all of those
+things cool here's stripe here here's uh
+Google Sheets here's the zapier API or
+integration that you need to have that's
+pulling from those things here's how you
+can set it up so you can look metrics
+great operations this is how you're
+tracking customers you can't afford
+HubSpot but set up your Google Sheets
+this way so that you're getting customer
+information like this inventory
+management okay you're not ready for an
+inventory management system this is how
+you should set up Google Sheets in order
+to get this stuff going so oh you need
+you're finally ready to incorporate this
+is what you should do don't go to an
+attorney yet go to these websites
+incorporate this is how you start the
+bank account Etc it's like very easy
+like anybody could create it using chat
+GPT but you would go and look at the
+things that typical businesses use and
+then create this business in a box
+because entrepreneurship is only
+becoming more popular people are only
+getting more and more interested in
+doing side hustles but the the headache
+of getting stuff cleaned up of having
+clean books of understanding where your
+metrics are is just such a problem that
+you kind of have to figure it out
+yourself it'd be nice to just have a
+plug-in BL system that says you're
+getting started use this what does it
+look like like is it is it a website is
+it an app where is it hosted what I
+would do so this is what I would go I it
+would be like a digital product that you
+could sell and it would be a spreadsheet
+with a Google doc that's it and so the
+Google Doc would sort of lay out all
+right here are the here are the five
+areas of your business finance and it
+would go through all invoicing
+accounting Revenue right and then
+there'd be links to here the
+spreadsheets that you should use how to
+set them up and then there would be
+operations cool this is how you set up
+your internal CRM right and then Links
+of how to set it up so like it would
+take a while to set up like we'd have to
+actually go through it and create it but
+once it was created it would just it
+would be a very cheap version of kind of
+setting up your backend systems it's so
+funny you bring this up because I've had
+over the last week I've had a very
+similar idea I wasn't calling it this
+and it doesn't look like that but
+achieves the same purpose and it solves
+the same
+problem this it's just really funny
+because this is something else I've been
+excited about before I go there so how
+is it customized to whatever Niche or or
+industry that person is doing or is it
+broad enough to where it applies to
+basically anyone I think you can upsell
+those things right like if you were
+trying to make more money off of it but
+it would just be broad we would say that
+in the disclaimers like look you're
+going to have to tailor this but these
+are the systems that you could use
+you're going to have to tailor anything
+if you bought QuickBook you're going to
+have to tailor it if you bought a
+HubSpot you're going to have to tailor
+it if you bought jobber like any of
+these other systems you're going to have
+to tailor it right so it'd be the same
+as any of those other systems it's funny
+because it it reminds me of this who was
+it someone in my family my aunt or
+something she always says you know I I
+might have screwed up at raising my kids
+but I they don't make a book about this
+like how to parent 101 it's kind of like
+that it's like a business version of
+that like how to business okay love it
+definitely solving a problem here's what
+I was thinking
+the New Year's coming A lot of people
+are going to have a New Year's
+resolution to start a business right or
+a side hustle right the problem that you
+outline absolutely exists how to
+incorporate where to incorporate which
+one to choose do I even incorporate do I
+need a customer first do I need a
+business plan first I hear Chris talks
+about this Nick talks about this Alex
+horos talks about this like what do I do
+where do I start I thought about doing
+like an 8 to 12 week email-based cohort
+like a course okay but every Monday that
+email is going to show up
+and it's it's an email with instructions
+like a to-do list but it's also an
+accountability partner and then on
+Sunday you get another email for
+followup with a form to fill out saying
+like here's what I did I found my first
+customer this week I I got a logo this
+week I got a website this week and there
+is a cost to it let's say it's $200 $400
+for the whole thing starts on January
+first but every week you fill out the
+the type form or whatever it is and say
+I did all my steps you get a re you get
+refunded a proportional amount so by the
+end of it if you do everything you're
+supposed to
+do and you that means you actually have
+a business with paying customers and as
+a cherry on top you didn't pay anything
+for any of that you get a full refund H
+but statistically speaking most people
+would not do most of it they would flame
+out after a couple weeks so it could
+still be a profitable business while
+still earning the Goodwill of doing it
+for free because if if you do what you
+say you're going to do it's free if you
+don't you pay so you know who Jason
+calanis is on oh yeah it's yeah so he he
+he has an accelerator incubator I can't
+remember exactly what it's called but
+it's founder University I think it's I
+think is the name of it founder
+University and it costs money but if you
+complete it you get a full refund yeah
+because his thing is like hey I want you
+to have skin in the game it's and it's
+kind of like that right but he yeah he's
+not really doing it to make money he's
+trying to get people into his ecosystem
+Etc
+would you make money off of this or are
+you just like that would be a
+cool thing it would be it would be a
+cool thing to do and it would make money
+yeah because a certain percentage of
+them are not and it's not all or nothing
+right you may get 50% of the way done
+and that's interesting you and I think
+people should be rewarded for doing some
+of it and not necessarily all of it you
+know yeah I don't know I don't know it
+would I would think it would be in the
+hundreds I think that's a freaking great
+idea
+yeah and the for me the business in the
+Box thing would be probably building out
+some programmatic
+SEO around like what should I use to you
+know start my business oh that's a great
+idea that's a great idea when should I
+incorporate like all those Google terms
+and and I'm sure that there are like
+other high ranking things but it would
+just be hey here's like the
+$50 packet D DIY like do-it-yourself
+business in a box and then it it would
+just literally just be passive you
+create it one time and it's just
+spitting out based on programmatic SEO
+this is just such a perfect example of
+how
+like the distribution
+idea can make the business idea a
+thousand times better because I think
+programmatic SEO would be just the most
+brilliant way to build that business
+because of all of the Endless
+combinations of words and sentences how
+do I incorporate my barber business
+business tree care business HVAC
+business Plumb M just for that one just
+incorporate you have thousands of
+landing pages thousands of Search terms
+that people are how do I find customers
+for my thousand like how do I you have
+thousands of questions that people are
+searching for and then thousands so
+theoretically you have millions of
+landing pages answering questions that
+people are asking that could all have a
+link to a paid product what's been
+really fun about the last like six
+months is this was a whole world that I
+didn't know and I'm still like way
+behind where you are but it's fun to
+have these conversations now where I'm
+like somewhat understanding some of the
+distribution and growth hack portions of
+it because then like I can actually add
+value where whereas before it was just
+like that sounds like a cool idea but
+the distribution piece like you said is
+like so important to understand like how
+okay cool great idea how you gonna get
+it out there yeah oh oh man that's
+really good I like that a lot oh Chris
+all right you're up I want you to give
+me some ideas I'm going to plant you
+with an idea and I want you to give me
+some some implementation ideas Hit Me
+With Your
+Best so I found a website that's really
+really interesting and I want to
+monetize it somehow but I'm I'm coming
+up short okay is it called Wikipedia no
+it's called distill D distill
+doio and what distill does I'm going to
+pull it
+up it notifies you if something on a
+website
+changes okay H now you can tell by the
+way they're pushing uh their website
+that most people use it for ticket sales
+okay so as a family we are going to the
+Alabama Auburn game at the end of the
+month the ironbowl and I'm cheap I don't
+want to buy tickets when they're 200
+bucks each I want to buy them when
+they're 100 bucks each but when are
+tickets the cheapest now if it's a
+concert ticket statistically speaking
+you're better off waiting until the last
+minute but with sports tickets it can it
+can range like Auburn if if they're
+ranked in two weeks they're going to be
+more expensive if Alabama loses the next
+two weeks they're going to be cheaper
+right you just you can't really know you
+don't know when the best time is to buy
+them and Ticket Master and StubHub and
+all those guys they don't really have
+services for this because they that
+doesn't work to their incentivization
+they want you to buy right now and
+that's why they're they're always going
+to tell you going fast price will be
+higher tomorrow right and so you can use
+distill the io to notify to be notified
+when a ticket price drops for any event
+for any section for any seat super cool
+it's a little unintuitive to use like it
+it's kind of tricky to use but I think
+there's a world where you could build a
+SAS on top of this where you you could
+just build like a ticket notification
+system that's built on top of distilla
+IO and it's stupid simple easy to use
+maybe it only works on Ticket Master
+only works on StubHub it's $10 a year or
+something cheap have you heard of Scots
+cheap flights mhm it's kind of like that
+it's like 70 bucks a year and it's kind
+of an insurance policy you're like I
+don't know how many times I'm going to
+travel this year but if I get an email
+and it says the flights to Hawaii are
+300 bucks right now we're going to go to
+Hawaii and I'm going to pay 70 bucks a
+year just for the opportunity to save
+you know $1,000 on tickets it could be
+something like that like tens of dollars
+a year for a service but more broadly
+speaking how could you use this to make
+money who's using to steal the io right
+now like who are they they have to be a
+company right yeah I'm sure that they
+have like a Target demograph trffic or
+Target that's what I was saying is like
+it their the messaging on their website
+is like towards the ticket ticketing
+websites take ticketing out of it why
+would I care if a website updated here's
+the problem if I cared enough for an
+website like an update on on a website
+changing I'm probably going to be on
+their emails list I'm probably gonna
+already be in like let's say it's a food
+product that just
+dropped or it's a it's a new uh blog
+article that that Chris posts right like
+I'm going to be on his email on his
+email list so it has to be something
+where you're interested enough to want
+to know about it but not so interest
+like or there's not a mechanism to
+update people via a
+newsletter yeah I'll give you some ideas
+so let's say it's a Shopify site okay
+come back next Friday for part two and
+you know what please leave me a five
+star review while you're at it because I
+need some more of those love you guys

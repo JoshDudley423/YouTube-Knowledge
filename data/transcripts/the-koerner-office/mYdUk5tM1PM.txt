@@ -1,0 +1,644 @@
+a local business that makes tens of
+millions of dollars a year that most
+people Overlook that is just so willing
+to spend thousands of dollars a month on
+X Y or Z what is it I found a website
+that's really really interesting and I
+want to monetize it somehow I don't
+think you need to be CPA I think you can
+use chat GPT and just the stuff that's
+already out there but just focus on
+helping entrepreneurs save car
+dealerships spend a stupid amount of
+money on marketing Direct Mail SEO you
+name it if it might work they will all
+of a sudden you've got
+$992,000 that's gone away into a savings
+account that you're not paying taxes
+on I found a website that's really
+really interesting and I want to
+monetize it somehow but I'm I'm coming
+up short okay is it called Wikipedia no
+it's called distill
+doio and what distill does I'm going to
+pull it up it notifies you if something
+on a website changes okay so as a family
+we are going to the Alabama Auburn game
+at the end of the month the Iron Bowl
+but with sports tickets it can range if
+Alabama loses the next two weeks they're
+going to be cheaper right you just you
+can't really know you don't know when
+the best time is to buy them and so you
+can use distill doio to be notified when
+a ticket price drops but I think there's
+a world where you could build a SAS on
+top of this where you you could just
+build like a ticket notification system
+that's built on top of distill the io
+and it's stupid simple easy to use it's
+$10 a year or something cheap have you
+heard of Scots cheap flights M it's kind
+of like that it's like 70 bucks a year
+and it's kind of an insurance policy
+you're like I don't know how many times
+I'm going to travel this year but if I
+get an email and it says the flights to
+Hawaii are 300 bucks right now we're
+going to go to Hawaii and I'm going to
+pay 70 bucks a year just for the
+opportunity to save you know $1,000 on
+tickets how could you use this to make
+money who's using dtill toio right now
+the messaging on their website is like
+towards the ticketing websites take
+ticketing out of it why would I care if
+a website updated here's the problem if
+I cared enough for an website like an
+update on on a website changing I'm
+probably going to be on their emails
+list so it has to be something where
+you're interested enough to want to know
+about it but not so interest like or
+there's not a mechanism to update people
+via a newsletter I'll give you some
+ideas so let's say it's a Shopify site
+that sells a product that people obsess
+over Texas snacks we have have some
+some pretty Advanced apps that will
+notify people when something is back in
+stock if they choose to be notified but
+I would bet that most Shopify stores
+don't have this you go look they're out
+of stock at some point or another they
+go back in stock and that just happens
+when some random employee maybe a VA
+just changes a number in the settings
+and hits save then it goes back in stock
+most Shopify stores do not have a
+feature that will automatically notify
+people now it might go in their next
+news newsletter like days later but it
+might be sold out again by then so it
+could work for Niche products like this
+or websites like let's say you're a
+major fan of some merch store or a food
+store that doesn't have a feature like
+this it could work for that it has to be
+a business that is capitalizing on being
+early so like one of the things that
+that come to mind for me are a Trading
+Company let's let somebody say somebody
+who wants to invest in certain
+businesses publicly traded companies
+have to disclose every quarter and every
+year their financials and those are 10ks
+10 q's and so when the when the 10K is
+published to their website because it'll
+be published to their website how do you
+know that it's being published I mean
+this could be one of those things where
+like you automatically get a
+notification you go and read through the
+10K or the 10q and if you're first to go
+through and actually pull out anything
+that's that's important you can have a
+trading Advantage so that that's one way
+although I'd have to believe that there
+are already things that you can do like
+that you know would be interesting sorry
+this is like if you're a Searcher and
+you're trying to buy a business you
+could set up a bunch of like let's say
+you find like different Target
+businesses just different parameters
+anytime that there's a change on their
+website relative
+to address pricing leadership teams I
+mean that could be a signal to you that
+something's going on with the company
+I'm with you man there has to be
+something there I'm going to read you
+some ideas that they that they provide
+on their website so legislative tracking
+track budget find grants Bill tracking
+get legislative calendar alerts
+obviously those websites are super
+outdated Enterprise Solutions medicine
+and health jobs monitoring new jobs
+being posted legal tracker patents real
+estate track zoning laws stuff like that
+so basically any of these ideas you
+could build a business on top of right
+like you could build a small SAS tool
+that just tracks zoning Law changes in
+Los Angeles County right there's a lot
+of people that would really need and
+want to know that as soon as possible or
+it could cost them a lot of money right
+it's true investigative content strategy
+spy on your competitors ticketing cyber
+security and I was just thinking more
+broadly speaking as a framework I love
+reaching out to companies like this and
+asking whoever is reading my email how
+are people using this in what creative
+ways are people using this so do you
+remember when I used to have an RV that
+I rented out M so I rented it on RV
+share and I was uh getting my MBA at TCU
+at the time which meant I had a lot of
+free time on my hands to surf the
+Internet while I was supposed to be
+learning and I distinctly remember
+sitting in class making a spreadsheet
+running all these searches on RV share
+trying to reverse engineer what the most
+in demand type of RV was youve got a
+class A which looks like a tour bus
+Class B which is like a converted van
+and Class C which is like a motor home
+like an RV with the engine attached
+right and I distinctly remember M saying
+all right Dallas County for this weekend
+how many Class A BCS are available for
+rent this weekend no notice all right
+there's 86 class A's there's 82 Class
+B's and there's nine class C's huh
+interesting well maybe they're just
+aren't that many class C's listed let's
+look six months out where few people
+have booked same search oh there's 92
+class A's there's 90 Class B's and
+there's 60 class C's interesting so
+there's just about as many listed in
+each category but Class C is being
+rented by far the most so if I want to
+go out and buy an RV let's say I haven't
+yet I'm gonna buy a Class C and you can
+do this with Airbnb what types of
+airbnbs we've talked about this in the
+past you can reverse engineer just on
+the airbnb's homepage what is the most
+in demand just by searching for this
+weekend and for a year out right I think
+I have an idea for this if I I hold it
+yeah sorry go no all right so I made
+this big spread sheet and I was able to
+to get really close on like what is the
+best type of RV to buy cuz then you look
+at the price and you're like huh the
+price for all three of these RVs are
+about the same but a Class C is rented
+four times as often why would I buy
+something else if I'm doing this as a
+business now if I want to buy an RV for
+my family it's another story yeah and so
+I I reached out to RV share at the time
+and they were pretty small at the time
+and I said hey I'd love to talk to
+someone I know I sound crazy you know
+look at my spreadsheet am I am I in the
+ballpark here like cuz I haven't bought
+the RV yet I want to buy something
+that's good for my family and also I can
+rent out turns out we wanted to buy a
+Class C anyway and then I sent it to
+this guy and he's like hey can do you
+have time for a call I'm like oh uh yeah
+I guess so I hop on the phone he's like
+where did you get this data I'm like
+from your homepage he's like this is
+exactly right like I wish I could shout
+it from the rooftops like Class C Class
+C like if you want to do RV show as a
+Business Class C RVs and I'm like oh
+cool it worked and he was like super
+impressed but I'm like literally I just
+ran searches on your website so yeah
+that is the framework here of just like
+when you see something that's
+interesting reach out to the business
+and be like how can I make money with
+this how are people making money with
+this how are people using this in
+surprising ways and you can come up with
+all kinds of ideas hearing you talk I
+think this would be an interesting thing
+to do let's say that I I'm a company
+that sells RVs right and I'm trying to
+figure out a better way to convert on my
+on my landing page or on my sales page
+okay I think what I would do is I would
+go and find 10 or 20
+competitors and then just on their on
+their purchase Pages let's say set up an
+automation for anytime that there's a
+change and see if I can pull any
+patterns because it's like if they're
+all maybe they've all changed the color
+of the buy now button or maybe they've
+all changed their script and they've
+made it shorter right or maybe they're
+all changing it to mention financing as
+opposed to just paying cash like who who
+knows what the changes are it'll take
+some sort of analysis on your end but if
+you went and pulled maybe 20 competitors
+and then you're just seeing the updates
+as they come in it would allow you to
+make your conversion even better because
+you're seeing what what's working for
+other people because they're not
+changing those things on those High
+leverage Pages unless it's working yes
+but your idea just gave me another idea
+and okay I'm in dude okay so a local
+business that makes tens of millions of
+dollars a year that most people Overlook
+that has a huge marketing budget that is
+just so willing to spend thousands of
+dollars a month on XY orz SAS tool to
+give them a little Edge what is it car
+dealerships car dealerships spend a
+stupid amount of money on marketing
+Direct Mail SEO you name it if it might
+work they will buy it okay and I know
+this because I have a friend now in the
+space who sells software to these guys
+and they spend like crazy so dude if I
+live I used to work at a car deal
+dealership in Tuskaloosa Alabama right
+if I'm a dealership owner in if if I own
+Nick sain Nissan in Tuscaloosa Alabama
+I'm going to want to know how many
+Nissans my local competitors are selling
+you could go into them and this distill
+the io costs like 10 bucks a month right
+you could go into them and say hey I'm
+going to send you a daily report of all
+the all the cars that all of your
+competitors within a 30-mile radius sold
+the day before would that be helpful to
+know oh my gosh yeah now we can like if
+all the ultimas are gone then we can
+mark up our Ultima if there's a zillion
+ultimas on the market then we need to
+cut our Ultima prices like dude how much
+would they pay for something like that
+give it for free for 30 days I'm gonna
+install it all for free they don't know
+it takes you like 10 minutes I'm G to
+start sending you the reports and then
+we'll talk price in 30 days but promise
+me you'll read the reports because it's
+going to be very
+valuable that's yeah and that or real
+estate right like how many homes did you
+sell real estate would be a really good
+one but like real estate's a little
+trickier because it's in my experience
+it's harder to sell into that whereas
+car dealerships have this marketing
+Budget on their line line item marketing
+budget that's massive it's just like yep
+let's allocate three grand of this every
+month and see how it goes whereas real
+estate it's a little more stodgy I think
+the framework is
+literally where is there an Arbitrage if
+you're quicker like if if you're able to
+get information faster where is there an
+Arbitrage and then you can reverse
+engineer into any business that has that
+function or component to it and use and
+use dis still the io yeah
+I love it all right if you are watching
+this clip right now you are watching
+this on YouTube and if you are a fan of
+podcast please check out my podcast
+while you're at it because sometimes I
+have podcasts that aren't on YouTube and
+sometimes I have YouTubes that aren't on
+podcast so check out the ker office on
+any podcast platform or you can go to
+TKO pod.com also my newsletter will
+throw that in there there are no ads
+It's weekly it's different content than
+my podcast and YouTube newsletter.
+chrisj cerner.com You'll see the link
+and we'll see you there
+CPA or silver tsunami well you know the
+the acronym CPA like gives me anxiety
+and makes me sleepy so let's go silver
+tsunami all right let's go
+CPA silver tsunami is the one I'm the
+most excited about but I don't think we
+have enough time for it all right so uh
+Chris what's the biggest
+expense that that employers have or
+business owners have that they feel like
+they have zero control
+over taxes taxes yeah taxes right what
+I'm about to say I don't think it's a
+new idea or necessarily a novel idea but
+I think it is novel in its application
+but traditionally you have a CPA and
+CPAs are telling you when to file
+they're helping you with bookkeeping
+they might even be helping you kind of
+go through some tax strategy but usually
+tax strategy is like way down the list
+right I think there's space for attack
+stria specifically for
+entrepreneurs and
+when you're talk when you're talking to
+a
+CPA how often do you talk to
+Ross as infrequently as I'm able to yeah
+maybe once or twice a year and it's
+usually around filing deadlines right
+just enough to not get audited and even
+so I've been audited yeah it's but it's
+very rushed you're like constantly
+feeling like you're under the gun where
+I think there's space is again not in
+bookkeeping and accounting not in tax
+filing and not in fractional CFO work
+it's in helping entrepreneurs maximize
+their Tax Strategies so here are some
+examples what should I pay myself as an
+entrepreneur there's rules around that
+so you you have to pay yourself
+something otherwise you get audited
+because you're avoiding certain taxes
+but you can't pay yourself too much
+otherwise you're you're not complying
+with the IRS rules okay how should I
+handle retirement think think of it like
+this when you are a business owner you
+could contribute to a 401k why is it
+important to contribute to a 401k I I
+have literally a 401k is that an
+ultramarathon
+I I don't know so good that's the most
+responsible thing that I know nothing
+about a 401k allows you to put pre-tax
+dollars into a savings account that you
+don't have to pay listen to me that you
+don't have to pay taxes on so the idea
+is you're going to have a lower tax
+bracket when you retire than you do
+right now so if I have
+$50,000 and I'm a business owner I'm
+probably going to pay somewhere in the
+ballpark of like 30% $15,000
+on in taxes if I put that money into a
+401k after I retire my ta and then my
+tax liability gets down to maybe 15% I
+just cut my taxes in half right here's
+the crazy thing you can contribute up to
+$233,000 a year to a
+401k but the company can also match
+100% so for you is the your company that
+you own your company that you own so you
+now you have to make sure you can you
+match everybody's you can't just match
+like the owners like you there there's
+certain rules but theoretically you
+could put $46,000 away pre-tax into a
+savings account that just sits there
+then you're like well that's not that
+much money like okay well does your wife
+do anything in the business yeah she
+does something in the business great pay
+her a salary and have it all go to the
+401K and then match that 100% all of a
+sudden you've got
+$92,000 that's gone away into a savings
+account that you just saved taxes on
+you're not paying taxes on right and
+there are IAS that you can contribute to
+what I need to make I need to make a
+call
+but then you can also pay your kids
+through the business they can contribute
+to a 401k you could also contribute to
+an IRA which is different than a 401k
+401K has to be tied to a business and
+Ira can be independent you can
+contribute to that but the IRA limit to
+of contributions is $7,500 a year okay
+is that is that the the rifle
+association it is it's it's well that's
+this is the IR so this is the IR
+International International Irish
+revolutionary Association okay cool okay
+that's savings then there's how do I pay
+my spouse and kids you can pay your kids
+and spouse through the business for
+doing actual work like and it's not
+child labor laws
+right or just knowing what are potential
+big write-offs okay maybe I could ride
+off a vehicle but what else you can ride
+off a certain percentage of your
+mortgage but there are very specific
+rules phone internet meals vacations
+then there's like real estate how do I
+depreciate all that stuff so like in my
+mind that's very different than hey how
+do I file my taxes and it's the tax
+Sherpa on on your team they would be
+separate from the person filing your
+taxes now if you if you did this you
+like stay in your lane do not start
+doing bookkeeping do not do start doing
+tax there's plenty of money to be made
+in this Lane yeah stay in this Lane and
+you are essentially the advocate for the
+business owner so that when the end of
+the year comes and the business owner is
+having those conversations with his
+accountant which we've all had right
+where you're talking to your CPA and
+you're like well could I write this off
+and they're like maybe it like Heming
+and ha or you're like oh a friend of
+mine told me about this deduction and
+they're like yeah yeah that could work
+for you and in the back of mind you're
+like why didn't you know that deduction
+know what I mean they're just not
+thinking about it they have so many
+returns so like this person's in your
+corner they're looking for tax
+deductions but you still got the check
+of your regular CPA who's like that's
+good or bad right and then they can
+argue about it and like you don't have
+to argue about whether or not it's a
+it's a reasonable tax deduction so what
+I would do in terms of fulfillment I
+don't think you need to be a CPA I think
+you can use cat GPT and just the stuff
+that's already out there but just focus
+on helping entrepreneurs save from a
+pricing standpoint I'd be
+like either pay me $10,000 or 25% of
+whatever I save you yeah I like very
+very easily measurable you get last
+year's tax returns you just go through
+it and then for distribution I would
+just piggyback I would go to the tax and
+bookkeeping firms and just say like hey
+let me let me talk to your clients or I
+would also start you know be the Twitter
+Instagram YouTube Tax Guy where you're
+just putting out tax information and
+like some of these accounts already
+exist but I think just leaning into it
+and just being that just being that
+Niche where you're providing value to
+entrepreneurs who aren't yet Rich enough
+to have like their on staff CPA because
+like you get very rich yeah there's lots
+of options to but you got to have a lot
+of money for that there's there's a lot
+more in the messy middle than there is
+at the top yeah and then with like chpt
+you can actually get to the answers of
+these things fairly quickly or at least
+points you in the right direction so
+yeah you're not a JP Morgan Chase
+Private Banker who's like giving tax
+advice but you're still saving people
+tens in some cases hundreds of thousands
+of dollars a year on taxes yeah I I love
+this idea honestly and I I love the
+piggyback idea but I think you have to
+change the incentive structure to get
+the CPA in your corner and say my
+pricing structure is 30% of any money
+saved and I'm going to give you 30% of
+that so you're effectively going to get
+10% of everything that I save this guy
+for just referring him you don't have to
+do any work I'll do all the work and
+then he can be your Advocate like dude I
+met this tax Sherpa he's legit like I'm
+like in the weeds in your returns like I
+know a lot of this stuff like I know a
+lot of this stuff right like but like
+this guy it's all he does and he doesn't
+charge you anything up front he only
+charges if he saves you money and then I
+like the idea of that but but CPAs are
+going to be like well as a fiduciary I
+have to disclose that I'm going to be
+getting a kickback and I don't feel
+comfortable so like you'd have to figure
+out some other way for them to be
+incentivized to do it otherwise I just I
+think it would get Messier if if you
+start paying them not because I don't
+think you should like you should pay
+them it would be way more valuable you
+probably get way more customers but I I
+could just see a lot of CPA kind of oh
+this feels dirty I need to tell my
+client but if they like let's say you
+get ahead of that and say we do advise
+you tell your
+client well you can do that you yeah you
+can definitely do that and do you think
+honestly do you think clients would mind
+and I'm not this isn't a leading
+question I don't know like if if my CPA
+came to me and said this and he's like
+hey he charges 30% he is going to give
+me a cut out of that but you don't have
+to pay me you just pay him I don't think
+I would mind if I was the CPA I would
+probably just say hey this is a service
+we provide and like not even tell them
+about the pricing structure the biggest
+problem is going to be the CPA signing
+their name on recommendations and if if
+you make the CPA feel like hey look
+we're just an advisory service you don't
+have time to go and find all these
+deductions let us do this like we'll do
+all of the work mhm you and the you know
+the payment runs through you and then
+you'll cut us our check our our portion
+of it but you have final say over what
+deductions actually get approved I think
+that I think that actually probably be
+the best way to do it because they're
+going to feel comfortable with it the
+customer is going to feel like it's run
+through that agency and and there's not
+going to be any real issues okay I like
+it it's a good one graas all right Nick
+it's time for mered dator kill we've got
+the Reddit growth hack business in the
+Box idea distill the io and the CPA idea
+okay who's going for you for me marry
+the CPA
+idea
+date oh
+man this is very selfish date distill no
+date business in the Box
+kill
+Reddit okay and then distill is just in
+no man's land distill the the yeah
+tracking
+software okay what is your reasoning no
+no no you got to say yours first and
+then we say our reasoning okay okay
+mared dator kill marry I'm going to
+marry the distill the io plan for car
+dealerships specifically I I really
+really really love that idea I'm gonna
+date the Reddit growth hack idea and I'm
+gonna kill
+the business in the Box idea it's so
+weird that we both married and dated our
+our own ideas no it's just a coincidence
+distill doio I just felt like I not yet
+cannot wrap my mind around like where
+would I use this exact and how would I
+use this right same with the Reddit
+growth strategy it's just like how would
+exactly would I would I do this I think
+they're both really good marketing
+strategies I just don't know about how
+to build a business around
+those that's fair I I didn't like to
+still until we got to the very end of it
+and talked about the car dealership idea
+and I love that idea because you could
+start generating those reports for the
+car dealerships without them ever opting
+in and just start emailing them to them
+that's your distribution strategy give
+it to them for free yeah and then you
+send it in boys that's why I love that
+business in the Box uh I killed that
+because it's just hard I think it's it's
+just hard to wrap my mind around and I I
+date the Reddit growth hack idea because
+I think it's underutilized and more
+business people more capitalists should
+own their own subreddit so they could
+monetize
+it done I love it all right that's a
+list a WAP Jack all right what' you
+think I legitimately want to go start
+that car dealership tracking idea I
+think that could be very valuable so if
+you start it please email me let me know
+how it's going and we will feature you
+please share this with a friend
+subscribe and we'll see you next time

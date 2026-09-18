@@ -1,0 +1,313 @@
+Welcome to the Carer office. I am asked
+every day how I scrape things. Because
+in almost every video or podcast, I'm
+talking about, "Oh, I scrape this and
+then I cold email these guys and I
+texted them this." Well, what is [music]
+scraping? How do you scrape? Is it hard?
+Do you have to have technical knowledge?
+No, no, no, no. These are my four
+favorite tools for scraping. And I'm
+going to show you how to use all four of
+them in this order. Built with a secret
+hack, a certain Chrome extension, plus
+chat GPT, and then my personal favorite
+at the end, Outscraper. validate a
+business idea, find a bunch of
+customers, sell to a bunch of customers,
+get pricing info, get market research,
+spy on your competitors, whatever you
+want to do, you're going to know how to
+do by the end of this video. Builtwith
+is great because what Builtwith does is
+it scrapes millions and tens of millions
+of websites and then [music] it enables
+you to search through those websites
+without having to have any scraping
+knowledge and then export them to your
+desktop so you can do whatever you will
+with them. You will get [music] email,
+name, phone, um, whatever technology
+that this website uses. Maybe it's
+Stripe, maybe it's Shopify, maybe it's
+WordPress. It will tell you an
+approximate amount of their revenue.
+What is their tech spend every month or
+year? It's just super helpful. And what
+I [music] love Built with for is just
+generating a ton of ideas. Let's say I'm
+short on ideas, which doesn't usually
+happen, but let's say I am. I'm just
+going to go through BuiltWith and just
+start searching around and [music]
+looking for business ideas. Let's do
+that right now on the fly. So, let's say
+I developed a pet chew toy and I want
+this chew toy to be sold on all of the
+thousands of pet chew toy e-commerce
+websites out there. I would go to tools
+and then product lists and go to animals
+and pet supplies. And I would just
+export this 5,000 websites. Maybe
+they're WordPress, maybe they're Woo
+Commerce, Magento, it doesn't matter.
+I'm going to be able to do cold outreach
+to all of those store owners to help
+sell my product. Maybe I sell email
+marketing services for e-commerce brands
+and I want to know all of the e-commerce
+websites built on Magento because I know
+that no e-commerce email marketing
+agency [music] is only reaching out to
+Magento stores. Most people have never
+heard of Magento. They're all going to
+Shopify. But Magento's been around since
+long before Shopify and a lot of their
+stores are a lot bigger. So I would go
+here. I would go to tools, e-commerce
+list, global Magento stores. There you
+go. There's 125,000 of them. It's feels
+almost illegal that have this data at
+our fingertips. Let's go to keyword list
+and just see what [music] pops up. I
+don't know why my browser is not loading
+images, but let's just click lawyer.
+Here's 95,000 lawyer websites. Maybe I
+want to sell leads to lawyers. I want to
+generate leads through Google ads or
+Facebook ads and sell them to lawyers.
+Here's all of my potential customers.
+When you export them, you're going to
+have approximate text spend, the URL,
+the name of the business, social
+followers, sales revenue. These are not
+very accurate. Some of them are. Page
+rank. These are very accurate because I
+think it pulls from similar web which is
+a website that tells you how much
+traffic another website gets. Phone
+numbers. You can see about a quarter of
+them have phone numbers. Emails
+about half of them have emails. Social
+URLs, city, state, zip code, when it was
+last scraped. So you can see how
+relevant this data is. Let's say I want
+just the [music] top ranked websites
+based on their text spend or their
+social following or their number of
+employees. You can get that all right
+here. Once again, BuiltWith is
+expensive, $500 a month. But what's nice
+about this is if you need really need
+some of this data, you could pay for it
+for 1 month, cancel it right after you
+pay for it, and then just spend 30 days
+exporting as much as you can because it
+won't throttle you. [music] But one
+little loophole I found for this is to
+go to Upwork or another like a Fiverr
+type platform and post a job looking for
+a virtual assistant or anyone that has
+access to a paid builtwith account. I've
+done this before several times with
+success and just say, "Hey, let me send
+you 20 bucks. Just run this export for
+me real quick."
+[music]
+Whether it's a million records or a
+thousand records, it makes no difference
+to them. It's no more work to them. So
+instead of paying 500 for all the leads
+that you need, you can pay 20. Now, this
+is directly competing with you using my
+affiliate link, but I don't care. I want
+you to win. So [music] save money if you
+can. But sometimes there is a need to
+pay for this. I've paid for this several
+different times. I'm not paying for it
+right now cuz I'm not using it on an
+ongoing basis and I'm cheap, but that's
+a lot of money. So let's go to web
+technology trends. [music] And you can
+use this just to start generating some
+ideas. There's so so so so so many
+technologies [music] that these website
+use. This is just a few of the more
+popular ones. Look at Stripe. [music]
+3.3 million sites that use Stripe. Oh,
+this is built with. It's cool. I like
+it. I would appreciate if you use my
+affiliate link. But [music] next, I'm
+going to talk about the random one-off
+jobs. Like I really like this [music]
+Chrome extension, Instant Data Scraper.
+I've used it from time to time. I have
+no affiliate link. I have no affiliation
+with them. But sometimes you need to
+scrape something on a random website
+that's not Amazon. It's not Google. It's
+not something that's standardized to
+most of the scrapers [music] out there
+like out scraper. And so you just need a
+one-off Chrome extension solution. This
+works really well. You can train it. You
+can say, "Hey, scrape only the headings
+here or scrape only these products
+here." And you just train it once. You
+run it through a sample. Make sure it
+looks good. And then it will just run on
+its own and export it all to a
+spreadsheet [music] for you. But my
+favorite is use outscraper.com. You can
+export all of these things. Amazon,
+Apple, Airbnb, [music] Facebook, so many
+different things. But 99% of what I use
+it for is Google Maps. And here's what I
+mean. Let's say, let's not even let's
+say this is what one thing that we
+actually use it for. We own a tree
+trimming company in Dallas Fort Worth
+and we need to find subcontractors.
+Well, our subcontractors, many of them
+are listed on Google Maps with their own
+tree trimming business. They're a
+competitor of ours and they're partner
+of ours. So, I will do this. I'll go
+search tree service and then I will only
+search for Dallas. Let's say
+Dallas, Texas. Check all those boxes.
+[music]
+And then let's say h I don't want it to
+go crazy and charge me too much cuz it
+does charge you per result. Very, very
+little, but still. [music] So, let's max
+it at 500 just in case. You hit the drop
+down. What all do I want to scrape? Uh,
+I'm not going to email them, so I don't
+need that [music] cuz it costs a little
+bit extra. You can see 0.3 for each
+result. I just want their phone numbers
+and the name of their business. [music]
+And then actually I'm just going to do
+50 because I want to show you how this
+goes and I want it to go quickly. So you
+can set advanced parameters. How many
+searches per query? How do I want the
+data exported? How should I tag this?
+And you can check or uncheck all these
+boxes. It'll take less time if you
+uncheck more boxes. And [music] I want
+to know the owners of the phones. Nah, I
+don't need to know that for this. It's
+not super accurate to be honest that
+part. The email validation and the phone
+validation features are not very
+accurate. But I use live broadcast for
+that. For phone validation, is it
+mobile, VoIP or [music] landline? And
+then for email validation, I use
+bulkchecker.com. Those work flawlessly.
+Whereas this is a little less accurate.
+So I don't want to pay for it even if
+[music] it is cheap. So I'll just do
+this. I'll do get data and it will tell
+me how long it will take. Oh, it cost 40
+cents for 50 results. Yes, please.
+Sending the task. [music]
+All right. And then you go to the tasks
+page and you can see that it's running.
+[music] This probably won't take very
+long. And these are things that I've
+scraped in the past. Like I'm using this
+every week. This was just last week.
+Last week, last week all the time.
+Handyman, engraver, cremation,
+cremation, handyman, hair salon.
+Sometimes I'm just like generating ideas
+with this and I have no initiative. I'm
+just like this is my [music] play time.
+This is my free time. So I will go ahead
+and I'm going to export one so we don't
+have to wait. Let's export hair salons
+and we'll see what the results look
+like. This is what you're going to get.
+It's a direct scrape of their Google
+business profile. You get the name of
+the query, the name of the business. You
+could delete most of this stuff. [music]
+How many reviews? What's their rating?
+You can sort by reviews, sort by number
+of pictures. So, this scraped reviews
+and you can have it scrape only negative
+reviews, only two star reviews based on
+keywords in the reviews. So, that's a
+whole other feature where if you want to
+sell customer service software or agency
+services or anything, you could go look
+for a ton of businesses that get
+one-star reviews or fivestar reviews and
+then you can paste that into chat GPT
+and look for patterns [music] and then
+use those patterns in your cold outreach
+to those businesses. Like, hey, I
+noticed that you have a hair salon, but
+people always complain that you don't
+have any openings. How do we fix that
+for you? How can I help you fix that? Or
+they always complain that there's hair
+on the ground. Maybe you should sweep up
+all that hair. Here are some of the
+other things you can [music] do with
+Outs Scraper. I haven't touched the vast
+majority of these great stuff on
+Shopify, Trustpilot, Twitter. In my
+opinion, a lot of times if you do a
+little bit of everything, you're not
+really good at anything. So, I
+love using out scraper for the Google
+business profile [music] scrape because
+it does that really, really well. Let's
+go here to this one because these were
+not reviews. I was helping a friend with
+these. He has an engraving business. All
+right, so we open this and this is what
+you're going to get when you normally
+scrape a business based on a keyword.
+[snorts]
+Here's the keyword. There's the name of
+the business owner, address, phone
+number. Boom, boom, boom. It's all in
+here. Super good. And what I do, here's
+a pro tip. If you do using Google Sheets
+like I do, I like getting it out of
+Excel. I must be [music] just a
+millennial. Whenever you paste these
+phone numbers into Google Sheets, it
+will be formatted really wonky. So, you
+have to remove all [music] of the other
+symbols in the [snorts] phone number.
+So, I'll do plus one space and remove
+all those. And then I will remove all of
+the dashes and the phone numbers so I
+[music] can standardize them all. That
+way when I paste them to Google Sheets,
+it will look nice and clean. That's how
+you use out scraper. Back to this
+instant data scraper. One thing that's
+good for is we wanted to make a database
+of all the horse cremation facilities in
+the US. And we did it without scraper.
+Horse cremation is not an actual Google
+category. [music] So it was having a
+hard time finding them all. So we just
+found this random humane society website
+that had all of the horse cremation
+facilities listed. We used instant data
+scraper to do that. And you can [music]
+even use chat GPT to do that. You can
+just paste this stuff in and say, "Hey,
+put this in a spreadsheet format." So,
+lots of cool tools out there. Please
+share this with a friend if it's
+helpful. Subscribe to me and uh we'll
+see you next

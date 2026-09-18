@@ -1,0 +1,851 @@
+So, the other day I come across this guy
+named Danny. And Danny went in to get a
+haircut. And he talked to his barber
+who's very busy and said, "Hey, have you
+ever thought about using a voice agent
+to answer your calls for you while
+you're cutting hair? That way you don't
+miss out on customers." And he said,
+"That sounds awesome." Danny said, "Why
+don't I build that for you for free?" He
+built it for him and it changed the game
+for this barber. Now Danny builds voice
+agents for barbers and he charges $2,500
+to $5,000 upfront plus hundreds of
+dollars a month to maintain it. But the
+thing is is that these voice agents can
+be created with just a few clicks. You
+can train them just by dragging a
+screenshot over from their Google
+business profile. That's it. Or just by
+linking their website. Better yet, you
+can sell to the barbers as you're
+getting your haircut by pulling out your
+phone, updating the voice agent on your
+phone, so it answers as Bob's barber
+shop or whatever the name is of the
+barber shop that you're at, right? Then
+then you could have it call the barber
+as he's cutting your hair and use that
+as a sales tool. I am hyped about this
+interview. You are going to love it.
+Danny got a start about 11 years ago
+helping people optimize their Yelp
+profiles. And he said there was a very
+small window of time on Yelp where you
+could make a lot of money doing this and
+then it went away. And he said today
+that same small window of time exists
+with creating voice agents for local
+businesses. I've talked about this a few
+times on the pod before. You guys love
+it every single time. This is the first
+time I've interviewed a business owner
+that's actually doing it. I've done it a
+couple times. I have two different
+episodes where I launch a voice agent
+business live, but this is kind of a
+different beast altogether. I promise
+you'll love it. Oh, and if you end up
+starting this agency or any agency built
+on top of High Level, it would mean the
+world to me if you use my affiliate link
+in the comments below. You'll get 30
+days free instead of the normal 14.
+Let's go talk to Danny, one of my
+barbers. I call him my therapist cuz I
+talk to him all every week, right? And
+just it's cheaper than therapy. And so I
+was going I was like, "Hey, let me
+rebuild your website because it didn't
+look that good and let me start doing
+some stuff on GoHigh Level." He's the
+number one barber in Huntington Beach,
+California. And so I felt like if I did
+this for him for free, he's in one of
+those um buildings where there's all
+like these like
+>> salon suites.
+>> Yeah.
+>> 20 business owners in one room.
+>> In one room. And and I don't that's
+that's my lead cycle right there. And so
+I was like, "Let me build you this
+website. you'd be my test dummy at the
+end of the day. I'll do this all for
+free. I build him the website. I build
+him this AI agent and he was absolutely
+amazed by the AI agent because there's
+kind of two type of barbers. There's one
+barber where he's absolutely busy and he
+can't take any c like any phone calls
+because he's just constantly booked and
+there's another barber who is just not
+that booked. You right. And so
+>> he's like nothing in between.
+>> Yeah, exactly. And so he's the booked
+guy. And so he was I was like, "Let me
+implement an AI agent because how many
+people are calling you and you just
+might miss opportunity from just a
+scheduled link, right?" And so we
+implemented an AI agent so that whenever
+he doesn't answer, instead of going to
+voicemail, the agent picks up, ask him
+all of these questions. We we kind of
+fed him all of the business information.
+>> You're saying that voice call him, he's
+in the middle of cutting, he can't
+answer. So a voice agent picks up,
+>> correct? and asks a bunch of questions
+and fills out a form.
+>> Yeah. Like we just gave them all the
+information, but if they want to
+schedule something, then it would give
+them the direct link for them to book an
+appointment right away. I mean, he was
+getting bookings from that link just the
+day we turned it on. And so it gave him
+the freedom to know that like, hey, this
+works and I don't really have to stress
+about new clients and like I understand
+that time's money and stuff like that,
+but this helped a lot. So, you made this
+voice agent and you said there was a
+scheduling link. Tell me how that worked
+specifically. If the person said, "Yeah,
+can I just like book a time with you?"
+Would it text them that link or would it
+ask them questions and then fill out the
+form for them?
+>> They would text them that link. We
+thought it would that was the easiest
+way. Most of them are techsavvy anyways
+in today's day and age. And it'll give
+them a link to then book them directly
+with their own booking system that they
+they use.
+>> Okay. Is your agent telling them that
+this is a like an AI voice agent or is
+it just kind of talking to them as if
+it's a person?
+>> No, it's full person. We use go high
+level. There's a couple that you could
+test out. We liked the girl version of
+it. I mean, unless you ask, I think it
+tells you that you're an agent, but
+>> just conversating with it. It was
+really, really good.
+>> Are people asking? Do you know?
+>> No. I mean, so Gohigh Level gives you
+like the transcript of of the agent. So,
+they're they're asking for the booking
+link. are asking when do you open?
+They're asking questions about the
+business and
+>> they probably don't know.
+>> Yeah. So,
+>> if they did know, it wouldn't make a
+difference because they're getting their
+question answered and that's all they
+want.
+>> Exactly. Exactly. At this point, that's
+that's what everyone wants. Like, give
+me the answer to the question.
+>> Yeah.
+>> I don't want to wait on the phone for a
+human being if you know if I could if
+it's an easy book. Now, if it's the
+medical practice and stuff like that,
+there's a whole different story. We want
+them to talk to someone on the reps side
+>> or book a or book a call with them,
+right? because now a lot of medical
+doing practices are are doing the u
+membership route too.
+>> Yeah.
+>> Which is what we're going to be
+implementing in GoHigh level as well for
+subscriptions. So
+>> So if this barber is cutting hair, are
+people calling like his personal cell
+phone number and if he doesn't pick up
+in like a certain amount of rings then
+it transfers to the voice agent or like
+logistically how does it work?
+>> Yeah, so he has his own work number that
+we connected. So we there's two ways. It
+could go right away if they call the
+voice agent picks up or in ring ring
+ring instead of a voicemail the voice
+agent will pick up. We decided to do the
+second option because in case he was at
+a lunch or had some time to pick up he
+would love to still pick up communicate
+with his customers if he can.
+>> So you already told me this in the
+beginning I'm remembering now but you
+just replaced his voicemail with the
+voice agent. Period. Right.
+>> Exactly.
+>> Okay. Super easy. So, if he's free, he
+wants to answer, he answers, and it's
+him. Do you have any metrics on like
+what type of call volume he's getting,
+like how many voice agent conversations
+are happening on a daily or weekly basis
+for him?
+>> We're still figuring out the go high
+level side of it. This was the the free
+side that we had. So, the metrics we do
+have are I would have to pull them up,
+but they're all good. I don't know if
+I'm doing ballpark numbers. He told me
+specifically because I ask him every
+week. He's like, "This this thing made
+me lazy to a point where I don't want to
+pick up." So most of the time he is just
+not picking up and letting it go.
+>> Good.
+>> Yeah.
+>> I mean, that's cuz he's seen that it's
+as good or better than him anyway.
+>> Correct. And he's trusting it. Yeah.
+>> Keep watching Netflix with your wife.
+Like
+And that's what I was saying. I was like
+that this gives you the the option to
+leave your phone open at all times,
+>> right? like this is what AI is supposed
+to do is actually give us more time and
+in most cases it's it's not yet. It's
+still too early, right? But it it really
+seems like I keep coming back to voice
+agents by accident, right? Like voice
+agents are just such a good use case for
+AI right now that fits so many
+businesses because there's 33 million
+small businesses and like the vast
+majority of them could use a voice
+agent.
+>> Yeah. Right. And that's the whole theory
+of like the Yelp that I'm saying or like
+this is that Yelp back
+>> the Yelp moment.
+>> Yeah.
+>> Correct.
+>> Or like the Google business profile
+moment or like the Facebook ads moment
+or the the PPC the pay-per-click moment
+in Google Ads when you know you could
+buy clicks for two cents and those same
+clicks today are $2. You know,
+>> these windows don't last forever. But in
+a way they last a lot longer than we
+think, right? Like they're easy for a
+short window of time, easier. But then
+like today, people are still starting
+web design agencies and finding success
+like they did in the 90s. Like yeah,
+I've heard so many stories of people in
+the 90s that learned HTML, that built
+websites for small businesses, and it's
+like that was their first side hustle.
+Now they're a billionaire. Today, people
+are still they're not having to learn
+HTML, but they're still building
+websites for small businesses. You know,
+like in a sense, these opportunities
+last for a while, and in another sense,
+they're only really really good for a
+short amount of time.
+>> Yeah. Correct.
+>> Now, you didn't charge him for this,
+right? Did you ever charge him after the
+fact or he's never paid?
+>> So, I mean, I would get a haircut every
+week and that's like now he gives me
+free haircuts. You know, he doesn't
+allow I I try and he doesn't allow me
+and he's pretty expensive. It's like $50
+a haircut per week. So, ideally, it's
+around $200, but we have this was I told
+them from the get-go like, "Hey, I
+wanted to test this out for you because
+like this is you're like you're my lead
+magnet. Not only do you have 20 other
+businesses in here, but the medical guy
+like he wasn't a haircut person and he
+referred me because of talking at a
+barber. Like that's a hack to me because
+like this is a talking advertisement. If
+you're doing good, right? If you really
+connect with them and and you're, you
+know, you have a really good
+relationship with them, it's an easy
+advertisement that's going on for free.
+>> Yeah. Have you ever asked him now that
+he knows how much value you've added
+like what would you have paid me? like
+play that kind of what if game. Had I
+been able to run crystal ball and show
+you how much
+>> convenience this would add to your life,
+what would this would be worth to you?
+>> Yeah, I played that right right at the
+get-go cuz we're cool like that and I
+was like, "Hey, what would you pay for
+something like this?" And he paid
+already $1,000 for like a bad website
+just recently. And so creating a website
+that looks amazing and then having a KPI
+dashboard attached to it to now
+understand your business because he
+didn't go to school for business. He
+went to school for barbering and cutting
+hair. So this value adds I mean it's a
+tremendous value for him because now he
+really gets to pop up under the hood and
+figure out his business and figure out
+marketing, figure out SMS and stuff. So
+easily $2,500 to answer a question and
+easily a $200 a month fee. Now, that's
+just him. I've asked a couple other
+people. It could go from as low as a
+thousand to, you know, maybe as high as
+5,000. I think it really depends on your
+client and how much they understand the
+value of this and understanding what
+phase they're currently in. Like, I
+would hate to go into a client that's
+like there's this they're a startup and
+they, you know, they have this passion
+and they want to do this, but they're
+all out of money. like I'm not going to
+I'm not going to I'll give them advice,
+you know, and I'll I'll I'll guide them,
+but I'm not going to try to charge them
+for their, you know, all of their money
+when they're first starting. And this is
+usually how I close my deals. I'll
+create a website for the client I'm
+already talking to on Replet, like like
+a mockup before I even have their first
+meeting. Like, I am I am researching
+them. I'm looking at their websites and
+I'm I'm asking Chad GBT breaking down
+their current website saying what what
+are the flaws in this if any and what
+can I do to help improve this current
+website. I'll take that information
+create a replet mockup for them. You
+don't have to publish it. You could just
+show them right then and there with the
+link that they use. I think it lasts
+like 15 minutes. And then like the
+amount of like you would like awe that
+these guys have because they're used to
+one people creating websites and taking
+a month or two for them going back and
+forth and two like it just shows like
+how much you're you you care for them
+like you you built this without asking
+for anything just showing your potential
+and they're like man this is amazing it
+looks good. It's the whole theory of
+like Alex from like if you if you give
+them good stuff like they start thinking
+well damn like what is how like the paid
+stuff must be
+>> yeah the paid stuff must be better and
+often times it's not you know but they
+have confirmation bias so they're
+expecting like oh this is better you
+know. Yeah, like the first mockup like
+that was I mean we made a couple changes
+from then and there, but it wasn't major
+drastically major than what we first
+did. And so it's like I think the theory
+of just like showing that you did the
+work without even asking Yeah. goes a
+long way.
+>> Yeah. Because a lot of times people go
+into these quotes and they're like they
+kind of they do some research and so
+their their work isn't visible, right?
+So the person that they're selling to
+has no idea how much research they've
+done. Maybe luckily you say a couple
+things that indicate that, but if you're
+actually doing work in a vibe coding app
+like Replet and showing them something,
+their confirmation bias kicks in and
+like, "Oh, dang. You really care about
+this." Exactly.
+>> Oh, oh, this is legit. And it's like the
+oldest sales trick in the book is assume
+the sale, right? And you're kind of
+doing that in a sense because you're
+saying, "I've already I've already built
+out half of this." So,
+>> like when it comes time to for me to
+actually send the invoice and get paid
+for this and fulfill this, it's already
+halfway done. Correct.
+>> Right. So, I'm increasing my likelihood
+of getting the sale and I'm decreasing
+my amount of work after the sale because
+I've already done it.
+>> Correct.
+>> Two birds, one stone.
+>> And then the cherry on top is like what
+go high level and just other KPI metrics
+that you could add on to help improve
+their business so that they could
+continue to grow and scale or even like
+the fear metric of like, dude, you're
+you're potentially losing this much
+revenue if you're not booking throughout
+these days. or like I made a KPI
+dashboard from Replet just based off of
+what barbers and stuff would use. I mean
+the thing that that it created was was
+stuff that I wouldn't have even thought
+of like you should create like try
+booking during these specific days and
+send these specific emails out or text
+messages out or if you have a team of
+four like figure out who is getting more
+of the reschedules and and have like a
+workshop with that top person. I was
+like, dude, these are all really good
+ideas that just generated from chat that
+you could implement in your own
+business. And
+>> understanding that or just kind of
+informing that to a client is like very
+helpful because that's all they're
+thinking of in in business. How do I go?
+How do I continue to scale? How do I,
+you know, how do I improve? Like those
+are the thing like I I mean don't try to
+reinvent the wheel. I I know a lot of
+people are here trying to create stuff
+on AI, but instead of that, like there's
+a time and place for everything, but
+figure out what people's current
+problems are and and go that route
+because a lot of the time you're going
+to get paid faster and you're going to
+get more clients that way with and
+you're going to learn more. Like, how do
+you continue to build and scale with
+current businesses? Like, that's the
+beauty of it is I'm like, trust me, I
+have my I have my notebook with all
+these ideas and I think I asked you this
+question the other day. I was like, man,
+can I sell my ideas because I don't
+there's there's so much of them. But at
+the end of the day, like you focus on
+problem solving current problems in
+people's businesses.
+>> Yeah. And helping them identify them
+because often times they don't even know
+what their problems are and until you
+ask the right questions. What are the
+right questions? What are the questions
+you ask to get to the heart of their
+problems?
+>> It's kind of like having a conversation
+like this with my client at first. I'm
+not here to sell them anything. I'm just
+trying to understand what their goals
+are first. And so kind of like the
+questions. I mean, I I want to break
+down what their, you know, ideally what
+their year would look like, what their
+what their overall goals are. Any idea
+of like marketing or newsletters or kind
+of I I mean, I I ask everything and I
+just have an hour conversation with them
+just kind of breaking down their current
+business. And I think just with the
+amount of knowledge that I've learned
+through the last 15 years through the
+e-commerce side and through the mergers
+and acquisition side and just all of it
+in the stock market and breaking down um
+earnings reports like you you could
+really understand a client just by
+having a simple one-hour conversation.
+Ideally, the more the more intel you
+could get on your client, the better you
+could figure out directly what they need
+help with the most. And the reason why I
+went family, if if you're a um if you're
+a super busy barber, that's probably the
+number one thing you're gonna try to do
+is you need to expand to other barbers,
+right? You need to have more people to
+kind of
+>> guide you or to help free up your time.
+And so that's kind of you build intel,
+build rapport, and figure and the main
+thing is build something that you could
+show them and reconnect with them in a
+week or two. And then at that point,
+once you reconnect with them, the end of
+that is most likely going to be your
+your sale. And whether you're going to
+create a new website for them or or they
+like the website and they want to
+continue to work or they like the idea
+of of figuring out, you know, um how to
+improve their business with KPIs and and
+understanding all that stuff or even not
+understanding wanting to. That's kind of
+your your approach. And
+>> I do love the idea in this business that
+you can literally sell to the person
+that is selling to you, right? Like
+while they're cutting your hair, you
+could
+>> it's a captive audience.
+>> Yeah. Exactly.
+>> I love that. Like if if you approach a
+barber at close,
+>> he's probably not going to say no to one
+more customer. No.
+>> Right. Now, how scalable is that? You
+could I don't know. You can make the
+argument it's not very scalable, but at
+X dollars per month or $2,500 upfront,
+it's worth the time. And I would have to
+think your close rate if if you're self-
+selecting a high volume barber and you
+spending 30 to 60 minutes with them,
+your close rate will be in the double
+digits.
+>> Like period. Is it 20%, is it 80%, I
+don't know. But at that point, it's just
+a numbers game that there's 76,000
+barbers. And I love this niche because
+there's usually a push pull between the
+ticket size and the number of businesses
+or like the approachability of a
+business. Like dentists are great to
+sell to. There's a lot of dentist, but
+it's really hard to get to the decision
+maker, right? Barbers are cheap, right?
+It's a low ticket price. So, it's like
+they don't have a good reputation for
+selling agency services to them, but
+there's a lot of them. There's even more
+than than there are of dentists. And
+it's a captive audience. And like you
+can they're extremely approachable. You
+can talk to them one-on-one. You don't
+have to go through a decision maker,
+right? Pizza shops, there's like 200,000
+pizza shops, convenience stores, there's
+like 400,000 convenience stores. AI
+opens up all of these like single person
+solo businesses to agency services where
+it just it didn't make sense financially
+before AI, right? Like convenience store
+owner or pizza shop owner is not going
+to pay 3,500 bucks a month to manage
+your Facebook ads most likely, right?
+Unless they're at scale, they have a few
+locations, etc. But with something like
+this, like voice agents, like even if we
+only leave it to voice agents, it's
+>> Yeah, that was what I was going to say.
+I mean,
+>> you have no time. Like I I could have
+went directly with the voice agent as
+well and say, "Hey, like I'm sure you're
+busy and and I tried calling and no one
+answered." And that's why I walked in
+the barber shop like, "Have you heard of
+a voice agent before?" Right?
+>> You right. And they're yes or no. and
+and kind of like, man, the beautiful
+thing about a voice agent is once you
+set it up for one person, you could test
+it in front of them as well. And that's
+what
+>> that's what I was going to say.
+>> That's what I've been doing.
+>> Pull your hand out from beneath the
+cape, right? Because he's cutting your
+hair and you just call it and just have
+him talk to it.
+>> Correct. And he's done that and he's
+done that to me in front of other salons
+and stuff. Like the people next to him,
+he's like, "Hey, come here. Like, I want
+I want you to meet Danny." He calls the
+the number. He's like, "Talk to it." And
+next thing you know, I get a transcript
+of a whole AI voice.
+>> They're like, "Is he cute or not?" And
+they're asking now these crazy
+questions.
+So it's like but I mean it like once you
+show like once you have that and that's
+why it was so important for me to have
+him as my test dummy because I knew the
+value of having a finished product and
+showcasing that and seeing how well
+other people could react on just a nice
+website something that really works. you
+could, you know, your SMS marketing on
+it. You have newsletters, you have um
+reactivation tool, you the whole level,
+right? And mo most importantly, like if
+you have an AI agent and you can call
+them and you showcase the work and
+they're like asking all these questions
+about the b the business and they
+actually know about it, they're like
+like sign me up like say, "Let me create
+it for you and you test it yourself and
+then if they like it after that, then
+you you could close the deal." You're
+going to have more success creating it
+first. It doesn't take that much time.
+If it's a good lead, you should do this.
+You're going to have more success
+creating the deal and showcasing that
+and closing the deal after you you you
+show them everything that you created.
+In my opinion,
+>> I mean, you could even take it so far
+like, let's say you walk into a barber
+shop cold and you're getting some good
+reception from him. You heard about
+voice agents and like he doesn't even
+know you're selling to him yet, right?
+>> Yeah.
+>> Let me show you this. But before you
+pull out, you pull out your phone, you
+open up high level on your phone and you
+go to the settings for the voice agent
+and you change out the name of the
+business to his business name, right?
+Then before you call
+>> and you call, it's like, "Hey, this is
+Bo." He's like, "What? That's me." And
+it's like,
+>> "Could you imagine that?"
+>> Yeah, that's good. Like if Yeah, you
+could easily set that up if you know
+you're going to go showcase or you show
+them like and they're like, "Wow."
+>> Yeah. And that's barber, salon, nails,
+massage, like all of those type of
+industries like that. You're going to
+schedule appointments and they're asking
+and they're calling.
+>> Tackle that.
+>> And I've done this myself. It's
+literally that easy as going in the
+voice agent and changing the name of the
+business and then click save and then it
+updates automatically.
+>> Yeah. And usually I don't know. I mean I
+I think we just put in their website and
+have I think agent will extract all of
+the information
+>> all the FAQs opening hours etc.
+>> So even better if you put the name and
+their website you should like if they're
+going further deep in the conversation
+asking these questions it's even better.
+>> Yeah. Are you able to share your screen
+and show what his dashboard looks like
+this barbers? Let me see
+>> for those listening or watching KPI
+stands for key performance indicators
+and for years it was you know relegated
+to Fortune 500 companies big budget
+companies like basically what what goals
+or what metrics are we tracking to know
+that we're being successful or not and
+now with AI like barbers can know what
+KPIs mean barbers can have KPIs whereas
+that was never that was never realistic
+for common local businesses I'm curious
+what his KPI guys are like is it new
+appointments? Is it you know revenue? Is
+it
+>> this is our test sto account so I don't
+I haven't worked on this. My uh partner
+does. Another thing I was going to say
+guys like I couldn't have done this
+without without having a good partner on
+my team as well. I picked a partner
+who's good at coding just because like
+replet can have difficulties kind of
+going through that finish line of stuff.
+And so having a partner where I'm just
+all sales, all vision, ideas, giving her
+this the the stuff that needs to be
+fixed, it really helps out in the long
+run.
+>> So your business partner is doing kind
+of the integrations and stuff and you're
+focusing on the sales,
+>> correct? So this was the miss call
+section. We created this on the 28th and
+we have 125 missed calls. I don't think
+it was right away when they started.
+Yeah, we didn't implement it right away.
+We just created this number
+>> the 28th of December.
+>> I think it was
+>> November.
+>> Yeah, November. We could go back a
+little bit.
+>> 125 missed calls.
+>> Yeah. And you could see I mean they're
+even today they're coming in and so a
+lot of people and you you'll I think you
+could get the transcripts of these. I
+don't know if it they'll show them here,
+but throughout especially holiday season
+they're coming in and he was just
+letting them ride and they were getting
+booked. He would show I mean he would
+say we're we're getting booked. He would
+pair them with the number and
+>> I call these FMC's formerly missed
+calls. These are no longer missed calls,
+right? [laughter]
+>> Exactly.
+>> We used this with the go high level
+account that we had from you. So we took
+advantage of it
+>> and and just kind of went from there and
+just used it as a test. I mean and now
+we have our another gohigh level and so
+we kind of this is my showcase to
+clients still, you know.
+>> Yeah. Beautiful. So he's gotten you more
+uh barbershop customers then?
+>> Yeah. So it was to a point where we were
+like we had a we had a pause and we we
+took like a like two weeks just to kind
+of dedicate GoHigh Level and what what
+everything that we could learn from
+Gohigh Level. So now we're we have
+probably I would say four or five calls
+the remaining of the week from barbers
+and someone related to him that
+introduced us
+>> from one free customer.
+>> From one free customer. I haven't spent
+anything on ads. I haven't spent
+anything on on sponsorships or anything
+like that. This is just
+>> from one free customer. I just keep
+hearing this over and over like to get
+your first agency customer, start with
+your circle, your sphere of influence
+and do it for free, right? And if it if
+it's not magical, if it doesn't work,
+then you might not get referrals, which
+means your product isn't that good
+anyway, right? You got to revisit the
+drawing board, which is okay because you
+either win or you learn, right? But if
+it is magical, it if it is good, then
+either you get them to pay you for more
+stuff or you get them to refer you.
+>> Yeah, exactly. And everyone has like
+their own barber or their own, you know,
+massage person or salon or nail it, you
+know? So, it's like,
+>> yeah,
+>> start with that.
+>> Even if it's a family member, like
+figure out how you
+>> guy, oil change guy.
+>> Exactly. Yeah. Now, I'm doing um I'm
+doing home inspections for one of them.
+I got a meeting today with a home
+inspection and their website and their
+GHL, a drone washing commercial company,
+washing drones and all that stuff. a
+remodeling company in the real estate.
+So, like again, all different industries
+all need the same thing. So, it
+shouldn't be that hard to kind of niche
+down and and figure out the best the
+best industry, but they're definitely
+out there.
+>> What would you have done differently, if
+anything, about starting this business?
+>> Start faster.
+I think the idea that you need to learn
+every single thing before you start is
+absurd. like get in there, get your
+hands dirty, teach yourself, teach
+yourself everything you can and and be
+dedicated to helping people, right? I
+mean, that's the end the end goal is
+like as more people you help, the more
+that money will come. It's the law of
+abundance.
+>> How does your pricing look today versus
+your first customer? Like what do you
+think you're going to charge these next
+few customers both upfront and ongoing?
+I think we're we're still in the
+beginning phases of things and I think
+we could kind of customize per client,
+but I would say anywhere from 2500 to
+5,000 just because I know as time goes
+on there's going to be more tools or
+easier tools or easier access clients or
+people are coming in. I mean, there's
+competition. That's what it is. Supply
+and demand, right? And so, I know that
+and I think I think working well and
+fast is probably my goal. And I think
+we're going to up the monthly to two to
+500 depending on what all they need. I
+think that's a good range. I mean, if
+you have 20 clients, you know, my goal
+is just like passive income for this and
+to kind of use this money for bigger
+projects with apps and developments and
+businesses through AI still. But my like
+I said, I have a book of ideas and I
+think all of them need money and
+dedication and so this is kind of my my
+focus for that.
+>> Beautiful. Danny, where can people find
+you? Danny proper trends@gmail.com.
+If anyone wants to connect, I'm I'm a
+wealth of knowledge, so feel free to
+reach out.
+>> Beautiful.
+>> Okay, this episode was a little
+different. If you're watching on
+YouTube, you'll notice that other people
+were watching as I interviewed Danny. I
+came across Danny in my paid community,
+TK Owners. He's a member of it, and he
+used some of the tools that he learned
+from TK owners to build this business.
+But I had him present this interview to
+my Playmakers community, which is a
+group of people building AI automation
+agencies, AI voice agent agencies, etc.
+So, if you're interested in either one,
+check out playmakersai.com or
+tkowners.com. Thanks for hanging out on
+the Kerner

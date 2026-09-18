@@ -1,0 +1,430 @@
+Here's what entrepreneurs get wrong the
+most. They assume that just because
+these huge companies right here exist
+that there's no opportunity for them to
+create individualized software for the
+tens of thousands of industries that
+exist. Specifically, software to manage
+your customers, CRM, customer
+relationship management software. Today,
+I'm going to use AI to build a niche CRM
+software with AI because I don't know
+how to code. And I'm going to stress
+test three different AI tools against
+each other to see which one is best. And
+then I'm going to show you how to find
+paying customers so you can get that
+sweet, sweet recurring subscription
+revenue. So, let's dive in.
+But first, how to know which industry to
+build software for? Well, I'm going to
+use Claude to answer that question for
+me. Here's my prompt. I want to build a
+CRM for a very niche local or home
+service business industry. What are 10
+niches in this category that are growing
+like crazy backed by hard data? And I'm
+going to use their 4.5 model because it
+is incredible. Now, why am I asking
+this? Why not just build a CRM for
+pressure washers or landscapers? Because
+I want to ride a tidal wave. I want my
+life to be easier and you do too, which
+is why you're watching this video. So,
+if I launch this CRM in a shrinking home
+service category, like epoxy flooring, I
+can still be successful. It's just going
+to be harder. Now, it looks like it's
+doing research on the pool service
+industry, which would make sense to me
+because everyone and their brother got a
+pool during and right after COVID. So,
+now those pools need to be serviced.
+Okay, the top four industries. EV
+charger installation. I don't really
+like that one because I think it's going
+to be highly concentrated. There's going
+to be a handful of businesses that do
+the bulk of this work. And I want an
+industry that's highly fragmented with a
+lot of solo operators. Number two is
+pool service and maintenance. Really
+like that. It's growing at 12% a year.
+Three, solar panel cleaning. Also love
+that industry. And number four, water
+damage restoration. My gut tells me pool
+service. I don't know why. I'm going to
+go with that. Okay. Now that we have an
+industry, I'm going to prompt Claude
+again in a new window and say this.
+Here's my prompt. I want to build a dead
+simple but super niche CRM for
+independent pool service business
+operators. Now remember CRM customer
+relationship management. It shouldn't
+have too many fields for customer data,
+but it should have enough and it should
+be clear to an operator in this industry
+that this software is for their industry
+and not something generic like HubSpot.
+Sorry, HubSpot, but they are so freaking
+expensive and way too complex for 98% of
+business owners. And then I added, I
+have no coding experience. Please code
+this web app and show me the UI ASAP
+user interface what it looks like and
+go. All right. Now, let's copy and paste
+this prompt across both Replet and
+ChatgPT and see how they compare. Okay.
+Same prompt at ChatGpt, same prompt at
+Replet. All right. Let's go ahead and
+start a timer and see which one of them
+is fastest because we're judging the
+quality and the speed here. All right,
+Claude did not disappoint. That took
+about 117 seconds, which is less than 2
+minutes. It made Pool Pro CRM built for
+pool service professionals. I've got
+kind of like a fake dashboard showing
+how many active pools, aka customers I
+have, weekly revenue, monthly projected,
+and today's stops. I can search by name
+or address. I like that it filled in
+some dummy data for me. I search for
+John, and I get Johnson family. You've
+got tags here. Monday, weekly. So, it
+looks like this first tag shows me what
+day I'm supposed to service them. That's
+cool. Didn't tell it to do that. The
+second tag shows me how often I service
+them. Weekly, bi-weekly, three times
+weekly. And the third tag shows me how
+much I charge per visit. And then over
+here on the right, you've got different
+colors. Red, yellow, green, active,
+paused, and I assume red would be
+churned or canceled. I can filter up
+here just by clicking the day of the
+week. So basically every day I can wake
+up, open my app or my web app, click on
+the day of the week I'm on, or it I can
+just code it to show me the day of the
+week that it's on because of course the
+app can know what day it is. And I can
+just see what's my to-do list today. And
+then up here on the top right, I click
+add pool. Let's do kerner family at 1
+123 maple. Looks like none of these
+fields are required, which I appreciate.
+Oo, it has different types of pools. Six
+different types. gunnite fiberglass
+vinyl above ground commercial spa/hot
+tub because maybe I'm only servicing a
+hot tub pool size in gallons service day
+frequency. So, I love that Claude Code
+just knew what I would need to put in
+here, right? I didn't have to say, "All
+right, make a field for pool size, for
+pool type, service day, frequency. Yeah,
+it just knew gate code even. That's
+awesome. Rate per visit. Cool. Let's do
+$94
+per visit. Let's do on call. See what
+that happens there. We service them on
+Thursdays. It's an above ground pool
+because I did go to school in Alabama.
+So, that works. equipment. We'll put
+heater service notes. Mean dog. So,
+let's see if my revenue automatically
+updates. It's $94 per visit and add pool
+to roster. Cool. Went from four to five
+active pools. Monthly projected. That
+didn't change because I set it for on
+call, not recurring. If I go in here,
+click on the kerner family log service.
+Now, one thing that it doesn't have yet
+is these records are not editable once I
+add them. So, I'm just going to ask
+Claude to fix that. Make these records
+editable after I add a new customer.
+Let's hit the timer. All right, Claude
+finished super fast. Let's check on
+Replet. Okay, Replet, what have you been
+doing? It made a plan for me. Now, I'm
+not a big fan of planning. I just want
+to do stuff. So, here's a seven bullet
+point. Yeah, build the entire app. It's
+quoting 20 minutes. Cloud was done in
+under two, but maybe this is going to be
+a better app. Start building. And we'll
+check on chat GPT. What do we got?
+Thought for 49 seconds. Here's a first
+pass. Okay, it gave me the code for the
+app, but I don't know what any of that
+means. I'm going to say, show me what it
+looks like like cla code does. You
+always want to make the apps jealous of
+each other or competitive with each
+other. I promise you it works. Okay, it
+looks like Jet GPT is working on my
+request. Replet is still building. Okay,
+that took about another 2 minutes and
+now this should be editable. Let's see
+if it actually works. So, how to edit.
+Click on any pool. Click the edit button
+in the detailed panel header. So, I'm
+going to click on one. There it is right
+there. Edit. Awesome. And I'm going to
+say instead of rate per visit, I'm going
+to add a zero and say 1,500. And then
+let's see if my monthly projected
+changes. It should change by a lot cuz
+right now it's $3,300 total per month
+across all customers. So, save changes.
+Boom. $9,100 a month is my MR after
+editing that field. So, very cool. I
+love how you can filter by day or just
+look at all the days at once. Like this.
+I don't know what I would like I
+admittedly don't know enough about the
+pool service industry to really know
+what I don't know, right? But this seems
+awesome. Now I just need to add a stripe
+integration which Claude Code can do. I
+did it with another app and I just need
+to start selling this thing. Okay,
+checking in on Replet. It's been 4 and
+1/2 minutes still building. Checking in
+on chat GPT. We can click preview here.
+Okay, there it is. There it is. All
+right. I like the gradient, the color
+from, you know, blue to green. That's
+cool. The tagging mechanism looks
+similar. You got a drop down from like
+2008. I don't know. This looks ugly. It
+didn't show me the preview right off the
+bat. I had to ask for it. And I had to
+scroll up here to see, well, maybe I'm
+just an idiot. There'd be a preview
+button the first time and I just didn't
+see it. But nope, I scrolled all the way
+to top. It's not there. So, like clearly
+chat GPT is not catering to the
+non-technical founder, the non-coder
+like myself, right? I don't know what to
+do with this. I don't know what this
+code means. I just want to see the
+preview. So, including the second
+prompt, chat GPT was pretty fast. It
+took about 4 minutes in total, whereas
+Replet's at 4 minutes and it's still
+going. But Claud was almost perfect
+within 2 minutes. And the user interface
+of Claude code was much better, whereas
+JGBT, it's just kind of ugly. Checking
+in on Replet. It's now been 6 1/2
+minutes. It said 20 in its defense. So,
+what I'm going to need to see from
+Replet is something a lot better than
+what Claude code spit out. While I wait
+for this, I'm going to ask Google how
+many pool service operators are in the
+US. 79,000 pool service businesses. It
+is a growing and highly fragmented
+market with no dominant player. Now,
+could you charge 100 bucks a month for
+this software? Yeah, but let's be extra
+conservative and say 20 bucks a month.
+Now, can I find a way to get 1,000 of
+these 79,000 businesses to pay me 20
+bucks a month? If so, then I have like
+1.5% of the market and I'm making
+$20,000 a month. Not freaking bad. Hey,
+let's make it $100 software and it's
+$100,000 a month. Our conversion rate
+goes down because it's more expensive,
+but our profit goes way, way up. Easy?
+No. Simple? Yes. Is there a path to find
+those customers? Absolutely. I'm about
+to show you. All right. So, Replet has
+been going for 16 minutes. Didn't quite
+get to 20, but eight times longer than
+Cloud Code and about four times longer
+than ChatGpt. And this is what it came
+up with. Not bad. It looks very similar
+to Claude Code, but it took a lot longer
+to get there. New service visit. I don't
+like that it doesn't have the tagging. I
+guess it's got some tagging here, but a
+different type of tagging. Like I have
+to think that the type of vacuuming or
+the type of service that you're doing is
+not as important or as relevant to show
+before clicking into the lead. This just
+looks a little more outdated with your
+sidebar along the left, black and white,
+but it definitely solidly comes in
+second place when it comes to the user
+interface. And it's still building. You
+can see here on the left, it's done
+enough to show me what it looks like,
+but it's not done done. So all in all,
+how I would rank them is Chad GBT third
+dead last. I think Chad GBT is like a
+consumer app first. It's not meant for
+coding. It's meant for being like a
+thought partner, which is great for
+that. I use it for that all the time.
+Replet is in second place cuz at the end
+of the day, if the product works, it
+doesn't really matter if it takes 2
+minutes or 16. But I didn't like how it
+looked either. So it took a lot longer
+and it didn't look as good. It didn't
+seem to be as functional. And number one
+clearly was Claw Code. It took under 2
+minutes. It looked great. I needed one
+follow-up prompt to make the fields
+editable, but that's a win for me. All
+right, now the magic question. How can
+we actually find paying customers,
+especially if we don't know how to build
+Facebook or Google ads? We just know how
+to Google stuff. Well, all right. We're
+going to go over to Facebook, the old
+standby. We're going to go to groups.
+We're going to type in pool service. And
+I know, don't just think like, oh,
+you're showing us Facebook groups. I
+already know about that. No, no. I'm
+going to walk you through how I look at
+it and what my strategy would be. All I
+did was type in pool service. I'm going
+to filter by groups near me. It helps
+because if you're able to honestly say
+like, "Hey, I'm here in the area." Then
+you'll have more credibility and
+legitimacy, but there won't be as many
+groups to pick from. So, I'm usually
+going to look for the private groups
+because those are usually more
+moderated. They have less spam. Swimming
+pool repair and services, 17,000
+members. And don't be like immediately
+turned on by big numbers because there's
+often a correlation between a big
+Facebook group and a lowquality Facebook
+group. oftentimes smaller is better
+because it's easier for the managers to
+wrap their arms around it. We're going
+to look at Texas pool pros because I'm
+in Texas. Then let's look at some public
+groups just so we can see if they are
+high quality. Okay, so we're going to
+look around. This guy posted an hour
+ago. He already has two comments. This
+guy posted yesterday, they have eight
+comments. This looks pretty solid even
+though it's a public group. I think the
+downside to this group is it's mostly
+homeowners and not operators. Texas Pool
+Pros. Looks like a company called Elite
+Chlorine is the admin, which makes
+sense. You must be a pool service
+industry professional. Awesome. So, what
+I would do is I would join one of these
+and I would just start asking around for
+feedback. Hey, I built this uh software.
+If you guys had the perfect CRM for your
+business, like what would it have? What
+would it do? And you're just like you
+you're getting real feedback. You're
+actually implementing the feedback. And
+then when it comes time for you to
+launch, which hopefully is very soon,
+you can go back to all the people that
+commented or liked or helped you out and
+DM them and say, "Hey, thank you for
+helping me. Would you like to use this
+for free? I just want good feedback. I
+want referrals. I want case studies. I
+want reviews." And that's your ticket
+right there. Then after a while, A, see
+if they'll pay for it. B, see if you can
+get a review. C, see if you can get a
+referral because they probably know
+other pool service business owners as
+well. Okay, this group over here, 12,000
+people, very spammy, no engagement on
+any of these posts. So, I would skip
+that. This group over here, no new posts
+today, 14 in the last month. So, it
+might be well moderated, but it's not
+very active. If it's not active, it
+means your post is going to stand out
+like a sore thumb. Often in a bad way.
+To me, it looks like Texas Pool Pros is
+the winner. It is private, so I can't
+see it just yet, but they have three new
+posts a day. It's created six years ago.
+It looks to be pretty well moderated.
+Another thing you can do is go to Gummy
+Search and Gummy Search will pull data
+from Reddit to tell you what features a
+piece of software should have or what
+features pool service business owners
+are craving. Gummy search is basically
+like an AI for Reddit. It aggregates and
+organizes all of their data so you can
+find the pain points. Reddit can be a
+gold mine, I'm telling you. Another
+thing I would do is I would use Claude's
+deep research. You just go here, you
+click the filter button, then you click
+the research toggle and prompt it
+something like, hey, I need to know what
+pain points that pool service businesses
+have with their software. What do they
+hate? What do they love? What are they
+can't live withouts? What are the big
+players in the industry? And you can use
+that data to build a better product. And
+you can also use that data to address
+those pain points in your ads to make
+your cost of acquiring a new customer
+much less because the more effective
+your ads, the easier it will be to
+acquire customers with them. You don't
+know how to do Facebook ads? I made a
+video all about that. Facebook ads for
+beginners. Look what happens when I go
+to Google Trends and type in pool
+service software. Look what's happened.
+That's crazy. Just this year in 2025,
+we're at the end of 2025 here. It
+started spiking. It's going up like
+crazy. So, this industry clearly is
+booming. Another way to find customers
+here is to cold email them. Use
+something like outscraper to scrape
+every single pool service business in
+your area. You don't need any coding
+experience. You just need a few clicks.
+You can text them. You can call them.
+You can email them and say, "Hey, I
+built a free software just for pool
+service operators. Do you want to use it
+90 days free or 100% free and then get
+them to pay later or 100% free until you
+get your first five customers. All of
+your customers are on the internet.
+Scrape them and do outreach to them.
+Scrape all 79,000, upload them to your
+Facebook ad campaign as a custom
+audience, and then Facebook will show
+ads, your ad for your software only to
+those pool service owners. It's magical.
+I hope this helped. Please check out
+Claude Code at the link in the
+description and we'll see you next time
+on the Kerner

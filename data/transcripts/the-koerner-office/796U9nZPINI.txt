@@ -1,0 +1,1200 @@
+oh and Ohio is also interesting because
+it has three four five cities that are
+like midsize by midsize I consider to be
+2 to 400,000 people so Columbus is the
+biggest and then you've got Cincinnati
+Cleveland Toledo Dayton okay so we are
+going to be looking at six cities three
+within Ohio and three outside of Ohio
+but in neighboring is states and cities
+of comparable sizes and so we're going
+to look at Cleveland Cincinnati and
+Toledo all of those have between two and
+400,000 people and then we're going to
+look at Madison Wisconsin Grand Rapids
+Michigan
+and Fort Wayne Indiana okay and I'm
+going to show you all this data and why
+I thought to pull up this data so I'm
+not going to look at the YouTube
+questions that often because it gets
+pretty distracting so I'm just going to
+roll with it I'm going to talk a ton and
+then I'm going to pause look at
+questions answer them as best I can and
+then keep going okay so we are tring to
+validate if starting from scratch a
+dumpster rental business in one of these
+three Ohio cities is viable okay maybe
+you live in Cleveland and you want to
+measure um Cincinnati and Toledo maybe
+you're saying hey I'm going to move to
+any of those three cities because I'm
+going all in on this business and I want
+to pick the one that's best This
+research will fit both of those
+scenarios and they will fit any state
+and any home service industry so just
+copy and paste okay um all right I'm
+going to look at some questions real
+quick and then I will share my screen
+all right here's what we're doing so
+here's the poll this what I was talking
+about okay cool just for proof I'm not
+trying to lead everyone towards dumpster
+rental I have no affiliation with any
+dumpster rental business I just like
+every time I tweet about it people love
+it and it's hot right now for whatever
+reason which probably means it's going
+to be pretty saturated in a year or two
+so I'm going to close that window I'm
+going to go to this Google sheet that I
+have so this is the Google sheet that I
+started putting together and let's go
+ahead and bold the cities in
+Ohio and then the unbold cities are
+outside of Ohio but in nearby States so
+these are the cities these are the
+populations uh this is the percentage
+real estate growth now I use chat GPT
+for most of this so I don't know if this
+is over the last decade or what but I
+wanted to look at real estate growth
+because I in my opinion that's going to
+correlate with how well Home Service
+businesses do in the area I also want to
+look at the economic growth in that City
+I also want to look at the average home
+value because that's going to dictate
+how much you can charge and then right
+here oh I think I accidentally hid uh
+iow let me unhide that all right average
+household income home ownership rate and
+this really surprised me and I double
+checked it to be sure Fort Wayne Indiana
+has a 66% home ownership rate apparently
+the the Nationwide average is closer to
+65% so I don't know I'm surprised by how
+many of these are low and then I want a
+zip code for each area just for
+convenience because I'm going to be
+using those zip codes to look to see how
+many competitors there are on Angie's
+List and thumbtack and then these are
+the cells that I have yet to fill in
+that we're going to fill in together so
+I'm going to go to outs scraper and I'm
+going to start fresh here so let me
+close these extra
+windows and so I've been doing other
+scraping today for stuff outside of this
+but if you look at these scrapes that
+say dumpster rental service specifically
+from this morning these are all the
+different cities and so I'm going to do
+something that's a little tedious and
+it's going to make you square them a bit
+and I will share this Google sheet with
+everyone I'll put it in like the comment
+or in the uh description on YouTube this
+is going to be a little tedious but bear
+with me this is a live stream right tune
+me out I don't care and I'm going to
+export
+these and I'm going to paste them into
+I'm going to consolidate
+them so here's the thing I assume you
+can still see this I think you can see
+my whole screen when you scrape things
+from outs scraper the phone number is
+the gold this is what we're here for
+okay and I like working with stuff in
+Google Sheets that's just me I don't
+know call me a millennial but when you
+paste these phone numbers into Google
+Sheets directly it formats them really
+weird from Google Sheets so I always
+have to remove the plus one in the space
+and then the Dash and another thing that
+does is it standardizes them just to
+make the data cleaner to work with so
+I'm going to try this here I'm just
+going to paste it see what happens yeah
+see the phone number it's dumb so we're
+going to go in here and I'm going to do
+I'm going to do this all at once
+so I exported the bottom
+one and now I'm just going to export all
+of them boom boom so there should be six
+cities here
+six exports for all six
+cities so let's go to this top one and
+you know what I
+am I don't need all this
+data I just want ah I might as well get
+all of
+it so let's do this so
+dumb now I could have put all these
+cities in
+here and scraped them at once but I
+wanted you to see like this tedious
+process so this is Indiana we haven't
+done Indiana yet just making sure this
+is
+right all right so I've got one market
+let's see how many I've done these four
+plus the one that I started with so
+let's go here that was the first one the
+second
+one Toledo okay I think this will be all
+of them
+all right so now I'm going to sort these
+by city name just to make sure that I
+have everything that I
+want okay Cincinnati Cleveland Fort
+Wayne Grand Rapids Cincinnati Cleveland
+Fort Wayne Grand Rapids Madison
+Toledo Cincinnati Cleveland Fort Wayne
+Grand renss Madison Toledo all right
+we've got all six cities here and then
+we have a bunch of scrapes that did not
+have a city there was just not enough
+data on Google and then we have a bunch
+of like outlying uh suburbs that Google
+Maps picked up that we can't really
+account for okay and so we can get as
+granular as you want but I don't want
+this to take six hours so I'm going to
+keep this simple the populations I
+pulled were only from the actual cities
+not from the Greater Cincinnati area so
+I'm going to keep all the data true and
+so I'm going to assume this is an
+assumption that there is a similar
+percentage of blank entries on all of
+these cities I could be wrong right if I
+were starting a business I would get
+much more granular with this but I'm not
+this is for instructional purposes only
+and so I'm going to
+delete all the ones that don't have a
+city and I'm going to delete all of the
+ones outside of the ones that I want and
+then I'm going to delete delete well I'm
+not going to delete the ones with a
+phone number and I'll tell you why in a
+minute but I am going to remove this
+other stuff so I'm doing plus one space
+replace all with nothing and then I'm
+going to do the dash replace all with
+nothing okay so now the phone numbers
+are standardized I want to remove
+duplicates but I don't want to remove
+these so look at all these duplicates
+okay but you know what I don't actually
+want to remove these for this purpose
+because this is a multilocation business
+it seems and we want to account for that
+yes so that's a big player in um in
+Cincinnati so I want to account for all
+of their businesses so a lot of times I
+remove duplicates based on what I'm
+doing for this I'm not
+so we're going to go here and I don't
+know what is up with Google Sheets
+lately but it's has not been letting me
+paste as values only all right so here's
+our data directly in Google Sheets okay
+so we we can do a pivot table we could
+get fancy with this I'm not going to do
+that I'm just going to Simply count by
+city so Cincinnati has
+17 okay and I'm just going to do a quick
+like a look over okay like garbage
+collection yeah they're going to mix in
+some other random ones
+but junk removal a lot of garbage
+collection services offer dumpster
+rentals so I'm not going to delete any
+of these I'm just simply going to put
+the counts in so Cincinnati we've got 17
+Cleveland we've got 11 let's make this
+easy
+17 11 Fort Wayne Grand
+Rapids Fort
+Wayne Seven Grand Rapids
+seven
+7741 all
+right okay so let's go ahead and get a
+percentage okay now this isn't the best
+percentage but you can clearly
+see okay these are the cities that are
+mostly saturated so
+Cincinnati if you go to Cincinnati it is
+controlled and I will tell you I've
+never done this before like I've done
+this process but I've never done it with
+dumpster ryal in Ohio and so I'm to be
+learning just like you guys this is
+actually really fascinating what is this
+company again rumy so rumy has a pretty
+pretty strong foothold on this market so
+Cincinnati has the most and it's also
+the most saturated Toledo second most
+saturated and then Madison Wisconsin
+four companies or yeah geez four
+dumpster rold companies now keep in mind
+these are colder cities you will have to
+deal with seasonality to some extent
+there obviously aren't going to be as
+many people building or needing
+dumpsters if it's covered with snow
+outside but this is fascinating to me
+already right we're only a few minutes
+into this but we Madison Wisconsin has a
+great economy it's a college town
+University of Wisconsin 12% real estate
+growth which is the second most of the
+six cities 5% economic growth which is
+the second most average home value
+highest by far crime rate lowest by far
+average household income highest home
+ownership rate middle of the pack and it
+only has four so this could be
+misleading okay so now we're going to go
+we're going to pull up Madison Wisconsin
+we could stop this right now and this is
+the 8020 we'll call it
+6040 let's look at
+Madison I'm trying to
+see so all of these other five examples
+are going to have their own suburbs
+there's nothing over 100,000 people here
+so immediately what this is telling me
+is it's not like a Minneapolis St Paul
+situation where you've got two big
+cities right next to each other Dallas
+Fort Worth Etc in fact the biggest
+suburb is only 36,000 which is a tenth
+of the population of Madison well an
+eighth so this is already really
+promising this is looking good for
+starting a dumpster rental business in
+Madison Wisconsin but we're not done we
+got to do more right we could unlock
+something here in 20 30 minutes that
+makes us want to steer clear so we're
+going I'm going to show you Google LSA
+so if you're unfamiliar with Google LSA
+it is their answer to Thumbtack and
+Angie's List they want to sell Home
+Service leads or any business lead to
+business owners and they're doing a good
+job of it and the leads are actually
+really good we use them for our tree
+business so I'm going to do this I'm
+going to
+go I did a little research this morning
+on LSA and dumpster rental is not a
+category so I'm going to show you
+this you go to Allen Texas Tree Service
+show more
+and then you go more tree service
+providers you got to know where to click
+these are LSA listings that's us huh and
+then here way down here are organic uh
+Tree Service listings and so if I go
+look for dumpster ryal it's not there
+Roofing is there and so I can't really
+do this LSA research in a very clean way
+so we're going to find a workaround so
+we're going to say Madison Wisconsin
+dumpster rental we're going to look at
+more businesses now okay this is Google
+LSA Google guaranteed but the problem
+with this view that you're looking at
+right here Google will only show a
+maximum of two LSA listings but we are
+learning something here because there's
+only one company in all of Madison
+bidding on LSA because if there were at
+least two then it would list right here
+this is organic this is paid because
+this is Google guaranteed so we're gonna
+we're going to go with this okay and
+we're going to add this to our data and
+we're going to go LSA Madison one okay
+now we're going to
+say
+so now this is sponsored so Google's
+confusing because you can do Google ads
+you can do Google LSA you can do
+performance ads you can do search ads
+there's six ways you can promote your
+home service business on Google so this
+is what I'm looking at is most likely
+just like a Google ads listing and not
+LSA because it doesn't say Google
+guaranteed let's try this in a bigger
+Market to see how it
+looks all right so this is exactly what
+I was talking about it will only show
+you a Max of two sponsored listings and
+so we're going to we're going to go back
+here we're still going to use this
+and we're just going to call that one
+then we're going to go we're going to
+call that zero because there's none so
+let's go back here it's a little tedious
+one and then Cleveland is zero so now we
+still got to do Fort Wayne Grand Rapid
+in
+Cincinnati
+zero zero
+zero
+okay okay so LSA in all of these markets
+LSA is not it's just not very strong and
+I'm not surprised because LSA is fairly
+new they don't have a ton of market
+share yet Believe It or Not which means
+it's an Arbitrage opportunity for you I
+know people that have Home Service
+businesses that wholly rely on Google
+LSA they'll get a tree bid a tree lead
+for $50 they close half of
+and their average job is $800 so it's
+basically $100 customer acquisition cost
+you know 50% margins you're still making
+about 300 bucks per job there are people
+that just bid up all the areas and only
+rely on Google LSA so there is an
+opportunity there but it doesn't give us
+a lot for these markets and we're
+combining LSA and just normal Google
+paid ads here so let's go to thumb teac
+so I'm going to open Thumbtack and you
+want to do this right because we're
+doing research but we don't want these
+businesses that we're researching to
+have to spend money because of our
+research so you have to do this the
+right way if I were to type in dumpster
+rental Cleveland Ohio and then go
+through like the process it would charge
+these businesses just for giving me a
+quote a a good amount of money too
+depends on if it's Roofing could be
+hundreds if it's a locksmith could be 20
+bucks but I have no intent of actually
+buying from these people so I don't want
+I don't want them to have to pay money
+and so we've got to do this a very
+specific way we're going to say let me
+do this go back to Thumbtack so this is
+basically thumb tac's landing page for
+their
+services where is dumpster
+rynal okay this is what I was going to
+do okay let's go let's just do all this
+alphabetically so let's go to Cincinnati
+I'm going to get their zip
+code uh
+and so no one's been charged yet
+I haven't requested a quote and I'm only
+seeing one result so that's Cleveland
+let's do it
+here
+two oh no one in that zip code let's
+just I'm going to take a look at the ZIP
+code make sure it is populated yeah okay
+but so a lot of this depends on if these
+guys are bidding in that exact they
+could be in the neighboring zip code but
+I would think if this is downtown Fort
+Wayne then people would be bidding on it
+but they're not so we're going to put a
+zero here Grand renss Madison and
+Toledo
+two
+zero 2011 okay
+all right now we're going to go to
+Angie's List and we're going to copy
+that zip code again I'm going to close
+thumb Tech and okay here's what we want
+to okay we got to do Angie list
+differently so we're already on
+Cleveland's page I pulled this up and we
+want to see how many are on Angie's List
+now Angie's List I'm pretty sure they
+scrape data from Manta Google Maps Etc
+so they will list everyone and if and
+they'll the people that pay Angie's List
+for lead they will put them at the top
+but people that they just scrape they
+will put them in the back that way if
+someone for some reason goes to the
+second or third page clicks on someone
+then Angie's List will reach out to that
+person and say hey we've got a job for
+you it incentivizes them to sign up for
+Angie's List so we're just going to do
+this we're going to go to the bottom of
+this we want to go to the landing page
+for dumpster rental in Cleveland and you
+can Google it to get here and we just
+want to know how many
+65 and I I went to the last page and
+looked and like they do a lot of
+reaching right like on the last page
+there's they're pretty far out like
+somewhere an hour away but we're just
+going to keep everything constant
+so let's go back here so let's do
+this Cincinnati Fort
+wi pull that
+up so we're just looking at the city
+landing page for Angie's
+List Grand rap
+Grand Rapids Madison
+Toledo all right so we've got all of
+them pulled up Cincinnati now we got to
+scroll down here and we got to find
+dumster
+Reynold
+52 and we're done with that Fort
+Wayne 13 man Fort Wayne like I've never
+I'm not going to lie I've never looked
+at Fort Wayne very
+favorably but whatever here we are no
+offense to anyone in Fort Wayne it's not
+Gary 28 in Grand
+Rapids wouldn't it be hilarious if there
+were like 87 dumpster rental companies
+in Madison Wisconsin by the end of this
+month I would love that so
+much all right internet's a little slow
+today let's see
+17 in
+Toledo 17 in Toledo and 14 in
+[Music]
+Madison okay there's our anges list data
+and let's go ahead
+and clean this up and you know what I'm
+just going to delete the LSA column
+because to me there's not enough data
+there to really draw a conclusion on it
+so it just looks messy right now and
+honestly Thumbtack I don't know I just
+wanted delete thumb Tech too but I'll
+leave it I'll leave it
+so let's do
+this let's do this we're going to make
+we're going to divide this by the number
+of businesses in the area because that's
+going to be a cleaner
+percentage we're going to do the same
+here
+so well yeah man that's yeah it's going
+to be a a a triple digit percentage
+because there's more on Cincinnati
+Angie's List than there is on Google
+Maps which is because they're pulling
+from a wide area but whatever we'll keep
+it the same
+so we could also do the reverse what
+percentage of um anges list businesses
+are on Google Maps but
+whatever
+okay I'm just going to start observing
+this in real time so let's look at this
+so
+Cleveland in this sense the higher
+percentage I guess it doesn't really
+make a difference
+okay
+so if we look at this percentage which
+is basically the saturation po per City
+Madison I guess I should have reversed
+this right CU we want green to be
+good Madison and Fort Wayne are
+attractive but honestly Fort Wayne is
+not as attractive because if you look at
+the not bad at crime rate if you look at
+the real estate growth growth economic
+growth well you know what I take a back
+Fort Wayne is not is not that bad I've
+been hating on Fort Wayne I don't like
+the average home value of Cleveland I
+really like to see that higher
+but let's do this this is what we want
+to do we want to call this the Google
+percentage and the Angie percentage
+so if you look at the Angie
+percentage Fort Wayne is at the top
+again Toledo and Madison top
+three Toledo is at the bottom as far as
+Google is concerned okay so Thumbtack is
+there we're not going to do that math
+I'm just going to delete that people
+aren't using Thumbtack which you can
+see okay so so far we're seeing that
+Madison and Fort Wayne look pretty dang
+good now let's say I'm in Ohio and for
+whatever sick reason I want to open a
+business in Ohio I'm gonna look at these
+top three really bad household income
+but hey there are there is a need for
+dumpster rentals there home ownership
+rate all in the 40s crime rate all
+High real estate growth okay so Toledo
+is the highest household income second
+lowest home value middle of the pack
+that best real estate
+growth not that much on Angie's
+List you know what I want to do this I
+don't like this I want to do this as a
+percentage of
+population so once again Fort Wayne
+Toledo Madison are they're the least
+saturated all green
+there Toledo's a little more
+saturated should we give these guys a
+call okay Garrett asked is the real
+estate growth economic growth crime Etc
+all scrape from out scraper no actually
+I asked you GPT all of these and then I
+kind of cherry-picked a couple to to
+confirm and it was accurate because
+sometimes it's not so let's give these
+guys a because I want to know are these
+guys swamped with business are they not
+I want to know what my competitors look
+like am I going to voicemail or an
+answering service let's do this so I'm
+going to get my actual phone and I'm
+gonna call them and I guess it's a good
+thing I'm not using my phone as a camera
+because I need to use it here
+so I'm going to stop sharing my
+screen I'm going to start calling some
+people and you can hate this all you
+want but I'm not going to talk to them
+okay so yeah I'm going to waste their
+time today for about three seconds I
+want to know if they answer because that
+is the litmus test that I'm performing
+right now do they answer their phone and
+I'm going to keep the variables constant
+because I'm calling them all at the same
+time but we're not accounting for maybe
+he's on the phone right then maybe some
+oneoff variables are happening so you
+can get a lot more granular with this
+you could call them you could call
+everyone once in the morning afternoon
+and evening on Monday Wednesday Friday
+you could get as granular as you want
+but uh I just want to see right off the
+bat how many people are picking up so
+we're only going to look at these ones
+we're not going to look at the ones in
+the outlying
+areas so I'm going
+to let's see I'm just going to go down
+the
+line okay so if you see my
+phone I just pasted it from my MacBook
+to my phone and I'm going to call him on
+speaker and see if he
+answers this reminds me of a scene in
+the office I can't remember which one
+hello and thank you for calling for a
+dumpster port or rental if you're a
+homeowner press one if you're a business
+or contractor press two all right so
+that's an answering service so I'm going
+to mark that as answering service that
+was fast enough we'll go to the next
+one call ended 419
+451 yeah it's right
+there it's not going
+through well it's a good sign so
+far let's go to the next
+one it's Larry all right Larry answered
+sorry
+Larry I'm going to get so many people
+calling me
+back can I you okay another answer on
+the first ring both of
+them so I'm going let me count how many
+of these there are so we've got 57 I
+could probably call all
+these hey this is with Cincinnati ders
+sorry
+[Music]
+this got to be the least exciting thing
+you watch
+today your call has been forwarded to
+voicemail that's a
+no I don't know if I'm going to call all
+these so let me call more I want to get
+a good like a Baseline and then I want
+to go straight to Madison I want to see
+how companies are fairing in Madison
+Wisconsin stop ringing
+I'm G to call that a
+no oh I'm going to show you something
+here in a minute you're going to like
+all right stick with me here it's gonna
+get a lot better Queen City dumpster all
+right he
+answered I'm going to finish
+Cincinnati and then I'm going to text
+some of these guys thank you for calling
+dumpster rental Solutions the number one
+dumpster rental provider in the
+Cincinnati
+[Music]
+area I hope someone out there is already
+doing this research in their own area
+because you're that excited that's what
+I'd be doing hello and thank you for
+calling
+for now okay in answering service that's
+not doesn't mean they suck but it's not
+as good as answering right away
+thank you
+for that's a
+yes all right now all of these are the
+same company so let's see what they do
+it's got to be an answering service
+right if it was my company and I had all
+those locations I would not have an
+answering service
+there are ways to get it's an 800 number
+yeah it's not even ringing so that's not
+a good sign all right now this last one
+does not have a phone number at all
+dumpster tub let's I just want to do a
+little
+research they've got products like they
+went through the effort of putting this
+here but they don't have their freaking
+phone number what are you guys
+doing
+huh so we're going to call that a no
+we're going to count any that don't have
+a phone number is a no then let's call
+all of them in Madison I'm actually
+going to talk to these
+ones oh this is a recycling
+[Music]
+center I just realized you can't see my
+screen okay so that is recycling center
+I'm going to share my screen again so
+you can see that so this is actually
+very interesting because if we do get
+more granular then we learned that one
+of the four dumpster rental companies in
+Madison is not a dumpster rental company
+at all not a garbage service that also
+rent dumpsters it's just a recycling
+center so we're going to go back to the
+research we're going to go here to
+Madison we're going to change that to
+three and look at those numbers pop and
+so
+literally Cincinnati
+Ohio is five times more saturated
+exactly than Madison Wisconsin so it's I
+guess it's good that I called all of the
+ones in Cincinnati because we're on both
+ends of the spectrum here so we only
+have three in Cincinnati let's give them
+a call Kars dumpsters so since there's
+only three let's do a little more
+research yep I don't even need a click
+that's dumpster
+Ral tread lightly
+dumpsters
+Countrywide dumpster
+rental this looks like it could be a
+lead generation
+site um they just had a Madison Google
+page I mean look at this Lakeland
+Florida San
+Bernardino contact
+us okay this gets very interesting I bet
+you anything this is just a lead
+generation company that's grown using
+programmatic SEO which is here's a
+secret this is what we do as well we use
+programmatic SEO for the same type of
+stuff if you ever want to do
+programmatic SEO email me by the way
+Chris co-founder .c I can help you out
+with that this is very interesting these
+guys are just selling leads junk
+removal and dumpster rental very
+smart yep completely different landing
+page geez Louise okay so Madison like
+the more research we do the better it
+gets now of course we could go to the
+other cities and do more research and
+we're going to find similar things that
+would bring the numbers down but now
+we've got two
+so we've got Kars tread lightly that's
+it um let's look at Kars and then let's
+look at tread
+lightly all right I want to see how many
+locations these guys have they service
+the whole County it is a local business
+like this website it's ugly but it's
+clean it's clear look at that picture
+man that picture is like a Boomer's
+dream okay so these guys look like
+they're using like a template I've seen
+this template before so they're probably
+a little more sophisticated they're not
+even like in medicine let's see if we
+can do
+this we're going to try to book I wonder
+if this is
+like actually tied to their
+inventory you know what we're just going
+to call these two I don't think this is
+going to be tied to their inventory all
+right I'm going to YouTube real quick
+I'm going to take a breather what am I
+learning from the company calls
+validating if the business is real great
+question I want to know how good they
+are at customer service we like we have
+a small business our tree tring business
+is a small business and James my
+operating partner he always answers the
+phone he just answers it if he's talking
+to a customer quoting a job can you just
+give me a second he just answers his
+phone because the chance of getting a
+job like he knows just just from a call
+that comes in cold is call it 30% and if
+he gets there in person to quote it face
+to face it's 70% right and so let's say
+the average job is $1,000 we have a 30%
+chance of closing it that means that if
+he misses that call he loses $300 right
+and if our margins are 50% he loses $150
+we lose $150 in net profit and so
+answering the phone is the most simple
+yet most important thing you can do so
+that's what I want to know an answering
+service that's friction that's oh it's a
+big company oh they don't care about me
+uh they're probably busy friction um and
+then surprisingly quite a few of those
+just were bad numbers altogether using
+this example curious if you recommend
+trying to buy an existing business
+instead of starting one based on
+everything I'm
+learning I would not I would start a
+business in Madison uh Wisconsin so all
+right I want to call these two
+businesses because we're down to two now
+and I want to ask them if they have
+availability to rent three dumpsters
+this weekend okay why three because that
+will give me a better idea of how busy
+they are if yes and it's okay this is
+like Prime construction season in
+Madison Wisconsin I'm sure three
+dumpsters is quite a bit this weekend is
+4 days away so if they say no then it's
+that tells me that they're somewhat busy
+and they'll also probably tell me I can
+rent one not two so that gives me an
+idea of exactly how busy they
+are like I'm expecting them to say no
+because it's short notice so that
+doesn't tell me a lot I would prefer if
+they say yes they do have availability
+to rent three dumpsters this weekend
+because that's going to tell me that
+they're not very busy and that's going
+to be a red flag that that conflicts
+with almost everything I'm learning
+about the dumpster rental business in
+Madison Wisconsin so I'm going to call
+both of them
+and I'm gonna keep sharing my
+screen and I will put the audio up to
+the mic
+thank you for calling tread Services
+anyone surprised is anyone surprised it
+went to voicemail guy's busy that's my
+assumption let's call call the next one
+and then I'm going to do a little more
+research before we text any of these
+guys so that was tread lightly now we're
+going to go to kar's this is so exciting
+I'm like a kid in a candy store right
+now all right I'm calling Kars and I
+like pulling up their website as I talk
+to them just so I sound like less of an
+idiot hello this is K dumpsters how may
+I help you hey I was wondering if you
+have availability for three 15 yard
+rentals this weekend um when were you
+thinking of getting those dropped off
+it's flexible maybe Saturday morning or
+or Friday
+afternoon we yeah Friday we could do
+Friday we could drop them off Friday um
+we have 12 yards 20 yards and 30 yards
+um I don't I don't see it being a
+problem on Friday is that okay uh that
+might be okay I'm just doing research
+right now are you pretty busy this
+weekend we don't deliver on weekends oh
+okay are you pretty busy this week no
+Friday's open that's Friday Thursday and
+tomorrow sort of okay okay well I'm just
+trying to call around right now but I
+will give you a call back if I decide to
+go that
+direction all right have a great day sir
+thank you all right so that was
+interesting not as busy as I would have
+thought now look at their website
+compared to try lightly you can book
+online that's like the obvious you don't
+have to build out a custom website
+there's probably a theme or a package
+you could buy for a couple hundred bucks
+here
+you you can't you got to call them it's
+friction now we're going to okay we're
+going to do a little we're going to do a
+little research here so we're going to
+go we're going to look them up on Google
+Earth all right
+okay
+o so it looks like it I wonder if this
+terara engineering business is owned by
+the same
+person a lot of times these dumpster run
+companies start out as construction
+businesses and then they buy some
+dumpsters and then they start loaning
+them out to other people in the industry
+and next thing they know they're in
+business so I'm not learning a lot here
+other
+than it looks like he might just be
+piggybacking on another
+business yeah I would love to see a
+bunch of dumpsters lined up but that's
+just like a trash pile and then look at
+Countrywide this Leen Factory we could
+learn something from these guys I bet
+you
+anything okay what is this
+address they're not fitting many
+dumpsters in there I wonder how they got
+the hookup to validate their address on
+Google
+Maps there's all kind of tricks of the
+trade so that's interesting 32
+reviews just reading these reviews here
+do you see any typos do you see any look
+at these
+names Michaela win Hershey
+abon Ashley
+Williams I accessed the website this is
+all AI written literally not any human
+on this planet has ever said I went and
+accessed your
+website I bet you anything they have a
+standard review and then they tell Chad
+gbt write this 15 different ways and
+they just swap out synonyms it ends up
+making no sense so these are all fake
+reviews and the automation automatically
+responds to them with AI very
+interesting very we're doing
+I I will admit we're doing something
+similar not with dumpster not anything
+near dumpster Reynold but a Le gen
+service with programmatic SEO and we're
+seeing some really good results from it
+so no shade but it's just interesting
+seeing this for what it is okay
+so we've learned a lot especially about
+Madison Wisconsin but now I want to text
+all these guys and so I'm going to take
+all these phone numbers and I am going
+to remove the ones with blank phone
+numbers I'm going to take
+this and let's close
+that and I'm going to open a new
+sheet and I'm going to remove
+duplicates okay
+so I just want their cell their phone
+numbers here and I'm going to scrub
+these if they're cell or
+landline so I'm going to save this as a
+CSV doesn't matter what I save it as and
+then I'm going to go to this website
+over here Sly broadcast and they are
+happy to
+validate these lists and tell me if it
+is a what's it
+called if they're sell or
+landline so I'm going to upload this
+list all I have in it are the phone
+numbers save spits it out 82 contacts
+I'm going to download it
+open
+it
+okay
+let's go ahead and add a
+header I don't care about the land lines
+right
+now I don't care about the unknown
+I only want the cell phone
+numbers so I do want to remove the one I
+just talked to because I just talked to
+him and I know what's going on there
+[Music]
+so that was Kars I believe
+right
+2565 yes all right so I'm going to
+remove that
+well I guess he wasn't in there because
+that wasn't a cell phone so save that
+list now I'm going to go to message
+media and I use quite a few different
+texting platforms but this is the one
+that I like for this type of of outbound
+texting the most so this is our
+co-founders account and we have a few
+different phone numbers and I'm going to
+go to contexts
+list and create a list
+and then I'm going to
+upload that list into that specific
+list I only need their phone
+numbers so once again this doesn't give
+us data from people that are using
+what's it called Lan lines or unknown
+phone numbers it just gives us data from
+people that have cell phone numbers but
+it's really quick and
+easy so I'm going to use this list only
+27 numbers and I'm going to
+[Music]
+say that's it that's all I'm going to
+say I don't need a personalization in
+here it's a very binary
+question I'll do
+this and I'm going to click Send and
+it's not a big sample size but it's
+something and now we
+wait and let's see if we have any
+responses we got
+one I wish we had because we would get
+like a 10 to 30% response rate right
+away
+okay all right well that's
+something how would you go to market if
+you decide to launch a dumpster ryal
+well that is uh that's a whole other
+live stream in and of itself we're not
+getting more responses I'm surprised I
+want to text
+more let's see what could I do to text
+more okay all right call me I don't like
+that if I'm texting you I want you to
+respond via text what material
+fully booked okay that's something 8826
+I want to see where he's at Grand
+Rapids
+okay okay these guys are pretty busy
+8091 Fort Wayne yeah Fort Wayne is a
+good Market we're not surprised that
+they're busy we already knew that
+can you book
+online book online imagine
+that all right all right going back to
+the
+questions I went with these Lewis
+because I've just I've been doing this
+for 15 years and trial and error these
+are just what I've settled with they
+work well they might not look pretty but
+they're better than the other
+options um okay my ADD is in full force
+right now where was I all right there we
+are let's see how many responses we got
+27 texts and we got one two three four
+five six
+7 okay um so 20 something percent
+response rate right off the bat not bad
+it's too bad we didn't text more people
+let's I want to look more into this guy
+8091 okay look at now this is legit Blue
+Line bins all five star reviews
+82 we got a big parking lot I assume
+that most of these spots normally have
+dumpsters but it's mostly empty now
+here's a little life hack the obviously
+the the Google Street View that you see
+will be different than the Google Earth
+view that you see
+so you can get two different points in
+time and then if you really want to get
+granula with it oh this is
+good okay so it looks like they just do
+all kinds of stuff
+[Music]
+you're going to like this what I'm about
+to show you this should be good so it
+looks like it hasn't even been there for
+that long this is May 2023 that was an
+autocredit Place here's what we're going
+to
+do we're going
+to take that address
+we're not going to learn a lot from this
+because it hasn't been in business for
+that long but you get the
+idea so I need to be able to zoom in
+more that's a bummer I can't zoom in any
+more than that so forget I said anything
+that doesn't work but I had the right
+idea let's go back to
+this we don't have 20 yards and our 11
+yards are currently being
+used okay so I don't like this guy dude
+come on imagine how much you can learn
+just from this just seeing how busy
+everyone is demolition contractor just
+take it llc.net
+oh saying the phrase llc.net gives me an
+aneurism that is
+painful so I don't think you can book
+online but yeah whatever it's a website
+okay so what have we learned let's go
+back to the research tab it looks like
+there needs to be this business in
+Madison and or Toledo and or Fort Wayne
+we could do a lot more research in these
+cities because for all we know Grant
+Grand Rapid is a great place to open
+because maybe it looks saturated on the
+surface but if you call everyone and
+really dig in and do your research and
+you find out that they're all busy and
+there's room for more or if you find out
+in the northeast corner of the of the
+city there's no one right but be careful
+with research because let's say you live
+in Grand Rapids it's a great place and
+you don't want to move and you really
+want to start a a dumpster business then
+you're going to have confirmation bias
+everywhere you look you're like well
+they're not too busy but there's no one
+around the corner well don't try to Lo
+yourself into doing this follow the data
+right be unbiased follow the data or
+else you'll get yourself in trouble so
+what I like to do when doing this
+research let's say you're not location
+agnostic and you want to go to a
+specific area be willing to do five
+different businesses and do all this
+research so we've only it's only taken
+an hour to do this do all this research
+for all five businesses and it will
+scale right it won't take five hours to
+do it it'll take two and a half hours
+because you're studying the same cities
+you're just swapping out the the Home
+Service businesses so don't get too
+attached to an industry or a city be
+flexible on both but this is the 8020 or
+9010 of finding out if specifically a
+home service business could be VI viable
+in any given area you can get a lot more
+granular with it you could text a lot
+more people you could you can make pivot
+tables you can make charts and graphs
+and Yad yada y but you're not going to
+learn anything new than what we've
+already learned right here so I will
+link to all this stuff in the YouTube
+video I hope you enjoyed something hope
+you learned something yeah
+let me see if there are any questions
+before we end this what question would
+you ask to gauge demand if this was
+researching Roofing instead of
+dumpsters that's a good question Roofing
+in my opinion is just like a home
+service business in and of itself
+because it is you know instead of being
+a $200 pressure washing job or a $2,000
+tree job it's a $20,000 job which puts
+it in a whole other category and that
+also means that you know Roofing has
+attracted a lot of sophisticated
+operators because they feel rightly so
+to a degree that they could do the same
+amount of work to get a $220,000 job as
+they could get it to get a $2,000 job
+and because the margins are also good in
+Roofing you have a lot of people
+spending a lot of money in marketing you
+have a lot of agencies built up around
+Roofing to compete there and so it is
+hard to keep compete in Roofing because
+there's a lot of people there for all of
+those reasons if you haven't already I
+would love for you to subscribe my
+newsletter I talk about this stuff
+there's no ads in the newsletter there's
+no cost I do it once a week Chris
+jer.com KO R NE R thank you Terrell
+appreciate that I honestly just want
+people to quit their job if you love
+your job then you're not watching this
+so if you love your job then don't quit
+your job jobs are great but if you're
+watching this you probably want to quit
+your job or you probably already have a
+business and I want you to grow your
+business or quit your job that's my goal
+would love to see a sort of inverted
+version of
+this what do you mean by that
+Louis where you have an air area you
+want to be in and want to identify
+service businesses that's a great idea I
+love it I love it I'm back to the
+texting right now I know I'm not sharing
+my screen but one person said may I ask
+who this is the other person said yes so
+that's 1 two 3 four five six 7 8 n 10 10
+responses from 27 sheesh all right
+that's like almost 40% response rate not
+bad at all okay well I think I'm going
+to wrap it up thank you guys for joining
+and I hope you learn something and if
+you ever have any questions just email
+me Chrisco founders.com and I'll do my
+best to help you with the time that I
+have have a great day

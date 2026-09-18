@@ -1,0 +1,1072 @@
+Chat GPT rolled out. I started coding
+myself. I'm selftaught. And then when
+Replet came out, that was kind of like a
+zero to one. You could go from nothing
+to full-time freelancer or agency in 2
+weeks. Now I run an app agency and I've
+got a team of four guys. You just stay
+in the game and you'll win. How do you
+know like this I need to lean into this
+side project or this client with all the
+opportunities out there? It's really
+easy. What business ideas have you seen
+or had lately that can be created with
+tools like these? So, there's a lot of
+stuff to build.
+All right, I had a new guest on today by
+the name of Billy Howell. And Billy is a
+vibe coder. Vibe coding is basically
+using natural language like I'm talking
+to you right now to talk to apps like
+cursor, replet, lovable, etc. to build
+stuff with code without knowing how to
+code. And this guy is doing a great job
+of it and I wanted to learn from him in
+public with you. So, he talks about apps
+that he's building, cool app ideas that
+he has, how to make money on Upwork, how
+to land jobs on Upwork, how to how to
+hire people on Upwork to do work for
+you, which AI coding apps to use for
+which type of app projects, whether it
+be a web app or mobile app, etc. You're
+going to love it. Share with a friend.
+We'll see you next time on the Kerner
+Office. Yeah. So, tell us who you are
+and what you do. I'm Billy. I make
+stupid simple apps for business owners
+and startups. come from a defense
+consulting background. So, not really.
+The two don't really make sense, but I
+think any good entrepreneurship path is
+kind of crazy like that. And kind of
+quit defense contracting during the
+pandemic, started a marketing agency
+because I knew I wanted to work with
+startups. Learned a lot about kind of
+automations, helping clients automate
+marketing operations and things like
+that. as chat GPT and cursor and all
+that rolled out I started coding myself
+more I'm self-taught and then when
+replic came out that was kind of like a
+zero to one like hey I can make really
+useful internal apps for my clients
+without taking too much of my day up and
+it's just really fun for I think it's
+fun to tinker around and like cursor
+replet now I run an app agency because I
+posted like a video about selling an app
+and it went viral and I've got a team of
+four guys now and we're making stupid
+simple app. What are some examples of a
+stupid simple app? The original one that
+I made is just data entry for auto
+mechanic coaching business. So there's
+this big need. Yeah. Okay. Okay. Yeah.
+Data entry. Pretty sexy, right? Very
+I've never heard those words strung
+together before. He is a successful
+garage owner and he now coaches other
+garage owners on how to get their texts
+to see more cars and have a higher per
+car revenue. He thought he needed like a
+no code solution with like air table and
+softer. I'm on Upwork sitting at my desk
+and I'm looking at this and I'm like
+okay like bluecollar guy like matter of
+fact this sounds like my kind of guy and
+I'm kind of in the process of writing a
+little proposal like I use for my
+marketing clients I can do this for you
+here's some examples and I I'm thinking
+to myself I'm like hey like this is
+really simple app I could just make it
+in replet and so I did and I kind of
+showed him I made like a demo and I kind
+of took a loom and showed him both
+solutions side by side his custom replet
+app or what it would be like software
+and air table. And the reason I did that
+is because the software cost of using
+that no code stack would be like 250
+bucks a month for him. I was like
+there's no reason you need to be paying
+that. So let me build you one and then
+I'll charge you 50 bucks a month to run
+it. And he said I like yours better and
+we went with that and it's just Yeah.
+Now he has car texts put in like how
+many cars they saw each week and you can
+kind of track their progress. Now, at
+what point during the the Upwork
+application process did you build these
+MVPs for him or was that early just to
+get the job or was that after you had
+the job? I want to say he said yes
+before I did a full demo, but I I think
+I also may have just made something in V
+0 because it takes 30 seconds to
+visualize what he wants. So I would say
+like if you're going to try to do
+something similar, you just have to find
+a way whatever stack if you're using
+vzero replicate cursor wind surf bolts
+lovable just get good at making like a
+something that's like a clickable
+interface that brings their idea to life
+and if you can do that in five minutes I
+think it's definitely worth doing it to
+make the sale. If it's your first job
+and you really want it and you want to
+prove yourself go ahead. All right let's
+back up and educate the listeners a
+little more. How would you define the
+differences and similarities between v
+0ero lovable bolt replet and cursor? Or
+is there anything else I missed there?
+Windsurf. Windsurf. So there's local
+coding environments like cursor and
+windsurf. They're pretty much like if
+you were going to use like a VS code
+like that's a place where you can like
+store all your files, write code, do
+terminal commands. Purser and Windsurf
+are kind of like that but with an AI
+chat assistant that'll write code for
+you or answer questions debug little
+more advanced like if you have coding
+experience or an engineer you would go
+that way something like Bolt or Replet
+or Lovable or Vzero or browser based so
+you just go on your browser and that's
+kind of more beginner friendly because
+you can just type in your app or like
+I've done before like put in a sketch of
+an app and it makes it for
+You you don't have to know how to
+install packages locally, what kind of
+stack am I going to use to build this
+app, where am I going to put the
+directory, how do I demo this locally.
+You don't have to know any of that. So,
+it's more beginner friendly and it's
+quicker to MVP with those. I'm guessing
+most of our listeners are more on the
+beginner phase. Not a lot of engineers
+in this crowd. So if I want to build an
+app like why would I choose lovable over
+v0ero over bolt over replet or vice
+versa it's a hard decision to make
+because as the underlying models like
+open AAI or claude that kind of power
+these things change then you know both
+might be better because of the the most
+recent chat GPT release but then maybe
+lovable is going to go down right so
+they all kind of are changing so I it's
+really personal preference and just
+putting reps in to one that that works
+with your workflow. So, what I would say
+if I'm setting out to kind of start
+trying to build apps either for my own
+business or to sell to people or just as
+a hobby, I would think of a really
+simple one feature app that you want to
+build and literally do it side by side
+replet zero lovable bolt, whatever else
+there is and try to make the same app
+and see what comes out. Like see what
+frustrations you run into. Maybe you
+really like the UI from one like I
+really like the UI from V 0ero. So a lot
+of times I'll have it make UI and then
+pull that into my main app in like
+replet. So I would really rather than
+getting kind of pigeon holed and stuck
+in one, I'd try them all first if I were
+to like start this over. Here's an
+example just because this is an idea
+that came to me today with this new 01
+image generation, right? Have you played
+with that at all on chat GPT? I've done
+it in Yeah. Chat GBT40 whatever the
+standard model. I don't know the new
+like image editor they came out like a
+day or two ago. Yeah, I've been seeing
+it. I didn't do I have to like select
+it. I guess you just have to like prompt
+it, right? Like users don't really know
+if they have it on their pro account
+until they start like playing with it. I
+was thinking it'd be interesting to have
+just like a stupid simple web app where
+it's just one prompt and you upload your
+resume and it converts your resume into
+like an infographic, right? For five
+bucks or something and you just connect
+the API on the back end. You connect
+Stripe, email, something like that. If
+you were going to build that, what would
+you use and why? I would use Replet
+probably. Okay, that's kind of my go-to
+for starting point for a lot of things
+because you can just get to MVP really
+quickly. I know it plays nice with Open
+AI, which is what I'm going to use a lot
+of times. If I'm building something with
+AI features, we could build an MVP
+literally in like 10 minutes probably.
+The hard part that it comes down to, I
+guess, is that
+consistent prompting, right? So I might
+want to do more parsing of the resume up
+front so there's less ways for the open
+AI model to kind of go crazy, right?
+Yeah. Yeah. But yeah, I think that's a
+great use case. I think you could do it
+with any of the ones we mentioned
+earlier for sure. I'm glad you said
+replic because that's the one I'm most
+familiar with. Do you find it to be
+difficult getting across the last mile?
+Like getting like literally a sellable
+product that's published. What are your
+shortcuts to that if any? It's paying
+someone to do it. And I actually haven't
+done this yet, but in Replet there's
+like a little bounties tab where you
+create a bounty or you could pay you
+could pay like 150 bucks to get three
+hours of dev time from I think a pool of
+like agencies they work with. I need to
+partner with them on this actually. I
+haven't done that yet. I would go that
+route if you're going to do it yourself.
+The last kind of 10% is starting fresh
+with the agent or pulling that code into
+like a cursor or winds surf and just
+talking back and forth with the agent.
+Okay, look at all my pages and tell me
+any concerns from a security or whatever
+and doing that just like with literally
+each page step by step with the AI like
+a partner and being like how can we
+refactor this? How can we make sure it's
+tied up? It's tight. I had ready to go
+like production. I hired a guy for a
+bounty once, but it it didn't work out.
+Like he had the same problem I did. I
+guess he wasn't that great. But it
+doesn't mean I can't find a better. It's
+going to be hard because even the best
+developer in the world, the guys I work
+with say this. They're like, "Billy,
+like it' be quicker rather it would take
+the same time to do that last 10% from
+your code than for me to just do it from
+scratch so I don't have to understand
+your code in your brain." That's
+frustrating, but it is what it is. the
+last 10%. It doesn't even take as long
+as the first 90%. It takes longer than
+the first 90%. I'm I'm on it right now
+with a client that I think I was
+supposed to rap with like two weeks ago.
+Yeah. Okay. And it's a little bit of
+perfectionism, too, where sometimes like
+you'll get it to the client and they'll
+be like, "This is great." And it's only
+going to be like two people using it,
+but then you're like, "Oh, but like what
+about this like edge case? What about
+this edge case?" And especially when you
+start thinking like, "How are we going
+to scale this?" Then you get into those
+I really need to fix this. But like the
+approach of selling B2B to for really
+niche things where one or two people are
+going to use it. I think it's really
+easy to get to that last 10% right
+because you're not thinking about crazy
+edge cases and redundancies and all that
+for at scale just minimizes complexity.
+What like business ideas have you seen
+or had lately that can be created with
+tools like these? Is there anything that
+you're excited about or that you've seen
+in the marketplace that excited you? I'm
+excited about everything all day. That's
+there's too much. I can't sleep because
+I want to be doing personal projects and
+projects for friends, projects for
+clients, projects for proposals, right?
+So, there's a lot of stuff to build. I
+tell people all the time, I kind of just
+sound like a broken record here, but I
+don't start with direct to consumer if
+it's your first app. Like, do not. It is
+a money pit, a pit of despair. You don't
+have enough confidence in yourself
+probably if you're just starting out to
+understand what to build without bunch
+of people on Twitter or your friends
+telling you, "Well, you should do this
+and you should do this." They don't know
+what you should build, right? Like they
+they don't even know their own
+preferences. So, you need to get someone
+who's going to pay you money to build
+out features and then like have them use
+it and get feedback, right? That's how
+you start building an app. then maybe
+you could do you could resell a similar
+implementation, but everyone wants
+little custom tweaks. So, I think it's
+better to get good with like using the
+same stack of AI tools and maybe like
+your design components and then just
+sell kind of customized ones to other
+people. And so, I've totally rolled over
+your question there, which is like
+what's an idea you're excited about? But
+every kind of white collar business
+owner needs a smaller CRM. Like they're
+tired of HubSpot. I'm tired of HubSpot.
+It does too much. The pricing is opaque.
+As a CEO, like I shouldn't be spending
+all my time figuring out pricing models
+and passwords for three different
+integrations, right? So, I'd rather pay
+up front to have something that I that's
+mine that just does a CRM for real
+estate or car dealerships or something,
+right? Like your CRM that has only the
+features that you want and use, right?
+And then everyone wants custom document
+templating, right? It sounds like the
+easiest thing in the world. Like, but
+everyone still just uses Google Docs and
+it's sloppy and messes up. I could
+automate anything. I could automate a
+horse. I don't know. And I still
+manually do the Google Docs thing
+because it's too fiddly to log in
+somewhere and then go to my templates,
+right? It's it's it's just hard. It's
+too many clicks. Docs new, right? What
+do you mean by a document template? Like
+what would that look like? What would be
+a use case for that? Think about
+templates that are for a business. Like
+you're starting a new client, right? And
+you've got a bunch of documents you need
+to fill out. some he needs to sign, some
+you need to sign, but they're
+overlapping fields with like client
+name, my my name, date, address, stuff
+like that. So like putting in instead of
+pulling down a boilerplate document from
+like docu sign or whatever, just
+uploading your own documents that you've
+been using in cooldock and then being
+able to like use those over and over,
+right? It's like a custom docuign pretty
+much. What are you working on right now
+as like a side project that you're
+excited about and why? Okay, so I've got
+a good one actually that I need to
+finish. Again, it's that last 10%,
+right? I'm trying to do like Stripe
+integration and I'm fighting with old
+code from when I wasn't as well
+practiced and the models were all
+different. So, I might just nuke it and
+start from scratch. But it's Chad GPT.
+It's a recipe generator. I've got recipe
+generator.com.
+What? How did you get that? Well, I
+think there's a hyphen in there or
+generate generate hyphen recipes.com.
+Okay. Okay. Generate hype. So, I had
+been finding myself like, you know, you
+don't like with your with your fiance or
+your wife. Are you married? Yeah. Do you
+like figuring out what to eat is like
+the oldest problem. It's been a thing
+for 200 years. So, we would just go in
+and literally just put here's the
+ingredients we have in a chat GBT. Make
+us a recipe. And it worked. And like we
+would like make sauces we would have
+never thought of before. I made an
+interface where you can go in and save
+those recipe cards and then share them
+with people. And it's super it's sick.
+And I think I'm I'm trying to charge
+just like 25 cents per recipe or
+something instead of having you pay per
+month because that's annoying. Like you
+want I want less SAS, right? I want less
+recurring SAS in the world for people.
+So that's kind of what I'm really
+excited about that I'm trying to Is that
+out there yet? Yeah, if you go to
+generate recipes.com, if you go there,
+you can use it just for one recipe and
+then it'll say you need to pay and I
+haven't set up the payments yet. So, now
+Billy, you just told us to not do
+consumer apps. So, we're doing here.
+This is one where I found myself. This
+is a solution for me, right? To save
+myself like I want I want to have these
+recipes to reuse, right? Instead of just
+losing them in my chat GPT app, I want
+to store them. Yeah. So, it was for me.
+So, and you're right. I did tell you not
+to do consumer apps, but I'm not that
+the reason it's not finished working yet
+is because no one's paying me to do it,
+right? So, that's why it's not time. You
+did say that you're eating your own dog
+food. And then the other one I found is
+that I like to do gardening and stuff.
+And so, like I have all these different
+little plants like succulents and little
+bonsai trees that I move inside and then
+move outside every spring. And I super
+like just micromanage them and end up
+killing half of them. So, what I do is
+like every day I log I take a picture in
+a chat GPT of like a plant I'm having
+trouble with and I'm like, does this
+look better or worse? Like, what should
+I do? And I really want to go back and
+see how it's changed over time, but then
+I'm scrolling through my photos app and
+there's plants, screenshots, pictures of
+my fiance, you know, random stuff. So, I
+just want to be able to scroll and see
+how like my bonsai or whatever plant is.
+Yeah, like a time lapse. Time lapse,
+right? And so I made like a demo of
+that, but it sucks. So I need to like
+remake it so it's good and I think it
+would be super useful. I would use it
+every day and other people would. I mean
+that can be an idea, but I don't want to
+do marketing. You know, that's the thing
+with consumer apps. But like if you're
+solving a problem for yourself, you're
+solving it for others. Someone could
+build a time-lapse app for faces where
+you could just upload pictures selfies
+of yourself over all the years and it
+could just show you like a time-lapse
+video of yourself just cuz people are
+vain and they'd probably find it
+interesting. Yeah. Yeah. Totally. Do you
+use like a specific API or LLM for
+images specifically a preference? So,
+no. That was something I was wanting to
+figure out, but now that like kind of
+the general open AI model is so good at
+it. I would say probably if Open AI has
+a machine vision, I would use that
+model. I don't know if that exists
+publicly, but right now like the general
+allpurpose chat GPT, I think it does it.
+So that's what I would start with. I
+think talk about your your Upwork
+process. Like how do you find alpha on
+Upwork? How do you find customers? How
+could people that have no knowledge of
+Upwork, no account, log in, create an
+account, get their first job, maybe it's
+free, and then like get more jobs and
+then leverage those little, you know, 50
+or $500 jobs into higher ticket jobs.
+That's a good one. I'm going to look up
+this guy because Nick SV, he's got
+really good YouTube videos from if
+you're an automations developer, how to
+set up your Upwork profile. I would say
+watch that video. Basically, what he's
+going to tell you is like do a
+professional headsh shot, shoulders up.
+If you're near a major metro area, put
+that as your location instead of some
+suburb no one's ever heard of, right?
+So, do Washington DC instead of
+Arlington for me. The next step, so once
+you kind of got your profile set up,
+like the ne next step is to just
+randomly go on during the week because
+it's all about timing. That's like the
+main thing is you want to catch people
+when they're excited about posting your
+job listing. Like think about from their
+side and as an exercise, you should set
+up an Upwork like client account and try
+posting a job just to go through the
+process and you'll learn. But think
+about it. So you want to catch someone
+right when they're excited about the
+project. And that just means you need to
+check. You could try to do all these
+automations to alert you and automate
+stuff, but I think really it's just
+timing and then get really good at doing
+a tight proposal. The thing that will
+set you apart always is to record a loom
+so they see your face, see that you're
+real. A lot of people who are hiring
+online have been burned in the past. So
+they want to see that you're
+trustworthy. A lot of people are also
+conscientious about am I hiring outside
+of the US. A lot of people have been
+like tricked with like VPNs to hiring
+people they thought were in the EOS and
+then they weren't and they might have
+been a little lower quality. So just
+kind of reassuring people on that stuff
+goes a long way on Upwork, right? and
+literally just scroll through stuff that
+you've worked on and show them. A lot of
+people will just ask like, "Can you show
+me some anything you've built just so I
+believe that you can do this?" Because I
+guess a lot of people are hiring people
+who say they can do stuff and they
+can't. I've been hiring on Upwork for
+like 12 years since it was ODesk and I
+even have like a creator account. What's
+the other side of the marketplace
+called? Yeah. Yeah. Yeah. I have that
+account too because I' I've played
+around and like you like you said you
+can learn so much having an account on
+both sides of it. You can just learn
+what your competitors are doing. I like
+logging in as what is it called? Like a
+client the clients client and there's
+freelancer and then there's like agency
+is a third one that not many people do.
+So, like if you log in as a freelancer
+and just start trolling jobs, like you
+said, even if you have no desire to
+actually make money on Upwork, you can
+learn so much. Like you can learn
+competitive intelligence on what people
+are doing. Like this, I saw this one job
+posting was like, I need you to walk
+around the city and take pictures of
+cars in parking lots and upload them to
+an app. And I was just like, what are
+they getting at? Like, what are they
+doing? What is the play there? you know,
+like I'm just so curious. It's you can
+learn a lot from doing that. Anyway,
+what I was saying is over the last 3
+years, the bot from like the business
+side of Upwork are out of control. Like
+I'll I'll post a job and I'll have like
+15 applications within five minutes with
+like this much text. And I put at the
+very top of my application, don't a use
+AI. Like don't use AI. If it's chat GBT,
+I'm going to ignore you. Put this
+keyword, put the word orange in in your
+application. all this it doesn't matter
+like how do you stand out from all those
+bots? I have the same experience and I
+wish platforms again I don't want to
+make fun of Upwork too much but whatever
+platform would build that in you where
+not even like they are checking to see
+if someone's a bot but you could just
+say hey if the response doesn't have
+this in it filter it out that would be
+nice yeah so video is cool but you know
+what's better form audio via podcast and
+my newsletter
+tkopod.com go there to subscribe for
+free to my newsletter it's one email a
+week very tactical and then go to my
+audio podcast three episodes a week.
+Stuff like this. You're going to love
+it. All free. No sleazy salespitch.
+tkopod.com. The thing for you if you're
+a freelancer trying to land a job is you
+can't be squeamish about using connects
+to boost your proposal. So in Upwork you
+can pay it's like 15 cents per connect.
+It's like a currency and whoever has the
+you have to spend a minimum amount to
+submit a proposal but then it's like a
+you get bumped to the top if you spend
+the most and you can see what other
+people bid. So I just don't even think
+about it. I I spend the money every time
+if it's something I want to go for
+because it's just worth it. If you're
+spending, you know, three to four bucks
+on a proposal, that's a great CPA for a
+potentially thousand job and like
+lifetime relationship if you're doing
+that kind of work. What type of like
+non-obvious things do you look for in
+jobs that you apply for? Like I say
+maybe the obvious ones are like you want
+to see someone that has some sort of a
+hiring history. You don't want this to
+be their first job because they might
+flake out, right? Yeah. Look for how
+much money they've spent on Upwork. Make
+sure they've spent a couple thousand
+dollars. And I think freelancers can
+rate them so they have like a star
+rating. Read enough proposals, you'll be
+like, is this person writing like kind
+of defensively or like do they sound
+like a tire kicker? Right? You'll kind
+of get an idea of that tone. Someone
+who's like has too much like weird
+requirements up front. Like I think
+those are the main tips really is is
+like think like does this sound like
+something a good client would write and
+have they hired people in the past? You
+can see what kind of rates they're
+hiring people for in the past. So if
+they're only hiring people for $5 a day,
+probably they don't want to pay you for
+your time. Assuming you're going to be
+charging more than $5 a day if you're
+doing this kind of work. The other tip I
+would say, you talking about taking
+pictures of the cars kind of made me
+think of this thing you could do to find
+out what to build and who to build it
+for is think of companies or business
+owners that you have existing
+relationships for. Think about what
+technology keywords or just workflow
+keywords they have. Look those up in
+Upwork both on the client side and the
+freelancer side. So see what kind of
+jobs are getting posted from their
+industry and then see what kind of
+freelancers have because on freelancer
+pages you can have a bio and then like
+offtheshelf like like packages for like
+an existing job type. So you can find
+out like what kind of services and then
+go pitch them to your buddy or your
+friend in the community or whatever. And
+then you've got that you know
+competitive advantage because you're
+sitting in front of them and you're not
+on Upwork, right? So, it's helping you
+figure out like what needs does that
+market have. Yeah. What types of jobs
+are you seeing more demand than supply
+for? Like what would be the lowest
+hanging fruit for someone coming on
+Upwork today? I don't know that I look
+for just general jobs enough to answer
+that because I'm usually looking at
+keywords for
+specific no code or integrations that
+I'm used to working with. It's totally
+different, right? So if you're anywhere
+global like anything like copy or
+editing or kind of automations that need
+a human in the loop that's there's going
+to be infinite work for that. And then
+for if you're trying to do kind of
+higher cost more developer things like
+building apps or building out
+automations. So, if you're new and
+you're really good at like make.com
+automations, instead of building out
+like an entire automation system for,
+you know, like a a sprinkler company,
+whatever, maybe like start searching for
+troubleshooting, like they have an
+existing one that's broken, right? Or
+look for existing like go highle broken,
+right? Look for those kinds of jobs
+because they're going to be smaller
+scope and you're going to be able to
+build up. they're going to be, I think,
+easier to get, but it's something that
+like a big agency might not bid on
+because it's probably not worth their
+time. I feel like Upwork is so
+overlooked from especially Americans,
+like someone that wanting to quit their
+job or start an agency or, you know,
+build these no code tools. Would you
+agree that like there's a world where if
+you made Upwork your full-time job, like
+just applying to job, making looms,
+making looms, making looms, giving it
+enough credits to be at the top of the
+of the pile, I just have a hard time
+thinking that people wouldn't be
+successful. like assuming successful,
+assuming they did a good job, like
+trying to convert those small jobs to
+more recurring or higher ticket clients,
+like if you if you literally took it
+seriously, like a 10-hour a day thing
+after a month, you would have a you
+would have a solid business. Oh, yeah.
+Yeah. But here's what's going to happen.
+And like I was that guy, right? Starting
+my marketing agency looking for clients
+like on Upwork all day grinding. So
+there's two problems. One is that, you
+know, depending on how good you are at
+reading between the lines, maybe half of
+your clients could end up being like
+annoying clients. Not annoying, but not
+a good fit, I guess. High maintenance.
+High maintenance. And on and like with
+things like that, that's also probably
+me not knowing my capabilities as well.
+So, it takes time to kind of figure out
+what your capabilities are, not just to
+anything or to everything rather. And
+then the second thing is you can
+definitely stand up an agency in a
+month, but you're going to run out of
+bandwidth. So you need to have the
+foresight and be good enough at hiring
+to hire early or you're going to be on
+like a deliverable treadmill. What you
+said is totally true that you could go
+from nothing to full-time freelancer or
+full-time, you know, agency in two
+weeks, three weeks. There's enough work.
+I know several people that simply apply
+for jobs as freelancers as an American
+and then they get a job and then they
+just hire people on Upwork offshore and
+outsource all of it to them. Like
+they're just playing middleman. That's
+really hard to do. Well, I'm not saying
+it's the ideal, but it happens. Like
+assuming you know the subject matter,
+like say make.com or Zapier, like you
+know it, but you're trying to offload
+some of the work. A lot of people would,
+you know, they check the box to say, "I
+only want to hire from the US." And so,
+everyone else is excluded from those
+search results. That can work, but it's
+it's hard. I mean, I made a lot of bad
+hires overseas. It's just like a muscle
+you have to train hiring. Yeah. Well,
+like with any business, you pick your
+headaches, right? You'll you'll never
+avoid headaches. I I see that all the
+time. I post about business ideas and
+the comments are like, "What about this?
+What about that?" I'm like, "There's
+always going to be headaches." Like,
+what do you want? What's an example of a
+client you found on Upwork that you were
+able to leverage into like something
+higher ticket or more recurring? It'll
+be just like back to kind of my
+marketing agency starting with like an
+SEO audit or can you tell me why our
+pages are ranking like this and that
+call will just turn into like okay now
+Billy's my go-to. We'll have like a
+recurring call just to get consulting.
+Maybe he'll have some special projects
+or look at my analytics. So like any
+sort of one-off audit or troubleshooting
+for like Facebook ads, Google Analytics,
+HubSpot, things like that can turn into
+regular consulting. And I think the one
+of the keys to success there is and to
+not getting stretched too thin or is to
+just keep that as like instead of saying
+yes to some project because it's a
+really good fit with the client. But if
+you don't have those capabilities, just
+stick to consulting and analytics and
+all like all like I'm going to tell you
+what you're doing wrong and how to fix
+it. But if you don't have the team to
+implement it, like I would just stick on
+that consulting like consulting versus
+building out projects to me are two very
+different things. Does that make sense?
+Am I just Yeah, it does. So stick stick
+to consulting if you had to choose
+between the two. Yeah, I would say stick
+I think that's if you if that scales
+better for sure. Yeah. Okay. What is
+your framework for managing your shiny
+object syndrome? How do you know? What
+are your signals of like this? I need to
+lean into this side project or this
+client with all the opportunities out
+there. How do you look at it? It's
+really easy. Money. Are people paying me
+to do this? Yes or no? Are people trying
+to pay me to do this? Yes or no?
+Otherwise, I probably shouldn't be
+spending time on it. How can I help
+answer that? Less like a cave. No, it's
+just like sometime this is the most like
+lame romantic thing ever, but you just
+have an idea and it just resonates with
+you. It keeps you up at night and it's
+like no one's paying me for this, but
+this makes so much logical sense. Like
+when do you make exceptions to that?
+Okay. So, I think if it's something like
+me where I'm using chat GPT and I'm
+noticing myself doing this frequently or
+like every day, but I think just like
+this AI helps you iterate and get that
+shiny object out of your body so that
+it's like way less of a problem for me.
+So, like think about like a year ago,
+right? I would have an idea for
+something for like a game or like an SEO
+tool and I would spend all night on
+cursor and open AAI trying to code this
+prototype. I'm not like a full stack
+developer by trade, but I can kind of
+get to it. But then as soon as something
+breaks, it's another eight hour night of
+me trying to troubleshoot it. And so
+then over two months, like I'm losing
+sleep over this stupid little shiny
+object. But now I can like realize an
+idea in 45 minutes in replet or bolt or
+whatever and it kind of gets that shiny
+object. I can look scratches the it.
+Yeah. and I'm like, "Oh, that's not as
+cool as I thought it was." Or, "Oh,
+like, dude, I should show this to people
+or keep going." So, I think, yeah, I
+think maybe that's more of the answer is
+that finding how to scratch that itch.
+It's easier than it ever has been. But
+sometimes you just you you have to
+scratch that itch. Like, you just have
+to check the box to know whether or not
+for yourself, you know? Like me
+personally, I hate being years down the
+road and thinking like, I should have
+tried that. I just should have tried
+that. what would have happened if I
+would have tried that? You know, that's
+just the opposite argument to focus on
+one thing. And a lot of times, most of
+the time when you try that thing, you
+scratch that itch. You realize it's not
+for you. But now, you know, yeah, but I
+mean, I say all that and my entire kind
+of journey in entrepreneurship is the
+opposite of what I just said, which is,
+yeah, only doing stuff that people pay
+you to do. I'm able to kind of do the
+projects that I do because I spent a
+weekend with some random idea I had and
+I learned about this library or because
+like I worked for random people like in
+college doing gigs like selling real
+estate or doing some like a waiter at
+the country. All these random jobs, you
+know, kind of coales into who you are.
+So you you're right, you do have to
+scratch that itch. And before I ever
+sold my first like AI coded app, I look
+back and I had 40 replets I created for
+fun and 20 directories that I had made
+with cursor locally. So that's 60 itches
+I tried to scratch before I was able to
+sell one. So it is important to get your
+skills up. You just have to be smart and
+kind of direct with with what you're
+doing. I'm doing this. Give yourself
+constraints. Say, I'm going to try to
+make this in two hours. I'm going to try
+to make this thing that does these two
+features instead of setting out to make
+the greatest 100 feature app. It's a lot
+harder to take credit for the like the
+compounding of experience that we have
+because sometimes we don't have anything
+physical to show for it. It's like oh I
+just kept pivoting. I kept I had shiny
+objects. I kept doing it's like all of
+those things help teach you what you
+know today to get you to this one thing
+that actually did work. A lot of times I
+hear people just talk about it being
+wasted time. Like you keep resetting,
+compounding, quit resetting, quit
+starting over. It's like you're really
+not like you just stay in the game and
+you'll win. You know what the funny
+thing about that is that I never
+realized till you said that. A lot of
+what consulting is and freelancing,
+people pay you to tell them what shiny
+objects not to chase, what rabbit holes
+not to go down. I could say, "Oh, I've
+used those SAS, that SAS, that SAS.
+Don't use it. waste of time, not right
+for you. I scratch that itch. So,
+they're paying me they're paying me to
+Yeah. save them on analysis paralysis.
+At the end of the day, that's all that
+business is is like you're not selling
+like a product or service. You're you're
+selling decisions made for someone who
+has limited time and resources, right?
+Yeah. Interesting. Talk to me about the
+prospect of building out an a custom app
+for someone like your your garage
+consulting friend and then using that
+app and selling it to other people. You
+mean reselling kind of the s the same
+app? Yeah. Yeah. Yeah. Have you done
+that or is that kind of harder than
+advertised on the service? I have not
+done that with that example. I'm doing
+one where I have a better example where
+it's like a custom data visualization
+for HubSpot for like a specific industry
+niche and it's like this revenue
+attribution. It's just like a feature
+gap in HubSpot and they want me to build
+it out and they're okay with me selling
+it to, you know, other clients or
+companies, right? Because they just
+needed that. It's not like a full app.
+It's like a it's kind of like the
+client's okay with it. Yeah. It's kind
+of like it's like a custom dashboard,
+right? But like it's on a server and
+everything because I did the research
+and you can't make that custom dashboard
+and the 20 SAS apps that are supposed to
+be able to do it, right? So we just had
+to do it custom and like the garage one.
+I mean that's data viz too. So I guess
+what I'm saying is that like basic like
+crud apps and data visualization like
+they're not like proprietary right and
+you can kind of reuse the same visual
+components and architecture without you
+know hurting anyone's competitive
+advantage. I think there's a world where
+you could G2 reviews for those listening
+review site for SAS products. You could
+scrape all those for HubSpot and find
+all the keywords like the the negative
+sentiment keywords about certain
+features that are missing and build
+tools around that. Yeah, totally. This
+democratization of software development
+is going to change like how SAS works
+because all these big platforms have
+APIs where you can send as many requests
+as you want. Like in a year, why would
+anyone pay for 20 seats on whatever SAS
+when they could pay for one and then
+have a C custom app built that just
+pulls all that data in and out for them,
+right? Like headless. It might push, you
+know, more software to be more open
+source and more more headless solutions.
+I don't know what's going to happen.
+Yeah. Yeah. What about the the hard part
+here, which is distribution? Have you
+find found any hacks outside of Upwork
+to distribute these ideas or SAS tools
+or or apps? No. Like that's why I'm kind
+of optimizing for selling B2B
+relationship based because that's what
+I'm good at and I think there's just so
+many burning needs there and I think
+they are all kind of interrelated and
+you'll learn and you'll be able to
+compound easily. So personally, right?
+So me like my my Twitter and YouTube
+have been popping off because I just one
+day decided to record myself doing
+Replet for a client, right? Or for like
+a personal project. I posted videos like
+that and then someone from like Replet I
+think like the CEO of Replet like
+retweeted me with the video in the link.
+So that just massively boosted me there.
+I'm definitely like a Replet chill and
+like I use it a lot. I'm not sponsored.
+I really like them. That's one of the
+things about kind of picking a stack and
+moving forward with it. Get really good
+at, you know, bolt apps for enterprise
+or lovable apps for teachers and try to
+put it out there and share with people.
+I'm sharing like a lot of sauce on like
+the Upwork stuff and even probably too
+much on some of these like app ideas. So
+being open always you always get like
+10x value from sharing value with
+people. That's just really helped me
+grow and get lots of inbound. And then
+the last thing is just being ready to
+capitalize on any sudden like influx.
+I've been posting stuff on YouTube and
+Twitter for, you know, four or five
+years for different business ideas and
+my personal brand and just like nothing
+sticks, right? But finally, this kind of
+app building thing really resonates and
+I was smart enough to kind of set up
+like an agency landing page and a paid
+Calendarly and all of that has kind of
+helped me take advantage and of of the
+extra eyeballs. Well, it's like if
+you're building cool things, then you
+might as well hit record. you might as
+well publish what you're building,
+right? Yeah. Yeah. There's some
+industries like if you're in finance,
+right? You can't do that as well. Or
+like healthare, but and that's why those
+personal projects are important too
+because you can always record your
+personal projects. Maybe not like a
+client. You have this agency, you have
+all this stuff. Where can people find
+you? I'm on Twitter, Billy J. Howell,
+and my agency is stupidsimpleapps.com.
+In between the words, I'm like a hyphen
+guy now. Yeah, those are my main two
+things. Hi. My YouTube channel is the
+same, Billy J. How. I have lots of
+tutorials on kind of replet and I play
+pickup basketball outdoors in Northern
+Virginia. So, you might just find me
+there sometime. Okay. Well, Billy, thank
+you. This was super enlightening and I
+appreciate your time. Thank you. All
+right. What' you think? Please share it
+with a friend and we'll see you next
+time on the Kerner

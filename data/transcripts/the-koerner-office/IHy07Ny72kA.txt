@@ -1,0 +1,414 @@
+Most people go about starting a business
+all wrong. They have what I call a if I
+build it, they will come mentality,
+which is wrong. If you build it, they
+will probably not come. So, ask them
+what to build first. I'm going to show
+you how to do that, and then I'm going
+to build it all live over the next X
+minutes. The bad news, I don't know how
+to code. The good news, AI can show me
+how to build stuff without knowing how
+to code because I'm going to build a
+software tool today. But, how can I know
+what to build? How can I poll the
+audience if I don't have an audience?
+And that's the funny thing because when
+I went to go make this video, I almost
+just tweeted about it or posted it to my
+Instagram story, but then I thought,
+"No, that's not applicable. How are
+people watching this video going to be
+able to replicate that if they don't
+have tons of people at their disposal to
+answer a poll question real quick." So,
+I thought of a tool that I've been using
+for years to poll any business owner or
+any person. This company did not sponsor
+this video, but it's super helpful, so
+I'm going to show it. It's called
+PickFu, and with PickFu, you can pick
+the exact type of person to vote on your
+poll or to respond to your poll. In this
+case, I'm going to pick business owners,
+and I'm going to ask them, "What feature
+do you wish that you had on your
+website? What feature is the most
+critical to your website?" Something
+like that.
+So, I'm logged into PickFu. I'm going to
+click new poll. "What one website
+feature does your business need the most
+right now that you would be willing to
+pay for?" That's the key part cuz a lot
+of us need stuff all the time, but it
+doesn't mean that we're willing to pay
+for it. We're selling vitamins and not
+painkillers. I want to sell painkillers,
+not literally. You get what I mean. K,
+this is the important part. Audience, I
+want 100. United States target audience,
+small business owner, yes. K, now I can
+pick three other traits, but I don't
+want to. I don't care what age they are,
+if they have kids, it's irrelevant to
+me. I just want business owners to
+answer this poll. Do I need to poll 100
+of them? No, I could probably know what
+I need to know by polling 20 of them.
+That would be a little cheaper, but I
+want this data to be pretty good, and
+hey, you don't have to pay for this. You
+don't have to use PickFu, just use my
+data. Use my poll responses that I'm
+about to show you and build the same
+thing for the same type of business
+owner. But before I forget, I have to
+add options for people to choose when
+they answer this question. So, let's say
+Okay, appointment booking, contact
+forms, testimonials, chatbot, pricing
+calculator. Those are the five options
+that they can choose from. Now, I got to
+pay a little extra because I'm only
+showing this to business owners and I
+got to pay per option. So, this is
+getting a little pricey, but it's okay
+cuz remember, you're going to be able to
+use my data for yourself. So, you don't
+need to go do this. And if that's not
+proof that this isn't an ad for PickFu,
+I don't know what is. Preview and pay
+and then they can even explain their
+answer instead of just choosing one of
+them. Boom, order complete. Continue.
+Now, it is 12:17 in the afternoon right
+now. Let's see how long it takes to get
+all these responses. All right, looks
+like I've had 27 people respond to my
+PickFu survey so far. Let's go ahead and
+see what the results show. Okay, so far
+we have 11 votes for appointment
+booking, two for contact forms, six for
+testimonials, six for chatbot, two for
+pricing calculator. So, if this is a
+representative sample size, we can
+already see that appointment booking is
+going to win. Contact forms and pricing
+calculators are solidly in last place,
+tied. And testimonials and chatbot are
+exactly tied for second place. So, using
+this data, we're going to still get 73
+more responses, but we're going to
+assume this data holds. We're going to
+start building an appointment booking
+widget for websites that we can sell to
+businesses. And then at the end of the
+video, I'll show what the survey results
+show after all 100 responses come in and
+I'm going to show you what the AI
+highlights show, what the demographics
+are because hopefully this data helps
+someone start at least one business. But
+if you look at this right here, like
+there is a lot of feedback that these
+people are submitting. They're not just
+voting on something. They're adding
+between one and 10 sentences of why
+they're voting for what they're voting
+for. So, at the end of this, I'm going
+to take all of these responses, upload
+them to Chat GPT, see what the findings
+are, and see what else we can mine from
+all that data to help us build some
+website widgets, or to help you build
+some website widgets. All right, so I
+keep hearing about this new Vibe coding
+app called Mocha, getmocha.com, and I'm
+all about trying new Vibe coding apps.
+And in case you don't know what Vibe
+coding is, it's basically using your
+natural language, like I'm using now
+when I'm speaking, and asking AI to
+build apps or software products for you.
+It's basically coding for people that
+don't know how to code with the help of
+AI. So, I'm logged into Mocha, I'm
+paying for the $20 a month account, and
+I'm going to click create new app. Okay.
+All right. I want to build a widget that
+small businesses can easily add to their
+websites that will enable potential
+customers to book an appointment with
+them. Maybe an appointment to get a
+quote, or to have a call, get a dog
+groomed, etc. I want to try selling this
+widget to several different industries,
+so make it seamless and easy for me to
+swap out the branding colors and name of
+the widget, so my marketing efforts are
+easier. Now, I'm going to take this a
+step further. I'm going to go to Chat
+GPT, and I'm going to take this prompt,
+and I'm going to say, "I am using
+Okay, so my prompt is probably fine. I
+gave it some references, like dog
+grooming, book an appointment, get a
+quote, etc., which is important. But,
+it's just me, it's just my brain. I
+don't know how to write prompts
+perfectly for Vibe coding apps. So, I'm
+asking Chat GPT to rewrite my prompt to
+be better, right? Which is one of my
+favorite frameworks for AI, ask it what
+to ask it. And I'm going to do that as
+well. And then I said, "If my prompt to
+rewrite this prompt isn't good enough,
+then ask me what to ask you to make it
+better." And then I just pasted in the
+prompt that I had before. So, let's see
+what it comes up with.
+Okay, here's what it came up with. I'm
+not going to read it all verbatim,
+you're welcome to pause it and read it
+yourself. It's pretty long, but it
+basically tells Mocha what the target
+users should be, what the core
+experience should be for the website
+visitors, basically how the app should
+behave across different platforms or
+devices, what the brand or the theme of
+the app should look like, what the logic
+should be for the appointment and the
+scheduling features, yada yada yada.
+It's really long. And the downside to
+prompts like this is it's probably going
+to cost me more in credits. But, I might
+have to prompt it less to get the
+desired result. That's kind of the
+trade-off, and I don't yet know if it's
+worth it or not. But, let's go ahead and
+see how it works.
+So, I'm going to copy all that. I'm
+going to paste it into Mocha.
+And because of the fact that my prompt
+is so long, it automatically created an
+attachment for it. So, I'm just typing
+my prompt is attached. All right, so
+it's 9:37 right now. Let's see how long
+it takes to see this app. It says, "I
+will build your multi-tenant booking
+widget system. I'm breaking this into
+phases, yada yada yada." Okay, cool. All
+right, it took 4 minutes and 47 seconds
+to make 12 changes and deliver 10 files.
+Let's review. It's going to call it
+BookFlow, embeddable widgets, yada yada
+yada.
+I'm going to say, "Show me what it looks
+like."
+Okay, we're going to go ahead and
+publish it.
+bookflow.mocha.app.
+Got the settings here. Can put it on a
+custom domain here. All right, let's go
+look at what we built. There it is,
+BookFlow. Get started. Cool. I can log
+in right there. Okay, looking good so
+far. Let's build it out a little more.
+All right, and then you can see it right
+here in the preview as well. Okay, as
+promised, I have received all 100
+responses to my poll, and it's kind of
+surprising. If you remember when I
+looked earlier, appointment booking was
+clearly number one, but it ended as tied
+for first with a chatbot, which is kind
+of surprising.
+Pricing calculator was third,
+testimonials fourth, and contact forms
+fifth. Now, what would be really
+interesting is building an appointment
+booking widget and a chatbot, and then
+using ads to try to sell these to a
+specific industry. If we look at the
+demographics of the people that
+completed this survey, it's pretty much
+50/50, but I want to see what ChatGPT
+thinks about all of these responses cuz
+there's a hundred different thought-out
+responses in addition to them just
+choosing an option. This guy is saying
+Donald Trump has ruined the economy.
+Okay, like bro, it's just a survey. It's
+not It's not that deep. So, what we're
+going to go back to ChatGPT. We're going
+to open a new chat. We're going to say,
+"All right. So, I told ChatGPT, I posted
+a survey to business owners asking what
+features they would pay to have on their
+website. Below are their written
+responses and attached are the vote
+totals. What can I learn from this that
+will help me make money?"
+The single clearest signal is that
+appointment booking is the only feature
+that cuts across almost every business
+type. Even people who ranked it second
+said things like, "I need clients to see
+my calendar. This is how my company runs
+fast. I do tarot readings and need
+scheduling handled for me." Translation,
+if you sell a dead simple booking widget
+that works everywhere, people will buy
+it. It solves an actual pain they have
+right now. The second big signal,
+contact forms show up strong but for a
+different reason. They're not actually
+excited about forms. What they hate is
+messy email. They want structure. They
+want reliable lead flow. But, they think
+most of these forms should be free. That
+means you don't sell forms stand-alone.
+Instead, you bundle it inside your main
+product so it feels included. That is
+genius. Half of people think chatbots
+are annoying. The other half think that
+they're magic. But, the real pattern is
+that people think chatbots are the
+hardest thing to build. Because of that,
+they believe it must be expensive. This
+is why they ranked it first even when
+they don't truly want it. So, even
+though chatbots didn't win, there's a
+signal that the people that ranked it
+first are the most willing not just to
+pay, but to pay a lot for it because
+it's implied that it's probably a lot of
+work to build a chatbot. So, this is
+incredibly interesting. If we just take
+the data at face value, we might build
+an appointment booking widget. But if we
+dig in deeper through the help of
+ChatGPT, then we can build what people
+will actually pay for because what
+people want the most and what people are
+willing to pay for are not always the
+same thing. In fact, Henry Ford is
+famous for saying, "If I would have
+asked my customers what they wanted,
+they would have told me a faster horse."
+But instead, he invented the Model T.
+Nobody will pay for testimonials. It
+says, "All in all, your widget should do
+this. One, appointment booking. Two,
+contact form intake. Three, price
+calculator builder. And then you add a
+simple chatbot layer that answers
+questions using the website's pages. Not
+because they all need it, but because it
+makes your offer feel powerful and
+expensive. You're basically selling the
+last widget your business ever needs."
+This is so good. But the top of the
+funnel ad should always pitch
+scheduling. That's where the strongest
+pain point in is. Once they're inside,
+you show the other modules. This is
+actually much, much better than I
+thought it would be. Okay. Now, I'm
+going to take ChatGPT's analysis of this
+data
+and add it to Mocha and say, "I want
+something kind of like a super widget
+app. I want the widget to have a lot
+more features based on the analysis
+below." And then I pasted in what
+ChatGPT gave me. It says, "I'll expand
+Bookflow into a multi-mode widget system
+based on this analysis. It's going to do
+it in phases." Awesome. Cool. We've got
+appointment booking, smart contact
+forms, pressing calculators. So, this
+looks like it built the website to sell
+the widgets for, which is great. Let's
+scale it back a little bit. Just make
+one really good appointment booking
+widget for dog groomers and nothing
+else. Okay, that's a wrap. It took about
+18 minutes flat. Here's what we're
+looking at. So, it gave me this website
+that was basically a website to sell
+widgets to home service businesses. So,
+I was like, "Okay, this is awesome, but
+I want to see the actual widget, like a
+functioning prototype." Wanted to do Oh,
+and I said specifically for dog
+groomers. So, wanted to do it made me a
+demo, a working demo. I didn't give it
+any details, and this is what it came up
+with. It shows basic bath and brush, 60
+minutes, 45 bucks. Full groom package,
+75 bucks, 90 minutes. Or nail trim only,
+15 bucks and 15 minutes. I'm just going
+to pick basic bath brush. It has a
+little calendar, a drop down where I can
+choose the date, then I can choose the
+time. I can put in my name, I can put in
+my email, phone, pet name, breed, size,
+and special notes. I didn't ask it to do
+any of this. It just kind of like
+discerned what I might want in a booking
+widget for pet groomers. Book
+appointment, done. Okay, couple prompts
+to get to the overall website that sells
+all these widgets, and then one more
+prompt to get a workable appointment
+setting app for dog groomers. And if I
+wanted to make this an appointment
+setting app for tree trimming companies,
+one prompt and I'm done. Super happy
+with this result, especially since it
+took about 20 minutes if not less. This
+is the world we live in now, right? Just
+a few years ago, if you wanted to get
+something like this done as simply as I
+just showed you, you'd have to hire a
+development team. If you hire them here
+in the States, it's going to cost you at
+least $10,000. Overseas, like the
+Philippines or Ukraine, at least $5,000.
+And it's going to take weeks back and
+forth tweaking, yada yada yada. This
+took a few prompts, which just blows my
+mind. Think about what this means for
+speed to market. You can have an idea at
+9:00 a.m. and have a working product
+ready to sell by noon, by lunch. From
+poll to prototype in 16 minutes. Poll,
+build, launch. Sell it before you have
+it. Ready, fire, aim. That is how you do
+business. No more analysis paralysis.
+Just start prompting. And if you don't
+feel comfortable about your prompt, if
+you're insecure about it, then go ask
+ChatGPT to make you a better prompt. The
+barrier to entry just disappeared, and
+you don't have to pay PickFu hundreds of
+dollars to run a poll. Ask your friends
+and family, go to Twitter, go to Reddit,
+go to a Facebook group, anything, and
+just start asking around. Remember, this
+is not a hypothetical thing that I just
+built. This is something that real
+business owners just told me that they
+want and that they would pay for. That
+was part of my question. Super happy
+with how Mocha performed. Do me a favor
+and check out Mocha at the link below.
+They are friends of the pod. Remember,
+this video is cool, but it's only cool
+in so far as you actually do something
+about it. So, go build, go launch, and
+thank you for hanging out on the Kernel
+office.

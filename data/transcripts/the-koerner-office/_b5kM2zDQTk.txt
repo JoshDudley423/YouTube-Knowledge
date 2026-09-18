@@ -1,0 +1,753 @@
+They've got over 500 customers. Let's
+say only 500. That's $100,000 a month.
+So, you tell me that these people have a
+business just because most real estate
+agents have never heard of or don't know
+how to use it. Exactly. That's exactly
+what I'm telling you. You could totally
+copy and paste this. Digital companies
+that are making between 10,000 and a
+million dollars a month. There's so much
+you can do. These are big businesses.
+Million, 10 million, 100 million plus
+dollar businesses. They're just copying
+and pasting. So, how do we reverse
+engineer them?
+Every few months I like to shake things
+up a bit. I like to stir the pot, if you
+will. And if you remember last summer, I
+posted this video right here where I
+found a website that lets you reverse
+engineer companies, digital companies,
+that are making between 10,000 and a
+million dollars a month. You know how
+much they're making, and I know how to
+reverse engineer them. So, today I'm
+going to do that all over again, except
+with different businesses and different
+tactics. And by the end of this video,
+you are going to have more ideas of the
+new you will know what to do with. So,
+without further ado, let's get going.
+Oh, and just in case you don't care
+about reverse engineering any of these
+businesses I'm about to cover, at the
+end of this video, I'm going to give you
+17 other tools for reverse engineering
+any business you'd ever want to reverse
+engineer on the internet. Okay. So, by
+way of backstory, there's a company out
+there called HighLevel, and every year
+they have awards. And these awards are
+given to people that have built the
+biggest businesses on HighLevel. And
+HighLevel is a software platform that
+you can use to manage your customers,
+manage your relationships. You can run
+automations, or what we'll be talking
+about today is building an entire
+business on top of HighLevel, which is
+called white labeling, as if you were
+HighLevel. So, to break it down even
+more simply, let's say I want to build
+text messaging software for real estate
+agents. Well, there's a problem. I don't
+know how to do that. I don't know how to
+code, and I never have. And I'll never
+learn cuz now I don't have to learn. So,
+I'm just going to go use HighLevel and
+their text messaging platform, branded
+as my own, call it my own, and sell it
+for a monthly fee to all of the
+customers that I might happen to find.
+Rinse and repeat that with CRM, customer
+relationship management software, AI
+voice agents, funnels, appointment
+setting, form builders, on and on and
+on, you get the idea. So, they have this
+conference, and if you win a gold
+SASpreneur award, it means you have over
+100 sub accounts, which means you have
+over 100 customers. Platinum is over 500
+customers, and diamond is over 1,000
+customers. Now, the craziest thing about
+this is that almost all of these
+businesses built on top of GoHighLevel
+are charging between 50 and $5,000 per
+month per customer. So, these numbers
+start to get pretty silly after a while.
+Now, what are you paying HighLevel for
+the privilege of white labeling their
+software? Between 200 and $500 a month.
+So, HighLevel is nice enough to list out
+all these award winners, and we're smart
+enough to use Google to go to their
+websites and see what they charge, which
+means that these 20-something companies
+right here each have over 1,000
+customers paying them between 50 and
+$5,000 a month. These are big
+businesses, million, 10 million, 100
+million plus dollar businesses. It's not
+often that you can know the revenue of a
+privately held business. And with the
+trick I'm about to show you, it's not
+often that you can find out how they
+acquired their customers, how they got
+to where they are today, what learning
+curves and headaches did they already go
+through that you're going to be able to
+skip. So, enough talking. Let's get into
+it. There's been an update. I originally
+posted this video yesterday, and it was
+a banger. You guys were loving it, and
+then YouTube deleted it. So, let me get
+this disclaimer out of the way to cover
+my butt. This video is for educational
+purposes only. I'm not giving you
+financial advice, and I'm not promising
+you'll get any results. Everything here
+is based on what I've observed from
+publicly available data. Use this video
+to understand how these businesses work,
+and get inspired to build your own.
+Sorry for the annoying disclaimer, but I
+have do this to get this video
+published. All right, let's get to it.
+I'm just going to start picking these
+willy-nilly at random.
+No audience plants. One bite everyone
+knows the rules. Now, I'm going to go
+straight to platinum first. These are
+over 500 customers, and I'm just going
+to start looking for names that look
+interesting. So, that my dad might have
+played in high school. I'm going to copy
+it.
+I'm going to open a new tab,
+and I'm just going to Google it. Astro
+Blaster. Okay, first of all, that's
+their preview text on Google. Not great.
+The number one automation and text
+messaging platform for real estate
+professionals. Okay.
+I have to laugh as I see this because
+do you know how many
+texting automation platforms for real
+estate professionals websites that I've
+seen? There are so many.
+Hundreds, thousands of them, and I bet
+you anything 70 to 90% of them are all
+built on top of GoHighLevel.
+>> So, you tell me that these people have a
+business just because most real estate
+agents have never heard of HighLevel or
+don't know how to use it.
+>> Exactly. That's exactly what I'm telling
+you. That's how business works. Isn't it
+beautiful? Okay, so I'm looking at their
+website. I know nothing about these
+guys. They've got some testimonials.
+Awesome. They're selling uh the
+time-saving features, custom-built
+dashboard. They're just copying and
+pasting a HighLevel snapshots. Scroll
+all the way down. Okay.
+$1,000 plus $100 a month. So, they're
+doing $50,000 a month recurring, not
+including the $1,000 that they charge
+upfront. That's at a bare minimum cuz
+they have over 500 customers. They could
+have 997 for all I know. And what are
+their costs on that? Almost nothing. So,
+how do we reverse-engineer them? How did
+they do this? Well, we're going to go to
+one of my favorite websites of all time,
+the Meta Ads Library. Meta as in Mark
+Zuckerberg as in Facebook and Instagram
+and WhatsApp, etc. We're going to go to
+ad category, all ads, and we're going to
+type in
+Astro Blaster.
+Okay, that's a VR thing.
+Okay.
+They're not running any Facebook ads.
+That's interesting.
+Then we're going to go to my second
+favorite website, the Wayback Machine.
+We're going to type in their domain
+name, the Astro Blaster. Ooh, even
+better. They're doing between 50 and
+100,000 dollars a month very profitably,
+and they've only been around for 2
+years. Okay, so we're going to go and
+see what did their
+homepage look like on day one.
+And this is important because
+anytime we're reverse engineering
+someone, we want to see how they got to
+where they are today. Because their
+pricing may have started out as a flat
+fee, or as $10 a month, or as $1,000 a
+month. We need to see how they learned
+because that's going to help frame the
+why. The why of why we should copy what
+we're going to copy. Because some things
+we're going to leave. We don't want to
+infringe on their trademarks,
+intellectual property, trade secrets,
+etc. We're not here to be unethical.
+We're here because we are growth-mindset
+people. We believe that the pie is
+plenty big enough for everyone. And
+these guys, Astro Blasters in this case,
+even if we crush it, they're never even
+going to know we exist because there are
+2 million real estate agents, and these
+guys only have a few hundred of them as
+customers. And in fact, when someone
+copies your business, often times, if
+not most of the time, it makes your
+business grow even faster because it
+increases the awareness of your
+business. Two examples. With my porch
+pumpkins video right here. I posted
+about this lady's porch pumpkin
+business. She was the only one doing it.
+Now there are hundreds, if not
+thousands, of women doing it, which
+increased the awareness that you can
+actually pay someone $600 to put porch
+pumpkins on your porch. And now more
+women are like, "Oh, that's a thing? I
+want that." So the original woman that I
+posted about, even though now she has
+hundreds of competitors, her business is
+growing faster than ever because the
+awareness has increased.
+The same is true with appliance rental.
+Now that people know you can rent an
+appliance for 60 bucks a month on
+Facebook Marketplace, there's much more
+room for all the competitors that are
+now out there because of this video that
+I posted. And real quick, I'm clearly a
+fan of HighLevel, otherwise I wouldn't
+be talking about it. If you want to say
+thanks for the value you're about to see
+in this video, just use my affiliate
+link. You get 30 days free instead of
+14. It buys you a little more time to
+test it out before you buy it. Okay,
+here's what their website used to look
+like. It looks about the same. They
+still had
+customer testimonials,
+same style of website, 81 US markets,
+and their pricing, which is the most
+important part. Same. Okay. So, it looks
+like their pricing has been the same
+pretty much from day one, which is good
+to know.
+If I were you copying this, I would not
+change the pricing. This sounds like
+it's the sweet spot. Sometimes you can
+even do yourself a disservice by not
+charging enough because you're not
+conveying the value of what you're
+offering well enough. It's very easy to
+say, "Oh, they're 97 a month. I should
+be 77 a month and 500 up front instead
+of 1,000." No, stop. Don't do that. Just
+copy it. Let's go to our handy friend
+ChatGPT and say, "Tell me everything you
+know about how Astro Blaster grew and
+found customers. They are an SMS
+platform for real estate agents." All
+right. So, looks like they're founded by
+a guy named Jamil. He has an audience
+for wholesaling. In case you're
+unfamiliar, wholesaling is basically
+finding homes or other pieces of real
+estate, getting them under contract, and
+then selling the contract for a profit
+instead of actually buying the property
+yourself. Okay, so it looks like they're
+doing like a done-for-you system. They
+actually go out and scrape data and
+provide it to you alongside the software
+instead of just saying, "Hey, here's the
+software. Good luck on all that data."
+This is them strategically removing
+friction, which is a first principle.
+It's what you want to do in any business
+in any setting. Remove the friction to
+get customers and increase the friction
+for customers to leave you. Okay, it
+looks like they have a handful of
+affiliates selling this for them. They
+do regular calls, which is smart.
+They're selling the outcome, not the
+features. Now, I know what you might be
+thinking right now. You're like, "Oh,
+okay. This guy has an audience. He's a
+real estate guru. I can't copy him."
+Stop. Stop. Of course. Of course you
+can. Listen, anytime you're trying to
+reverse engineer a business that was
+founded by a guy or girl that has an
+audience, you could still reverse
+engineer that. You just need to bring
+that same product or service to someone
+that already has an audience, partner
+with them, and make it happen. So, in
+this case, if I wanted to copy this
+verbatim, I'm going to go find any of
+the hundreds of or thousands of people
+out there that already have an audience,
+but don't regularly use or know about
+HighLevel or all the SaaSpreneur Awards
+or what white labeling even is. You
+build this same thing, partner with
+them, and say, "Hey, I built this
+awesome SMS automation platform, and I
+know for a fact that we can get 5 to 10%
+of your audience to pay you $100 a month
+for this plus $1,000 upfront. How's
+about we split that revenue? I manage
+the software, the hard part, the
+fulfillment, the offer, the website
+building, customer service, everything.
+All you got to do is talk about it."
+That framework exists for any
+creator-led business. You don't have to
+be the creator. In fact, I would suggest
+that you probably don't even try cuz
+it's hard, but you can partner with
+them. How do you find them? Slide into
+their DMs on platforms where they are
+not actively posting that much. Cuz if
+they're actively posting on Instagram,
+their DMs are flooded, right? You are
+not going to stand out. But, Strava,
+Twitter,
+Facebook, like their personal Facebook
+account, not their business account.
+Those are places where they probably get
+notifications for their DMs, but they're
+not crowded. You're not competing with
+other people trying to sell them stuff.
+Okay, let's go to the next one. Real
+quick, before you keep watching, please
+just subscribe to this. You think you're
+subscribed, you're probably not. Please
+just check. All right, we're going back
+to the awards page here. We're going to
+keep looking under platinum and event
+rental systems. All right, that sounds
+like a very
+corporate type business. So, let's just
+go ahead and Google it. Event rental
+systems, cool. Event rental software,
+event rental systems. Looks like they're
+paying for Google Ads. That's good to
+know. We don't need a special ads
+library to see that. Party rental
+software. Okay, we're not going to click
+on their paid ad cuz we don't want to
+charge them money. We're not that mean.
+Good looking website. I like it a lot.
+Book a free demo.
+Stock photos.
+Got some animations here. Really good
+looking website. Here's a secret. This
+website's on HighLevel. You could
+totally copy and paste this. All right,
+$150 $250 $400 a month. I love this so
+much.
+Okay, I There's nothing to dog on about
+this website. They've got testimonials.
+It's very clean. They have animations.
+It's up to date. Good footer, social
+links. Nothing to hate about this. Now,
+go to solutions. Now, go to features.
+It's just like It's like booking
+software for bounce house rental
+businesses or catering companies.
+Something This is like features 101 for
+HighLevel. Very basic stuff. Now, we'll
+go to their pricing. Let's assume, you
+know, 70% of their customers are
+probably going to be in here. 20% are
+going to be in here. 10% will be in
+here, give or take. Let's just say it's
+200 bucks a month on average.
+They've got over 500 customers. Let's
+say only 500. That's $100,000 a month.
+$100,000
+a month for reselling HighLevel. But,
+how are they finding customers? You
+already know what we're going to do.
+We're going to go to the Meta Ads
+Library.
+Event rental systems.
+Okay, beautiful.
+Very beautiful.
+They have four active ads. Oh my gosh.
+Oh, this is good. Okay.
+This active ad has been running for 14
+months.
+14 months. You don't understand how rare
+that is. Facebook ad creatives go stale.
+So, this means one of two things, and I
+love both of them. Number one, they're
+not babysitting their Facebook ads. Huge
+mistake. You will run out of money fast,
+which means they're not on top of the
+ball. That could be the case, but I'm
+betting it's actually case two, which is
+this first ad crushes. This ad crushes.
+I almost never see ads that are running
+for over 4 months, much less 14 months.
+It's simple. It's a simple image.
+Usually video ads crush. In this case,
+again, either they don't know what
+they're doing, which they probably do.
+Every time I underestimate a business, I
+regret it. So, I'm going to overestimate
+them. They probably know what they're
+doing.
+And sometimes simple text, transparent
+background, stock photo ads work.
+Usually video ads work even better. So,
+this is one of those rare cases where I
+would actually suggest that you
+change part of their ad strategy and
+make just selfie videos with before and
+after. Like before before a bounce house
+is inflated and after. Even though
+you're not selling to people that are
+going to rent a bounce house,
+it's still going to pop in the eyes of a
+bounce house video owner. That's the
+point of this before and after. And then
+these three ads have been running since
+June 2025, which as of the time I'm
+recording this, that is about 4 months
+old. So, AI generated, I mean, the
+emojis are dead giveaway. It's
+beautiful. It tells me that they're
+finding customers
+with Facebook ads, which really anyone
+can. But if you can find customers in a
+software business
+charging two to $400 a month with
+Facebook ads,
+you are money.
+I would bet you anything that when we
+look at the 2025 SaaSpreneur list, these
+guys are going to be in the platinum
+category with over 1,000 customers. What
+is stopping you from starting an event
+rental software business selling to
+bounce house rental companies, selling
+to
+people that rent mobile kitchens. I had
+a video about that, too. Guy crushes it,
+six figures a year renting out mobile
+kitchens, ranges to catering companies.
+Let's see how long they've been in
+business. Back to the web archive. Okay,
+been in business for about 15, 16 years.
+Not bad. Let's see what their website
+looked like originally.
+Oh, man, that is an ugly website. They
+have come a long way. And you know what?
+HighLevel didn't even exist back then,
+which is very, very interesting. So,
+they discovered HighLevel. They probably
+had their own custom software and they
+said, "Actually, this is better than
+what we built through our blood, sweat,
+and tears." This is a very interesting
+case study. Now, I love the offer here.
+If you don't love our software after
+your site has been live for 90 days,
+we'll give you a check for $100 or we'll
+donate 150 to the charity of your
+choice. That offer just crushes, by the
+way. Offering to donate money to the
+charity of your choice if they don't
+love it, crushes. I've yet to see an
+industry where that offer just doesn't
+crush. Usually, the higher ticket the
+better. Also, in case you didn't know by
+now, in my private community TK owners,
+we have a Slack channel all about
+building on GoHighLevel. So, check out
+tkowners.com, come join us if you want
+to build businesses with cool people.
+But, as they say, we're not here for the
+small boy stuff. Let's go ahead and see
+what some of these diamond award winners
+are doing because the only thing better
+than 500 customers is 1,000 customers.
+All right, let's go to Pipeline Pro. Is
+this going to be sales pipeline? Is this
+going to be like an oil pipeline
+software?
+Let's see. We're on the website. Don't
+love the website. You've got a 43-minute
+VSL, video sales letter here.
+>> Do you want to know what the number one
+thing is that separates profitable
+businesses from
+>> Once again, I'm going to assume that the
+conversion rate on this 43-minute video
+is good. That's why they have it. I
+could be wrong. We're about to see how
+long they've been in business, but
+>> struggling businesses day in and
+>> They're leading with the problem. It's a
+professional video. You get the idea.
+Okay. That's just very valuable real
+estate here at the top. Never, ever,
+ever underestimate how valuable the
+before the scroll real estate is. Look
+at this. All this white space that's
+wasted. That serves me no value. 73% of
+people are never going to scroll.
+They're just going to say, "Ah, no, not
+for me." You got to use that to hook
+them in. Okay. So, Pipeline Pro is an
+award-winning platform. Okay, cool. Inc.
+5000.
+That's cool. Fastest growing.
+I imagine they've been around for a
+while because in order to win that
+award, you have to have like multiple
+years of growth in your track record.
+Okay, lifetime access for $67. So,
+honestly, it doesn't look like they're
+trying to specialize in anything. It's
+just like sales and marketing platform,
+which is what HighLevel is. Lifetime
+access for $67. I click on it. I'm taken
+to this like squeeze page, very
+standard. $13 upsell here. That's 100%
+profit margin. It's just a PDF,
+basically. Not bad. I don't hate it. No
+questions asked. 100% money-back
+guarantee. Okay. You already know what
+we're going to do. Facebook Ads Library.
+Pipeline Pro. They have five ads active.
+Launched last month and 2 months ago.
+Cool. Not much of a priority for them.
+We go to the web archive. We can see
+that this domain name has been active
+since Well, for a long, long time. 2003,
+but it looks like it's only been doing
+this since like 2015. It used to be
+appraisal workflow management. That's
+interesting.
+So, instead of getting more niche,
+they've gotten more broad. Yeah, it's a
+very, very bad website.
+So, at some point, they went from
+appraisal management software to
+software. And I did a little digging
+around, and their lifetime price used to
+be $35. Today, it's $65. So, they've
+almost doubled their price. Now, we
+don't really know what their monthly
+recurring revenue is
+because it's a lifetime price. But,
+here's the genius of this. There's
+multiple ways to skin the cat, okay?
+Most of these SaaSpreneur award winners
+have a monthly price because everyone
+loves monthly recurring revenue. But,
+that also means that they don't stand
+out from each other. If you're the guy
+that offers a $67 lifetime price, then
+you look a lot more attractive than all
+of the other companies selling the exact
+same white-labeled software for 1 to
+$500 a month, right? And here's the big
+secret. Pipeline Pro pays 5 to $600 a
+month to HighLevel to have thousands of
+customers. But, like they add a
+customer, they add $0 in cost. So, a
+lifetime price makes sense when you're
+white-labeling software that's a flat
+fee, no matter how many sub accounts,
+aka customers that you have. So, I love
+that this became an example because
+they're not all monthly recurring.
+There's other ways to do it. And this
+guy probably stands out because it is a
+one-time fee. And honestly, with the
+advent of these white coding tools,
+ChatGPT, software becoming easier than
+ever to build, I think a lot more
+companies are going to be forced to
+offer lifetime deals because the age of
+SaaS, software as a service, is slowly
+shrinking. Because the developers, the
+coders, are no longer in the driver's
+seat as much as they used to be. The
+cost of everything is going down, down,
+down. So, you can milk that sweet, sweet
+monthly recurring revenue as long as you
+can, or you can get ahead of it and say,
+"From day one, I'm just going to offer a
+lifetime price for pipeline software
+that other companies charge tens or
+hundreds of dollars a month for." Okay,
+so let's do a rapid-fire just to see
+what some of these other businesses are
+doing cuz I'm very curious.
+All right, which one stands out? Let's
+say REI Reply. Okay, pop, pop, pop,
+boom. Here we go. Oh, man. That is one
+of the worst websites I've ever seen in
+my life. And these guys are one of the
+biggest companies using HighLevel.
+Again, it's more real estate-like
+software, automation software. Which is
+fine, no shade. It works. There's 2
+million real estate agents. You can
+insert that meme right here where it's
+just Woody looking over and it's like
+everywhere. It's all just HighLevel. All
+this software that we use and see on a
+regular basis, it's all white label
+HighLevel on the background. Crazy.
+Here's another one, Sierra M Voice. It's
+just an AI calling feature. It's just
+something that you can create in a few
+clicks on HighLevel. I did it right here
+in this video. Link in the show notes.
+AI voice agents are everything right
+now. Here's another one in the platinum
+tier, FG Funnels. They're just using
+HighLevel to build funnel builder.
+Over 1,000 customers a month. 129 bucks
+a month. Six figures a month, seven
+figures a year plus making funnels. All
+right, we only covered a small handful
+of all of the kind of reverse
+engineering tips and tricks I have up my
+sleeve, but I'm just going to like
+bullet point list out a ton of others
+that I use on a regular basis. So, let's
+say you want to find out the tech that a
+business is built with, the type of
+website that they use to build it, the
+type of pixels or APIs or yada yada yada
+other tech jargon that companies use
+that you want to copy. Number one is
+BuiltWith. They have a Chrome extension
+that's free. You can use the website one
+at a time, it's for free, or you can pay
+them way too much money, 450 bucks a
+month to like scrape millions of
+websites that are built with Shopify,
+Wix, WordPress, whatever. That's like
+the gold standard. If you want to skip
+the line, go to Upwork or Fiverr and
+say, "Hey, I'm looking for someone that
+has a $450 a month BuiltWith Pro account
+to scrape results for me. I'll give you
+$20 per spreadsheet that you scrape."
+Total life hack. But, an alternative to
+BuiltWith that's even cheaper,
+Wappalyzer. Another one, CRFT Lookup.
+Stack Crawler does pretty much the same
+thing. If you want to know how much
+traffic a website gets, SimilarWeb. That
+is the only one. SimilarWeb. If you want
+to get even more technical on like what
+types of databases a website uses, use
+WhatRuns and NerdyData. Okay, if you
+want to look at like market
+intelligence, company insights, there's
+this company called IbisWorld. They have
+these $3,000 reports that I would never
+pay for, but if you go to another
+company called
+you can get all of the IbisWorld reports
+for free, and it's a free account.
+Actually, Search Funder might cost 100
+bucks or something, I don't remember,
+but it's Basically, you pay 100 and you
+get thousands of $3,000 reports for
+free. Dealroom, similar to Crunchbase,
+much cheaper, gives you insights on like
+startup data, fundraising data. CB
+Insights and PitchBook, very expensive,
+very good. Also use Fiverr or Upwork to
+find someone that already has an account
+that can run a quick search or two for
+you. Owler is really good for finding
+competitors or alternatives. If you ever
+Google like alternatives to X Y or Z,
+Owler is usually what pops up.
+AlphaSense and Data Briar are also good.
+If you want to know how much money a
+franchisor makes, like let's say you see
+a landscaping franchise driving by or
+McDonald's and you want to know, "Man,
+how much does this McDonald's franchisee
+make?" Just Google WI franchise search,
+which stands for Wisconsin franchise
+search.
+The state of Wisconsin requires that all
+franchises publicly disclose all of the
+financials of the parent company, which
+in turn tells you about what the
+franchisees are making as well.
+If you want to know how many app
+downloads an app is getting on the
+iPhone or Android app store, you're
+going to want to use Sensor Tower. With
+the free account, you can see, "Wow,
+this app that identifies trees is making
+$300,000 a month."
+Then you go Vibe Code a Copy. If you
+want to see reviews for software and
+like upload all those reviews to ChatGPT
+and say, "What features is this product
+missing that I can copy?" G2. G2 is the
+best for that. Bombora, b o m b o r a,
+is also really good for stuff like that.
+And if you want to see if a website
+changes, like let's say you want tickets
+to a sporting event and you need to see
+when they go live. Or you want to see if
+your competitors' pricing changes at any
+point, you can use something like
+Distill, Visual Ping, or Change Tower to
+basically track tiny little changes on
+any website on the internet. Super cool.
+Other more general things you can do is
+look at another company's job listings.
+They'll often announce like new products
+or new features or new initiatives
+inside their job listings or job
+descriptions. There're ad spying tools,
+AdEspresso, Big Spy, Social Petta. You
+can use those to spy on your
+competitors' ads, which is much more
+granular and specific than the Meta Ads
+Library. There's so much you can do. You
+just got to be a little creative. If
+this video was valuable to you at all,
+please say thanks by hitting subscribe,
+sharing with a friend, leaving a
+comment, and of course, use my affiliate
+link so I can get a little kickback. I
+use HighLevel every single day. It's
+genuinely something that I love and
+believe in. We'll see you next time on
+The Corner Office.

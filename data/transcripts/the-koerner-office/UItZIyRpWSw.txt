@@ -1,0 +1,2396 @@
+I'm going to vibe code an app and try to
+find paying customers live without
+leveraging my audience. So, anyone in
+the world that has access to a $20 a
+month vibe coding app should and could
+be able to do exactly what I'm about to
+do and show you no holds barred. So, if
+you don't know what vibe coding means,
+it means using natural language like I'm
+using as I'm speaking right now to code
+an app without any coding knowledge. I
+don't have a computer science degree. I
+don't know what HTML stands for or
+means. I can't make a website if it's
+not using something like Wix or
+Squarespace. I have no coding
+experience, but you don't need it
+anymore, right? You can do whatever you
+want. So, thank you, AI. Here's my idea
+for the app. I have a leadership
+position in my church. I'm a member of
+the Church of Jesus Christ of Latter-day
+Saints. And every now and then, we do
+fun activities with the youth. We have
+like 60 or 70 youth in our in our
+congregation, also called a ward. And
+when we do an activity, we need everyone
+to sign liability waiverss. But you're
+not liable if in case something bad
+happens. So this is a pain because we're
+sending out PDFs. They have to fill it
+out. Sometimes they have to print it,
+sign it, bring it to the activity. It
+gets lost, you know, on the floor of
+your truck. And if a kid doesn't bring
+it to an activity, we usually don't turn
+them away because we don't want to. So
+either we take a risk or we put a bunch
+of people through a bunch of friction
+and it's just annoying. So do solutions
+for this exist yet? Kind of. There are
+waiver tools, liability waiver tools in
+DocYsine and e- signature tools, but
+they're all cumbersome and none of them
+are niched down enough for this use
+case. So, I'm going to build a solution
+to a problem that I actually have today.
+And I will be my own customer. But
+that's not good enough for this video. I
+want to find a paying customer by the
+end of this video if at all possible.
+Not from one of the people watching
+this, although that'd be great. I would
+love your money, but I specifically
+don't want to use or leverage my
+audience to find a paying customer
+because I want this video to be as
+realistic and approachable as possible
+to as many people as possible. So, I'm
+going to use some other tactics that I
+know to try to find customers and I'm
+going to share my screen. You're going
+to watch my prompts. You're going to
+watch everything I do. Facebook ads,
+Reddit, whatever it takes. I'm just
+going to build this live and hopefully
+it's entertaining and engaging. So, so I
+told you the idea, the problem that I'm
+solving. Okay, I need to think of some
+names. So, I was thinking of names with
+the word waiver in it. Okay. I like
+domain names that are dotcoms
+preferably, notai.net.online
+is cool because it's kind of a newer
+tldd ending, but I prefer.coms. So,
+waiver this, waiver that. I don't want
+more than like three or four syllables,
+simple, whatever. And so, I'm going to
+share my screen, sign into my NameCheep
+account real quickly, because that is
+what I use to buy domain names. And I'm
+going to buy the domain name for this
+business right here in front of you. I'm
+on namecheep. This is what I'm buying.
+Onlywavers.com.
+Done. Onlywavers.com. It's a $12 domain
+name. Four syllables. Easy to spell.
+Easy to remember. Does it pigeon hole me
+into only one thing? Yeah, kind of. But
+it is what it is. So that's what we're
+going to go with. Onlywavers.com. There
+we are. I'm going to go here. And this
+is my replet account. So, Replet is one
+of several vibe coding tools, an AI tool
+built on top of an LLM, large language
+model like OpenAI's Chat GBT or Grock or
+Gemini or Claude. Those are the big
+four. And it enables you to more easily
+build websites and apps and whatever.
+So, they just came out with a new
+product called Replet Agent 4 and it's
+really, really good. And I'm going to
+use that to build this app. But before I
+do that, I want to get a killer prompt
+to give to Replet so I can save myself
+some headache down the line. So, I've
+got my Claude account pulled up right
+here. The only thing in this chat is I
+want a vibecoded tool. Help me think
+through it. It didn't even give me a
+good name. And then I said, "What about
+only waiverss.com?" And it's like,
+"That's too similar to Only Fans." And
+I'm like, "You're overthinking it.
+That's a non-issue." So, I bought it.
+I'm using Fable 5, which is their
+strongest model. It's also their most
+expensive model, but I'm a token maxer
+at my core. Aka, I don't care about like
+being efficient with token usage. This
+is the most innovative product the world
+has ever seen, as in artificial
+intelligence, and I want to get the most
+out of it, even if it means like the
+equivalent of driving a Ferrari to the
+grocery store. Okay, that's what I'm
+going to do here. So, I'm going to use
+Fable 5. Okay, here's my prompt to
+create a prompt. Now, don't overthink
+your prompt. A lot of people like, you
+gotta garbage in, garbage out. You got
+to have the best prompt ever. Don't
+overthink it. Any prompt is better than
+no prompt. And if coming up with the
+perfect prompt is enough friction to
+prevent you from actually doing the
+thing, then just tell it whatever. Okay?
+I don't actually usually do this for
+Replet, I usually just tell Replet
+something like this. But this is just
+one step further to ensure that I have
+less back and forth with Replet because
+the last mile in vibe coding is the
+hardest part. Picture building a house.
+We had this house built 10 years ago and
+we got all the way down to the drywall
+and the paint and everything and then
+that the last little bit of making all
+the changes and stuff took just about as
+long as everything up until that point.
+Okay, the last mile is a real thing. And
+in logistics, delivery, electricity,
+whatever it is, the literal last mile is
+the hardest part. The hardest part to
+figure out, right? That's why Amazon
+owns, you know, who knows how many
+thousands of delivery vehicles. It's
+hard. It's no different with vibe
+coding. It's hard to find that perfectly
+finished product. And so a good prompt
+will make it less hard hopefully. So
+here's what I'm thinking. It needs to be
+a SAS from day one. So I'm telling
+Replet I'm not just building this for
+myself although I am. I'm building this
+to resell. Someone tells the app the
+name and date of an event in mind mind.
+Okay. That person has the option if they
+want to upload a PDF someone of the
+actual waiver for the app to emulate. If
+certain fields have to be there as
+required by the organization the person
+represents. A link will generate that
+can be sent to any number of people.
+When people get the link, they will add
+the name of the person or people that
+need to be on the waiver. Maybe an adult
+or maybe an adult signing for kids. And
+all the link recipient has to do is add
+a name and tap to sign. Dead see simple.
+And then the link sender will have
+signed digital copies from each person
+in their admin login. The recipient
+doesn't need a login, but the person in
+charge of the event does. If the person
+sending the link doesn't have a waiver
+PDF to upload, then the app will provide
+a generic but protective one. It will
+use a Stripe API for payment and only
+costs $13 per year to use one plan, no
+free plan. Keep it simple. The
+confirmation deals have links back to
+the product for viral referral
+marketing. Use Send Grid for the emails.
+Let people get all the way up to
+generating the link before they have to
+pay, but also don't hide the pricing
+page or anything. So, I don't want to be
+a bait and switch. I don't want people
+to think it's free and then have to pay
+to send it. But I also want to remove
+all the friction of getting them to make
+the link. And then, you know, it's the
+uh the sunk cost fallacy. They've
+invested 5 minutes into making the link,
+typing in the name of the event. Really,
+more like 2 minutes. And so, once I've
+done that, like, oh, it's $13 per year.
+Oh, I might make it like $20 lifetime as
+well or $15 lifetime. I don't want to
+waste the time and the effort that I
+just put into this, even if it's only 2
+minutes. So, I'm going to go ahead and
+pay. But I do like that idea to make it
+$17 for lifetime. Okay, another
+important thing. I'm not just telling it
+it's for Replet, but it's for Replet
+agent 4. Okay, because Claude knows how
+these tools talk to each other. And
+Replet agent 4 is built on top of
+Claude. So, we're kind of using the same
+tool here. I could use Claude Code to
+build this, but as soon as you start
+talking about like a terminal and all
+that stuff, like you've lost me. Cloud
+code is not too technical, but for me,
+it's technical enough for me to not want
+to use it. Okay. So, tell your prompt
+the name of the app that you're using to
+vibe code. There's a pro tip right
+there. So, let's go. Let's do this. I
+should have told it definitively that
+this is called only waivers, but I
+didn't. All right. Let's go to the
+output here. Replet agent prompt waiver
+signing SAS. Okay. Add in that it's
+called only waivers. Okay. Let's see
+what it says before the prompt. 13 a
+year versus 17 lifetime means everyone
+picks lifetime. You're selling whatever.
+I don't care, dude. I know what I'm
+doing, okay? I mean, in a sense I do, in
+a sense, I don't. But that's fine. My
+bet is that people need this for onetime
+use. We have subscription fatigue, so
+I'd rather get $17 than $0 from them.
+And whatever. If a month from now I
+decide to do away with a $17 lifetime,
+I'll do away with it. And people who
+already got it, they'll be
+grandfathering. I'm not going to take it
+away from them. But they're going to be
+rewarded for trusting me early. So Tap
+Design is worthless without an audit
+trail IP address. Okay, this is a whole
+product. So it's in there. Perfect. See,
+if I would have prompted Replet, Replet
+may not have added the actual legal
+stuff that makes this legally binding,
+but Claude knew to minor language.
+That's good. PDF emulation hardest to
+build. Okay. Sign PDF generate link
+expiration so dead links don't pile up.
+When it finishes, test the definition of
+done checklist. Use Stripe test mode
+until the signer flow is bulletproof.
+Okay. Add a branding section. Okay. So,
+we're going to pull this up in Google
+Drive. Here it is. I'm just going to
+control alt controlcopy. Then let's go
+back over to replet. So we're going to
+go to replet. I'm going to paste in the
+prompt right there. I'm going to zoom in
+so you guys can see better. And then
+we're going to go cloud fable 5 default.
+Perfect. And I think it's using agent 4
+by default, but just to be sure. Okay,
+here we go. Use agent 4 for this. Go.
+Here we go. So this is building my app
+right now. Brought in the API contract.
+critical path to getting the front-end
+build started. While this is happening,
+I'm not going to rest on my laurels
+here. Pun intended. If you know, you
+know. I'm going to start seeing if I can
+make ads for this before it's even done
+because what do I always say? Sell it
+before you have it. I'm going to go back
+to cloud, a different cloud window
+because just yesterday I installed the
+Facebook ads MCP. Let me explain MCPS
+model context protocol. I don't know
+what that means at all, but I can
+explain what an MCP does. Okay, so
+imagine all the magic of ChatGpt or
+Claude inside any tool you use on a
+regular basis. For instance, I use
+Mercury for my banking and I can go into
+ChatGpt or Claude and connect Mercury.
+Just link it together. That's it. That's
+an MCP, but really I'm just tying them
+together. And then I go, "Hey Claude,
+where is my spending out of control?"
+And it's going to go look in my Mercury
+account because I gave it that
+permission. And I can give it readon
+permissions, write permissions if I want
+it to start sending wires for me. I
+don't. And Claude would say, "Your
+Chipotle habit's out of control. You're
+spending $16 a day at Chipotle. You need
+to get that fixed or whatever." Or,
+"Your anthropic addiction is out of
+control. You're giving me way too much
+money." And so MCPs are incredible. I
+got a quote to make an email automation
+for my behalf newsletter. It was a
+$10,000 quote. It's a pretty complex
+automation. It's something that I could
+do myself, but I'm not great at, and it
+would take a few hours, and I didn't
+want to. I got a $10,000 quote and then
+I'm like, hm, I wonder if the MCP could
+do it. So, I connected Beehive to Claude
+and I said, make this email automation
+based on first principles of nurture
+sequences. And I just explained kind of
+what I wanted it to look like and it was
+done, right? It's like vibe coding and
+automation in a completely different
+product, but within cloud or within chat
+GPD. It is absolutely magical. So,
+Facebook ads has an official MCP, which
+is a game changer because Facebook ads
+are kind of hard to set up if you've
+never done it before. There's like
+what's a campaign, an ad set, an ad?
+What's the difference between that? Do I
+want Facebook to choose my audience? Do
+I want to choose it? Do I want on the
+right side of the screen Facebook reels?
+I didn't even know that existed.
+Instagram reels? You don't need to know
+any of that stuff because the best
+expert in the world at Facebook ads, aka
+AI, the most expensive person that you
+could ever hire is now 20 bucks a month,
+right? You don't need to hire an agency.
+So, I am going to say, and you don't
+usually need to tell it to use X, Y, or
+Z MCP, but I do just to make sure that
+it does it. So if you look at
+connectors, these are the MCPs that I've
+connected to cloud. Beehive, choros,
+which is my watch, it's like a Garmin.
+Fathom which is an AI noteaker, Facebook
+ads, function health where my blood
+draws go, go high level, Gmail, Google
+calendar, Google Drive, Gusto for
+payroll, Higsfield for AI content,
+Kubber for net worth tracker, Mercury
+bank account, Plaude for this pendant
+that I'm wearing under my shirt that
+records everything, Robin Hood, we all
+know what Robin Hood is, Stripe, Type
+Form, Zapier, yada yada yada. Okay. So,
+I'm going to say, you know what? What am
+I doing? What am I doing? It would be
+better to go into here and do it in the
+same chat window. Why wouldn't I? Okay.
+Let's say 25 to 60.
+Okay. Let's see. So, now I'm going to go
+to Google. I'm going to type in LDS
+liability waiver PDF. And it has the
+permission and medical release form 2017
+in the title. So, this is what I'm
+asking parents to fill out. So, I'm
+going to download that and I'm going to
+go back to Claude. Okay. So, Facebook
+could find the people for this app,
+right? In fact, Facebook will do a
+better job at finding paying customers
+for this app than I will. But Facebook
+doesn't know that I want to test this
+audience first. It's very important to
+me. It doesn't like Facebook has AI.
+They know way more about this stuff than
+I'll ever know, but it's not in my head.
+It doesn't know what I want, right? And
+it doesn't know that like my knowledge
+base is based around this problem. I'm
+trying to skip the line a little bit. I
+can probably convert other types of
+people like, you know, the owner of the
+gymnastics gym or the trampoline park. I
+can probably convert them cheaper or
+easier. There might be more of those
+type of people, but it's not my problem.
+So, I want to start with the audience
+that's closest in line with the problem
+that I'm experience and trying to solve
+with this product. So, I've never used
+the Facebook ads MCP before. This is my
+first time. It might blow up in my face,
+but we'll see. Now, while that is
+generating, let's go back to Replet.
+Okay. Writing the API contract. Okay. I
+don't know what any of this stuff needs
+means, but that's okay. We're just going
+to let it keep going. That's fine. Let's
+go back to Claude. Okay. Copyrighted by
+intellectual reserve. You can't ship a
+clone of it in the product. I'm not
+trying to do that. Use it as a blueprint
+for what an LDS friendly template needs
+to collect. Oh, interesting. Meta killed
+religion-based detail targeting. There's
+no BYU LDS living. Yep. Let's do that.
+Cool. Okay. campaign will be created
+paused so nothing spends until you
+review. And I'm going to go ahead and
+open up meta ads library in um another
+window just so I can check in on things
+u myself. Meta ads manager I meant I'm
+going to share a different screen just
+because I don't I don't know if it's
+going to show something that's like
+personally identifiable. So I'm just
+going to do that. All right. While this
+is generating I'm looking at claude
+right now and it might be like
+displaying API keys. So, I don't want to
+show that, but it's creating campaign.
+It's creating an adset right now. This
+is pretty dang cool. Let's look at
+Replet. Oh, Replet's ready. Okay, so
+it's been like I don't know 10 minutes
+since we started Replet. Sign waivers.
+Zero friction. Mobile first waiver
+signing for events, gyms, and tours. No
+apps, no accounts, just a link and a
+signature. Start for free. View pricing.
+Everything is free until you generate a
+share link. Okay, you didn't need to say
+that. You don't need to advertise that.
+Create an event. Share the link.
+Collected signatures. I like that.
+designed for the real world. Insanely
+fast legal binding, yada yada yada.
+We're going to go ahead and publish it
+just because we can. I'm going to go
+ahead and connect my domain name. So, I
+just bought this domain name on this
+live stream. You guys saw me. It's like
+one of the first things I did. Click
+this only waiverss. I don't really like
+using entry. And I'm going to change my
+screen again because it might show like
+my username and stuff, but just know
+that this is like Plaid. It's like an
+easy integrator for um domain names. So,
+it wants my namecheep account. I'm going
+to go to manual setup because that is
+like that's just what I'm used to. So,
+I'm going to go to namecheep here. I am
+not sharing all of my screens right now
+because there is sensitive stuff going
+on, but I'm just connecting my domain
+name right now. A record is going to be
+that text at that. This is supposed to
+be the most boring thing ever, but I'm
+almost done. Okay, I'm sharing my screen
+back to Replet. You're all set. Only
+waivers will be successfully connected.
+Done. Okay, only waiverss now. Like, I
+really don't like this. We've got to
+make this public. Right now, it's invite
+only. We got to make it public. Okay.
+Thankfully, it's anonymizing my keys
+right here. We're going to hit publish
+because the default for replet, even
+when you click publish, is for it to be
+a private URL. So, we're fixing that
+right here. says you got to do it like
+twice. Kind of weird, kind of annoying,
+but we're working with what we got. So,
+let's go back to Claude and see where
+we're at. And you know what? If you guys
+I'm just remembering right here on my
+shared screen that I do have an
+affiliate link. So, if you want to use
+Replet, I'm putting it in the chat. I
+don't know if it appears on all the
+platforms, but you're welcome to use
+that link and that would be great. I get
+20 bucks. All right, let's go back here.
+Republish. It's now public. Let's see
+this. All right, the site isn't working
+for me yet. It takes a little time, but
+I'm going to go back to publishing SEO
+rating healthy. It shows that it's
+public. Connect Stripe. Uh, I'm going to
+do that. And Replet already has my
+Stripe API. I'm actually quite paranoid
+that it's going to display that. So, I'm
+going to share a different screen, share
+my cloud screen. While I check that out,
+Replet is suggesting tasks. Send waiver
+copies and organizer alerts by email.
+Confirm the whole signing flow works on
+a real phone before launch. Make sure
+paid customers can generate links after
+Stripe is connected. Those are the three
+action items it's getting me giving me
+right now. And it's quite crazy to me
+that we're already to the point where
+we're like testing this. We're like live
+testing this. And I've been building
+this for about good 20 minutes. I'm also
+going to need to add Google Analytics so
+I can see how many clicks are coming
+through here. Stripe is connected.
+That's it. It didn't display anything
+sensitive. I didn't need to change my
+screen, but it already had my API key.
+If you didn't already have that, you
+would literally just Google Stripe API
+key, create a free Stripe account, go
+into your settings, API key, generate,
+copy, paste. That's it. I don't even
+know what API stands for. Actually, it's
+like application program interface or
+something, but I know that it's how
+technology or software tools talk to
+each other, right? And it's a really
+long key. Okay, Stripe is connected. I
+can now accept payments. The website is
+not live yet. I guess like the domain
+name, it's not live on the domain name
+yet, but on the replet site, it is live.
+Now I'm going to send waiver copies and
+organizer alerts by email. I use Send
+Grid for this stuff. So you've got
+companies like Mailchimp or Behive,
+which are like public facing newsletter
+companies. And then you've got companies
+like Mail Gun and Send Grid, which is
+like the plumbing or the infrastructure
+for emails, really transactional emails.
+So like order confirmation, your Amazon
+package was delivered, that's a
+transactional email. And companies like
+Send Grid power that. And I already have
+a Send Grid account and my API key is
+already connected to Replet. So, it's
+just what I know. It's kind of a
+commodity. I don't know if it's good or
+bad. It just works. So, so it's waiting
+for input. Send waiver copies and
+organizer alerts by email. It just needs
+to request the Send Grid credentials
+from me. So, I'm going to share my
+Replet screen so you can see how simple
+this is. Boom. There's my API key. It's
+anonymized. It's already in Replet. I'm
+just going to click next. And then, what
+email do I want this to come from? I
+want it to come from, hey Chris at
+co-founders. I don't even need to tell
+you because it's anonymized, but
+whatever. hy. Okay, this is working
+really fast. Now text. If we want like
+text reminders, we would want a Twilio
+API key. Twilio is basically the send
+grid for phone stuff. I think I already
+have that connected, but I don't want to
+mess with that. That's like too much
+friction. We don't need email and text
+notifications. That would be good to
+have, but not at launch day. It's just
+too much friction, right? Remove
+friction. Remove friction. remove
+friction. Put it on a shirt, tattoo it
+on your forehead. Right? In any
+business, you want to remove friction to
+getting the money and add friction to
+losing the money. Okay? That's why, and
+you know, you want to do this within
+some bounds so you're not a scummy
+marketer. That's why when you go to
+cancel a SAS product, it's like, are you
+sure you want to cancel? Are you sure?
+Do you want 50% off? Like, they're
+adding friction to losing money, right?
+And it's smart, but it's annoying. And
+you got to like just don't be too
+annoying with it, okay? Everything is
+wired up correctly. The signing route
+sends emails in the background. Okay,
+let's go back to Claude cuz remember
+Claude was working on Facebook ads this
+entire time which is just magical. It's
+just magical. Here we go. It's done.
+It's already done. Like it like guys,
+one prompt. Look at this. Okay. It's
+just like it didn't need any input from
+me here. It's like, hey, FYI, don't want
+to get sued. FYI, you can't target
+people based on religion as of four
+years ago. What ad account? I told it
+and it created it. It's done $20 a day.
+CBO is campaign budget optimization. It
+just means like from what level of the
+ads are you going to be spending money
+and this is like the highest level from
+the campaign level. Traffic objective
+hard capping targeted advantage plus
+audience expansion turned off. So your
+25 to 60 m US settings are actual limits
+since the whole point is a narrow
+creative match audience. So basically
+Claude told Facebook ads, hey I know you
+think your AI is really smart and it is.
+I'll admit it is but we don't want to
+use it yet. Okay. Ad set optimizes for
+landing page views so you pay for people
+who actually load the site. I stopped
+before creating the ad itself on
+purpose. The ad needs a destination URL
+that resolves and a Facebook page to run
+under. Onlywavers.com isn't live yet and
+I wasn't going to guess whether this
+runs under one of your existing pages or
+new Onlywavers page. When the site is
+up, tell me the page and I'll finish it.
+Add copy. You created it as a targeting
+meta camp. You plan the youth
+conference. You've booked the camp and
+now you're chasing 40 parents for
+permission slips the night before the
+track. This is so This is so good. This
+is so accurate. Only waivers fixes this.
+Create your event. Text one link to the
+word group chat and every parent signs
+from their phone in 30 seconds. You see
+every signature in one place. $13 a
+year. And I'll tell you what, if you're
+selling to an audience of my religion,
+Church of Jesus Christ Latter Day
+Saints, you kind of got to be cheap.
+We're cheap. We're just cheap. Okay?
+Hardest place in the world to start a
+business along I-15 in northern central
+and southern Utah and all of Utah. So 13
+bucks a year. That's what we're starting
+at. Words like ward, stake, track,
+mutual youth conference mean nothing to
+general population. everything your
+buyer wasted impressions on non-LDS men
+will click nothing and meta's delivery
+system will learn from who clicks and
+narrow itself the form is barely a
+waiver it's mostly a data collection
+form allergies medications yada yada
+yada your v1 collects a name and a
+signature sila chase okay if LDS
+organizers are the wedge the replet
+prompt needs one addition organizers can
+toggle on okay
+and then I'm going to screenshot the
+homepage of only waiverss drag Drag it
+in here. Okay. Make a new prompt for me
+to add to all this to replet. Remember,
+I'm talking like an idiot cuz it doesn't
+matter. AI knows what it means. Make LDS
+specific language on the homepage. Add
+the medical stuff and make it clean and
+frictionless. And lol. Don't let replet
+tell people it's free, but they have to
+get to the end first. The CTA should
+just be make and send a waiver in four
+clicks or whatever is true. Maybe even
+add a hero image of a youth conference
+or something.
+to drive home the point. Remember, and
+this is going to be a thing. This is a
+real thing, okay? I'm not just doing
+this for the purpose of this video. This
+app doesn't have to stay this only.
+Like, I would like to sell to more
+people than, you know, 3% of the US
+population. We can change the app, the
+website, the branding with with one or
+two prompts. It's not that hard. So,
+this isn't forever. This isn't
+permanent. Make send a waiver in four
+clicks. yada yada yada. I add in an
+instruction forcing the agent to count
+the real click path and adjust the
+number to whatever is actually true.
+Cool. I wonder if it did that cuz I said
+or whatever is true cuz I don't want to
+lie. But I also don't know how many
+clicks it's going to be. A CTA that lies
+by one click is worse than a boring one.
+It's making an illustration instead.
+Fine. All right. There's the reprompt.
+We're going to go back to Replet and
+apply changes. Send grid secrets.
+Restart API yada yada yada. Now replet
+doesn't really like it. Really none of
+the vibe coding apps like it when you're
+like telling it to do multiple things at
+once. But if you see these boxes up here
+on the left, there was just two and it
+disappeared. That's replet doing things
+concurrently at the same time, right?
+Send grid API over here, Stripe API over
+here, user interface over here, user
+experience over here. That saves time.
+Okay, now I'm going to paste in this
+prompt from claude and then I'm going to
+open publishing and it's on autoscale.
+That means if I go viral, then
+everything will be fine. It won't the
+app won't shut down. Production database
+connected. You don't have to do anything
+with that. SEO rating healthy. Don't
+care about that right now. Adjust
+settings. Public back. We're going to
+hit republish. Solid v2 spec. Okay. Now,
+I'm going to go back into the meta ads
+library. All right. Here's Facebook ads
+manager. Only waiverss LDS event
+organizers US. This was made in cloud.
+This is I've never I've never touched
+this. Okay. And it's not live yet, but
+so go to campaigns. Uh we're going to go
+edit. We click edit so we can see kind
+of what it did. So, as promised, it's
+got a nice name in there. $20 a day is
+what it said. Campaign budget CBO.
+Remember, auction, we're looking for
+traffic. We could have it optimized for
+conversions, but we don't have a pixel
+for that yet. A pixel just tells Meta
+that you know it's doing what it's
+supposed to be doing. And when you set
+up Facebook ads, guys, Meta is just
+going to be screaming at you, use our
+AI, use our AI, use our AI. And yes,
+that's a sales pitch, but also they want
+your ads to work because if they don't
+work, then you'll stop spending money
+with meta. So, their AI does work, but
+it's not like it's a blanket statement.
+They work all the time for everything
+and always just choose their AI, never
+use their brain. That is absolutely not
+the case. So, 25 to 60, location, United
+States, men. We could do men and women
+because there's plenty of female leaders
+that send out these as well. So, I might
+change that. But, let's see the detailed
+targeting. It didn't target people by
+like BYU or anything, but what it is
+doing is it's doing that in the copy of
+the ad itself, right? Speaking to things
+that only they would know. Let's go back
+into Replet. How this is going. Database
+validated. Approve and publish. Okay,
+we're publishing. Here we go. It's still
+hosted on the Replet domain. So, I'm
+going to open domains. Type in my domain
+name again. Checking next. NameCheep.
+Manage 54 minutes ago. I just love how
+everything's working all at the same
+time here. Go back here. Overview, apply
+changes.
+Talk about removing friction. Like
+that's kind of been the theme of this
+video. Replet is removing friction by
+hiding all this stuff. 15 actions. Like
+you can read it if you want, but guess
+what? Most people using Replet don't
+know what any of these things mean,
+myself included. They don't want to
+confuse people. They don't want to give
+them more information than they need to.
+So they hide it. They remove the
+friction. And a year from now, Replet
+will probably look even more simplified
+than this. So, we go to domains, open
+domains. Still loading. Okay. Now, I
+need to make the creative, aka the, you
+know, what the ad actually looks like to
+the general public. So, I'm going to do
+that with this bad boy right here. Got
+this microphone. It's a DJI Mic 3, I
+believe. Bought it on Amazon. I'm going
+to show you how easy it is to actually
+make Facebook ads. How about that? I've
+got a receiver here and a transmitter
+here. And I've got an iPhone 17 right
+here. And so I'm just going to I'm
+plugging that in. Okay, you can see that
+little icon, which means it should be
+working. I'm going to talking to this.
+Hello. Hello. Hello. Hello. Hello. You
+see the mic's bouncing. So then I'm just
+going to open the camera app right here.
+That's it. I'm going to go to video
+frontfacing. Okay, there we go. Look at
+this freaking guy right here. If I
+wanted to get Claude to make a script
+for me and then put it on teleprompter
+app, I use this app. It's literally
+called Teleprompter. Okay, it's 20 bucks
+a year. I would just take the script,
+paste it into Teleprompter app, and then
+it would look like this. And I would
+just hit record, and then read the
+script as I'm filming. But this is
+stupid simple. It's only going to be 15
+seconds or so. And I probably won't even
+need to edit it because the goal will be
+to take this in one take. So, if you are
+20 to 50 years old and an active member
+of the LDS church here in the United
+States, as I am, you've probably
+experienced this problem. You've got a
+word activity, youth conference, state
+conference, lake day, and you need to
+send liability waiverss. But those
+things are a pain and they're
+cumbersome. You got to print them, sign
+them, give them to the bishop member.
+He's going to lose it. You don't bring
+it. Your kid doesn't swim. Maybe he
+does, but then the church is liable. I
+fixed all that. Onlywavers.com, $13 a
+year. Few clicks, you've got a waiver.
+Send it out to everyone you know, and
+it's fully compliant. Use it right here.
+onlywavers.com. All right, so I stumbled
+over my words. It was 30 seconds
+exactly, but we're going to yolo it.
+Okay, because done is better than
+perfect.
+>> The LDS church here in the United States
+as I am. There it is. Okay, not faking
+this. I'm just going to hit airplane or
+uh airdrop. I'm going to airdrop it to
+my computer. I'm not going to edit it.
+I'm not going to add captions. I'm not
+going to add a thumbnail. I'm not going
+to remove pauses. I'm just going to
+airdrop it and we're going to yolo it.
+So, let me share my screen again. We're
+going back to the ads. So, I'm just
+going to save some time and if it
+doesn't work, it doesn't work. But, um,
+I'm just going to upload it right here.
+And maybe it works. I don't know what
+API permissions it has through the
+Claude MCP, but we're about to find out.
+So, I would have liked for that video to
+be shorter. I have better luck with 15
+to 20 second videos, but at least I'm
+speaking directly to the audience. So,
+what that means is if I'm a 72-year-old
+woman who's not an active member of the
+LDS church, I'm going to swipe away from
+that so hard, which is perfect for me,
+right? And then YouTube's going to
+learn, oh, don't show it to 72-y old
+women that are members of the LDS church
+because all the 33y old men in Provo,
+Utah, who are members of the LDS church
+are clicking the heck out of this. We're
+going to show it to a lot more people
+like that. So, Facebook's going to
+figure out pretty quickly the video
+works for the ad. 31 seconds, perfect
+for reals, no public URL. I can't push
+it to them directly. Open ads manager.
+Go to media library. Upload to your
+phone. Okay. I can't read the file
+specs, but I can't watch it. I'm gonna
+push back a little bit and say
+read the transcript. I'll add it to meta
+myself. Oh, look at this. Look at this
+freaking thing right here. You see my
+URL? Only waiverss.com. There it is.
+We're live, baby. We're live. It's
+working. Okay. Uh, don't like that view
+pricing. Well, it hasn't made the
+changes that I I told it to make. Okay.
+Okay, so I Googled Meta Media Library
+and then I just clicked create a folder
+and it's loading that right now. I'm
+going to close my NameCheep tab cuz
+Okay, cuz I already fixed the domain.
+We're going to go to ads manager, top
+left, media library. I'm going to poke
+around in this while I share my replet
+screen. I'm all over the place. Prevent
+Stripe web hook. Sure. Catch broken
+Stripe payments before they reach
+customers. Sure. Look at all these blue
+things on the left. They're running
+concurrently. Let organizer view their
+plan and manage bling from the b
+dashboard. Sure. It's doing things that
+uh it just thinks I need and I do, which
+is really nice. So, I go back here. It
+shows it's not live on the domain, but
+we're going to refresh. And it should.
+There. So, there it is. Boom. And let's
+go ahead and click republish because why
+not. Okay. Let me go find the meta uh
+media library. Media control find media.
+There it is. Okay. Go back to meta media
+library. And we're going to create a
+folder called only waiverss. Go into the
+folder, add images and videos right
+there. Okay, now I can add that video or
+Claude can add that video to any
+campaign within that account. Speaking
+of Claude, it's still working to get
+that transcript from my video. Remember,
+if Claude says it can't do something, it
+doesn't mean it can't do it. It just
+probably means it doesn't want to spend
+credits doing that thing because it
+doesn't think it's necessary. It wants
+you to find the easier way. Because
+Anthropic, aka the owner of Claude,
+wants to save money. So, push back. Push
+back. Like, what do you have to what do
+you have to lose by pushing back? People
+pleaser. Not against AI. So, it's still
+trying to get the audio from the video
+cuz I want Claude to tell me if that's a
+good video or not. If it's not, I'm
+going to push it anyway cuz I don't want
+to take another one. If it is, great.
+So, websites live and meta media library
+video is uploaded. It's right there.
+Cool. So now once Claude is done trying
+to transcribe the video, it can go add
+it to my campaign. Now Stripe is just or
+Replet is just pushing all these changes
+that needs to be pushed all three
+services running yada yada yada. And you
+can see go back to replet that I've got
+three things running at once. Stop dev
+and production from fighting over the
+same web hook. Don't know what that
+means. Catch broken stripe payments.
+Cool. Let organizers view their plan and
+manage billing. It's billing all those
+at the same time. Okay. And the website
+is publishing at the same time. You guys
+watch me buy this domain name good hour
+ago or so. It's already live. It's so
+interesting what Claude is doing. It's
+installing tools to transcribe that
+video. He's like, "Oh gosh, he's right.
+I can I can transcribe it. I just didn't
+want to. We're going on like 5 minutes
+from this. Definitely would have been
+easier for me to uh just tell it what I
+said, but whatever. Let's just go look
+at it. Look at the preview. Okay, there
+it is. Okay. Every permission slip
+signed before the activity starts. Built
+for ward and stake activity leaders.
+Create your event. Text one link to the
+group chat and every parent signs from
+their phone in seconds. No app, no
+account. It's for parents. No chasing.
+Make it send away around four clicks.
+Set up your first event before you pay
+$13 a year when you're ready to send.
+Look at that. Send link. Cool. Watch the
+list fill up. Youth conference track
+girls camp out service projects. Design
+for the real world. Touch signatures.
+View pricing. Lifetime yearly. I love
+that. That looks great. Subscribe
+yearly. What happens? Okay, check out
+failed. Checkout failed. That's one of
+the what one of the commenters said. So,
+what happens when an error happens,
+which will always happen. I just
+screenshot it and I'm going to drag it
+over to Replet.
+Seems the checkout links aren't working.
+I need to be able to accept payments for
+this ASAP. Get on it, please. Always say
+please and thank you to your AI. Okay?
+Because once they're embodied, we don't
+want them to come kill us. That's just
+the fact of the matter, okay? I should
+say we want them to be a little less
+likely that they'll come kill us cuz
+they probably will anyway. Okay? So
+Claude was not able to read it. Uh, I
+pulled the audio, but the transcription
+model has to download from a server.
+yada yada yada. All right, I'm just
+going to tell Claude what I said.
+Okay, I just told Claude what I said.
+Okay, Replet is working on three
+different things at once. And here's
+what I'm going to do. This will be good.
+This will be good learning. I'm going to
+go to analytics.google.com.
+And I'm going to go to admin. I'm going
+to go up here. Uh, I'm going to go
+create account and I'm going to call it
+only waivers. Okay. Go to next. I'm
+going to go central time. You got to
+have Google Analytics. Okay. Uh, Chicago
+time. Cool. Industry, business, small.
+Next. Yes. Yes. Yes. Yes. Why not check
+the boxes? Yes. And then we're going to
+call it web. This is not an app. And
+then we're going to put in the domain
+onlywavers.com.
+And then stream name is the same.
+Enhance measurement. Absolutely. Create
+and continue. Now it's going to give us
+this. We're going to copy that. Okay.
+And then we're going to go back to
+replet. Please add Google Analytics.
+Give it my tag. And it's got that queued
+up, but it's in the queue because it
+doesn't want to confuse itself. So
+checkout fix is live. Publishing will
+put it on your real site. Let's try it.
+Okay. I click pay and it's making me
+it's making me sign in. I don't like
+that. Let's just go through the flow.
+Make and send a waiver in four clicks.
+Okay, I gotta fix that. Okay, we're
+swapping from Stripe Sandbox mode to
+Stripe real mode so we can actually
+accept payments.
+All right, so I'm going to take this
+prompt, which is I don't know, probably
+good enough, but I'm going to give it to
+Claude. I'm going to tattle on it. Okay,
+well Claude's already working on this,
+so scratch that. I'm gonna let Claude
+stay in the mindset of making the ads,
+and I'm gonna go back to Replet and just
+give it give it this prompt. Okay. Okay.
+Finish tripe sandbox.
+Okay, we'll click republish. I click
+republish like it's going out of style.
+Um I don't know if if Replet like
+charges you extra when you hit publish
+or not. Probably does. Whatever. I'm
+just excited to make all the updates go
+live. So, this is a very key update
+here, though. I don't want people to
+have to create an account to generate
+the link. That's that's important. Now,
+I'm very excited to see if the checkout
+link actually works because it should.
+And it's not in sandbox mode anymore.
+So, theoretically, I could get my first
+customer. All right, we've got our
+Google Analytics stuff. I asked Replet
+to do two things at once. Google
+Analytics is in. Now, lid's on every
+page on the site. Pay first, account
+second. Let me check what our login
+system supports. Republish. And then
+let's go to the website and then let's
+just see if I can check out like as a as
+a customer. So refresh. Refresh. Make
+and send a waiver. Okay, that hasn't
+updated yet. I should probably do some
+FAQs, but I'm not going to concern
+myself with that now. Um, when I click
+this, it doesn't take me back to the
+homepage, so I got to fix that. Sign in.
+Get started. Okay, it is really like
+pounding that home. Okay, let's go see
+where Claude's at with its ads. Uh,
+redundant video and copy is a real
+problem. Your video carries the pitch.
+The text carries the specifics. The
+video skips. New copy. Okay, I kind of
+like that. I don't want to take another
+video, but that is better. Oh, that's
+the primary text. That's not the script.
+So, I guess it's just going to switch
+the primary text, the headline, and the
+description in the ad to better match
+what I say in the video, which means I
+don't have to say another video. That's
+great. Okay. Ad set. Upload the video.
+Tell me the Facebook page it runs under.
+Okay.
+video is now in meta. Make the daily
+budget 200 instead of 20 because I want
+results as soon as possible. I can pause
+it or turn it off at any time. Push it
+live ASAP. Turn on closed captions.
+Okay, let's go check in on Replet.
+Pushing some changes. There issue
+publishing your artifact. So now, thanks
+to the fact that this is an agent, an AI
+agent, aka an AI that will go out and do
+stuff for you. replet agent 4. In this
+case, it found an issue and it's going
+to fix it for me with an agent. And I
+click that twice. So, let's see what
+we've got going over here. Over here,
+it's fixing web hooks or something over
+here. It's generating some images based
+on my prompt. And then over here, this
+is like the main build. So, this is
+already going to be fixed. And click
+republish.
+Approve and publish. Okay. Claude is
+basically asking for permissions to do
+some heavy lifting in my meta ads
+manager account. U and I said yes.
+Technical constraints ads update entity.
+Okay. Conversation's getting a little
+long. So it's compacting it. Okay. The
+full guest flow works end to end. That's
+what replet's telling me. Draft event
+Stripe checkout web hook activates the
+link. Stores the pending account and the
+clerk invitation email went out. Now
+checking the user interface. It looks
+right. Verifying the account claim step
+that a user signing up with the payment
+email inherits the plan and event. Okay,
+let's look at the preview. Okay, look at
+that. It fixed it. And look, even that
+is fixed. I didn't even ask that. It
+fixed itself. I when I click the logo,
+it goes back to the homepage. Make and
+send a waiver in four clicks. Trek. I
+went on Tre as a 16-year-old. It changed
+my life. It was awesome. When is it?
+Let's look at the calendar. Ooh, okay.
+October 14th. Cool. Generate my link.
+Oh, you got to pay. Let's do the yearly
+plan. Oh, my screen went away. I went
+through the sign up flow.
+Uh, I went through the signup flow and
+it work rate until I clicked on the $13
+link to pay. Stripe screen got stuck
+loading here. Okay. Now, okay. Okay. If
+I go to the public website, which anyone
+in the world can see now, and I go
+through the signup flow, there it is.
+Pick a date. Then I'm going to stop
+sharing my screen in case it shows my
+address. Generate my link. Pay 13 a
+year. I just want to see if this same
+glitch happened. And it did not. Um, and
+it's not showing my address either. So,
+I'm going to This is what happened. It
+worked fine in the real world. Now, it
+says sandbox, but this is on the
+internet. And it looks like it's going
+to let me pay, but it also says it's a
+sandbox. So, I don't want my address to
+autofill. So, I'm going to change back
+over to Replet and try to actually pay
+myself so I can see if this works. Even
+has Apple Pay. How cool is that? Okay,
+it's accepting my card. Put in my zip.
+Okay, subscribe. Your card was declined.
+Your request was in test mode, but used
+on a non-est card. Okay, that's fine.
+This is very fixable. It's still in test
+mode for some reason. So, it kind of
+makes me want to cancel this request to
+fix the UI on the signup flow because I
+think in the real world it works. So
+remove Stripe test mode. So I can
+actually accept payments test/sandbox
+mode. Okay, it says my video is missing
+from the ad account.
+Okay, the API has no caption toggle, so
+I have to do that myself. A pixel with a
+purchase event on the Stripe success
+page is a 15minute replet prompt. Okay,
+I do need a pixel. Now, a pixel is how
+my Facebook ad can optimize for
+conversions, right? Because the person
+that clicks on ads is completely
+different from the person that buys
+things from ads or the person that adds
+stuff to their cart is not necessarily
+the person that buys from ads. So, with
+the pixel, you basically get your
+website to talk back to Facebook and
+say, "Hey, that person that you sent,
+they actually purchased, right? Can you
+find more people just like that?" And it
+[clears throat] will. So, it's
+important. All right. It can't find it.
+Yada yada yada. Wrong library. Open the
+video in that folder. Copy the URL. I
+can do that. Facebook page is currenter
+office.
+Give me the prompt to give to replet to
+get what I need for the pixel. And then
+we're going to go back to meta ads
+manager. And then over here, we're going
+to go to here. Media library
+only waiverss
+video. Here we go. Uh, where is it?
+Okay, sorry. I got to change my screen
+again because I don't know what it's
+about to show. So, I'm going to go back
+to Replet. Okay, this is taking a bit.
+It's taking a good minute. We'll hit
+publish. I'm going to go back to meta. I
+think I figured it out. I think I
+uploaded the video to the wrong place.
+It looks like Facebook uh glitched out
+on me because I added it to the right
+place, but it wasn't the right place.
+So, I'm going to add media, add video,
+do the same thing all over again. Image
+3879.
+All right. I really think meta just
+glitched out and it I uploaded the video
+to the wrong ad account because you can
+see all these other videos here uploaded
+within, you know, this year. This is my
+active Meta Ads Manager account. So,
+it's actually uploading to the right
+place. Finished. Cool. It's going to be
+there right at the top, I imagine. And
+then I'm going to go tell Claude, go
+find it now. Oh, these are images. There
+it is. Cool. Okay. So, how cool is this?
+What Claude spit out. So, I could just
+say replet, you know, give me a pixel
+for meta, but I had Claude, you know,
+make an overkill of a prompt for me. And
+there's a lot going on here. I don't
+know what it means, but it looks cool
+and it looks like a lot. So, let's go
+give it to Replet. Copy. Paste. Boom.
+Okay. And looks like all of my tasks are
+done. Let's go ahead and hit republish.
+Nothing's broken. Okay. One publish
+attempt caught my work mid change. So,
+me over here saying hit publish, hit
+publish, hit publish. Actually, don't
+don't do that because I broke my own
+thing. Uh, okay. So, I need to go
+generate different API keys. I thought I
+was just going to use the one I already
+have in Replet, but it's not. So, I'm
+going to open that in a different page
+because I definitely don't want y'all to
+see that. I'm going to create secret
+key. I'm going to use my Touch ID to
+validate my identity. And I'm going to
+stop sharing my screen for a minute so I
+can put this API key in here. And I just
+told uh Replet, give me the field to
+enter my real Stripe API key. Okay. So
+to do that, you're going to go to
+settings and then secrets and then new
+secret. I'm going to go ahead and put in
+my Stripe API key. Let's go check on
+Claude. It's looking for my video. So
+right now Claude is asking for
+permissions to fetch videos in my
+Facebook ads account or to create an ad.
+And I think it found it cuz now it's
+making an ad. This is so cool, guys.
+This is so freaking cool. Like, just I'm
+using like PhD level experts that would
+cost thousands of dollars an hour,
+multiple at the same time. A coding
+expert, an ads expert, copywriting
+expert for like well 200 bucks a month,
+right? 250 a month. Most of that is
+clawed, but all right, guys. It's live.
+It's a freaking live. All three levels
+active. Campaign 200 a day. Ad set
+active ad active. Yourself a video under
+the corner office page. Learn more.
+Okay, it's going into the meta review
+queue first. So, we've got like a live
+ad and the business isn't even live yet.
+That's how you should do it. Sell it
+before you have it, guys. I've been
+saying this. Come on. Wonky cost yada
+yada yada. Captions. Okay, I can do that
+myself. Pixel. Oh, I still need that. At
+$200 a day, you'll roughly get one to
+200 landing page views a day. You need
+about 15 sales a day just to break even
+on ad spend, which almost no culture.
+That's okay. That's okay. Lose money on
+year one revenue. Year one, dude. Come
+on. Day one, week one. Your real bet is
+each buyer's word has 20 plus other
+units watching. That is my bet. Referral
+footer in every signed waiver email a
+lifetime value past year one. If you're
+judging this on week one rorowaz, you'll
+kill a campaign that might be working.
+Okay, we still have to give replet agent
+or our pixel prompt. Okay, I'm going to
+swap back over to the replet screen.
+That's cool. You toggle between design
+and build. I've never done this before.
+Okay, we're going to go back to build.
+Uh, okay. Finish Stripe sandbox setup.
+Open publishing.
+Are my stripe keys good now? Probably
+not. Look at this. A publishable key, a
+secret key. I don't know what the
+difference is. I guess it needs both of
+them, but I only saw a place to put in
+one, so we're just we're working through
+it. That's what you got to do. So, right
+here, Stripe API key, but there's only
+one field, so don't want to click that.
+Confirm the live site is accepting real
+cards after republish. So, I'm going to
+go to my site in a different window and
+I'm going to do this. I'm just filling
+it out. Generate my link. $13 a year. I
+don't think it's going to work yet, but
+it's telling me to check it. So, I'm
+going to I'm going to check it. Card.
+Cool. Password. I know you can't see
+this, but that's okay. Subscribe. Okay.
+Still in sandbox mode. Still in sandbox
+mode. Tell me what Stripe key you still
+need from me based on what you see in my
+settings. I'm gonna have Replet get to
+work on the pixel stuff and then I'm
+gonna ask Claude how to fix the Stripe
+API key stuff. Copy that.
+Okay, I'm gonna work on Stripe for now.
+Do this. Okay, we're going to go back to
+Claude. Okay, so I asked Claude, "Having
+issues in Replet with the Stripe API
+key. It wants both secret and
+publishable, but I only see a field for
+one of those. Still in sandbox mode.
+What and where to add which key in
+Replet to make this finally work?" The
+secret key is the only one that's truly
+required. The publishable key only
+matters if the code uses Stripe.js. JS
+on the front end. Okay, so I need the
+secret key. I've been using the
+publishable one. All right, so I'm
+instripe create secret key and I have
+it. Okay, so now I'm going to go back
+into replet. I'm going to add it, but
+not I'm not going to show you. Not going
+to show you for obvious reasons. So I'm
+going to click edit and I need to know
+if I leave this checked or not. This is
+the last mile I was talking about, guys.
+Leave it on. So I'm saying the one I
+generated starts with SK live. Put that
+here. Then I'm going to screenshot over
+this and use replet to check. Yes, paste
+it there. Okay, I got a stripe secret
+key. Okay, so go back here. I'm going to
+go back to replet. Paste that in. Okay,
+so now I'm going to share my replet
+screen. Endpoints behave correctly with
+no pixel configured. Site works
+identically. Nothing fires. And I'll ask
+you for the pixel ID. Okay, check my
+stripe key now. We good? So, Replet
+still needs my pixel ID. So, I'm going
+to get that from Claude. Now, keep in
+mind, you can use one Facebook like meta
+ads pixel across multiple different
+campaigns, right? You got it. This kind
+of app, a tree sharing business, like it
+doesn't need to be one pixel for one
+website. Let's see what Claude says.
+Okay, Claude gave me my um pixel ID.
+We're going to paste that in meta pixel
+ID secret and replet. I'm going to stop
+sharing my screen so you can't see that.
+So, I put in the stripe key. I put in
+the meta pixel ID. And then I hit
+publish. So, surely we're not done.
+There's going to be something else that
+breaks, but we should be pretty dang
+close. Meanwhile, Meta is approving my
+ad. It might even be approved by now. I
+don't even know. All right, we're back
+in Replet. We're publishing. Make ad
+tracking survive ad blockers by
+reporting purchases from the server.
+That's cool. Wouldn't have thought to
+ask you that. Okay, look at this. Look
+at all these check marks. Pixel is set
+up and live in the preview. Base pixel
+code. View content. Initiate checkout.
+Purchase on the success page. Event ID.
+Green green green green checkboxes.
+Republish. Done. After it's live, say
+the word and I'll confirm live card mode
+is on. I've also added an option
+optional task. Sending purchase events
+from the server so ad blockers can't
+hide your sales from meta. Worth doing
+before you spend real ad budget. Genius.
+Genius. I don't want to click that while
+it's publishing because I don't want to
+screw up again. But yeah, let's wait for
+this to publish and then we're going to
+go to the website and see if we can like
+check out. Okay. Publishing. Publishing.
+Okay, done. Publishing your app. While
+we go test it, we're going to click
+start on this. All right, so we're
+published. So now I'm going to
+onlywavers.com and let me just share
+this. I'm going to click on make and
+send a waiver in four clicks. Type in
+anything. Go to the calendar, type in
+any date, generate my link, and then I'm
+not going to click on this yet. I'm
+going to stop sharing my screen because
+I don't want it to autofill my address.
+So I'll just walk you through what I'm
+doing. Pay $13 a year. Clicking that.
+Loading. Stripe pages. Open. So far so
+good. Putting in my email. Putting in my
+card information. Fingerprint ID.
+Putting in my zip code. Don't want you
+to save my information for faster
+checkout. Clicking subscribe. Gosh dang
+it. Still doesn't work. Why doesn't it
+work?
+All right. Back to Replet to give him a
+piece of my mind. Live card mode on.
+Still not working. And I know the key is
+good.
+If I do all caps, it's going to know
+that I'm serious. All right, so I need
+to ask Claude what my meta Capi access
+token is. Maybe it knows, maybe it
+doesn't. Okay, asking Claude that. All
+right, so I got to do a couple more
+steps to get the CAPI access token.
+Ignore that task for now. We're going to
+push that through. Okay, I found the
+problem. It's not your key. I checked
+the project settings. The keys you
+entered never got saved. That's not
+true. There's no Livestripe connection
+on file, which is why the site That's
+not true. Open the publishing page. Look
+for the Stripe payment section and
+choose connect. Okay. Got to go
+integrations. Look for Stripe. Click
+enable. Oh my goodness.
+Cancel. Cancel task. Click publish.
+Okay. This is the publish pane. In that
+pane, find the Stripe/Payment section.
+Click the option to connect your
+Livestripe account.
+Okay. Thank you for the URL. Stripe app
+marketplace gave me this page. Install
+app. Okay. Live mode. That's my Stripe
+account. That's what we're talking
+about. Gosh dang it. Come on, man. I've
+never had this issue. I've got a literal
+headache. Okay. Okay. I should I should
+be good. I better freaking be good, man.
+What a rigomearroll. Okay. Done. Check.
+Oh, you better work. Don't Don't tell me
+it works again and then have it not
+actually work. [sighs]
+Okay, I still have to freaking publish.
+Okay, I 91%
+sure that it works now. Okay, it's
+publishing. It's publishing. We're
+waiting. I'm going to ask Claude,
+is my ad approved and live yet? Okay,
+now I guess I could check myself. Boom.
+Approved and live. Active at every
+level. Delivery active. That means
+review pass and meta is serving it right
+now. Learning phase runs 37 days. It
+doesn't take that long, guys. it, you
+know, it it's always it depends. But now
+I'm going to go to the meta ad library
+and just Google it, meta ad library. And
+I'm gonna go see if the world can see my
+ad because sure it's approved, but does
+it appear there yet? And maybe there's a
+delay. There shouldn't be. So this is
+one of my favorite websites in the
+world. You can see anyone's ad. Uh we're
+going to go all ads. We're going to go
+the kerner office. Okay,
+there it is. and it shows nothing is
+active. But I bet you anything that is
+outdated. We're going to check by going
+to my actual Meta Business Suite and
+we're going to go to ads manager
+campaigns. I'm going to share my screen.
+You guys are going to like this. You're
+going to like this. Oh, I hate having to
+switch my screen. I am such a complainer
+today. Look at this. Only waivers right
+there. adsets right there. It's learning
+ads right there. There it is, guys.
+Instead of last 30 days, we're going to
+do today so we can see if it has any
+impressions yet. Aka, has anyone seen it
+yet? August 18th. Loading. Loading.
+Impressions. No impressions yet. But
+that will change within minutes. I can
+almost guarantee it. We're going to
+look. We're going to click edit. Kerner
+office Instagram page. There it is. And
+let's do exactly what Claude suggested.
+And let's go um to display link. So
+that's where it's sending people. Yep,
+there it is. We could say, hey, I want
+to AB test five different descriptions,
+headlines, and primary text. I think
+I'll do that actually. Learn more pixel
+languages, creative testing, 25 to 60,
+um attribution model, standard, $200 a
+day. Now, I think I want that website
+event, right? Yeah. Why would that not
+be checked? Definitely want that. So,
+here's the problem with making changes
+to your ad once it's live. Sometimes it
+has to get reapproved and it could take
+minutes to hours for that to happen. So,
+you want to avoid that as much as
+possible. I'm going to go up here to my
+ad and we're going to go here. Edit
+media. Edit video. There we go. Okay. Uh
+captions. Boom. Generate automatically.
+That's it. I could add a call to action
+sticker. Review captions. There they
+are. Saved a video. You could edit them
+because if it if it You know what?
+Actually, Claude told me to make sure.
+LDS right there. It says it right. Saved
+a video. Okay. Save. So, we've made two
+changes. We've made sure that the pixel
+is tracking website events. We added
+captions. Now, we hit publish. Okay. So,
+we're going to go back to Claude and
+say,
+I just want to make sure that checking
+the box was the right thing. Okay. Hey,
+events manager, check your pixel. I'm
+going to say you go do that
+and we'll see if it can. Man, we're
+Yeah, we're getting hot and heavy in
+here. All right, let's go check on
+Replet. Replet was published. So, let's
+go to the website. I'm going to stop
+sharing my screen because I'm going to
+go to the website. Refresh it just in
+case. Make and send a waiver. yada yada
+yada. Generate my link. Opens $13 per
+year. Click on that. Opening the Stripe
+page successfully. It still shows it's
+in the agent go sandbox. So, I don't
+think it's going to work. Going to drag
+that over to replet. I just yelled at
+replet because I'm an ungrateful little
+brat and I said still in sandbox. I
+published then refresh my site and no
+dice. Fix it ASAP. That's really
+annoying. But what's not annoying is
+that my ad is live. Okay, I'm very very
+happy about that. And if we go back into
+the ads manager, it shows my new ad is
+in review. Oh, but I've got landing page
+views. Holy crap, guys. Oh my gosh.
+I spent $44
+in the first like 10 minutes. Oh man.
+And people can't even buy. Yikes. I'm
+spending $137 per landing page view.
+Hey, that's okay. This [clears throat]
+is Hey, sell it before you have it.
+That's the trade-off. That's the
+trade-off you make. I wouldn't have it
+any other way. Hey, at least I'm failing
+live, right? So, for now, I'm going to
+pause my ad. Okay, I did the hard part.
+I built it. I'm going to pause it. Okay,
+for now so I don't burn money. This is
+Replet's fault. I checked again after
+you publish. This is what Replet is
+saying. Site really is on the sandbox.
+It never got attached. In your replet
+workspace, click on the integrations
+tab. Gosh, dude. I was just trying to do
+this. View all integrations. Let me
+finish reading first. Stripe. Click
+manage. You'll see two sections. Stripe
+API keys. Expand the live. Okay, I'm
+going to duplicate this window so I
+could still do that. Integrations. View
+all integrations. Stripe. Enable.
+Configure. Manage connection. Okay. Test
+connection. Healthy. Live account is not
+connected. Okay. So, I'm going to change
+my screen. Okay. Here's where I'm at. I
+clicked manage connection under Stripe.
+Claim sandbox. It opened a new window
+into Stripe. Okay. The kerner office.
+I'm claiming my sandbox. Okay. I'm
+clicking continue. Okay. Now, I'm
+looking at a fake Stripe account. Okay.
+activate your live Stripe account. You
+can see this, right? Okay, got it. Done.
+Install Repla app on your live Stripe
+account. So, it's showing me like the
+approval page that you guys saw earlier.
+Taking It's just one click. Okay. Okay.
+This is what it showed me when I clicked
+on that last step. You got to click
+this. There's all my Stripe accounts.
+Here's the one I want on refreshes the
+page automatically. Already installed.
+Live mode. Continue. Oh, this better
+work.
+App installed successfully. That is the
+first time I've seen that. Now I got to
+publish. Publishing. Republish. All
+right, this should work. All right,
+we're published. I'm going to ask Replet
+at the same time that I go check myself.
+Okay, blah blah blah. Generate my link.
+$13 a year. Oh my gosh, it didn't
+freaking work for me. I'm so annoyed.
+All right, I'm just waiting for for
+Replet to figure this out. I think I'm
+guessing Replet just needs to fix
+something on their side. This should be
+very simple. Like, this is not rocket
+science here. Okay, here we go. Bug is
+fixed. I'm going to hit republish again.
+In the meantime, for redundancy, I'm
+going to go into my Stripe account.
+Product catalog. We're going to go
+Here's my Stripe account. I'm zoomed way
+in. Two new Stripe products created by
+the API by Replet today. updated today.
+13 per year, $17. So, those have been
+created. So, let's go back here. Once
+this is published, we're going to go try
+to check out ourselves. All right. So,
+now I'm going to go try to check out
+myself. Your store is fully open for
+business. Live payments, live products,
+and ad tracking. All running on
+onlywavers.com.
+When sales start coming in, you'll see
+them in your dashboard. We'll see about
+that. Okay. I'm going to test this for
+myself, and I'm going to even share my
+screen as I do so. So, I'm going to wait
+for this to finish publishing. Oh, I
+also need to add like a a contact us
+form to the homepage because if people
+aren't able to check out, they got to
+reach me somehow, right? So, okay, it's
+published. Refresh. Refresh. Refresh.
+Make and send a waiver. Generate my
+link. $13 per year. It no longer says
+sandbox subscribe. Here we go. 13 per
+year. Come on. Are we in business? Come
+on, baby. Come on. Come on. Why is it
+taking so long? Oh, so it still needs to
+make my link. Of course, it's confirming
+my payment and it's supposedly making a
+the whole thing we're actually doing
+here, a link for this form. We don't
+even know if the product works yet. So,
+this shows like it's broken. It's stuck.
+But when I go in my Stripe account, look
+at transactions. $13. Chris K succeeded.
+I just got paid. How lame would it be if
+I counted that as my first customer?
+Don't worry, I'm not that lame. But it
+works. It works. My website works. Does
+the product work? I don't know yet.
+Believe it or not, that's actually less
+important because we can fix that. But
+if we can't accept money, we can't fix
+that. So, I'm going to screenshot that.
+We're going to go back to replet.
+Okay. I kind of asked it to do a few
+things at once, which I I shouldn't do,
+but I'm impatient. So, I told her to fix
+this. I told her to make sure the link
+generation actually works because it
+might, but we just didn't get that far
+and to add a contact us form. I just
+told Claude that I've had 60 plus
+landing page visits from the Facebook
+ad. Go see if the pixel is good and
+everything is working. I also paid the
+$13 myself and it worked. Do you see
+that conversion in the pixel? Okay, so
+it's working on everything. It's doing a
+bunch of stuff. Just waiting here. I
+might need to come back here and finish
+this up because my kids are going home
+from school and I tried to log off when
+that happens. You can see here Cloud is
+just taking forever. Replet's taking
+forever. Last week I spent 3 hours
+building this only waivers.com. I'm
+using replet.com to build it. I'm trying
+to solve a problem that I actually have
+for myself and that is getting parents
+to sign liability waivers for youth.
+That's actually quite hard to do because
+it's a cumbersome form and there's like,
+you know, what allergies do they have
+and you have to like handwrite it and
+it's just outdated. So, I'm trying to
+fix that so we can all be honest with
+each other here. I worked on the app a
+little bit. So, I'm going to get you
+caught up to speed on everything I've
+done. It's not done yet. I think the
+product is basically done. Surely, there
+are some bugs that I'll find later, but
+I have not started Facebook ads. I
+haven't done any marketing yet except
+for one little thing that has zero
+views. So, I won't even count that,
+which I'll talk about in a minute. So,
+I'm redesigning the homepage a little
+bit to add more trust signals. I want
+people to know that a real human is
+behind this, that I'm behind this, and
+that I stand behind these 13 and $17
+fees that I'm charging and that I have a
+100% satisfaction guarantee, lifetime
+refund policy. I don't care. I'm just
+trying to get a customer. I'm trying to
+get a foot in the door. So, I'm willing
+to do whatever it takes to make that
+happen. I'm going to do some new
+marketing methods. I'm going to post to
+Reddit a couple targeted subreddits and
+I'm going to post to some Facebook
+groups and then I'm going to run my
+Facebook ads because those are already
+set up. Hard part's been done. I just
+need to hit reactivate. Okay, so here's
+what I've done over the last hour. I
+just did one prompt and here is what the
+prompt was. I said add more trust
+signals. If you remember, I took a a
+selfie video for my Facebook ad. I
+uploaded that video to Google Drive. I
+gave the Google Drive link to Replet and
+I said, "Embpage."
+That way, people coming from Facebook
+ads can see the video that they've
+already seen. And you might think, well,
+that's redundant. Why would you do that?
+Because it's a trust signal. It signals
+to them that the video that they just
+clicked on is also on this website. It's
+not a bait and switch. I'm getting what
+I'm expecting. I also said, go to
+chrisjkerner.com.
+Extract info from my bio there because I
+didn't want to have to type out my bio
+and put like a head shot and some bullet
+points of my bio on the homepage as
+well. So they can see that a real human
+is behind this. And then here's my
+replet page. Beautiful. Start. Start.
+Start. And so if you can see these four
+things, we've got an SEO scan happening.
+That's the green one. And then these
+three blue ones are the tasks that I
+just had it start. So let's go back to
+my homepage and see if those updates are
+there. I told Replet to make it a little
+tongue-in-cheek. Add some like niche
+references, some deep cuts. There it is.
+Yes, I built this. Watch it work. No guy
+in a headset. No stock footage of people
+shaking hands. just the actual product
+doing the actual thing. If you are 20 to
+50 years, designed for the real world,
+looks clean. Full transparency. This app
+is new. 100% lifetime money back
+guarantee. Not we've been around since
+2019. I have 50,000 users. Actually new.
+Built in 2025. That's not the year that
+we're in. So, I'll have to fix that
+because I kept watching leaders chase
+paper permission slips around the
+cultural hall the Saturday before every
+activity. That's actually true. The
+waiver process it replaces is about 40
+years old. I like our odds. Don't trust
+me yet. Google my name. I have a
+Wikipedia page. I built four companies,
+yada yada yada. I'm not going to risk it
+for $13. That would be embarrassing. If
+you hate it, I'll refund you. No
+questions asked. I'm the ward member who
+got tired of a clipboard. There it is.
+It pulled all this from my uh website.
+Oh, Wikipedia. Okay, current office.
+Awesome. Get in touch. That works. I
+tested it earlier. 2026 there, but it
+says 2025 in the blurb. Got to fix that.
+We now have This is another thing I did.
+Resources page with one prompt. I added
+a blog that's SEOfriendly. how to send
+liability waiverss. I want to get Chad
+GPT to start recommending me. Still has
+my pricing, but what I'm most excited
+about is this. I now have like a live
+preview page so I can see how the form
+filling out process actually looks and
+feels without having to pay 13 or $17 as
+a phony customer and trying it myself.
+The version of the form that was live a
+few days ago when I last filmed was not
+thorough enough. It didn't ask for
+allergies or emergency contact. It just
+said, "What's your kid's name? Sign
+here." That's not going to fly. So now
+it's like super super intuitive. And I
+used Claude. I'll show you the prompt
+that I used later, but I used Claude to
+like describe in a technical way how
+this prompt should look. Address,
+emergency name, medical info. Look at
+this. None of these apply is the default
+option cuz most people don't write these
+in. If you check yes on any of them,
+then none of these apply. Reverts back
+that way. If no one checks anything,
+then it will fill out the actual form
+with the answers submitted on this page.
+Okay? And then you can add other kids
+and it's super cool. And most of it's
+going to be done on the phone and you
+can just use your finger and sign. So
+pretty dang cool. This is what my app is
+filling out. So in the database of the
+church leader collecting all these
+forms, they're not going to have
+something that looks different than
+this. They're going to have a bunch of
+this exact form that's filled out with a
+digital signature carried over from my
+app. It's going to work. So, all that to
+be said, the homepage is live. Let's
+start marketing this thing. This is
+going to be the fun part of this. So,
+I'm going to start with Reddit. I'm
+using Fable 5 to type a Reddit post for
+me that I can post in the Latterday
+Saint about what I've built. I think I
+have a whole other video about marketing
+on Reddit. There are ways to profitably
+launch products on Reddit, but you have
+to go through the back doors back door.
+In my experience, the best way to
+promote on Reddit is to just write a
+true factual story about what you've
+done and why you did it and not link to
+it. Not even name what it is. Just tell
+your story. And then as it starts to do
+well and you see the views climb and you
+see people are commenting, a answer
+comments telling people what it is cuz
+that's usually allowed. B, you can edit
+the post and add a link or the name of
+your thing near the bottom of the post.
+Sometimes if moderators are really
+strict and grumpy, they'll delete your
+post when you add a link. Usually, in my
+experience, they won't. They'll leave it
+up because you've derisked the post by
+then. The moderators already see that
+their own community loves your post and
+they love you and they can see what the
+upvote rate is. It's 93% of people are
+upvoting it versus downvoting it. They
+can see all the comments, engagements,
+they can see the sentiment, and they're
+like, "Probably going to do more harm
+than good if we delete this post." So,
+we don't want to do that. Okay. But
+Claude wrote a story here that is not
+true. Okay. So, I basically just told
+Claude, "Don't lie." Meanwhile, we're
+going to go over to Facebook. We are
+going to see if I was accepted into any
+of these groups. Okay, this one has
+500,000 members. It's a public group.
+300 likes. Okay, 200 likes. Okay, this
+one looks pretty active. There's almost
+too many people in here and there's not
+a ton of engagement compared to how many
+people are in here, but it looks good
+enough for me to post. So, I'm not going
+to use AI to post this cuz sometimes
+it's faster to just write it yourself.
+So, I'm just going to say, okay, so I'm
+speaking to the pain point and posts
+that have a picture or a video of some
+sort always perform better. Always. So,
+I'm just going to screenshot the waiver
+itself so they know what I'm talking
+about and I'm going to post it and it
+should get approved. You know, different
+groups have different rules. Some groups
+go through like the moderators first.
+Yep, this one's going to the moderators.
+I don't know how long it will take to be
+approved, but it should be approved. And
+then in the comments is where the magic
+will happen. I will talk about my
+solution and basically finish what I was
+saying in that post. Let's go to another
+group. Let's do the same thing.
+Surprised there hasn't been a better
+solution for this. Okay. And it is
+actually interesting. Sometimes I see
+groups that don't have much engagement,
+but if you post like a thought-provoking
+question that is designed to generate
+replies, answers, comments, Facebook
+will start showing it to a lot more
+people in the group than it usually
+shows post to because it sees that this
+post is an outlier. It's getting a lot
+more engagement than normal because
+you're soliciting comments. So, it will
+show it to more people. And sometimes
+it's not that hard to be the best
+performing post in a group even if
+you're brand new. Okay, let's just try
+it. Same thing. and we're going to
+screenshot the waiver again. All right,
+post. Okay, submitted for approval. Now,
+let's go to our Facebook ads. So, right
+before this live stream started, I found
+this post in the Latter Day Saints
+subreddit that's pinned and it says self
+promotion time. 28 days ago, and they're
+encouraging people to promote
+themselves. So, I posted right here. You
+can see 10 minutes ago it was posted. I
+have one view and it's my own. So, I
+didn't expect it to do much, but it's an
+asymmetric bet. If I wanted, I could
+send the link directly to my comment to
+a bunch of friends that are on uh Reddit
+and say, "Hey, could you upvote this?"
+And that would kind of send a signal to
+Reddit that maybe we should surface this
+to more people cuz it can it can sort
+comments however it sees fit. So, let's
+go in here. I want to see how active
+this community is. 3,000 weekly
+contributors out of 53,000 people. Now,
+let's see how that compares. 3,000 out
+of 53,000. This one has 400 out of
+9,800. So that's 4% verse like 8% on the
+other one, give or take. So I win in two
+different ways. This one's five times
+bigger and it's twice as active. We're
+going to go to hot post. I love doing
+this. You can totally see what type of
+post resonates with people. Top post
+this week. Anyone else just not care
+about church anymore? All right, that
+was six days ago. Opening chapters of
+Job, which we've been learning about
+this week. some drama. So, we'll go to
+create post and we're going to paste
+that in there and I'm going to do kind
+of an intriguing title. That looks too
+perfect. So, I'm gonna take it back to
+Claude and say I said add in some typos
+and sloppy grammar. Just a few not
+perfect sentences. Needs to look more
+real. All right, it's a little better.
+It still doesn't look super realistic.
+And then let's go ahead and So, we're
+speaking to the pain points. We're going
+to screenshot it and we're going to add
+the image. Actually, we're not going to
+add an image because in some subreddits,
+it can put it in like a different
+section. So, I'm going to leave this
+image free. Okay. So, it's telling me to
+repost in other communities. Okay. So, I
+will post it in one more subreddit.
+Okay. Start running my Facebook ad
+campaigns again. Posted twice to Reddit
+and it's already removed by the
+moderators of the second subreddit. So,
+that's okay. I have 49 views on the
+original subreddit. And right there.
+Okay. So, we'll go back. Look at this.
+It was removed by the moderators, which
+means they probably don't allow
+crossosting. Like it was an automated
+thing, not manual. So 58 views. It's
+kind of crazy. Like 58 eyeballs on this
+within the first 3 minutes. Literally 58
+eyeballs for free. And I don't have like
+a paid Reddit account. Like this is just
+I don't have a bunch of followers. The
+whole premise of this video is I can't
+use my audience, which is one reason why
+I'm posting to Reddit because Reddit's
+not a place where you really build an
+audience. So 75 views in the first four
+minutes. I'm enthused by that. Now, no
+one knows what it is yet. No one could
+go to my website, but theoretically,
+people will start commenting and I can
+reply to those comments and it's
+tedious, but it's worth it. So, let's go
+over to ads manager. There it is. Okay,
+check the box. There it is. It's
+learning right now. LDS selfie video
+right there. We're going to change the
+date to today. Update. We do not have
+any landing page views yet, but that's
+okay. We're going to AB test. We're
+going to add four more to the primary
+text, the headline, and the description.
+Super easy. We'll go back to Claude. My
+prompt to Claude. Take the one ad and AB
+test five different headline, text, and
+description on it to accelerate my
+learning and results. Also do an audit
+of what we can maybe fix in the ad. Very
+impatient. Don't want to make a new ad
+or get it approved again. Okay, let's
+look what Claude is saying. Any copy
+change is technically new creative, so
+re-review is physically unavoidable.
+There's a version. Okay, we're going to
+duplicate it. multiple text options.
+Dude, no, you do this for me. You add
+the UTMs and those five variations for
+me is what I said. I don't know that it
+can. It only has so many permissions. A
+UTM parameter is basically adding
+something like that to a link so you can
+track where that link came from. It says
+this will reset the learning phase, but
+our learning phase has only been like an
+hour. We ran this this ad on Tuesday for
+like an hour, so I'm not really worried
+about resetting anything. Another thing
+we can do is duplicate the ad and AB
+test it. That way we don't have to reset
+anything. I'm actually going to stop it
+and tell it to do that. Let's see if
+anyone has read it. 192 views, two up
+votes, one comment. Let's look at how
+much Claude is doing for me here. Look
+at that. It's creating ads. That's so
+cool. Like, if you've never run Facebook
+ads before, you couldn't know how
+magical this is. Facebook ads are either
+thousands a month paid to an agency or
+hours per month banging your head
+against the wall. Tedious, tedious, AB
+test, try this, try this, test that,
+watch this, babysit that, fix that, that
+broke, make more creative, more videos,
+more ads, more, more, more. Like, it is
+a literal full-time job. So, to just
+type a prompt into Claude, it's insane.
+Look, done. I even need to reprompt it,
+duplicate it, done. Okay, so now we have
+six ads running, but I'm not sure if
+what it did, which is make five separate
+ads under one ad set, is better than
+just making one ad that has five
+variations of those three things. Is
+making five ads in an ad set a cleaner
+AB test than one ad with five different
+variations of text, headline,
+description? No, it's messier. Then why
+did you do it? All I wanted you to do
+should we still do that or roll with
+this? Said we should roll with it. All
+right, it is it does give me per message
+UTMs as in I can see specifically in
+Stripe where the paying customers are
+coming from which ad whereas if we did
+this all within one ad I couldn't. Let's
+go check on ads manager ourselves. Wow,
+two of the five are already active and
+these three are in review per landing
+page view. So remember, meta is
+optimizing, aka working hard to try to
+find people that are more likely to
+click and actually get to the landing
+page, which is not the same thing as
+merely clicking. Some people click and
+then they bounce. They need to land on
+the landing page and Meta knows that
+they're landing there because I have a
+pixel there. If you don't know what that
+means or how to do it, you just say,
+"Claude, how do I add a pixel to my
+website?" And it will tell you. We're
+going to check on Reddit. 319 views in
+16 minutes. This is one of your top 100
+posts of all time. Four up votes, five
+comments. Gonna go back to Facebook Ads
+Manager. Refresh it. All right, we got
+some views. This doesn't take long. It's
+been like 10 minutes since I made that
+live. Here we go. The original one that
+I posted 3 days ago has 11 clicks, 11
+landing page views. It's reached 3200
+people. The frequency is 1.12, which
+means of these 3,200 people, they have
+all seen it on average 1.12 times. So
+10% of people have seen it twice. I
+think I'm doing that right. And
+[clears throat] I'm paying $1.49 per
+landing page view. Sheesh. That is a
+lot. It can only go down from there.
+Hopefully. I'm paying 456 per,000 views,
+17 link clicks, 96 cent cost per click.
+Okay, so I'm spending a dollar cost per
+click, $150 per landing page view. So I
+think that's like twothirds of clickers
+are ending up on the landing page.
+Clickthrough rate is only 1%. That is
+not good. All right. Now, let me show
+you how to do this. So, you got to go to
+columns, performance and clicks, and you
+go to customize columns. And we can look
+at all of the columns that only we want
+to see. So, I already know they're
+delivering results. I don't need to see
+that frequency. I don't care. I don't
+care when it ends, what the schedule is.
+I don't care about the quality ranking,
+engagement rate. I don't care about any
+of these. I don't care about CPM, shop
+clicks. I do want cost per landing page
+view. And then you can just go down here
+and see what else do I want to see. How
+many 3- second video plays? How many
+through plays, which means 15 seconds.
+Remember, my video, my ad is 31 seconds.
+A through play is them watching at least
+15 seconds. I want to see that. I want
+to see cost per unique click. I don't
+need to see those. Some of these are
+redundant. I'll see that. And then I'm
+going to hit the dropown save as a new
+preset. Only waiverss. So now when I
+have this preset selected, I will only
+see the columns that I want to see. I
+don't need to see actions or reach.
+Let's look at Google Analytics. Only
+waiverss view real time. 49 active users
+in the last 2 minutes. I'm going to make
+sure that my contact us form still
+works. And it doesn't. My contact us
+form does not work. Oh, another thing I
+did over the last few days that I
+switched the email sending service from
+Send Grid to resend. I got them
+confused. I always use resend. I already
+had resend connected to my replet
+account, so I just I use that again. All
+right. Hopefully it fixes the contact us
+form. Go check on ads manager. So my
+cost per landing page view was what was
+it? $1.50. If you look at this, it has
+already dropped over the course of 10
+minutes to 65 from $1.50. So that's
+great. I'm spending 47 cents per unique
+click and 65 cents per unique landing
+page view. Click-through rate, what was
+it? 1% before, so that's gone up 14%.
+We've have 158 3se secondond video plays
+and 23 through plays. Oh, a lot of
+traffic on the website at this point. 22
+users in the last 5 minutes. It was just
+five. So, people are using it. You know
+what? I kind of just want to like only
+show this ad to people in Utah or Utah
+County. highest concentration of members
+of the church in the world. I would bet
+that some of my new ads are active,
+which is why we went from five to 28
+users over the last five or 10 minutes.
+Okay. Yep, there we go. The Crayon story
+video has six impressions in one click.
+Clickthrough rate just went up a little
+bit more. We'll refresh Ads Manager.
+Clickthrough rate went up again from 1
+to 1.14 to 1.3%. That's a good sign on
+this ad. It's already 4 and 1.5% but
+it's a small sample size. Just as a way
+of zooming out, like I used to have a
+lot of heartburn with Facebook ads, how
+much they cost to really learn. But then
+I thought, man, how much is tuition? How
+much is college tuition? Costs $100,000
+a year to go to USC. And I know that's a
+random stat in a random school, but I
+just my best friend Nick went to USC and
+he told me that yesterday. It's like
+twice as much as what it was when he
+went there. $100,000 a year. $400,000
+for a four-year degree. You can buy a
+lot of Facebook ads for $400,000. You
+can do a lot of learning on an offer
+with $400,000. This one's got a 20%
+click-through rate. I should keep
+waiting. So, opportunity score 96.
+That's a grade out of 100. I don't know
+if you remember this, but when we
+started the ads, it was very low. It was
+under 50. But as Meta starts to see, oh
+man, maybe this guy kind of knows what
+he's doing. Maybe the fact that he
+rebuffed all of our sales pitches was a
+good decision for him. Hm. Who
+[clears throat] would have thought? And
+the contact us form is now fixed. One
+prompt. You heard the ding in the
+background. I just sent myself a message
+on the contact us form and it is fixed.
+Also refreshing Stripe. Oh, okay. We got
+a lot of impressions here now. See, this
+is where all those Google Analytics
+visitors were coming from. We got even
+more now, close to 30. Look at the
+click-through rate. The more
+impressions, the more accurate this
+number, right? Because these are very
+small sample sizes. But this one has 8%
+of the impressions as this one. 15 times
+better click-through rate. I like what I
+see here so far. Uh, I wish I could see
+who these ads were being shown to. Maybe
+Claude knows. All right, we're going
+over to Claude. We're checking on the
+MCP. I said, "How can I see where these
+ads are being shown to? My API access
+can't split stats by location, but ads
+manager does in two clicks." Campaign
+breakdown menu by delivery region. Okay,
+let's go do that. Breakdown. Okay, here
+we go. Geography region. California,
+Florida. Where's Utah? 41. Come on,
+dude. I mean, either it's magically
+finding members of my faith in all of
+these states, which it could be, but I
+don't I don't like this. Most of these
+states have 3% members of my church. I
+don't think it's that good that fast at
+finding them. All right, I'm going to
+tell Claude to fix it. So, I'm going to
+screenshot this big problem. Those
+states do not dominate. Show in Utah
+only or even Utah County only. Make the
+change ASAP. And it might need to like
+make a new ad. I don't know. Okay. Wow,
+it fixed it. All right. That's so cool.
+That is so cool. Utah only men 20 to 60
+hard age cap kept. All six ads still
+active. No re-review. Takes effect.
+You're right to call it. Meta is
+optimizing for cheap clicks anywhere. I
+would push back on Utah County only.
+County level isn't a meta option anyway.
+Good to know. Okay, cool. Let's based on
+the screenshots I sent, I want to see
+that if there's any correlation to
+success in those LDS heavy states or
+not. That's interesting. I had 7.3%
+clickthrough rate on 41 impressions in
+Utah, the absolute highest, which makes
+sense, but it's small sample size, but
+that's what my results could look like,
+right? I was getting 1%. That's seven
+times better early on. So, that has me
+excited, but it doesn't seem to be
+correlated with states that have a lot
+of members of the church. Okay, now I'm
+really excited to see how this does.
+Still no approval on the Facebook
+groups. Reddit seems to be dying down.
+We're at 1,400 views, but this is the
+number eight post on the Latter Day
+Saints subreddit today. So, there's
+something. All right. So, if we go to
+Google Analytics in real time, we'll see
+Utah is dark blue. That's looking great.
+Pricing. Three people are on the pricing
+page. Create a waiver. Six people are on
+that. So, people are going through the
+funnel. Form start. This is looking
+good. All right. I'm going to refresh
+Stripe.
+[laughter]
+Okay. Okay. I see a 13 in here. I
+haven't clicked on it yet. I'm going to
+change my screen over. So, this is my
+real Stripe page. You can see the
+timestamps the day. These 19 and $38.
+These are business plans that I sell for
+my YouTube videos. Okay? They come in
+right here. But right here, invoice
+subscription creation. So, this one
+right here, this is me. This is my test
+transaction that I did this morning,
+right? And I can't click on it because
+it's going to show my home address, my
+number, and everything. This looks
+exactly like this, but this is not me.
+All right, this is a different card
+number. And this happened minutes ago. I
+think this is a customer. I think this
+is our first customer. But let me click
+into it. I'm going to change over to
+Google Analytics so I can see actually
+who it is. Dude, the first dollar for
+any business is the best dollar in the
+world. It will never get old. I don't
+care if it's literally $1, $1,000,
+doesn't matter. We got people in Utah,
+Idaho, Spanish Fork, Truella. Okay, let
+me click into Stripe. Let's go.
+Boom. My dog just jumped. Sorry, bud. He
+was asleep. [sighs] We got a customer.
+Only waiverss, yearly plan, 68 cents in
+Stripe fees. Idaho. It's not even in
+Utah. It's in Idaho. It's probably that
+person that's been browsing in Boise
+who's still on my website in Boise for a
+while. So, there it is, folks. We did
+it. I've clearly lost money. I've spent
+probably around 100 bucks in ads so far,
+including the time I spent offline six
+hours building this app to make $13. But
+I feel amazing and I'm going to reach
+out to this person and wonder like what
+are they doing? What are they using it
+for? Yes, LDS Dr. Pepper is $13 in my
+Stripe account. This is real. It's
+confirmed. Card ending in 2525. I think
+that's that's what it was. Beautiful.
+Guys, thank you for watching. Thanks for
+hanging out in the Ker office. Uh this
+has been fun. If you want me to do this
+again, then let me know and I will. Love
+you. Bye-bye.

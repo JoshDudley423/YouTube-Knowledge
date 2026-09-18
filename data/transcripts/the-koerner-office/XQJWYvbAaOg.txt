@@ -1,0 +1,273 @@
+There's a huge advantage to being first.
+Hence the phrase first movers advantage.
+Well, today we're going to use AI to be
+the first mover in any category we'd
+ever want. We're going to use a couple
+of drag and drop tools to create an AI
+agent that will go out there on the
+internet and find trending topics for us
+in whatever categories we find
+interesting. And then, of course, we're
+going to use those trending topics and
+the advantage of being first to monetize
+that. Think of the advantage that a
+first mover has. They get 80% of the
+attention or the market share or
+whatever. And then the next 20 movers
+get the remaining 20% combined. So, like
+if a new cold plunge study drops and a
+creator is first to break it down and
+analyze it and break the news about it,
+he's going to get 10 million views. And
+the second creator to do the same thing
+is going to get 2 million views, maybe.
+The third might get 200,000 views. But
+it's hard to be first. We only have so
+much time in a day. So, we're going to
+build an AI agent to do just that.
+So, to build this I'm going to use two
+different tools. One I've talked about a
+few times is called Open Claw and it's
+basically a personal AI assistant that
+runs on your server or whatever server
+you want and you can talk to it or
+prompt it or ask it to do things for you
+through Telegram, Slack, WhatsApp, etc.
+And the second tool we're going to use
+is called Hostinger, which is a great
+tool to use in tandem with Open Claw
+because you can install Open Claw on a
+Hostinger server because most of us
+don't have the technical knowledge or or
+wherewithal to do it any other way. Much
+easier. So, when we put these two
+powerful things together, our agent will
+run 24/7 even while our laptop is
+closed. Whereas if our laptop were our
+server, then we'd have to leave it on
+and running and unlocked in order for it
+to run. Or we'd have to go spend $700 on
+a Mac mini plus a monitor and mouse and
+keyboard, etc. so we can, you know, fix
+it manually when it breaks. We don't
+have to do any of that cuz we have
+Hostinger. Okay, so to start we are
+going to go to this website
+hostinger.com/kerneropenclaw.
+We're going to hit get started and
+choose managed Open claw. So, there's no
+setup, there's no per agent fee, no
+coding involved, and you can run as many
+bots or as many automations as you want.
+It's got built-in security, it's way
+more affordable than a Mac mini, yada
+yada yada, you get the point. We're
+going to use promo code kerneroffice for
+10% off. Let's go ahead and check
+instant web search so we can browse the
+internet. That's going to be a big part
+of this, and it's free anyway, so why
+wouldn't we? And we'll go ahead and
+click continue. Okay.
+We're up and rolling. Okay, we're going
+to click set up here. I do prefer Claude
+to uh chat GPT, so I'm going to enter my
+Claude/Anthropic
+API key. So, I'm going to do that by
+Googling Anthropic API key, logging in,
+naming it Hostinger, and click add.
+There it is. Go back here, click
+Anthropic, paste it in, next, and it is
+setting up right now. Should only take a
+couple minutes. Also, I could have paid
+an extra six bucks to just have all this
+ready for me, in which case Hostinger
+would just give me an open AI key for
+Claude or open AI or whatever. But since
+I already have an API key and I use it
+actively, I didn't feel the need. But if
+you're not building other stuff with an
+open AI or Anthropic key API key, then
+you might as well use that. It's worth
+it. Okay, done. Uh that took about 3 and
+1/2 minutes. I can choose between
+Telegram and WhatsApp. I'm going to
+choose Telegram because I already use it
+for other stuff. Okay, you can use
+Telegram on your desktop or on your
+phone. I already have it on my phone, so
+I'm just going to show you the screen
+recording right here. I'm going to open
+in Telegram, and it says search for
+BotFather, b o t, BotFather, there it
+is. Open it. This is just a mini app
+within Telegram. Okay.
+I'm going to name it tkopod bot, create
+bot. Just do exactly what I'm doing.
+It's giving me a key, and I'm just going
+to copy that key, and then enter that
+token right there. And today I'm
+grateful for being able to copy and
+paste between iPhone and MacBook, and
+vice versa. Very convenient. Okay, now I
+got to go back to Telegram, search for
+my bot username t k o pod bot. There it
+is. Start. We'll do {slash} start. Okay,
+it's giving me a code. I guess I didn't
+need to do {slash} start. It did that
+automatically for me, but my code on my
+phone matches the code on my desktop, so
+I'm going to click approve, which just
+means that these two are talking to each
+other successfully. Okay, we are live.
+That took all of like 7 minutes. Let's
+go ahead and give it a job to do. We're
+going to click this big black button
+called open claw, and here's where we
+are. We've got a chat window. This is my
+open claw that I can manage from
+Telegram on my phone, Telegram on my
+computer, or from my Hostinger server,
+which is what you're looking at right
+now. Okay, here's my prompt. You are a
+trend research assistant for novel small
+business ideas that are approachable.
+When I ask for ideas, search the web for
+the top three trending novel and
+approachable business ideas and stories
+of people that are building cool
+products or services. For each topic,
+write a one-sentence summary and suggest
+one content angle I can post about
+today. Send it as a clean numbered list.
+Okay. Now, keep in mind, this is for me.
+This is for my podcast. I'm actually
+building this for my personal needs. You
+can change this prompt to whatever you
+want. If you don't know how to write a
+good prompt, then ask Chat GPT to write
+a good prompt for you for this purpose,
+whatever it is you're looking for. Okay,
+we're going to hit enter. Okay, and you
+can see here that it's successfully
+browsing the internet, which is the free
+thing that I checked it when I paid for
+this plan. It's using the Brave browser
+and Google. And if I wanted to be even
+smarter, in my opinion, I would go to
+config right here on the left and choose
+a different model. It's using Haiku,
+which is a a fairly cheap and somewhat
+old, at least the AI world is kind of
+old, a Claude or Anthropic model. I
+would prefer it uses Opus 4.7, which is
+the newest and pretty incredible. Now,
+just to confirm that web browsing is on,
+we're going to go to skills, and then
+we're going to scroll to the bottom.
+Uh and you can see browser automation is
+already toggled on. So, skills are
+basically skills that our Open Claw
+agent has preloaded that enables them to
+do things like send iMessage with blue
+bubbles or add to our Apple Notes app or
+access One Password, which is a password
+manager, access GitHub, etc. We can
+build our own new skills, we can add new
+skills from external sources, or we can
+use any of these 52 preloaded skills
+inside our interface right here. Okay,
+so you can see here that I'm having
+issues with my web search, so I've got
+to fix that. I'm going to go to skills,
+and I'm going to search under ClawHub
+web {underscore} search, and then I'm
+going to install that. Okay, this will
+just make this work more cleanly than
+that. And then I'm also going to search
+web {underscore} fetch. Okay, I'm going
+to scroll down to this one. Install.
+Okay, you can see there at the top
+they're green, they're toggled on, and
+then I'm going to turn off browser
+automation. Then I'm going to go back to
+chat, and I'm going to say, "Okay, I
+enabled skills to make this possible.
+Try again." Awesome, it's working. Boom,
+look at that. That took like 15 seconds.
+Okay, here are three of the hottest
+novel and approachable ideas right now.
+Slowly, a platform to create a duh duh
+duh. Says
+Okay, low barrier to entry, high demand
+problem. I love it. This is relevant,
+it's new. If I were to further refine
+this prompt, I would ask for ideas that
+are not just technical or
+internet-based, but home service
+business ideas as well. But, for all
+intents and purposes, it is working.
+Okay, now I'm going to go to my phone so
+you can see this works on both devices
+and in two different windows, one
+Telegram, one Open Claw within
+Hostinger, and I'm going to say, "Okay,
+find three trending biz ideas from this
+last month or two in the home service
+niche with specific stories attached to
+them." And you can see up top that it's
+typing. All right, okay, it's doing a
+bunch of complicated-looking stuff. I
+don't know what pinching means.
+Sounds kind of weird. Okay, you can see
+that my input on Telegram on my phone is
+duplicated over here on my desktop as
+well. Okay, here we go. It took about a
+minute. Professional network for
+construction and manufacturing, Uber for
+cleaning services marketplace, handyman
+services app monetization group. Okay,
+awesome. It gave me a content angle.
+Now, if I wanted to take this a few
+steps further, I would train this agent
+on my content, on my voice.
+I would upload transcripts from previous
+episodes so it knows what words I like
+to say, how I talk, my my vocal
+patterns, etc. So, as it stands, this is
+really cool, but it's not much better
+than a Google search, right? Or a Reddit
+search. So, to level this up a notch, I
+would integrate it with some other tools
+like Zapier or my inbox, my Gmail, or
+Twilio, which is for sending text
+messages, so it could text me or call me
+or whatever I prefer anytime a new crazy
+incredible business idea or story drops
+that might be relevant to the type of
+content I post about. That way I don't
+have to baby sit it or ask it to go find
+stuff for me. It can just always be
+looking. Now, let's say I wanted to
+start an AI implementation agency that
+helped small business owners with their
+customer service using AI agents such as
+OpenClaw. We can use the same Hostinger
+plan that we just paid for, the same
+OpenClaw install with no extra cost, and
+it's going to run 24/7 and won't skip a
+beat. Okay, in conclusion, speed has
+never been more important than it is
+today. With AI tools seemingly running
+the world more and more so every day,
+we've got to be first. We've got to be
+first to market, first to launch. We've
+got to be quick. And you're never going
+to be faster than an AI agent. So, if
+you're not super technical like me,
+Hostinger's great. They're a partner to
+the podcast. Go to hostinger.com/kerner,
+OpenClaw, use KernerOffice as a promo
+code for 10% off. You can get the link
+in the description, and we'll see you
+next time on the KernerOffice.

@@ -1,0 +1,292 @@
+What are the holy grails of businesses?
+Agency businesses and SaaS businesses.
+But they have their drawbacks. Agency
+businesses are easy to launch. They're
+high ticket, you can charge $1 to $5,000
+per month, and they spit off cash. SaaS
+businesses have amazing exit multiples.
+You can sell them for 5 to 50 times
+annual recurring revenues. But there's a
+fundamental problem with both of those
+businesses. Expertise. If you want to
+launch a pay-per-click agency, you have
+to really know pay-per-click inside and
+out if you want to charge 2,500 bucks a
+month. If you want to launch a SaaS, a
+software as a service business, you have
+to be a developer or pay developer and
+wait a long time to get product market
+fit and then to acquire customers, maybe
+at $10 a month, $50 a month, and then
+hit scale. But every now and then I come
+across a tool that makes me feel like
+we've jumped 10 years forward in the
+future. When I do find tools like that,
+I generally set aside an entire night to
+stay up and go down all the rabbit
+holes. And then usually by about 11:30,
+I sadly discover, "Oh, okay. So, this
+really doesn't do everything that I
+thought it did. Let's go to bed." But
+every now and then, maybe once every
+couple years, I don't go to sleep
+because it does even more than I thought
+it might. And my brain is just buzzing
+with opportunities and ideas and
+businesses. And I found that business in
+HighLevel. I can't understand why no one
+is talking about HighLevel. Some people
+refer to it as GoHighLevel, that's the
+domain name, but it's called HighLevel.
+And I'll be honest, in the first couple
+years I'm like, "Oh, this is another
+ClickFunnels." Yeah, it's about time
+ClickFunnels a worthy competitor. Looks
+like these guys are going to do it. And
+then they caught up to ClickFunnels,
+which is a billion-dollar company. And
+then they surpassed them. And then it
+was like, "Oh, these guys are going
+after Zapier now. Oh, and they're going
+after HubSpot as a CRM. Then maybe
+Mailchimp as well cuz they do email
+marketing. Oh, wow, they're going after
+Twilio, a publicly traded company, cuz
+they have SMS automation. Google Voice,
+Leadpages, Pipedrive, Calendly,
+Trustpilot, Podio." And this honestly
+blows my mind because almost always when
+a company tries to be everything to
+everyone, they're nothing to no one. But
+yada yada yada, I'm not here to brag on
+HighLevel. I'm here to show you hundreds
+of ideas of businesses that you can
+launch on top of HighLevel, where you
+can white label all the hard stuff to
+HighLevel, and you smile and interface
+as the business owner and charge 200 a
+month, 2,000 a month, whatever you want.
+So, this video will plant some ideas in
+your head, and it will give you ideas on
+how to find more ideas of your own.
+Listen to me really quickly. There are
+hundreds of businesses making seven
+figures and even eight figures a year,
+and they're solely just built on
+HighLevel. That's it. You got a pretty
+landing page. Sometimes you have paid
+ads. Sometimes you have a creator behind
+it. Maybe it's text message marketing.
+Maybe it's a reservation reminder app
+for restaurants. Maybe it's a reputation
+management app for plumbers. Maybe it's
+a CRM for lawyers. There are thousands
+of possibilities. Let's say there's a
+thousand industries and a hundred ways
+you can serve them. That's a hundred
+thousand different business models you
+can build on top of HighLevel for a $500
+month agency account. You can have
+unlimited sub agency accounts with close
+to zero marginal cost increase. But, I'm
+getting ahead of myself as I always do.
+So, let's back up. By the end of this
+video, you're going to know five things.
+One, what is HighLevel? Two, what is
+white labeling? Three, a lot of ideas of
+what services to white label. Four, I'm
+going to provide a repository of ideas
+of how you can find your own white label
+service ideas. Literally over 10,000
+different ideas. And number five, I'm
+going to show you how to implement these
+ideas. So, you can start your own SaaS
+business or agency and charge one to
+five thousand dollars a month and
+outsource all the work to a piece of
+software that you pay a couple of bucks
+a month for. So, let's get started.
+Just in the last week alone, I've talked
+to three entrepreneurs that are doing
+the most obvious, easy, simple things on
+the surface, but are cleaning up with
+it. Number one, this guy charges $1,500
+for a new website designed for dentists.
+All he's doing is clicking a button in
+HighLevel to create that for him and
+then inputting his name and his logo and
+swapping out some of the copy.
+$1,500 one time and then $200 a month
+for management. His cost on that $200 a
+month is basically nothing because it
+all rolls up to his master agency
+high-level account. Two, reputation
+management, which is a very simple way
+of saying automatically responding to
+Google reviews on Google Business
+Profile. That's it. You get a review,
+whether it's one, two, three, four, or
+five star, and HighLevel, using OpenAI's
+API, will automatically respond to the
+review. It's one of like 800 HighLevel
+features that's included in their price,
+and people are charging 100 bucks a
+month for it. Three, Google Business
+Profile Review Solicitation. That's it.
+Once a job is completed, or a quote is
+completed, or an invoice goes out, or
+whatever box you check, a text and an
+email goes out soliciting the business
+owner to leave a five-star review. But
+first, it's very sneaky. The first
+question asks is, "Are you happy with
+your service today?" If no, then it
+says, "Please tell us why," and it will
+never ask them to leave a review. That's
+done within HighLevel. If the answer is
+yes, then it leads them to the Google
+Business Profile Review page, where they
+can leave a five-star review. But it
+only sends them there if they know that
+they love the service.
+Freaking brilliant. There's hundreds
+more examples like this, but you got to
+find the customers, right? Where do the
+customers live? Facebook local groups,
+Facebook Marketplace, Google
+Pay-Per-Click, Google LSA, local service
+ads, Thumbtack, Angie's List. Now, I say
+Thumbtack and Angie's List, and you
+think, "Well, how can I find customers
+there? That's a place for them to get
+more customers." No, no, no, no, no.
+Let's say your customers are roofers.
+You're going to go to Angie's List and
+search for roofers in your area, and
+it's going to list out all of the
+roofing business owners that are paying
+thousands of dollars a month to Angie's
+List for more leads. But you can get
+them more leads for less, and they won't
+compete with anyone for those leads. You
+want to fish where the fish already are.
+As in, you want to find business owners
+that are already willing to spend
+thousands of dollars a month to get more
+leads. They're right there listed on
+LSA, Thumbtack, and Angie's List. You
+don't just want to cold scrape a bunch
+of roofing business owners cuz most of
+them are they don't have this in their
+budget. But, we'll get into more of that
+later. I'm going to share my screen and
+go to this website right here. So, every
+year HighLevel has an award ceremony
+called the SaaSpreneur Awards. And they
+present awards to people that aren't
+HighLevel customers, but people that
+build their business on top of
+HighLevel. And they list out publicly
+for the world to see who their biggest
+agency partners are and roughly how much
+money they're making. So, that's cool.
+Yeah, it's cool to try to reverse
+engineer other business owners, but
+that's not what we're after here. We
+want to generate ideas of things that we
+can copy in their niche or in any niche
+or in our niche. It doesn't matter. So,
+I'm just going to take one of these at
+random and pick it. And then we're going
+to look it up. So, to be in the gold
+tier, you have to be a HighLevel agency
+that has 100 or more sub-accounts. Which
+means 100 or more customers paying you
+hundreds or thousands of dollars a month
+most likely. Let's look up DigiWoof.
+Beautiful. It's beautiful. Helping R+
+dog trainers shine in the real world and
+online. I have no idea what an R+ dog
+trainer is. It's marketing software for
+dog trainers. And the average person
+goes to this website and they're like,
+"Oh, wow.
+Jeez, these DigiWoof guys, they're
+smart. They built out a whole marketing
+suite just for dog trainers. How much
+time and money did that take?"
+No, no, no, no, no. They're just
+white-labeling HighLevel. That's it.
+These guys, in order to win this award,
+have to have over 100 customers.
+Let's say they have 200. Let's say their
+customers pay $500 a month, which I bet
+you is very, very conservative. $500 a
+month times 200 customers is $100,000 a
+month, $1.2 million a year. And I know
+what their software margins are because
+anyone can see what HighLevel's pricing
+is. Minuscule, single-digit percent.
+What are their labor costs? This is
+probably a sales guy and a founder. I
+would bet that this company has over 50%
+net margins, which means they're making
+at least $500,000 a year in net profit.
+And they're probably using Facebook or
+paper-click ads to drive targeted
+traffic to this landing page and then
+closing dog trainers over the phone.
+Freaking dog trainers. This This the
+first one I copy-pasted. No prep on this
+video. But let's go to the diamond level
+award winners. These are people that
+have over 1,000 customers, aka 1,000 sub
+agency accounts on HighLevel. I'm going
+to pick one at random. I promise no
+audience plant, no prep work. You know
+me, I'm a procrastinator, so let's go to
+REI Reply cuz I know REI usually means
+real estate investing and I'm in that
+world. So let's check it out. All right.
+Marketing platform for real estate
+investors ready to close more deals
+using real artificial intelligence.
+Okay, first of all, I've been a real
+estate investor for 15 years. Do you
+know how many marketing platforms there
+are for real estate owners or investors?
+Thousands. This is one of thousands. And
+they have over 1,000 customers. And
+let's scroll down and see what the
+pricing is, shall we? Let's see here.
+$99 a month. $99 a month times 1,000
+customers, at least 1,000, $100,000 a
+month, 1.2 million a year.
+Maybe they have 3,000 customers for all
+we know. I have no idea. And it is all
+built on HighLevel. All right, let's go
+back to their page and look up one more.
+Okay, here we go. Get Spanish-speaking
+patients. Oh, this has got to be good.
+All right. Okay, this literally helps
+chiropractors find Spanish-speaking
+patients.
+Oh my gosh. Only chiropractors, only
+Spanish-speaking patients. And these
+guys are in the gold level, which means
+they have at least 100 customers. And
+their pricing isn't listed on their
+website, which probably means it costs a
+lot. So is HighLevel a good CRM,
+reputation management, text message
+automation tool? Absolutely. But we're
+here to make money. We're here to build
+businesses, preferably SaaS and/or
+agency businesses. So I put the link to
+this awards page in the comments. And I
+also put a link to my HighLevel landing
+page in the description so you can get a
+free trial and try all this stuff out
+without spending a dollar because you
+can't get that on their normal website.
+Good luck. Go build a business already.
