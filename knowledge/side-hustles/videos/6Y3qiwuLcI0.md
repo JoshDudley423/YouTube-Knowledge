@@ -1,0 +1,63 @@
+# Q&A: Selling Spreadsheets on Etsy? Here's How to Make $5,000/Month (+5 More)
+Channel: The Koerner Office | https://www.youtube.com/watch?v=6Y3qiwuLcI0 | Published: 2025-01-22
+
+Multi-question listener Q&A episode (8 segments). Note: the bookkeeping segment (Austin's question) duplicates the content in the separate clip "Bookkeeping Basics for Beginners" (video 75d4yWBisD0) almost verbatim — see that note for the full bookkeeping framework; summarized briefly here too.
+
+## Segment 1: Scraping commercial real estate to find grant-selling leads (Mike's question)
+- Context: Mike sells grants to companies (North Texas) and needs small businesses that: are small, have high utility bills, own their own building, and are in specific zip codes — currently found only by physically driving around.
+- Recommended tool: Reonomy (rom.com / reonomy.com) — "the best commercial real estate database" Chris has found (also uses it for finding RV/mobile home parks). Costs ~$450/month but has a 7-day free trial, sufficient to do a full scrape.
+- Process: Set up a saved search in Reonomy with the needed filters (small business type, building ownership, utility profile, zip codes). Because Reonomy charges heavily to export results, have a virtual assistant log in and scrape the saved search results directly rather than paying for export.
+- Cross-reference technique to confirm owner-occupied buildings without driving: separately scrape the same geography with Outscraper (check the box for owner names) to get a second dataset with owner/LLC names. Use VLOOKUP/XLOOKUP (or ask ChatGPT how) to match rows between the two spreadsheets by address, then look for cases where the building's LLC/owner name matches the business name inside it (e.g., "Bob's Plumbing LLC" building matches a business called "Bob's Plumbing") — this identifies owner-occupied small business buildings without physical scouting.
+- Start with a small radius (e.g., one neighborhood) and expand once the method is validated; a second VA can help with matching.
+- Chris's newsletter (TKOPOD.com) welcome email includes a free scraping guide, copywriting guide, and cold emailing guide.
+
+## Segment 2: Selling custom spreadsheets on Etsy (the headline topic)
+- Questioner's situation: enjoys building Google Sheets, already has an Etsy shop (with a partner handling SEO/sales), wants to pivot into building/selling custom spreadsheets (CRMs, sales trackers) to small/medium businesses that lack proper tools — goal ~$5,000/quarter as a side project around a day job and kids.
+- Etsy is a real, active market for spreadsheets — a growth hack demoed live: search "spreadsheet" on Etsy, find sellers who specialize in spreadsheets, and study their store metrics.
+- Case study found live: an Etsy seller called "The Sheet Code" sells a "Family and Couple's Financial Planner" spreadsheet for $8.23; had 24 sales in 24 hours (~$200/day, extrapolated to ~$670,000/year from that single product). Store total: 1,257 reviews across 31 products, 17,000 total sales, prices ranging $8.82-$189.
+- **Technique to reverse-engineer a competitor's bestsellers without paid tools**: compare a single product's review count to the seller's total review count across all products (e.g., 191 reviews on one product / 1,257 total ≈ 15%) to estimate what fraction of their sales that product represents, and by extension which of their many listings are actually top sellers (per the 80/20 rule — ~20% of products likely drive ~80% of sales). Manually tabulate review counts per product (or use a scraping tool) to rank the seller's real bestsellers, since prices/rankings alone don't show this.
+- **Mining reviews for product improvement ideas**: buy competitors' bestselling products, read every review (especially any 4-star-or-lower ones) to find recurring complaints or feature requests (example: customers wishing a budget spreadsheet had an inflation-adjustment toggle) — build those requested features into your own version and use that exact language in your title/description/copy, since competitors "keyword stuff" titles but often don't address what buyers say they actually want.
+- **Where to sell**: "fish where people are fishing" (Etsy, since it already has proven demand) but also test underused channels where there's likely search traffic but little competition — Facebook Marketplace and local Facebook groups were suggested as largely untapped for spreadsheet sales.
+- **B2B version of the play**: go into a local Facebook group, offer a small business owner a free custom spreadsheet (e.g., a dental-patient tracker) to build a relationship and get feedback; then (a) resell a near-identical version of that spreadsheet to other businesses in the same niche, and (b) upsell adjacent needs you discover in the process (e.g., "while building your patient tracker I realized you probably also need a receptionist-hours tracker — want me to build that for $30?").
+- Also suggested: try Etsy Ads on top of organic ranking, since fulfillment cost for a digital product is $0 — ad spend that converts is close to pure margin. And reverse-engineer the same way on Gumroad (an Etsy-like marketplace focused specifically on digital products).
+- Scaling suggestion: once you have "a lot of clients," hire out fulfillment via Fiverr/Upwork and shift into managing those relationships rather than building every spreadsheet yourself.
+
+## Segment 3: Closing sales over the phone (Josh's question)
+- Chris defers heavily to Alex Hormozi's sales philosophy (name garbled as "Alex Rosi"/"horoi" in transcript — clearly referring to Alex Hormozi and his book "$100M Offers," explicitly recommended, "read it again" even if already read).
+- Core advice: the single most important lever in closing deals (phone or in person) is having a "no-brainer Grand Slam offer" — a sufficiently strong, low-risk offer covers for weaknesses in personal sales skill, boldness, or extroversion. Above a no-brainer offer, more aggressive persuasion tactics start to feel manipulative/"slimy."
+- Practical research tactic: get on sales calls with 10 competitors in your industry and take detailed notes on what works/doesn't in their pitch.
+- Stated objections are usually not the real objection — "I need to think about it" usually means "it's too expensive," which usually means the value proposition isn't strong enough or isn't being communicated well enough. Fix by strengthening the actual offer (making it feel "risk-free," making it "feel stupid to say no to") rather than pushing harder on the same offer.
+
+## Segment 4: E-commerce vs. service business as a first side hustle (Doug's question)
+- Chris's explicit recommendation, with the caveat he's more experienced in e-commerce (so may be biased against it): choose a service business over e-commerce as a first venture. E-commerce is capital-intensive, generally low-margin, slow to reach cash-flow positive, and usually dependent on being good at paid ads (or paying an agency, with mixed results) to get traction.
+- Don't form an LLC first — get a paying (or even unpaid, e.g., a friend/family member) customer first to validate the idea; only form an LLC once revenue confirms it's a real, ongoing business (matches the framework in the Bookkeeping episode). Start with a free or below-cost customer to get reps and testimonials, then raise prices from there. "You just don't know [if it's a good idea] until you start to try it" — theory alone doesn't validate ideas.
+
+## Segment 5: Low-cost mattress store idea (David's question)
+- Chris shares real numbers from an outside contact, Nick Hancock (Direct Outlet Charlotte, known on Twitter/X as "the mattress guy," no affiliation with Chris) who sells high-end mattresses online/via Twitter as a part-time business:
+  - Gross margin: minimum 50%, typically 55-60%.
+  - Average ticket: $1,000-$3,000 (Chris uses $2,000 as an example: ~$1,200 gross profit, ~30% net = ~$600 net profit per mattress).
+  - Revenue: $20,000-$30,000/month, part-time, and growing via Twitter/X marketing.
+  - Positioning: undercuts traditional mattress retailers, who reportedly quote $6,000-$10,000 for comparable mattresses.
+  - Logistics: same-day local delivery in Charlotte; out-of-state via FedEx or LTL (less-than-truckload) freight, typically arriving in 3-5 days.
+  - Sourcing: multiple US manufacturers, accessed via furniture trade markets in Las Vegas and High Point, NC — Nick declined to share his specific manufacturer contacts (built over 35 years by his father) but was willing to describe how he'd start from scratch today.
+- Chris's take on a physical "low-cost mattress store" specifically (as opposed to Nick's online high-ticket-mattress-broker model): more complex than the online version — requires a long-term retail lease, holding inventory, and tolerating slow sales days; recommends locating physically adjacent to established mattress retailers (e.g., next to a Mattress Firm) since that's where mattress-shopping foot traffic already concentrates.
+- General principle highlighted: being a "middleman" selling high-ticket items without holding inventory (Nick's actual model) can be very profitable per transaction ($600/mattress) with low complexity.
+
+## Segment 6: Finding motivation to start/persist in business when money isn't the driver (Spencer's question)
+- Not a business idea segment — mindset advice. Spencer sold a business, is financially comfortable, and struggles to find motivation to go all-in on something new.
+- Chris's advice: (1) change your environment — travel, see what businesses exist elsewhere, join entrepreneur meetups/communities and meet people (including those younger/hungrier than you) to get back "in the game"; (2) fall in love with a hobby you have no intention of monetizing (his examples: cooking pizza in an outdoor oven, wood-bowl turning on a lathe) — deep engagement in a hobby often surfaces genuine passion-driven business opportunities, though monetizing a hobby can also kill the joy of it; (3) get an accountability partner/business partner — someone local you work with in person keeps momentum and makes the process more fun, and you'll feel obligated not to quit on a partner. Frames two years since his last exit as "not that much time" and reassures persistence will pay off.
+
+## Segment 7: Business philosophy — starting, holding, and selling businesses (Connor's question, "friend of the pod")
+- Chris describes himself as an impulsive, non-planner "artist" type who has started ~75 businesses; he doesn't view any business as "his baby" (unlike some Shark Tank entrepreneurs) — every business is replaceable, so he's equally willing to sell, keep, or shut down any of them depending on the situation.
+- Recommends reading "Built to Sell" — build every business to be sellable from day one (clean bookkeeping, could be handed off), whether or not you actually intend to sell it, purely as best practice.
+- Decision rule for what to do with an existing business: if it's low-effort/low-attention and just quietly ticking along, he leaves it alone (doesn't bother divesting even if it's not exciting); if it's underperforming AND consuming meaningful time, he actively works to divest it.
+- His model for finding winners: start many things; the ones with real product-market fit reveal themselves by demanding his attention/keeping him "up all night" — those get his time/investment naturally, rather than him picking winners in advance via a formal framework.
+
+## Segment 8: Bookkeeping and accounting for new businesses (Austin's question)
+- Full duplicate of the standalone "Bookkeeping Basics for Beginners" video (75d4yWBisD0) — see that note for the complete three-threshold framework (Google Sheets → business bank account/LLC → bookkeeper/QuickBooks), bank recommendations (Mercury preferred, Bank of America for Zelle support), the advice against chasing credit card rewards across multiple businesses, and the pass-through LLC tax-surprise warning (taxed on net profit, not on what's withdrawn).
+
+## Caveats / risks (across segments)
+- Reonomy is expensive ($450/month) — only economical if fully utilized within the 7-day trial or shared/amortized via a VA workflow.
+- The Etsy spreadsheet reverse-engineering technique (review-ratio estimation) is an approximation, not exact sales data — treat it as directional.
+- E-commerce is explicitly discouraged as a first business relative to services, per Chris's stated (self-acknowledged) bias.
+- A physical low-cost mattress store is a materially different (and harder) business than the online high-ticket-mattress-broker model actually generating the cited numbers — don't conflate the two.

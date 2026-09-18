@@ -1,0 +1,65 @@
+# How Anybody Can Start This $15k/Month Business
+Channel: The Koerner Office | https://www.youtube.com/watch?v=1VjBLSQLAuo | Published: 2025-11-21
+
+Interview with Tim MacLeod ("The Full-Time Flipper"), who flips couches on Facebook Marketplace/Kijiji part-time from rural Muskoka, Ontario (Canada), doing six figures in revenue for 6+ years running. Extremely tactical, script-level detail.
+
+## The business model
+
+- Buy used couches/sectionals (often free or deeply discounted) from sellers on Facebook Marketplace (and Kijiji in Canada — Canada's Craigslist equivalent), do minimal-to-no repair/cleaning ("I don't rehab, I relocate"), and resell for a profit, sometimes to buyers hours away.
+- Started in 2019 out of financial necessity while working as a nurse doing 16-hour double shifts; needed to replace overtime income without changing jobs or going back to school. Prior side hustle was flipping phones/iPads via geographic arbitrage (buying cheap in the city where oversupplied, reselling in an undersupplied smaller market).
+- Origin moment: tried to sell his own couch, lost the deal to a buyer who rented a U-Haul because Tim had no truck — realized truck/trailer ownership was the actual bottleneck, not the couch itself. Started with a cheap fix: put a $450 tow hitch + wiring on his own 4-cylinder minivan-style car (a Mazda 5) and borrowed his brother's utility trailer rather than buying a truck outright.
+- First deal: a free beige microfiber couch, cleaned with just a damp cloth (20 minutes of "sweat equity"), sold for $280 — more than a full nursing shift ($180 net) took in.
+- First half-month profit (July 2019): ~$3,000 profit in ~2.5 weeks working evenings after his full-time nursing job, mostly flipping free couches.
+
+## Progression / scaling strategy
+
+- Deliberately scaled up price points slowly and safely at first (free items → $250 couches → $400 sets) before taking real risk. First big risky buy: a $900 gray Lazy Boy sectional (millennial-gray fabric was in high demand at the time) that resold for $1,500 the very next day with a $150 delivery fee — his biggest, fastest, easiest flip yet with zero repair work, which changed his buying confidence going forward.
+- Current sourcing method: rather than constantly refreshing listings hoping to catch impatiently-priced sellers (described as stressful), does a "big shop" once a week, starting ~30 messaging conversations regardless of asking price — because he's willing to wait for the seller's situation/patience to change (price drops, listing goes "pending" then back to "available" signaling a fallen-through deal). This positions him to be first in line when a seller becomes motivated.
+- Uses a running waitlist of buyer requests saved in his phone contacts (e.g., contact named "W" for "wants brown leather sectional") — cross-references incoming inventory against this list before even buying, sometimes pre-selling before physically picking an item up (sight-unseen except cropped listing photos), though usually items still route through his storage locker "showroom" first.
+
+## Buyer psychology / how he identifies good deals
+
+- Explicitly filters sellers for three traits: impatience (hard deadline — move-out date, house closing, new furniture arriving), indifference (people redecorating with no urgency — low win probability, he doesn't waste time), and ignorance (sellers who don't realize the true value of what they have, e.g., a gifted $8,000 sectional they think is worth $500).
+- Reads context clues in listing photos/descriptions as "green flags": couch already moved to the garage or foyer (signals it's already been replaced and is in the way), presence of a new couch in the background, house/neighborhood signals of higher-value furniture (mentions specifically targeting "Tesla, BMW neighborhoods" in the nearby city for inventory, since urban buyers in that segment often lack trucks/trailers to move furniture themselves — describes this as "an import business" from city to rural area).
+- Explicitly avoids deceptive tactics after one regretted instance of lying (claiming to be buying "for my little sister" to get a discount) — states he now always uses truthful framing (e.g., a polite lowball offer citing the real long drive as reason for a discount) and never repeats that dishonest approach.
+- Messaging approach used to build rapport and extract useful info efficiently rather than manipulate: offers concrete conveniences (can lift solo, will pay via e-transfer immediately, doesn't need the seller's spouse home to help lift) framed honestly as a reliable pickup service.
+
+## Operational/tactical details
+
+- **Keyboard shortcuts (text expansion)** for nearly every stage of the conversation, to move fast at volume: e.g., typing "yep" auto-expands into a templated inspection-video message; a standard "doesn't need any repairs or restorations" (for leather) / "doesn't need any repairs or stain removal" (for fabric) question; "is anyone there to help me lift it, I'll be alone"; "are weekday morning pickups possible"; and a deliberate "just starting to have a peek at options, might get back to you" reply used to avoid seeming overly eager (slow-playing interest raises perceived value) — except when a listing is already priced to sell fast, where he moves immediately instead.
+- **Video inspections**: pioneered sending an unsolicited ~59-second video inspection of the item immediately after a buyer asks "is this still available," showing all the flaws honestly upfront — both to speed up decision-making for his own resale buyers and (originally) to help sellers evaluate items themselves. Claims this practice predates and may have influenced Facebook later adding native video-to-listing support.
+- **Inspection practice for buying**: physically smells/inspects items in person before committing (specifically checks for pet urine odor — cited multiple instances of walking away from "cat piss couches" rather than dealing with cleaning).
+- **Repairs/cleaning are outsourced, not done in-house**: for leather damage, uses a mobile auto-restoration contractor who does dealership lease-return car detailing on the side and gives Tim discounted "cash deals" with flexible turnaround (weeks) in exchange for no urgency. For fabric cleaning/odor removal, drops items off with a professional auto detailer (~$150 to fully clean a couch) rather than doing it himself — explicitly identifies personal cleaning as a bottleneck/procrastination trap he removed by outsourcing, marking the shift from "hobby" to "business."
+- **Equipment**: no box truck — uses a 12'x6' open utility trailer towed by a V6 SUV ("two trucks for half the price"); occasionally rents a 12'x6' enclosed U-Haul trailer for ~$45/24 hours (including insurance) in bad weather, despite its poor aerodynamics increasing fuel cost. Dream equipment mentioned: a 7'x16' aluminum snowmobile trailer for more capacity.
+- **Storage**: rents 5 storage units/"lockers" (three 10'x20', two 10'x25') at a combined cost of just under $1,000/month — deliberately keeps enough units to display inventory as "showrooms" (fully accessible without having to move other pieces to show a couch) rather than cramming units full ("tuna cans"). Was previously at 6 units but dropped to 5 after realizing having too much space made him price too generously/slowly.
+- **Delivery pricing**: charges based on distance; delivery fees become "discouragingly large" (self-limiting demand) around a 3-hour one-way drive; most he's ever charged for delivery was $600 for a 3-hour one-way trip.
+- **Item scope discipline**: deliberately couches-only, despite frequent requests for other furniture (china cabinets, dining tables, etc.) — cites a financial loss on a washer/dryer flip and a self-injury moving a hutch/dining table as reasons for staying narrowly focused. Couches are specifically chosen because they're forgiving to move solo (soft, hard to break, can be "walked" through doorways using body mechanics) unlike rigid furniture.
+- **Dump-run side revenue**: also gets paid to haul away unwanted couches (not resold) — starts at $100 base per pickup, with a flat $38 upsell if there's a mattress inside (e.g., a pull-out sofa bed, due to how his local recycler prices mattress disposal) or extra weight consideration for recliners. Deliberately keeps this a small share of the business (~2-3 dump runs out of ~20 monthly transactions) since he prefers single-sided transactions (get paid, no resale/listing management needed) as "icing," not a pillar.
+
+## Numbers / revenue figures
+
+- **2023 (best year)**: $183,000 in sales; ~$120,000 gross profit after expenses; ~$90,000 personal income — achieved while solo-parenting a 3-year-old part of most days (wife had a rapid full-time teaching career launch) and still playing 75 rounds of golf that year.
+- **Typical/target month**: aims for ~$20,000 gross sales, with gross profit (sales minus cost of goods) usually settling north of $10,000-15,000 after expenses; personal take-home estimated around $80,000/year, gross profit around $100,000/year, sustained "six years running."
+- **October (a specific recent light-but-strong month cited)**: $10,340 in sales from just 7 transactions, $7,240 gross profit — roughly $1,000 profit per transaction average that month, achieved by being selective ("I want a whale or two tunas, I throw back all the bass" — 80/20 filtering for high-margin deals over volume).
+- **Biggest single flip ("Eleanor")**: a Restoration Hardware sectional (retailed new for ~$20,000) bought for $200, sold for $5,200 — had multiple buyers ready to pay full asking price immediately, illustrating that pricing below true value doesn't just sell faster but can leave money on the table (should possibly have listed at $8,000).
+- Personal ceiling on a single "normal" (non-unicorn) couch purchase: ~$2,500 for a couch that would resell as a ~$10,000 sectional; occasional $3,500 buys; a hard pricing gap exists between roughly $3,500 and the next tier up around $5,200 (no $4,000 purchases in his experience).
+- Prefers all listings to be priced north of $1,000, but fills in transaction volume with smaller $650-ish couch/loveseat sets opportunistically.
+- Storage unit cost (~$1,000/month) and vehicle/trailer costs are the primary recurring overhead; no employees — sole operator (has considered hiring a virtual assistant specifically to handle outbound messaging/negotiation scripts at higher volume, since sourcing/shopping is described as the least enjoyable but most critical part of the business).
+
+## Market size / geography
+
+- Operates from Muskoka, Ontario — a rural area of roughly 66,000 people, about 2 hours north of Toronto, with the nearby city of Barrie (~150,000, greater area possibly larger) as his urban sourcing ground.
+- Argues population size barely matters for this business ("everyone needs a couch") — his rural home base functions as a low-competition "private fishing pond" for selling, while he sources inventory from denser urban/wealthier neighborhoods where residents often lack trucks/trailers to self-transport furniture.
+- Deliberately caps his own scale to match what he can personally buy and move at a chosen pace, using storage-unit capacity (par levels) as a natural throttle — when full, drops prices to move inventory; when there's room, resumes buying.
+
+## Advice for someone replicating this
+
+- Framed as an accessible, physically low-bar business: "if you can carry in a stubborn load of groceries, you can make $10 grand a month flipping couches" — you don't need to lift a full couch solo (can lift half, or drag it to a pickup truck edge if already in a garage); explicitly recommends it as a good transitional/side income while pursuing something else, or a way out of a job someone hates.
+- Sells his own paid course teaching the exact scripts/tactics (linked via Instagram bio); mentions former students in California and other US states replicating the model successfully off his shared scripts.
+- Core meta-lesson repeated throughout: identify operational bottlenecks (bad photo lighting, procrastinating on cleaning, indecisive buying) and systematically remove them (outsource cleaning/repairs, use text-expansion shortcuts, batch a weekly sourcing session) — this discipline is framed as the actual difference between treating it as a hobby versus a real business.
+
+## Caveats
+
+- Numbers are self-reported and not independently verified; "net profit" is explicitly called out by Tim himself as "muddy" because personal vehicle/expense allocation blurs into the business.
+- 2025 (the year of the interview) was described as a softer year than 2023, attributed to Tim's own pricing being less disciplined ("not humble enough") for a period, illustrating the model requires sustained pricing/sourcing discipline rather than being purely passive once set up.
+- Relies on regional demand dynamics (his specific rural/urban arbitrage setup) — replicability in other markets is asserted but not data-validated in this episode.

@@ -1,0 +1,40 @@
+# Why Your Cold Emails Get No Replies (And How To Fix It)
+Channel: The Koerner Office | https://www.youtube.com/watch?v=Zpu-eL-PToU | Published: 20251203
+
+Interview with Will Cannon (founded/grew multiple B2B SaaS companies, including "Uply," largely via cold email; has sent 100M+ cold emails over his career). This is a tactical marketing/customer-acquisition skillset applicable across almost any side hustle or small business needing its first customers — not a single business idea, but a channel/playbook.
+
+## Core claims and numbers
+- Will's company reached ~$1M ARR almost entirely through cold email before adding SEO/ads.
+- At his prior peak (cold emailing loan officers/realtors to recruit them), he was sending 5+ million emails/month (~60M/year) from a list of ~1 million people; that kind of bulk volume is no longer deliverable today due to stricter spam/deliverability enforcement.
+- Current volume for his business: ~40,000-50,000 emails/month.
+- 80-90% of cold email revenue comes from **follow-ups**, not the first email — a single-touch "cold email" campaign is largely wasted effort/money.
+- Typical B2B sequence: 10-15 emails spread over 45-60 days. Cadence tightens early and stretches out later: email 1, then +3-5 days, then +2-3 days, then gradually spacing out to weekly as the sequence continues (includes "breakup emails" near the end, though these are now recognizable as a cold-email trope in some industries and should be used carefully).
+- Recommends A/B testing sequence length directly (split a list, send 1-touch vs. 5-10-touch, measure) rather than assuming a fixed "right" number — appropriate follow-up count varies by industry/audience sophistication (e.g., his own market, sales/marketing teams, are themselves professional "peppering" senders/receivers and tolerate more touches than, say, teachers).
+- Case study: a friend (certified financial planner) cold-emails **teachers** specifically (a segment that gets very little cold outreach) with a personalized message referencing an existing relationship with their school district, and books ~5 meetings/day (~100/month) — illustrating that targeting an underserved audience segment with a relevant/personalized angle can vastly outperform generic B2B blasting.
+- Case study: Will's own company's early growth email — subject line "Hey [First Name]"; body: "I found you on LinkedIn and thought this could be of value to you. We built a tool called Uply. It's like ZoomInfo but with real-time email verification, and we're really affordable" — then closed with a low-friction, high-value call to action: "Are you open to trying it out at no cost?" / "Can I send you 50 free leads?" (referencing the concept from Alex Hormozi's *$100M Offers*: "an offer so good you'd feel stupid saying no"). Structure: (1) how I found you / why reaching out, (2) what I do / differentiator, (3) value to you, (4) low-friction CTA.
+- Message format preference: short, plain-text emails (2-3 sentences), not lengthy 8-sentence follow-ups ("ain't nobody reading that").
+
+## Process / playbook
+1. Nail down a narrow **ICP (Ideal Customer Persona)** first — e.g., not "any SaaS company" but "SaaS companies with 50-500 employees, with outbound sales teams, using [specific software]." Real example cited: a founder selling an order-status-tracking tool specifically to auto body/collision repair shops doing $40K+/month in revenue — narrow enough to build a targeted list and message.
+2. "Warm up" prospects before hitting them cold where possible — build recognition/familiarity (name, brand) ahead of the actual pitch so you're not a complete stranger when the real ask lands.
+3. Build the list, then run a multi-touch sequence rather than a single blast — treat follow-ups as the primary revenue driver, not an afterthought.
+4. Technical/deliverability infrastructure at scale (~50,000 emails/month): needs hundreds of sending domains (roughly 2-400), each sending only 20-50 emails/day, to protect domain reputation — small volume per domain, large domain count. Domains need "warming up" over time; deliverability rules change constantly and require ongoing attention.
+5. At small scale (~100 emails/month), no special infrastructure is needed — a handful of domains and a basic Gmail mail-merge setup is enough to start.
+6. Timing: no universal rule — mid-week (Tue-Thu), late morning/early afternoon tends to perform better on average, but results vary by campaign/industry (some campaigns do well on weekends/Fridays; test rather than assume).
+7. **Don't rely on a single acquisition channel** even if it's working well — explicitly advises against "going all-in" on one channel (e.g., only Facebook ads) because channel performance can collapse suddenly (his own cautionary example: ranking #1 via "greyhound SEO" tactics, then a Google algorithm update wiped out that revenue overnight). Recommends deliberately building out multiple channels (cold email + SEO + ads + partnerships/affiliates) even while one is currently dominant, and building a recognizable "mini brand" in your niche (his example: positioning Uply as a known "ZoomInfo alternative" so people search for/recall it by name over time).
+8. Quality over volume alternative approach: instead of scaling to thousands of cold emails, doing deep research on a small number (e.g., 10) of specific high-value targets and crafting a highly personalized (even if still templated/automated) pitch can outperform a much larger generic blast — illustrated by a real unsolicited pitch Chris (the host) received and accepted: a "done-for-you" YouTube production agency offered one month of free scripting/editing/thumbnails work with no obligation, explicitly timed to when he had just started needing exactly that service — "right message, right person, right time" cited as the actual determining factor for success, more than offer price alone.
+9. A cold email that opens with generic/awkward false-personalization ("Dear Chris") or manufactured urgency (e.g., a "we're a 3rd-generation family business going out of business, want to give you something for free" scam email discussed on the show — confirmed fake: nonexistent domain, sender, and company) is an example of the kind of manipulative framing to recognize (and be wary of copying) even though tactics like fabricated scarcity/urgency remain common.
+
+## Tools/platforms named
+- Uply (Will's own B2B contact-data/email-verification tool, positioned as a ZoomInfo alternative, includes buyer-intent signal tracking for building trigger-based campaigns)
+- Outreach, Salesfinity (parallel/multi-line dialers — dials 5-6 lines simultaneously), Nooks, Orum, TR — other parallel dialer tools mentioned
+- Instantly, Lemlist, Smartlead — mentioned as accessible tools for running cold email sequences at small-to-mid scale
+- Predictable Revenue by Aaron Ross — book credited with shaping Will's approach to cold outbound (documents how Salesforce scaled cold outbound from $0 to $100M ARR)
+- $100M Offers by Alex Hormozi — referenced for the "irresistible offer" framing used in the CTA design
+- Will's free cold email playbook: iamwillcannon.com/free-resources/the-cold-email-playbook (email opt-in required, not sold)
+
+## Caveats / risks
+- Deliverability is fragile and constantly changing — "if you're not on top of it or don't have someone who is, it's not going to be easy"; sending at scale (tens of thousands/month) without proper domain infrastructure risks getting flagged/blocked.
+- Not every industry/offer is a good fit for cold email — "there's some industries and spaces and companies that don't have the right offer where it's going to be a lot tougher."
+- Follow-up cadence and count should be tailored per audience — copying someone else's exact 15-email B2B sequence into an unrelated market (e.g., consumer/local services) may not translate; test rather than assume.
+- Ethically dubious tactics exist in this space (fabricated urgency/scarcity, fake "going out of business" framing) — the hosts explicitly flag this specific example as deceptive, though acknowledge it can still be effective, without endorsing it.
