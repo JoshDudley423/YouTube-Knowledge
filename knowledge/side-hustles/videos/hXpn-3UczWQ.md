@@ -1,0 +1,50 @@
+# How to Start a Business with OVER 100% Gross Profit Margin
+Channel: The Koerner Office | https://www.youtube.com/watch?v=hXpn-3UczWQ | Published: 2024-08-23
+
+Chris Koerner + Nik Huska ("HoldCo Bros") discuss several business ideas.
+
+## Stump grinding follow-up (validation of earlier episode idea)
+- A listener ("Taylor Tanner") launched the exact stump-grinding pitch Koerner described in a prior episode: rented a trailer and a stump grinder, then texted tree-trimming company owners weekly asking "do you have anything for me today?"
+- Result: $9,000 revenue in his first 15 days, in a seasonal market.
+- Koerner's own team tested a similar B2B outreach model at scale: hired a virtual assistant (via Kamal) who cold-called 1,000 tree-trimming/landscaping companies in Houston. Only 1 in 5 answered the phone (noted itself as an opportunity — most of these businesses are hard to reach). About 10% of those reached said they'd be willing to outsource stump grinding. Koerner judged 10% too low a conversion/TAM signal (wanted to see 20-50%) and decided not to launch that specific venture — despite it working for the listener at a small scale.
+- Lesson stated: intentionally oversimplifying ideas when pitching them publicly is a deliberate choice to reduce the "trough of disillusionment" barrier and get people to actually start; nuance/caveats mostly cause people to talk themselves out of starting. Most of their real businesses (Texas Snacks, Mining Syndicate) took 3-4+ years to become "manageable and profitable."
+
+## Barbecue/smoking wood from free tree trimmings ("negative COGS" business)
+- Core idea: tree-trimming companies must pay to haul their branch/trimming waste to the dump. Approach them offering free pickup of their wood waste — a "no-brainer" offer since it saves them dump fees.
+- The upstream opportunity: there is a shortage of barbecue-smoking wood (context: Texas), with prices reported at roughly 4x higher than a few years earlier (wood sold "by the cord").
+- Constraint: raw wood must be seasoned (dried) before it can be used for smoking, which traditionally takes months sitting outdoors.
+- Enabling technology: a portable kiln (about the size of a large A/C unit) that attaches to a 20-foot shipping container and force-dries wood in roughly 1-2 days instead of months. Cost cited: ~$20,000 for the kiln unit.
+- Process: collect raw branches from tree trimmers → cut to log size and split (hydraulic splitter) → dry in the kiln (~1-2 days) → sell finished, seasoned wood to barbecue restaurants or wood distributors.
+- Critical caveat: only hardwoods (oak, hickory, pecan) are usable for smoking; softwoods (pine) are not — those can instead be chipped for mulch or sold to woodworkers as lathe stock for bowls/tables.
+- Named comparable "negative COGS" business model: EcoScraps (Utah) got paid by grocery stores to haul away expired produce, composted it with sawdust, and sold the resulting organic compost back to grocery chains and eventually to a major conglomerate — same pattern of getting paid to take a waste input and reselling the processed output.
+- Chris's own prior venture LCD Cycle used the same "foot in the door" tactic: calling iPhone repair shops offering to take their box of broken screens for free (or even pay for them), which built trust/relationship, then upselling those same shops on buying replacement parts from him. Bootstrapped scaling mechanism: hired 3 virtual assistants in the Philippines to do this outreach at volume.
+- Suggested compounding version: after providing free wood pickup, use the established relationship to also pitch the same tree-trimming company on outsourced stump grinding (or vice versa) — bundling multiple "foot in the door" offers with the same B2B customer base.
+- Existing competitor named: a large tree-trimming company in Richardson, TX, already vertically integrated with an in-house firewood business (though not confirmed to sell barbecue-specific wood) — used as evidence the model is viable but not saturated in the barbecue niche specifically.
+- Caveat: explicitly described as "not passive... not easy... sweaty," requiring physical labor and driving, not a hands-off business.
+
+## Self-storage acquisition example ("fat pitch" investing story — Klein Smith, aka "Sultan of Storage")
+- Background: worked at a Durango, CO tech company from 2005-2016 that grew to a $1B+ acquisition; exited with equity worth ~$3M.
+- Over ~4 years deployed ~$1.8M of his own capital to acquire $21M of self-storage real estate (that figure is purchase basis, before appreciation/leverage).
+- Currently cash-flows an estimated $300,000-$400,000/year to himself after debt service across the portfolio.
+- Because of resulting passive losses (depreciation), he then started a separate LatAm virtual-assistant staffing agency to generate offsetting passive income.
+- Marquee deal: bought a self-storage facility in his home market of Durango for $12M at a 2.8 cap rate — a deliberately aggressive/high-priced-looking deal, financed partly by selling another property. Rationale: he knew the local market, knew rents were under-market and the facility under-occupied, and believed he could push NOI from its starting point toward $1.8M/year.
+- Result at time of recording: NOI had grown to an annualized ~$1.6-1.7M/year (most recent month alone did $130K in NOI), with room to grow further toward his ~$2M target; he estimates the property is now conservatively worth ~$17M.
+- Framed as an example of Warren Buffett's "fat pitch" concept (via Ted Williams' hitting philosophy): stay disciplined and wait for the specific opportunity that matches your accumulated expertise/capital/market knowledge, then swing hard rather than chasing every "shiny object."
+
+## The "Shelf Dude" hyperlocal, non-scalable business + education/course layer
+- Origin story (referenced from an earlier episode): saw a Facebook ad for garage shelving, decided to build his own, then began selling similar shelving; grew to $5,000/month working 16-hour days, quit his 9-5, now makes ~$15,000/month.
+- Business specifics: sells build plans for $10-20 on his website; has 55,000 Instagram followers; but ~80% of revenue comes from physically building and delivering custom shelving/benches locally — a business that "doesn't scale" because the product (bulky custom shelving) can't be shipped economically.
+- Proposed generalized playbook (explicitly modeled on this example): find a hyperlocal, unscalable, unglamorous physical-labor business (examples raised: delivering/flipping couches, appliance repair, epoxy flooring), document the journey publicly on social media to build trust and an audience, then monetize a second layer by teaching others how to do it in their own city via in-person paid training (not just a generic online course) — an existing real example cited is an epoxy-flooring business owner who now hosts in-person trainings teaching others to start their own epoxy flooring business.
+- Additional monetization layer once you've trained others: act as a lead-gen hub — build simple programmatic SEO pages (e.g., "garageshelving.com") to capture inbound demand nationally, then sell those leads (e.g., $50/lead) to the people you already trained in their respective home markets, creating recurring revenue beyond the initial training fee.
+- Explicit distinction drawn from the "remote/passive business" course-selling pattern common on social media (e.g., "I built a cleaning company to $20K/month, now buy my course on doing it remotely"): this model does NOT sell the promise of passive/remote income — it's explicitly hands-on, local, trade-like work, with the instructor teaching a real skill/operating role, not a hands-off franchise fantasy.
+
+## Licensing/franchising live business bootcamps into local markets
+- Observed model: "SMB Boot Camp" (via guest Chanler/Chandler Reed) runs in-person, live workshop bootcamps (base location cited as Tampa Bay, FL) featuring expert speakers (M&A attorney, quality-of-earnings/due-diligence expert, banker/financing expert, transition/operations expert) to teach attendees how to buy and run small businesses.
+- Proposed idea: license this kind of curriculum/format into other local markets (e.g., Boise, Salt Lake City, Southern California, Minnesota) — a local licensee organizes and hosts the event, sources local versions of the same speaker roles, and markets it regionally to reduce travel burden for attendees; pays the original bootcamp creator a percentage (e.g., "cut you a percentage") for use of their curriculum/brand, keeping the rest.
+- Stated barrier to entry: the hard part isn't organizing logistics, it's having genuine expertise/a track record worth teaching — most people don't have "a life worth teaching about," and building out the actual curriculum content is the second-hardest part; licensing existing proven content sidesteps both of those barriers for the local operator.
+- Generalized: same model could apply to any bootcamp with a valuable live/in-person component — tree-trimming bootcamps, cleaning-company bootcamps, coding bootcamps, etc.
+
+## General framing/caveats raised
+- Distinguishes between oversimplifying a business idea for content purposes (acceptable, per Koerner, when the goal is motivating action, not selling something) versus misrepresenting numbers when directly selling a course/franchise (a different, higher standard — cites viral tweets where his back-of-napkin revenue estimates were off by ~3x and drew criticism).
+- "Fat pitch" vs. "white whale" distinction: a fat pitch is an opportunity precisely matched to accumulated expertise/capital/market knowledge (recognized only after many reps/attempts across many ventures); a white whale is simply a large opportunity, which may or may not also be a fat pitch.
+- Example given of a current "fat pitch" in progress: perfumevending.com — leverages existing marketing expertise plus existing supplier relationships/shipping/import experience with China; as of the recording, at $58,000 in revenue with ~45% gross margins, deliberately "slow-played" rather than aggressively scaled.
