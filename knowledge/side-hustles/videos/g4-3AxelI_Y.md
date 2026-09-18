@@ -1,0 +1,37 @@
+# This Might Be the Easiest Way to Sell AI to Businesses
+Channel: The Koerner Office | https://www.youtube.com/watch?v=g4-3AxelI_Y | Published: 2026-04-03
+
+Chris Koerner solo screen-recorded tutorial/pitch: building and selling an AI-powered "missed call text-back" system to small businesses.
+
+## The business idea
+Build an AI agent (via GoHighLevel) that automatically texts back any missed business call within 1-3 minutes, carries on a full two-way SMS conversation (not just a static "sorry we missed you" text), qualifies the caller, and books an appointment — then **sell this as a done-for-you managed service to small business owners** for a recurring monthly fee. Chris explicitly frames the target buyer as any of the ~33 million small businesses in the US that let calls go to voicemail. He also demonstrates using the exact same AI/automation stack in reverse ("dog fooding") to find and close the small-business clients who will pay for it.
+
+## Key data point cited
+- "57% of sales go to whoever responds first" — cited as data (not sourced in detail) to justify the value proposition: most small businesses let missed calls go to voicemail and callers typically don't call back.
+
+## Concrete numbers
+- Proposed service pricing: **$500-$2,000 per month per client**, with a demonstrated pitch script offering a money-back guarantee ("if it doesn't pay for itself in the first 90 days, I'll give you your money back").
+- Real-time proof-of-concept cited: a 16-year-old aspiring entrepreneur emailed Chris saying she used ringless voicemail drops to land a plumber client wanting AI integration "on her 16th birthday" (no revenue figure given for her deal).
+- Live demo in the video: sent ringless voicemail drops to 173 scraped tree-trimming business phone numbers in Dallas, got at least one live callback that the AI agent handled in real time (deal not closed on camera, used as proof of concept only).
+
+## Process / steps described (full build, step-by-step)
+1. **Platform**: Log into GoHighLevel (GHL) → Automation → "Create Workflow" → select the "missed call text back" template.
+2. **Base workflow logic**: Trigger = incoming call that goes to busy/voicemail/unanswered → wait 1-3 minutes (so the follow-up text doesn't feel robotic/instant) → optionally assign to a team member/user → tag the contact (e.g., "missed-call") → convert the contact into a CRM lead and send the initial text → send a push notification to the assigned user so a human can take over at any time.
+3. **Replace the static text step with real AI**: delete the default single canned text-back message and replace it with GoHighLevel's "Conversation AI" feature (toggle on "advanced bot configuration").
+4. **Prompt engineering**: copy GHL's default AI-agent prompt template into an external LLM (Claude, ChatGPT, or Grok) and have it rewritten for the specific client's business (example given: "Fast Tree Care," a DFW tree-trimming company) — specify the agent's persona, objective (book a quote appointment), tone rules ("warm and casual, talk like a real person"), and the discovery questions to ask. Have the LLM also generate a business-specific FAQ/knowledge base rather than manually uploading one.
+5. **AI behavior settings**: set the bot to wait up to 24 hours for a reply, channel = SMS, skip already-answered questions, cap the bot at a maximum of 5 responses per conversation (a safeguard against runaway bot loops), and space responses ~35 seconds apart (10 seconds is "not enough"). Keep each AI message under ~300 words (have the LLM trim scripts to fit). Strip any stray quotation marks from AI-generated text before publishing (cosmetic bug otherwise visible to the customer).
+6. **Branching logic** (conditional paths after the AI conversation): "booked" (customer provided service need, address, and preferred appointment day) → notify the business owner via SMS; "emergency" (e.g., a tree fell on the caller's house) → separate urgent SMS notification; "unqualified" (out of service area or irrelevant inquiry) → tag and close out with no notification; a fourth default "timeout" path if the customer never responds.
+7. **Reusability**: the entire workflow (minus the business-specific AI prompt/knowledge base) can be duplicated and reused for any small business vertical — just swap the industry-specific details in the AI prompt (plumber, HVAC, tree trimmer, etc.).
+8. **"Dog-fooding" the same system to find paying clients**: duplicate the workflow again, this time configuring the AI persona as *you* (the service seller) pitching the missed-call-text-back service itself to business owners, with a condition branch for "hot lead" (customer is highly interested / wants to start immediately) that triggers an immediate SMS alert to you so you can call and close personally.
+9. **Lead sourcing for the outbound "dog-fooding" campaign**: scrape a list of local target-industry businesses and their phone numbers using Outscraper.com (example: searched "tree trimming businesses in Dallas, Texas," yielding 181 numbers, cleaned to 173 valid US-formatted numbers via find-and-replace, exported as CSV).
+10. **Outreach mechanism**: use a ringless voicemail drop service (Chris uses Slybroadcast, "not an ad") to upload a short pre-recorded voicemail ("Hey, this is Chris Koerner... I'm looking for a tree trimming business, please give me a call back") and blast it to the entire scraped phone list — recipients' phones don't ring, but a voicemail appears, prompting some to call the number back. Any callback is then caught and handled automatically by the same GoHighLevel missed-call AI workflow (configured as the sales-pitch persona), which begins the two-way qualifying conversation with the prospective client automatically.
+11. Publish/activate both workflows in GoHighLevel once configured.
+
+## Tools/platforms named
+GoHighLevel (GHL) — CRM + automation/AI conversation platform (sponsor of this episode, 30 days free via Chris's link instead of the standard 14), Claude / ChatGPT / Grok (for rewriting AI agent prompts per client vertical), Outscraper.com (scraping local business contact lists), Slybroadcast (ringless voicemail drop service), a phone voice-memo app (recording the outbound voicemail).
+
+## Caveats / risks
+- The demo callback shown in the video was not converted into an actual paying client on camera — Chris explicitly says "I haven't closed them yet, I don't have money in my pocket yet from this," so the numbers shown are a proof-of-concept of lead generation mechanics, not a verified closed-sale case study.
+- The AI response cap (5 messages) and response delay (35 seconds) are presented as Chris's own personal safeguards/preferences against the bot appearing robotic or looping uncontrollably — not documented platform defaults.
+- Legal/compliance risk is not discussed in the transcript (e.g., TCPA/consent rules around ringless voicemail and automated SMS outreach to numbers scraped from public business listings) — worth independently verifying before replicating the outbound "dog-fooding" campaign at scale.
+- Business model depends on the buyer (small business owner) actually valuing and adopting AI-driven customer communication — Chris asserts this is an easy sell because most small businesses "don't even have employees" to otherwise handle missed calls, but no churn, retention, or ROI-realization data is presented beyond the anecdotal money-back guarantee framing.
