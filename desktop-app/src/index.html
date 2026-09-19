@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="stylesheet" href="styles.css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>YouTube Knowledge</title>
+    <script type="module" src="/main.js" defer></script>
+  </head>
+
+  <body>
+    <div class="app">
+      <aside class="sidebar">
+        <h1>Channels</h1>
+
+        <form id="add-channel-form">
+          <input id="channel-url" placeholder="YouTube channel URL" required />
+          <input id="channel-name" placeholder="Display name" required />
+          <input id="channel-topic" placeholder="Topic (e.g. side-hustles)" required />
+          <button type="submit">Add channel</button>
+        </form>
+
+        <ul id="channel-list"></ul>
+
+        <div id="model-panel" class="model-panel">
+          <p id="model-status-text">Checking local model…</p>
+          <button id="download-model-btn" hidden>Download local model (~2GB)</button>
+          <progress id="model-progress" value="0" max="1" hidden></progress>
+        </div>
+      </aside>
+
+      <main class="chat">
+        <div class="chat-header">
+          <label for="scope-select">Ask about:</label>
+          <select id="scope-select">
+            <option value="">All channels</option>
+          </select>
+        </div>
+
+        <div id="messages" class="messages"></div>
+
+        <form id="chat-form" class="chat-input">
+          <textarea id="chat-question" placeholder="Ask a question about this knowledge base…" rows="2" required></textarea>
+          <button type="submit">Send</button>
+        </form>
+      </main>
+    </div>
+  </body>
+</html>
