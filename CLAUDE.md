@@ -79,6 +79,12 @@ If a run reports videos with no captions available, that's normal (some
 videos have captions disabled) -- they're marked `has_transcript: false` and
 skipped on future syncs.
 
+If a run reports members-only videos, that's also normal for channels that
+publish paywalled bonus/extended episodes -- yt-dlp can't fetch captions for
+those without membership auth (not configured here), so they're recorded
+with `has_transcript: false, "skip_reason": "members_only"` and excluded
+from future syncs the same way.
+
 After syncing locally: `git add data channels.json && git commit && git
 push`. A cloud session picks up the new transcripts on its next `git pull`
 and handles compiling them into `knowledge/` from there (step 3) -- that

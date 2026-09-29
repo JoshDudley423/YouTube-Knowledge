@@ -16,6 +16,7 @@ import datetime
 import sys
 
 from lib import (
+    MembersOnlyVideo,
     fetch_video_transcript,
     list_channel_video_ids,
     load_channels,
@@ -48,11 +49,23 @@ def sync_channel(channel: dict, limit: int | None) -> dict:
         new_videos = new_videos[:limit]
         print(f"  capped to --limit {limit}: fetching {len(new_videos)}")
 
-    fetched, failed, no_captions = 0, 0, 0
+    fetched, failed, no_captions, members_only = 0, 0, 0, 0
     for i, v in enumerate(new_videos, 1):
         print(f"  [{i}/{len(new_videos)}] {v['id']} - {v.get('title', '')[:70]}")
         try:
             text, metadata = fetch_video_transcript(v["id"])
+        except MembersOnlyVideo:
+            print("      members-only video, excluding from future syncs")
+            members_only += 1
+            known[v["id"]] = {
+                "id": v["id"],
+                "title": v.get("title"),
+                "url": v["url"],
+                "upload_date": None,
+                "has_transcript": False,
+                "skip_reason": "members_only",
+            }
+            continue
         except Exception as e:
             print(f"      ERROR: {e}", file=sys.stderr)
             failed += 1
@@ -83,8 +96,17 @@ def sync_channel(channel: dict, limit: int | None) -> dict:
         polite_sleep()
 
     save_known_videos(slug, known)
-    print(f"  done: {fetched} transcripts fetched, {no_captions} without captions, {failed} failed")
-    return {"slug": slug, "new": fetched, "no_captions": no_captions, "failed": failed}
+    print(
+        f"  done: {fetched} transcripts fetched, {no_captions} without captions, "
+        f"{members_only} members-only, {failed} failed"
+    )
+    return {
+        "slug": slug,
+        "new": fetched,
+        "no_captions": no_captions,
+        "members_only": members_only,
+        "failed": failed,
+    }
 
 
 def main() -> int:
@@ -118,10 +140,14 @@ def main() -> int:
 
     print("\n=== summary ===")
     total_new = sum(r.get("new", 0) for r in results)
+    total_members_only = sum(r.get("members_only", 0) for r in results)
     total_failed = sum(r.get("failed", 0) for r in results)
     for r in results:
-        print(f"  {r['slug']}: +{r.get('new', 0)} transcripts, {r.get('failed', 0)} failed")
-    print(f"total: {total_new} new transcripts, {total_failed} failed")
+        print(
+            f"  {r['slug']}: +{r.get('new', 0)} transcripts, "
+            f"{r.get('members_only', 0)} members-only, {r.get('failed', 0)} failed"
+        )
+    print(f"total: {total_new} new transcripts, {total_members_only} members-only, {total_failed} failed")
     return 0
 
 

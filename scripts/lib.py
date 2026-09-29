@@ -132,11 +132,28 @@ def vtt_to_text(vtt: str) -> str:
     return "\n".join(deduped)
 
 
+class MembersOnlyVideo(Exception):
+    """Raised when yt-dlp reports the video requires channel membership.
+
+    These will never have downloadable captions (no membership auth is
+    configured here), so callers should treat this as permanent -- record
+    it and stop retrying, the same way a caption-less video is handled.
+    """
+
+
+_MEMBERS_ONLY_MARKERS = (
+    "join this channel",
+    "members-only",
+    "members only",
+)
+
+
 def fetch_video_transcript(video_id: str, lang: str = "en") -> tuple[str | None, dict]:
     """Download captions + metadata for one video.
 
     Returns (transcript_text_or_None, metadata_dict). transcript is None if
     no captions (manual or auto) are available in the requested language.
+    Raises MembersOnlyVideo if the video is gated behind channel membership.
     """
     import tempfile
 
@@ -158,10 +175,16 @@ def fetch_video_transcript(video_id: str, lang: str = "en") -> tuple[str | None,
             # without needing cookies or a PO token.
             "extractor_args": {"youtube": {"player_client": ["android", "tv", "web_safari"]}},
         }
-        with yt_dlp.YoutubeDL(opts) as ydl:
-            info = ydl.extract_info(
-                f"https://www.youtube.com/watch?v={video_id}", download=True
-            )
+        try:
+            with yt_dlp.YoutubeDL(opts) as ydl:
+                info = ydl.extract_info(
+                    f"https://www.youtube.com/watch?v={video_id}", download=True
+                )
+        except yt_dlp.utils.DownloadError as e:
+            message = str(e).lower()
+            if any(marker in message for marker in _MEMBERS_ONLY_MARKERS):
+                raise MembersOnlyVideo(video_id) from e
+            raise
 
         metadata = {
             "id": info.get("id"),
