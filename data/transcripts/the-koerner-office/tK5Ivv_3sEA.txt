@@ -1,0 +1,1185 @@
+I'm charging anywhere from 900 to 1200
+per blog post. Takes me about 5-6 hours.
+>> Holy cow.
+>> They're paying 90 an hour. I'm not a
+technical person. I got hired by Biggie
+Smalls' son.
+>> What?
+>> Notorious B.I.G.'s son. I've no coding
+background.
+>> Who's stopping you?
+>> No one is stopping you.
+>> What is the playbook to finding
+companies that will pay you a lot of
+money?
+So, the other day I saw this chart on
+Google Trends that stopped me in my
+tracks. This is the phrase "hire a
+writer" and its popularity over the last
+5 years. Would you believe in 2023 when
+ChatGPT came out, it started dropping.
+People didn't need writers as much,
+obviously. But now, over the last 2
+years, it's been going straight up into
+the right. Believe it or not, good
+writers are in more demand than they
+ever have been, and companies are paying
+900 to 1200 dollars per article for
+people to write AI-assisted articles. I
+ran into Steph Specter. She drove up
+here from Austin. We're about to take a
+ride in my Cybertruck so I can ask her,
+"How can we get paid a thousand dollars
+per article?" Let's go pick her up. So,
+Stephanie in Austin, Texas. This is
+2026, the age of AI. No one is writing
+by hand anymore. Everyone has a hundred
+blog articles all written by ChatGPT,
+but you make your money writing, like
+for real writing.
+>> For real writing.
+>> Right?
+>> Yep.
+>> How did you get your start? What led you
+to that? ChatGPT comes out in 2023. What
+are you doing at that point or before?
+>> Around that point, I started working for
+Apple. I had a contract with Apple as an
+editor, and I was editing sales
+enablement materials for them. Just a
+fancy way of saying stuff that their
+sales people would read to help them
+sell Apple products.
+>> Okay.
+>> I've been writing since 2016, so I can
+spot little tells that make it seem
+I don't know, like it's a little more
+robotic or a little safe.
+>> Right.
+>> Started improving the way I would prompt
+AI. Tested out Claude once that came
+out, found that that was much better at
+adapting to my voice, and then I started
+using all these other AI tools and I was
+like, "Oh, okay. Everything has its
+strength, right?" Like I don't know, you
+know, like I'll use Gemini for
+processing video and audio. I think it's
+particularly great at that. Claude for
+marketing content, ChatGPT for writing
+and research. So, I found that the more
+that I experimented and the more that I
+used these tools, coming up with a
+2-hour course that I would deliver on
+executive writing. So, how salespeople,
+how sales leaders across the world at
+Apple could write stronger briefs that
+would be read by the CEO, Tim Cook.
+>> Okay.
+>> So, I put together that as well.
+>> Okay, so that was to teach the
+salespeople on how to talk to executives
+better.
+>> Yeah, how to write to executives better.
+Yeah.
+>> Okay. All right. So, when you say train
+the model or like train ChatGPT on Apple
+style, is that just a matter of like
+uploading a bunch of Apple writing so it
+learns?
+>> Yeah. So, with Apple I wasn't We
+actually were not allowed to use AI at
+the time that I was there, but later
+when I when that contract ended, I
+started working at Zapier, and I would
+do exactly that. So, I would to train
+the AI, so to speak, give it a lot of
+context that had to do with our writing
+styles. We had a style guide that
+articulated how we capitalize things,
+how formatting should look, what do we
+bold, what do we italicize, what words
+don't we use? So, I would give it all of
+that context. I would also create
+templates for certain pieces of content.
+So, AI understood the general structure
+of what I wanted it to create, and then
+it could fill in some of the blanks.
+>> Okay. Now, were you a freelancer at this
+time?
+>> At this time, no. At Zapier, I was
+working there full-time.
+>> Okay.
+>> Mhm.
+>> So, you you left Apple, started writing
+for Zapier. Are you a freelancer today?
+You just
+>> Yeah. Now I'm a freelancer. I just left
+my job about 3 weeks ago.
+>> Wow.
+>> So,
+>> Congratulations.
+>> Thanks. Yeah, super excited. My favorite
+thing that I think I created when I was
+at Zapier was when I had to write a
+tutorial, a tutorial was a step-by-step
+guide on how you could build a very
+specific automated workflow.
+>> Uh-huh.
+>> At certain points, if a step was a
+little difficult to configure, I needed
+to make that clear first of all, and
+then I needed to help them through it.
+>> Yeah.
+>> What I did was I recorded myself, like I
+did a screen record, like a Loom, um if
+you guys use that tool,
+>> Mhm.
+>> and I would build the automated
+workflow, and I would narrate as I was
+building it. So, I would go, "Ooh, this
+is kind of complicated. What if I click
+here? What if I do this?"
+>> And this is your writing.
+>> This is my writing. This is Writing is
+thinking. At the end of the day, writing
+is thinking. So, all of that whole
+process, I want to document that. And
+the first reaction, if I can document my
+initial thoughts about something, that's
+the gold that you can feed AI if you're
+going to use AI in your writing.
+>> Your reaction.
+>> Your reaction, your your first thoughts.
+>> Like you're humanizing.
+>> You're humanizing it. Yeah, what is
+actually coming to mind during the
+writing process? Let's grab that. So, I
+would record all of that. I would feed
+it through Cursor, and I would tell
+Cursor, "Okay, I want you to use Gemini
+to process the video and audio, and I
+want you to even watch." And when I say
+I would tell Gemini, I would just
+writing out in plain English, right?
+Process the video and audio through
+Gemini, watch when I'm clicking, I'm
+hovering over something, like it's clear
+that I'm unsure what to do, capture
+those points, write up notes based on my
+narration, and then I want you to take
+all of those notes, and I want you to
+take a template that I've created for
+this tutorial, and I want you to feed it
+through Claude, cuz I like Claude for
+writing and Gemini for processing video.
+>> And you're just using Cursor to route it
+to all these different models.
+>> Yep, cuz cursor has that built-in model
+flexibility, so you can use both Gemini
+and Claude easily in the same workflow.
+>> Yeah.
+>> So, loved it for that.
+>> Okay.
+>> It would filter all of those notes
+through Claude, it would use my
+template, and then it would come up with
+a really solid first draft that I would
+of course edit afterward. I There were
+still points it maybe didn't get quite
+right or points that were a little bland
+that needed to be punched up with my
+personality, but I've captured all of
+those like sticky points of building a
+workflow that I needed to get in the
+article that would have taken me hours
+to document to think about manually.
+>> Yeah.
+>> So, really great way to use AI there.
+>> Hey, believe it or not, about 62% of you
+don't actually subscribe to this channel
+even though you see my videos in your
+feed, so just take a second, hit the
+subscribe button, maybe even the
+notification bell, and it would mean the
+world to me.
+>> Okay, so you're doing this full-time for
+Zapier. What made you want to quit your
+job?
+>> Great question. I love Zapier. I I'm
+still going to be freelancing for them.
+>> Did you line anything up before you
+quit?
+>> Yes. I had already been freelancing on
+the side while I was at Zapier and they
+knew about it, they were cool about it.
+I'd been writing articles for a couple
+of tech companies, and I also had been
+editing resumes for an executive writing
+coach.
+>> Okay.
+>> I had been helping students in high
+school write their college application
+essays, so I had my hands in a few
+different pies already.
+>> How were you finding those customers of
+people?
+>> A lot of them through Upwork. I started
+out as a freelancer on Upwork. That was
+how I got my first client back in 2016,
+and to this day I still use it. I know a
+lot of people like don't love starting
+on Upwork or they're a little worried
+>> because You think it's great, right?
+>> Yeah.
+>> It's rad.
+>> Cuz you have noth- You have nothing to
+start from when you're like, "I want to
+be a freelancer. What What I do?"
+>> Dude, you don't have to collect leads
+like they're there.
+>> Okay, so it's been 10 years since you
+started on Upwork though, right?
+>> Yes. Yeah.
+>> Okay. How are you finding jobs on Upwork
+today? Are you like actively soliciting
+them? Are people reaching out to you?
+>> When I do look for jobs, I'll get into
+little moments where I'll go, "Okay, I'm
+going to apply for 10 jobs a day.
+>> Uh-huh.
+>> I'm going to carefully select ones that,
+you know, are interesting to me, where I
+can communicate how I can help that
+person specifically, and that also have
+the opportunity to grow into something
+more. Every once in a while, I like a
+good one-off project where I just write,
+you know, I redo somebody's website or I
+write them an email and then it's done.
+But, if I see, "Okay, this person wants
+one blog post written, they're probably
+going to want more after that." So, I
+can pitch that or they might just ask
+me. I can also offer to upload the blog
+posts myself, which is another great way
+to expand the contract and make a little
+bit more money. So, anytime I see
+opportunities like that, and anyone
+anytime other people do, like I always
+encourage people, "How else can you help
+this person?" Once they like you, once
+you have a good working relationship,
+it's really easy to make a contract last
+even years, which which I've done.
+>> Okay. What does like an average project
+look like? What is an average project
+and then how do you decide what to
+charge and how to charge?
+>> Sure. This is a good question. It's a
+question a lot of people have, and it is
+tough for a reason. But, I'm going to
+focus on what I'm working on right now,
+right? I am writing a lot of blog posts
+for tech companies.
+And right now I'm charging anywhere from
+900 to 1,200 per blog post.
+>> Okay.
+>> Takes me about 5-6 hours to write each
+article.
+>> Holy cow.
+>> I am using a little bit of AI, but a lot
+of it's all me, and the tech companies
+know that and that's why they'll offer
+that price.
+>> Give me an example of tech companies
+that would hire you for this?
+>> Any B2B SaaS company, I mean Zapier,
+Jotform, SaaSWorthy, those are the ones
+that I'm working with right now.
+>> What about like ChatGPT or
+or OpenAI or Claude?
+>> Right, right. Those are harder to break
+into. I don't think that they're
+They are hiring AI model trainers, which
+is another lucrative opportunity. I know
+I just talked to a writer who does that
+every once in a while and they're paying
+90 an hour, around that. So
+>> Okay, so 900 to 1,200 per blog article.
+>> Mhm.
+>> How many words are they on average?
+>> On average, about 2,500, 3,000 words.
+>> Okay, so long. These are like
+lengthy.
+>> Yes, yeah.
+>> And is it more for like explaining
+things to an internal audience or to
+employees or is it solely for SEO?
+>> Solely for SEO.
+>> Okay.
+>> So, solely for SEO, you still want it to
+be readable and enjoyable by humans, but
+the goal is they'll give me So, here's
+an example of of a project I might get.
+SaaSWorthy might say, "Hey, I want you
+to write a an app comparison." So,
+Claude code versus Cursor. Or they might
+say, "I want you to write an
+alternatives alternatives piece." So,
+eight alternatives to Quickbase.
+>> Okay.
+>> In pieces like that, SaaSWorthy is going
+to be one of the options, right? Or
+whatever, you know, tool I'm writing or
+company I'm writing for. Or they might
+do like for Zapier, like a tutorial
+where I'm showing step-by-step how to
+build a workflow. Things like that.
+Things that people might be searching
+for. They'll give me some keywords that
+they want to target. They usually
+provide that, so I don't even have to
+look for it.
+>> need to be like SEO savvy or technical.
+>> You should know SEO best practices.
+Those have to do with things like what
+should headings look like, what should
+subheadings look like, how many words,
+what should the title be. You should
+know not to keyword stuff. It shows that
+you yourself are using the tools. That's
+another reason why companies will pay so
+much money right now for these blog
+posts because if you know how to use
+these tools, if you're tinkering with
+AI, you're tinkering with automation,
+and you can speak confidently about a
+certain tool. So, if you can write like
+that, you you already have a a good idea
+of
+you know, what SEO best practices are.
+There are some new things to keep in
+mind, too, with uh GEO, which is just
+generative engine optimization, which is
+how you get your content showing up in
+AI tools.
+>> Mhm. Okay. So, call it a thousand
+dollars for a three thousand word blog
+article,
+taking you five to six hours. What are
+you spending all that time doing
+specifically?
+>> Yeah, great question. I'm signing up for
+the tools that I'm writing about. I am
+noodling around them. I'm just clicking,
+seeing what my experience is like. I'm
+not like building a whole product or
+anything. I'm not going wild, but I'm
+using them,
+>> Okay.
+>> especially if I've never used them
+before. Taking screenshots, potentially,
+that are visually appealing. You could
+give it, I suppose, instructions. This
+is what a lot of people try to do, and
+this is a mistake I see a lot of writers
+making is they'll go, "I'm going to
+automate this process top-to-bottom. I'm
+going to use AI for everything."
+>> Yeah.
+>> And then what happens is they actually
+spend so much time configuring the tool
+that they're using and maintaining it,
+and the output isn't even a hundred
+percent. And now they're burned out, and
+they've got AI brain fry, as they call
+it, from just constantly using AI for
+everything. You can use it, and there's
+a great way to use it, but use it in the
+place you need it the most.
+>> Yeah. Okay, so that's really
+interesting. Five to six hours, I'm
+thinking like, how are you writing for
+that long, especially if AI's helping?
+But would you say you're spending like
+much of that time or most of that time
+actually testing the tools that you're
+writing about?
+>> A lot of it's testing the tools. A lot
+of it is also
+reading, like just Reddit threads. Like,
+what are people saying right now about
+these tools?
+>> Yeah.
+>> If I'm in like certain communities, I
+want to see how people are using those
+tools right now, what they're saying
+about it. And then I'll find some
+interesting tidbits and I'll do a little
+more research into that aspect myself.
+>> Yeah.
+>> If people, for example, on Reddit are,
+you know, griping about a confusing
+pricing structure, I'm then going to go
+in, look at their pricing, and really
+figure it out for myself, and then go,
+"Okay." But I wouldn't But, you know,
+that would have might have taken me so
+long to find
+>> Yeah.
+>> if I had just manually done the whole
+thing. A lot of companies, these
+big-name companies, right? Microsoft,
+Apple, Replit, Lovable, Anthropic, I've
+seen them posting a lot of jobs for
+writers and editors. And the point is,
+if you look, actually, at those job
+postings, I was just looking at one from
+Microsoft. They're They were looking for
+a lead writer and editor. They wanted
+someone who understood grammar, style,
+storytelling devices, but they wanted
+someone who also was plugged into meme
+culture,
+>> Mhm.
+>> and had some personal creative
+>> Interesting.
+>> thing that they did. Like, they, you
+know, played an instrument, or ran a
+newsletter on something, you know,
+unrelated to work. And you have to
+think, well, why do they want that? Cuz
+they want a a well-rounded person who's
+tapped into culture, who's going to pull
+from these rich experiences and put that
+into the writing. Cuz that's our
+advantage
+>> Yeah.
+>> Like, a Hollywood movie that's just
+perfectly scripted the way that you
+would expect it to be. It's watchable,
+but you're like, I know what happens at
+the end.
+>> Yeah. It reminds me of some of my
+content, because I'll see other people
+on YouTube with videos titled like, "The
+Seven Best Side Hustles for 2026."
+>> Yes.
+>> And they're reading an AI transcript. I
+know it.
+>> Yeah.
+>> And there's no personal experience,
+there's no stories woven in.
+>> Yes.
+>> Whereas, when I make that same video,
+it's like, when I had this grass-fed
+beef business, the cow's leg went
+through the floor and it's dragging on
+the road. And they're real stories, you
+know.
+>> Right. I think the biggest proof that
+we're seeing now, cuz this is all
+happening in real time, right? Is that
+companies did try to use AI for
+everything. And there was a big scare, I
+want to say it a year or two ago, where
+I was hearing a lot of stories from
+freelancers going, "My employer just
+told me to hit the road, right? They're
+using AI for everything."
+And then a year later, those companies
+would come back and go, "Actually, are
+you free?
+>> Yeah.
+>> Can you help me write this?"
+>> What do you think about this new
+watermark that Anthropic came out with?
+And maybe explain to people what it is
+if they haven't heard of it.
+>> Yeah, essentially Anthropic is going to
+be putting in They're already putting
+watermarks on any AI-generated content.
+So, if you copy and paste something that
+Claude created for you, there's going to
+be an invisible watermark. It's not like
+something physical that you see that
+will show you created this with AI.
+There are people coming out with tools
+already to remove the the watermark. I
+just taught a class and my student was
+like, "Hey, by the way, I thought you
+might want this." And it was some some
+product that you can pay for that
+removes the watermark.
+>> I can't imagine that's going to last.
+>> product smarter than Anthropic, a
+trillion-dollar company?
+>> Yes, right.
+>> Anthropic doesn't publish what the
+watermark algorithm is.
+>> Exactly. Even the CEO of Anthropic, I
+think a month ago he did an interview
+with NBC. He said, "I don't use Claude
+to write. I use it for research. I use
+it for assisting with certain, you know,
+aspects of the writing process, but the
+struggling
+That part that everyone can't stand,
+that is what leads you to the great
+idea. That's what makes the content. So,
+it's so hard to just get that out of the
+process.
+>> We're seeing things trending that
+direction. Snapchat just came out and
+said, "No more AI videos."
+>> Yes, right.
+>> YouTube just came out and said, "We're
+demonetizing thousands or millions of
+like faceless AI-generated channels."
+They're not banning AI.
+>> Sure.
+>> But they're they're basically saying,
+"We're deprioritizing it."
+>> Right.
+>> And then Anthropic came out with a
+watermark. And then Sora, which was, you
+know, OpenAI's answer to TikTok,
+>> Mhm.
+>> short-form video social media platform
+that was only AI-generated videos, it
+got to 100 million users in like a
+month, and then they shut down like 3
+months later.
+>> Right. Right.
+>> it's like we want real stuff
+>> Yeah.
+>> more than ever.
+>> Yes. The fact that that youth are are
+doing that, if I had a something I could
+say to them, it's like I get it. Writing
+is is painful and it's struggle, and
+especially today, when there are all
+these screens, there are all these
+things you could be paying attention to,
+staying focused is an art.
+>> Yeah.
+>> Learning how to be articulate is an art,
+but that's exactly why people are paying
+so much for content right now, why I
+have a job.
+>> Yeah.
+>> Is because they value somebody who's
+taken the time to learn how to do that.
+>> Did you know that your leased car might
+be worth thousands more than your buyout
+price, and you're about to hand it back
+for free? It's called lease equity, and
+dealerships pray that you never check
+for it. Here's the math. Your contract
+says that you can buy your car for, say,
+28 grand when the lease ends, but used
+prices went up and your car is actually
+worth $33,000 today. That's a $5,000
+difference. Your $5,000, that's
+basically a family vacation that you're
+about to donate to a car dealership. So
+you've got one of two moves. Number one,
+you can buy the car and keep it. You
+already know its whole history. Or you
+can buy it, sell it, and pocket the
+difference. Just do not do the buyout at
+the dealership. They will not be kind to
+you. That's going to be 3 hours of burnt
+coffee while a guy checks with his
+manager. They want you stalled, stacked
+with fees, and rolled into another lease
+so they can make more money from you.
+Use Lease End instead. The entire buyout
+happens online. They shop multiple banks
+for your best rate, skip the dealer
+fees, and handle the title and
+registration paperwork for you. They
+saved drivers over $75 million last year
+doing exactly this. So, before you hand
+those keys back, check your numbers at
+leaseend.com
+because 5 minutes could be worth 5
+grand. So, if you publish a 3,000-word
+article,
+roughly how many of those words are
+sentences or whatever, what percentage
+of them would you say was copied over,
+like copy-pasted over from AI, and what
+percentage was like actually hand typed?
+>> Sure. I think for me 70-80%
+of those words are mine. There's also
+something to consider where like how
+much of the structure was AI generated?
+That is all mine typically. Like, you
+know, what is the introduction look
+like? How many headings do I have? How
+long or shorter are, you know, is the
+body copy within those sections?
+The idea behind the article, close to
+100% mine. 70% I'd say around might be
+my words.
+>> Okay.
+>> Yeah.
+>> You know, having a podcast, I get a ton
+of emails from people like, "Hey, what
+do you think about this? Should I start
+this business?"
+>> Yeah.
+>> And those were going unanswered, but now
+I I have an AI trained on my thoughts
+and I can respond to them with AI and
+it's not me, but it's trained on
+millions of words of my content, my
+data. It's almost like me. It's how I
+think. And it most importantly it
+enables me to answer emails and help
+people that I wouldn't be able to help
+otherwise, right?
+>> Yes. Yes.
+>> It's not replacive.
+>> Right.
+Right. Right. One of the last things
+that I worked on at Zapier, I was copy
+editor on this report called the AI
+Workflow Index. And it basically looked
+at how successful are companies that
+were successfully using AI that were
+repeating the same workflows. That's how
+they defined success among some other
+things. Well, how did they use AI? Where
+did they use it? And they found that
+they were not using AI for everything.
+In fact, I think it took up just 18% of
+the of the workflow. So, it's usually
+like one or two steps. If it was a
+content creation workflow, they would
+just have AI analyze something or write
+up a rough draft, not expecting anything
+to be perfect, and that would always get
+filtered to a human. There would be some
+human in the loop step.
+>> So, with you specifically, let's say
+you've written 100 articles that are
+3,000 words.
+>> Yeah.
+>> Why can't you just upload that to a
+cloud project and have it write for you
+like you? Is it Is it still not good
+enough if you do that?
+>> You'd be surprised cuz I've tried it all
+of like, I want to automate myself out
+of a job. I want to see if it's
+possible. It's not working.
+>> Well, it's not replacing all the
+research.
+>> Yes, not replacing all the research, and
+it is capturing my voice somewhat, but
+it it doesn't have all my memories.
+Like, sometimes I'll start a and a blog
+post with something that happened to me
+in childhood just cuz I feel like it
+makes sense.
+>> Yeah, it would never know that. It
+wouldn't never know that. Even if it
+wanted to.
+>> Right, right. Another reason why I don't
+love that is if you
+want AI to do all the writing for you,
+you're not letting your own voice
+evolve. So, over time, you become a more
+interesting thinker, writer as you
+interact with whatever subject material
+material you're working on, and that's
+reflected in the writing. With AI,
+you're in a static position if you're
+just having it do all the writing for
+you. It's not growing. It's not
+learning.
+>> When it comes to like the people that
+make the decision at these Jotform and
+all these other tech companies to hire
+you, do you know how they look at it?
+Like, yeah, like of course they know
+what ChatGPT is,
+are they thinking like, you know what?
+This is just worth it because our
+product is
+XY price, and like we know that the
+lifetime value would like do you know
+like what the calculus is in their head
+to justify paying a thousand dollars for
+an article?
+>> Sure. I know from the perspective of
+having worked in Zapier and seen
+freelancers sending us content. They are
+concerned with speed.
+So, they know that AI is helping these
+freelancers write a little more quickly,
+which really matters when something
+happens like Fable 5 is discontinued
+temporarily, right? And they need to get
+on that for SEO like immediately same
+day. Not just SEO, just to be a, you
+know, a thought leader if you want to
+say that in this space, right? As I'm
+the person that that publishes the this
+content immediately after something
+happens.
+>> How much do you think that plays into
+these tech companies hiring you?
+>> Huge. Yeah, I think people and I play
+that up in cover letters or when I do
+just cold pitches to to people. My
+background is in creative writing. I
+know storytelling techniques. I know
+what is a sentence, right? I know the
+parts of a sentence and so I know how to
+manipulate everything down to the word
+to achieve a certain rhythm, to bring a
+little bit of more engagement, you know,
+to a piece that as soon as it starts
+getting a little bit boring or we start
+talking about something technical, I
+have a thousand different tools to, you
+know, bring it back to life. That's
+creative writing.
+>> So, how can people find success at this
+if they don't have a creative writing
+degree or professional writing
+experience?
+>> Yes. So, actually in preparation for our
+conversation, I went on Upwork and I
+hired four five people to talk to me for
+20 minutes.
+>> Oh, so you you hired people as a
+as a
+employer on Upwork?
+>> Yes, as an employer. Went on like the
+employer side. And I I said I'm looking
+for freelance writers who have been
+doing this for X number of years making,
+I think I said like at least 3,000 a
+month just to talk to me about how
+newcomers could break into this
+business.
+>> Oh, that's awesome.
+>> And you I mean, I it was up for two
+days. I got 15 applications that were
+all really thoughtful.
+>> Yeah.
+>> Talked to four people. They wanted to
+talk beyond the 20 minutes. Like they
+were more than happy
+>> only paid them for 20
+>> Only paid them for 20 and they were like
+giving me resources. Someone gave me
+their SEO AEO guide. They were like,
+"You can share this." So I was asking
+them what can what can people do? Cuz I
+have ideas, but everyone has their own
+journey, you know, into freelancing. All
+of them said, "You don't need any
+specialized degree. Don't have to have
+even studied creative writing, English,
+whatever." None of those writers had a
+writing degree.
+>> Yeah.
+>> What they said you need to do is first,
+like if you wanted to get started in 90
+days, right? First month, you need to
+understand the landscape of what's
+possible. You've got the creative
+writing world. A lot of people are
+publishing, like self-publishing books,
+fiction, memoir, whatever, non-fiction
+books for their business. You can be an
+editor in that space. There's also this
+whole marketing corporate world where
+you can create copy for
+small businesses, bigger companies.
+There's blog posts, landing pages, ads,
+scripts. I mean, you name it, you can
+write it. So look at what's possible.
+Ask yourself, "What am I interested in?"
+Cuz if you have just a glimmer of
+interest,
+>> Yeah. You know, you you're probably
+drawn to something.
+>> in that niche.
+>> Start in that niche, right? I think I
+started as a generalist and it took me a
+bit of time to realize, "All right, I
+need to get good at one form cuz that's
+how someone's going to trust me to hire
+me."
+>> So if I love barbecue, like Texas
+barbecue, and I want to write or I like
+writing,
+>> Yes.
+>> that could be my niche. Like I I could
+write for Traeger or company like
+e-commerce brands that sell barbecue
+stuff or a restaurant.
+>> Yes. I saw I'm like I'm really into
+barbecue. I saw that there was a new
+beef protein powder that was getting
+sold in stores. I
+contacted the guy who ran the company. I
+said, "Hey, I tried this. This flavor is
+awesome. Like, don't stop." Whatever,
+some human connection there that's
+honest and true and genuine. Yeah. And
+then I said, "Hey, like I see you have a
+blog. Do you need a writer?" He hired
+me. Really? Right? Like, just like that.
+Yeah. Did you wait for him to respond
+before you pitched that? No, I put that
+in the pitch. Yeah. Wow. Sometimes that
+just being up front works. My friend
+Brandon has a marketing agency for
+e-commerce brands. And
+he would just be like swiping reels on
+Instagram and see like a new
+e-commerce brand, new Shopify brand.
+He's like, "Oh, that's really cool.
+They're good branding." And then he'll
+just like DM them. Yeah. And say like,
+"I can help you with Facebook ads. Like,
+this looks really cool." Right. And it's
+just like, "Really? That's it?" And it's
+like, "Yeah. Yeah." Yeah. Okay, so what
+else did they say in these interviews?
+In these interviews, they were saying
+you have to have a portfolio. So, you
+don't need a some kind of a
+certification, but you want to have
+produced, I would say, four, maybe five
+pieces of writing. You can just put it
+up on your site. It doesn't have to be
+like you have to get published somewhere
+cuz that's quite hard when you're just
+starting out. But, yeah, if you want to
+write blog posts, write three blog posts
+and a landing page and some other forms
+to show you've got range, right? Well,
+go write an article about what makes
+Franklin Barbecue different. Yeah. And
+then put it in your You don't have to
+sell it to them. You can give it to
+them. Right. But it's you don't have to
+say like, "They paid me to do this. They
+are my customer." It's like, "No, I
+wrote this blog article for Franklin
+Barbecue. Here it is." Yeah. Right? You
+like, that's kind of a rare opportunity
+whereas usually when you need your first
+case studies or clients or something
+like you've got a chicken and egg
+problem cuz you have to get hired before
+you have that, but you can't get hired
+until you have that. Right, exactly. you
+just go write the thing. Who's stopping
+you? No one is stopping you. It's never
+been easier in fact to just do that. So,
+once you develop that trust, people
+don't want to go out and find another
+writer. Even at Zapier, we were like, we
+had our freelancers that we were like,
+we got to hold on to these people.
+They're amazing. So, yeah. I wrote a
+feature guide, Zapier MCP. If you search
+that and then search feature guide after
+that. This was something we had just
+come out with this product when MCP
+technology came out. Everyone was losing
+their mind about it. I'm not a technical
+person. I've no coding background. And
+they said, write a feature guide now.
+I said, okay.
+>> By the way, if you are a die-hard fan
+here on YouTube and you want episodes
+early or exclusive episodes or unedited
+full episodes, join my community. It's
+only five bucks a month. Don't join on
+iPhone cuz it'll be seven bucks a month
+and that doesn't go to me. Join on
+desktop and it's only five bucks a month
+and you can get exclusive replies from
+me, early access to all these episodes,
+exclusive episodes that never make it to
+the general public, and every single $19
+business plan is free. Five bucks a
+month, you can check us out at the link
+below or on my channel page. That's
+hosted right here on YouTube. Get a like
+or a comment below and we'll see you
+next time on the Coroner Office.
+>> This succeeded in that regard so much
+that Anthropic actually published it or
+or linked to it in one of their
+newsletters,
+>> Oh, wow.
+>> driving a ton of traffic to it. And they
+had said something like, this is great.
+And I was like, oh.
+I was so proud of it.
+>> That's a great example of justifying a
+thousand dollar blog because how much
+money did that bring Zapier?
+>> Yeah, that's I'm sure that's recorded
+somewhere. Yeah.
+>> does Anthropic post it if they look at
+their watermark and like, big deal, we
+wrote this.
+>> Yeah, yeah.
+>> We
+Let's just write our own and publish it.
+>> Exactly, right. So, the menu
+customization built into Zapier MCP
+reminds me of action role-playing video
+games. Stick with me here. In these
+games, you can equip your main character
+with gear that complements your play
+style or the quest at hand. Similarly,
+with Zapier MCP, you choose which
+actions to equip based on your workflows
+and security needs.
+>> So, I'm going to go to Google Trends and
+I'm going to look for the phrase hire a
+writer
+and see what it looks like. Look at
+that.
+>> Look at that. How cool.
+>> It's never been higher.
+>> Right.
+>> And then let's to go last 5 years.
+I want to see if it dipped when chat GPT
+came out. So chat GPT came out late
+2023. It did kind of dip a little bit. I
+mean it was coming up and then it went
+down and then people like we need a
+writer actually. Imagine that.
+All right, so what is the playbook to
+finding companies that will pay you a
+lot of money to write articles?
+>> I think got to get started with a uh,
+portfolio. So first make sure that you
+have some writing out there in the
+world. It will feel a little
+uncomfortable, but if you get started on
+Upwork or if you you ask a family or a
+friend for hey, do you know anybody
+who's starting a business or just need
+help needs help with their writing? I
+mean again, I I mentioned earlier I I do
+this thing where I help college or uh,
+high school students write their college
+essay applications 90 an hour. Yeah.
+Like really lucrative stuff is out there
+and even if you don't start at that
+rate, if you start for a little cheaper
+or even free, it is not for nothing.
+One, you might be developing a really
+great relationship with that person that
+will pay you more later or two, you just
+might learn a new skill or a new format
+or get better at your craft which you
+can then show to somebody else.
+>> Yeah.
+>> I hadn't worked a ton on much of
+anything when I got started in in the
+freelance world and I was applying to
+stuff on Upwork, had a little portfolio
+and I got hired by Biggie Smalls' son.
+>> What?
+>> Notorious B.I.G.'s son. He was starting
+a a CBD brand and I didn't even know at
+first cuz he didn't advertise that like
+he was his son. It just like came out as
+we were working together and I was like,
+oh my gosh. This is so cool. And then
+from there, I mean they trusted me with
+helping them edit press releases, doing
+like PR and communication stuff that I'd
+never done before. But because, you
+know, I worked for cheap like in the
+beginning and then worked my way up,
+asked for, you know, more money at some
+point. Like, that worked out. That was
+great.
+>> Okay, so a portfolio, does it matter
+where you host it? Could you put it in a
+Google Drive folder? Do you want it on a
+website? Like
+>> I think on a website is I don't know if
+you Yeah, you make something look
+professional, you put it up there.
+That's That's probably the best.
+>> Okay. Now, how do you find customers?
+>> Oh, they're everywhere. They're
+everywhere and nowhere, right? They're
+like, how How am I going to find this
+person? I have found customers and the
+people that I spoke to have found them.
+If you're not on freelancing sites,
+getting on social media and just whether
+it's LinkedIn or wherever it is that
+you're active and commenting, engaging,
+directly messaging people, it doesn't
+have to be gross. Like, you don't have
+to be weird about it. You can talk to
+them like a human. If you master the art
+of the cold pitch, right? Which really I
+think comes down to four or five
+sentences where you are briefly
+introducing yourself, you're making some
+sort of connection to something that
+person does that you like, that you
+genuinely like, not just like the first
+>> Yeah.
+>> piece of content that you see that they
+posted recently. One time I listened to
+a whole podcast that some agency had put
+out. And it was a lot of time investment
+on my part, but I was able to reference
+some really specific detail and they
+literally called me and they were like,
+"This is so impressive. Like, we need to
+talk to you right now."
+>> Yeah.
+>> So, you never know like what doing a
+little more research than than you
+wanted to do might get you like in the
+long run. So, yeah, some little personal
+detail, you don't have to go crazy and
+then show them the portfolio and then
+say, "I'd love to get connected." The
+worst they could do is ignore you or say
+no.
+>> Right. And get over it.
+>> Get over it. Yeah.
+>> What
+>> like a good rate to start at? Like a
+rate that is where you're worth your
+while, like
+>> Yeah.
+>> but aggressive enough so they won't say
+no.
+>> Yeah. I'm seeing I struggled with this
+cuz I thought about this and I was like,
+man, it really really depends, but that
+answer is boring. So, I I think I'm
+seeing a lot of 30 an hours on Upwork,
+40 an hour. You can get away with that,
+especially if you've got the things that
+I'm describing, the portfolio and the
+the the pitch that's tailored well. And
+they might come back and counter with
+something lower, and if you think it's
+worth it, that might still be worth it.
+>> Yeah.
+>> Yeah. When I work with people, I ask
+them for a few things. I'll ask them for
+If I know it's going to be like a single
+deliverable, like I'm going to update
+your website or I'm going to write in
+totally new copy for your website. I
+want to get a sense of how many words
+total it's going to be or how many
+pages, right? It's kind of hard to
+estimate words. I want to get a sense of
+if they have existing copy already, can
+I take a look at it? What shape is that
+writing in? If it's really rough, I know
+it's going to take me a little more time
+to get it into shape or if they have no
+copy at all, I got to create stuff from
+scratch, you know, I might need to spend
+a little more time with them. This is
+another great way to use AI. When you're
+in a meeting with somebody gathering
+content for your writing, if they're
+cool with it, turn on Granola. Like
+capture
+>> Explain what Granola is.
+>> Granola is
+a tool that you can use that plugs right
+into your like video calls that
+transcribes everything that they're
+saying, takes notes, right? Knows who's
+speaking, and after the call, you can
+ask it questions like, hey, what was the
+due date for the project, right? And
+it'll give it to you. And you can ask it
+much more detailed questions. You can
+get a sense of how much time a project
+is going to take you by asking those
+questions first, and then rather than
+charging them hourly, give them a
+project-based quote that feels fair. You
+might even still be calculating it based
+on like an hourly rate, but there are no
+surprises. You know that like you know
+what the scope is, you know this is what
+you're going to charge them. It just
+feels better for everyone involved, I
+think. That's my preference.
+>> So, what are your income numbers like
+today?
+>> Today, I would say I'm writing anywhere
+from
+five to 10 blog posts at around again,
+anywhere from 800 to 1,200 per blog
+post.
+>> Is this per week or per month? Per
+month.
+>> Okay.
+>> Per month. Uh and I have a bunch of side
+projects going on as well. So, once or
+twice a month, I will help a student
+with their college application essays. I
+sell it in packages of five at 90 an
+hour, so 450. And I also do
+coaching.
+And those packages vary. I just got back
+into freelancing. I was working
+full-time, but I would say close to 6 or
+7,000 a month right now.
+>> Wow.
+>> Yeah.
+>> Uh mostly from writing.
+>> From writing.
+>> And it's like technical writing from a
+non-technical person.
+>> Yeah.
+Yeah, pretty much. Writing, coaching,
+editing, all in the same family.
+Different skills, but yeah.
+>> Well, someone wants to hire you, where
+can they find you?
+>> You can uh find me at stephspector.com.
+s t e p h s p e c t o r.com.
+>> Okay. Thank you, Steph.
+>> Thank you, Chris. Appreciate it.
+>> Please, I need you. I need you to send
+me your stories. If you or someone you
+know made thousands of dollars in a
+short period of time with a business, a
+side hustle, a growth hack, I don't care
+what it is, I want you on this podcast
+to give you free publicity and to help
+grow my podcast. So, if that's you, go
+to tkoyes.com,
+fill out the form. If it's a friend of
+yours, send them tkoyes.com,
+have them enter your name, and I'll give
+you a thousand bucks for the referral.
+That's tkoyes.com.
+Hit a like or a comment below and we'll
+see you next time on The Corner Office.

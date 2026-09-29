@@ -1,0 +1,665 @@
+You don't think that business owner
+would pay you $1,000 a month to generate
+$12,000 a month for them? Okay, $1,000 a
+month. That's awesome just for using AI
+to do stuff for me. Can you find 10
+business owners to pay you for that? Of
+course you can. This is so valuable to
+business owners and they have no idea it
+exists and they're not going to know
+about it for another 5 to 10 years, but
+you know about it today. And almost no
+one watching this video knew how to do
+any of this a few years ago, but now we
+have AI and congratulations, you're now
+[music] an expert. Several different
+ways of making money in this video. All
+it takes is typing one sentence.
+Real quick before anything else. So,
+everything in this video works two
+different ways. Way number one, you
+already have an email list. Way number
+two, and honestly, this is probably the
+bigger opportunity, you know someone who
+has a list. And considering the fact
+that 10% of adults are business owners,
+you do know a lot of people that have a
+list. And this video is going to show
+you how to get paid to do for them what
+I'm about to do for myself. So, consider
+the fact that there are millions of
+email lists out there. Newsletters,
+small business email lists, friends and
+family, niche, church, real estate,
+doesn't matter. Almost none of them have
+ever done what you're about to watch.
+So, even if you have zero subscribers,
+which most of you do, watch every click
+I make because every click you're going
+to be able to bill for. Speaking from
+experience, a big email list does not
+automatically turn into revenue. It
+should, but only if you use it right.
+That's what we're going to solve for
+today. I have about 273,000 people on my
+newsletter and then I also have a paid
+community. Both are great, but they're
+completely disconnected from each other.
+Members come from everywhere. My
+podcast, social, YouTube, email,
+Instagram. They're all separate streams
+that I have to figure out a way to
+manage. Two separate products, two
+separate logins. So, today I'm going to
+connect them and show you how you can do
+the same for yourself or for other
+businesses. And I'm doing this on
+camera. I'm going to share my screen and
+instead of just clicking around a
+dashboard, I'm going to talk to it
+because I have zero experience with this
+product I'm about to show you today.
+That's why I'm going to use that product
+plus Claude to do it all for me because
+I'm a little bit lazy. You're a little
+bit lazy. You get it. Okay? You can do
+this with ChatGPT, Grok, Gemini. I'm
+going to do it with Claude. Everyone has
+an email platform. There's a lot of like
+community platforms out there, a lot of
+email platforms, but no one's ever put
+the two together until now. That's what
+Beehiive Communities just fixed. You can
+use your same list or any list that you
+upload into Beehiive and you can have
+your community and your list all in the
+same place. Except now, there's going to
+be a room attached where those readers
+can actually find each other and talk
+about what you wrote or what your friend
+wrote, your business owner friend,
+whoever it is that you're working with.
+Stuff stops being just a quick read and
+it starts becoming a place that people
+come back to over and over again. I've
+never opened Beehiive Communities before
+this recording. I've used Beehiive for
+over two years. It's great, love it.
+Never tested this new product of theirs.
+We are on the same level here. That's
+the whole point. If I can figure this
+out on camera in real time, you can
+figure it out for a client. So, in the
+first 15 minutes of this video, I'm
+going to show you how to connect the
+Beehiive MCP to whatever AI you prefer
+and we'll start building with that. And
+then after that, I'm going to show you
+what you can actually build with the
+community with or without the MCP. So,
+remember, I'm lazy. I don't want to
+figure all this out myself, so I need to
+connect Beehiive with the AI of my
+choice, in this case Claude. And then I
+can just ask Claude to log in and do all
+that stuff for me. Okay, very first
+thing I'm going to do, cuz I don't even
+know this, I'm going to Google Beehiive
+MCP URL. Okay? We know what a URL means.
+MCP means Model Context Protocol. Don't
+even worry about that. I'm not
+technical. I just know it means MCP
+equals use AI inside of another software
+tool. So, you need a URL to connect it.
+So, whether using Claude, ChatGPT,
+Gemini or Grok, the MCP URL is this bad
+boy right here and we'll put it in the
+description so you can copy and paste
+it. Now, next thing you're going to do,
+very simple, go to your favorite AI,
+click on your name, click on settings,
+go to connectors and then go add add
+custom connector. Call it whatever you
+want. I'm going to call it Beehiive
+Communities and then you're going to
+paste in that URL. This is you just
+telling Claude how secure you want it to
+be with this connection. I don't know
+what any of this means. I'm just going
+to keep it at the default settings.
+Click add. Now it wants me to click
+connect. Now it's simply having me click
+grant access cuz I'm already logged in
+in a different tab. And then right here,
+this is important. If you don't trust
+your AI to not screw up inside of
+Behive, you're going to change these
+permissions to needs approval, blocked,
+always allow. I've been using this
+before. I trust it. And for the most
+important things like send an email or
+create an automation, Claude is going to
+want you to click that button because
+even if you have the permissions
+checked, it's usually afraid to do it.
+So, do your own research, but I'm going
+to leave always allow on all of these.
+Now we're connected. Now we can ask it
+to do whatever we want. Okay, so this
+blank Claude screen is the before. And
+remember, this is the same empty shell
+that you're going to see when helping
+your plumbing business owner friend and
+better use his email list, aka
+newsletter. We're using those two things
+interchangeably. So, I'm going to tell
+Claude, "Make me a Behive community
+that's attached to my The Corner Office
+newsletter." You can tell it to use the
+MCP for redundancy, but I'm pretty
+confident Claude's going to know what to
+do. Good news, your publication already
+has a community attached. I assume that
+just happened by default whenever Behive
+added that feature. I haven't done it.
+So, there's three channels in there,
+general, newsletters, idea mode, 348
+posts total, and those are all of the
+emails I've ever sent to my newsletter.
+It's not anything I've done within the
+community. Nobody moved those over
+manually. Behive publishes them them
+into the community as they go out. The
+problem, and it's a big one, you have
+eight members out of a newsletter with
+273,000 subscribers. That's because I've
+never talked about it anywhere, ever.
+And those eight people probably somehow
+found their way to my community. So, the
+room exists, but it's dead. Nobody's
+home. The fix is less build a community
+and more resurrect this one. We need a
+clear description of what the room is,
+conversation starters, and figuring out
+who should be in here first. Where do
+you want to start? And I don't want to
+do this one step at a time. And I know
+Fable 5, the model I'm using right now,
+is very powerful. So, I'm just going to
+say, "Do all of them in order of
+importance." Tall order I just gave. Do
+all of them in order of importance.
+Also, if I were doing this for a friend
+that didn't already use Behive, explain
+to me in four bullet points or less how
+to get his list into Beehiiv so we can
+immediately do the same to his list by
+connecting a community. Because most of
+you won't be able to just say, "Hey, log
+into my Beehiiv account." You're going
+to have to create one. Also, side note,
+please use my affiliate link if you do
+that. It's in the description below. I'm
+not just peddling something because they
+have an affiliate link. I actively use
+them. And if you're on my newsletter,
+which a lot of you probably are, you'll
+see the Beehiiv logo on the bottom.
+Okay, so it's doing it. Save community
+post. It's like actively building stuff.
+Like look at this code. I don't know
+what any of this means, but it's
+building stuff inside my Beehiiv
+account. So, I'm logging into Beehiiv,
+left side, community beta, uh it beta
+be, and uh eight members, just as Claude
+said. Channels, general newsletters,
+idea mode. People can talk about the
+emails that I sent. People want to
+partner up on a business idea that I'm
+emailing about. It's only been about 2
+minutes, and here's what Claude has
+done. Fix the identity of the room.
+Build your best readers. Oh, that's
+cool. Ranked from your actual open and
+click data. 15 subscribers with a 100%
+open rate. So, if you are migrating an
+email list from Mailchimp or somewhere
+else, you can migrate that data as well.
+Click-through rate, open rate, you know,
+how loyal any given subscriber is. You
+can give that to Beehiiv so you can
+still do the same thing. Now, getting
+your friend's list into Beehiiv, export
+his list as a CSV, Mailchimp, Kit,
+Substack, import it into Beehiiv, verify
+a sending domain. If you don't know how
+to do it, just create a free Beehiiv
+account, connect it to Claude or
+whatever, and then say, "I have this
+email list exported from my friend's
+Mailchimp account. Here it is. Add it to
+Beehiiv for me." Or at least tell me
+what to do so I can do it myself.
+>> We need to remember, in this 2026 world
+we live in, everyone on this planet
+needs to remember before they make any
+decision, can AI do this for me? And you
+will be shocked once you actually dig
+in. If you don't know the answer, just
+ask AI. You'll be shocked how many of
+those questions get answered as yes.
+Here's what's actually wild to me. When
+I go to my community, click on
+discussions, now think of this is like a
+subreddit, right? Like my Beehiiv
+community is like a subreddit for my
+people, my subscribers. So, they can all
+congregate around that thing. Beehiiv
+automatically added all of my
+newsletters, my previous newsletter
+editions into this quote-unquote
+subreddit of mine. Now, one of the
+glaring problems with AI is we're all
+excited about it, right? But we just
+don't know what to do. I remember when I
+first started using ChatGPT, I made a
+stupid song for my brother-in-law Matt
+entitled Fragile Matt, cuz that's my
+very mean nickname for him, and I sent
+it to him. That was the first way I ever
+used AI. And because I didn't know I
+didn't know what else it could do.
+That's what this video is. That's what a
+lot of my videos are for. So, I'm going
+to say, act like you're my community
+manager. Give me a day one setup
+checklist in order of importance based
+on first principles of vibrant
+profitable communities. And I say
+vibrant because communities can be hard.
+It's a marketplace, two-sided. You need
+readers and you need writers. You need
+people to engage with each other cuz if
+someone checks out the community and it
+looks dead, they're gone.
+Chicken-and-egg problem, right? Now, a
+lot of people have solved communities.
+It's definitely doable. When I tell
+Claude first principles, it's going to
+go find all kinds of random examples of
+profitable communities when their
+founders have got on random podcasts and
+said, here's how I make a profitable
+community. Okay, I'm not going to read
+this prompt output cuz it's long, but
+you can see it. Pause it here if you
+want. And the best part about everything
+I'm about to show you is if you copy
+what I do in your AI of choice with one
+simple sentence, you can convert that
+entire chat window into a skill that you
+can sell, put on a marketplace, or
+whatever, if other people want to better
+monetize their email list. Several
+different ways of making money in this
+video today. Seed 10 to 20 founding
+members by hand. Now, those have to be
+very like super fans, highly engaged
+people. How do we figure out who they
+are? Super easy. I'll about to show you.
+Make the room's identity obvious in one
+read, as in what problem does this
+community solve for what type of person?
+Give every new member an assignment in
+the first city 60 seconds. I'm sure all
+of you have joined a Facebook group or
+community where it's like, hey, tell us
+where you're from. Like, that's not
+because they care, it's because they
+want engagement, so the place looks act-
+And you're most likely to get an active
+community from the people that just
+joined, which is kind of
+counterintuitive. You might think, oh,
+my OGs, the people that have been here
+forever, they're going to be the most
+loyal. No, they've probably already
+checked out. Just like a newsletter. The
+best time to promote something to
+someone that joins your newsletter is
+right when they join cuz they're hot to
+trot and they're excited, not a day,
+month, or year later. Second best time
+is years later when they've opened every
+email and they love you. But, the vast
+majority people never get to that point
+cuz there's a lot of distraction. K,
+seed three to five questions anyone can
+answer without feeling dumb. Keep
+channels to three to or four max. That's
+very important. You're going to get
+really excited. You're like, "Business
+ideas channel." "Business partnerships
+channel." "Get to know each other
+channel." "People who live in New York
+channel." You are just deluding
+yourself. So, you might even want to add
+five to six channels and then just know
+in a month or three you're going to cut
+that down to two to three, the ones that
+are the most active. Cuz you won't know
+which ones will be most popular at the
+outset. You just got to see. Number six,
+you reply to every single comment for
+the first 14 days. Love it. Makes sense.
+They want to see that you're in there,
+that you're active. Install one weekly
+ritual. Same post, same day every week.
+Love it. Cuz with this, you can make it
+free, you can make it free then paid,
+you can make it only paid. Whatever you
+want to do. So, if your friend owns a
+plumbing business, surely his email list
+isn't going to want to join a community
+and talk about their plumbing issues
+together. No. But, all of those people
+live in the same city. And local
+newsletters are one of the best
+newsletter concepts right now. So,
+what's stopping you from helping your
+plumbing business owner friend from
+launching a local newsletter off the
+back of his email list because you have
+the rare luxury of knowing where all of
+those people live, even down to their
+home address. Okay, now, we don't have
+time to go through all eight of these
+today, but we could if we wanted to.
+We're going to do the most important.
+I'm going to have it do the top three.
+But, instead of telling me who my most
+loyal subscribers are, I'm going to go a
+step further and tell it to make a
+segment of those people. And a segment
+is just a group of subscribers based on
+something interesting or unique about
+them. And then if I wanted to go a step
+further, I could say send an email to
+that segment and invite them. All from
+Claude. And then I'm going to have it to
+do number two and three cuz I think
+those are important as well and are not
+a very big lift. But, I do think it's
+important. If you get that list of 10,
+20, 50 people that freaking love you or
+love the business owner that you're
+working with, do whatever you can to get
+them on the phone. Because an email,
+especially to a person that's on a
+newsletter, feels automated and
+impersonal, even if you wrote it by hand
+without AI and sent them one by one by
+one, right? Okay, so I was curious, you
+know me, I love shiny objects, so I
+asked Claude, what other variables can
+you measure and rank by with the MCP to
+find interesting subscribers? Geography?
+Give me everything so I know how to make
+money with this MCP as an agency owner.
+Remember, chase all the shiny objects.
+Go down the rabbit holes. That's where
+the money is, okay? Focus is overrated,
+momentum is underrated. Surface area,
+broad exposure to ideas, concepts,
+learnings, testings, underrated. Okay,
+engagement, the core product. All right,
+that's cool. Geography, yes. So you can
+find exactly what [snorts] city every
+subscriber's in, even if they don't tell
+you when they subscribe, which who
+would. Loyalty and tenure, acquisition
+source. Where did they come from? An a
+newsletter subscriber from Facebook is
+probably more or less valuable than one
+from YouTube. Paying subscribers, free
+subscribers, money signal, behavior over
+time, yada yada yada. Do you think you
+could use this valuable data? You could
+also call it like reactivation. Of
+course you can. Let's say you find a
+landscaping business owner that has an
+email list of 20,000, and that's not
+that unreasonable if they've been around
+for
+a number of years. 20,000, cool. Half of
+those people don't know or care about
+the business anymore, so let's call it
+10. Be conservative. Cool. Open rate on
+that's going to be 40%. So let's call it
+4,000 active subscribers. We're being
+conservative, that's only 20% of our
+original number. You don't think you
+could create an extra $2,000 worth of
+value to that business owner with those
+4,000 people? Let's just say you had a
+0.1% conversion rate, which would be
+four people. Four people every month you
+get to do a new landscaping project. And
+these are like engaged people, these are
+people that already had an experience,
+they already paid the same business. So
+it's not like a cold email, it's it's a
+hot email, okay? 0.1% every month, and
+these landscaping projects are $3,000
+each, okay? Four people per month times
+3,000 is $12,000 a month in revenue, not
+profit. You don't think that business
+owner would pay you $1,000 a month to
+generate 12,000 a month for them? And
+then to keep generating even more as his
+email list grows, cuz remember what I
+said earlier, those fresh subscribers
+are even better than the aged ones,
+right? So that 12,000 a month goes to
+12,500, 13,000, 15, etc. That would be a
+12x return on investment that they're
+paying you. Okay, $1,000 a month, that's
+awesome just for using AI to do stuff
+for me. Can you find 10 business owners
+to pay you for that? Of course you can.
+How many humans does the average person
+know? About 500, right? Facebook
+followers, 500-ish, give or take. How
+many of those are business owners? About
+50. Cool. How many of those can you
+convince, especially if it was no risk
+to them and they don't have to pay you
+anything unless you actually generate
+revenue for them? And then of those that
+you actually generate revenue for, how
+many of them are going to tell their
+friends? And then the 50 becomes 100
+because of referrals. Cuz one person
+that's thrilled usually refers multiple,
+not just one. This video was originally
+supposed to be about Beehive
+Communities, and it still is, and it's
+awesome, and I'm using it, and you can
+use it with Claude so you don't have to
+learn how to do anything. But most
+importantly, you need to manage the
+email list of people you know and help
+them make more money with it. What about
+people you don't know? Sure, them too.
+They're just a lot harder to close and
+I'm trying to make this video realistic.
+You can use ads, you can post in
+Facebook groups, to local communities,
+post on Reddit, yada yada yada. There's
+33 million business owners in America
+alone, 400 million around the world.
+Yes, you can find 10 of them to pay you
+$1,000 a month each, or more. More than
+10, more than 1,000, your choice. And
+almost no one watching this video knew
+how to do any of this a few years ago,
+but now we have AI and congratulations,
+you're now an expert. Okay, so
+everything I just showed you was done
+with the intent to help you start a
+business, a community business, using
+either the Beehive MCP through your
+favorite AI tool, or just using Beehive
+Community directly, but I I actually
+showed you what the Beehive Community
+feature actually looks like. So, let me
+do that real quick. First of all, let's
+lead with the thesis here, the tidal
+wave that we all want to ride. The
+thesis being that traditional education
+is dying a slow and painful death. Look
+at the numbers. Parents electing to
+homeschool their kids exploding or
+people enrolling or choosing to not
+enroll in traditional colleges and
+universities. It's not looking good and
+it's not surprising. I'm surprised we're
+so late on this. I'm very, very, very
+bullish on the future of people learning
+on the internet through communities and
+software tools like these. So, if you
+were to use Beehive Community to launch
+something, you'd be riding a tidal wave,
+that mythical tidal wave that we all
+want to ride when starting a business.
+Okay, here is a placeholder of what
+Beehive Communities look like. Um, think
+of it like a Facebook group, a
+subreddit, and school all had a baby
+together, okay? It centers around a
+feed, a central feed, uh, where you can
+post, react, respond, repost,
+everything. You can post events, comment
+on events, RSVP to events, all in one
+feed. Here is the messages tab where you
+can DM with your members as the
+community owner or where members can DM
+with each other because in any community
+the name of the game is interaction and
+engagement. It's just not going to work
+unless people are communicating with
+each other and logging in. And then of
+course right here, your notifications
+tab and then different channels within
+your community. So, with mine, I might
+have business owners or home service
+business owners, entrepreneurs,
+wantrepreneurs, business curious or I
+could get super niche and say make a
+community called, you know, appliance
+rental business starters or something.
+Doesn't matter, there are no rules. Some
+of these might only have four, five,
+seven people in there, but it doesn't
+matter if they're hyper engaged. You
+could even have like a an accountability
+sub where people post their wins or they
+hold each other accountable to stuff.
+Then right here is just where the
+newsletters you send out to your list
+get automatically published and then
+here's a couple channels that I have.
+Here's your dashboard where you can see
+number of members, posts created, member
+participation percentage. Here list out
+all of your actual members. Here's the
+gamification features because of course
+everything has to be gamified now. And
+in the context of this, your
+gamification would be they'd get a badge
+if someone posted for the first time, if
+someone replied in the channel for the
+first time, if someone engage in the
+community every day for a week, whatever
+it is you want to set. Click on new
+badge. This one's called active and the
+description is post daily for 7 days and
+that could be for specific members or
+members in a segment and you can just
+assign them there. Or you can make a
+segment based on how frequently they
+engage in the community and it would
+auto assign. So you don't have to ever
+do this manually if you don't want.
+Here's where you create new channels.
+You can make some free, some paid. Here
+are the discussions happening in the
+channels, any events either in person or
+virtual, they would go here. You can
+sync it with your Luma account. Luma is
+a business that enables you to post and
+advertise events and webinars, etc.
+Settings, design, change how it looks,
+change the onboarding message, change
+the onboarding flow here. So I click
+onboarding flow, if join community, wait
+for a minute, send a welcome message.
+You can add them to segments. You could
+put them in a flow where they get
+specific emails at certain intervals or
+once they do certain things in the
+community. And then of course right here
+you can sync all of your existing
+content and content moving forward and
+even sync your podcast as well. What I
+love about this is just how simple and
+easy the user interface is. It's not
+clunky and you don't need to be
+technologically savvy to figure out how
+to make this thing work. And again, with
+the MCP, like I already showed you, you
+just connect it and ask it to do stuff.
+So you don't even need to interact with
+the user interface yourself if you don't
+want to. And this is very multimodal if
+you will, multimedia friendly. Pictures,
+images, video is soon to come if not
+already here. They can comment, react,
+reply, repost. And remember these are
+available for any of the paid plans on
+Beehiiv. Now this works ideally if you
+already have a newsletter cuz you can
+just invite your whole newsletter to it.
+But, if you don't, then it should be a
+good impetus for you to start a
+newsletter. I do like that flow better,
+starting with a newsletter and then
+pushing them towards a community as
+opposed to the other way around, because
+a newsletter is a much lower stakes ask
+than a community, but you do you. But,
+remember, the most likely time a
+newsletter subscriber would ever even
+want to think about your community is
+the second they subscribe to your
+newsletter, not years later, unless
+they're hyper loyal and they've been
+dying to buy something from you or to
+respond to your call to action. But,
+most people that are most likely to
+engage are going to be right when they
+subscribe to you. So, take advantage of
+that moment in time. This is a tidal
+wave. I love Beehiiv. I literally do.
+Please use my affiliate link if you end
+up using them, it would mean a lot. Go
+check out Beehiiv Communities. And if
+you want to try Beehiiv, you can use
+code Chris30 for 30% off your first 3
+months. Remember, Substack takes 10% of
+everything. Beehiiv takes 0%. If you
+want to see my other Beehiiv videos,
+I've got about a half dozen. They're in
+the playlist link below. Thanks for
+hanging out on the Corner Office.
