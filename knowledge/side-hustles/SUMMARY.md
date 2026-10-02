@@ -1,8 +1,8 @@
 # Side Hustles & Small Business Ideas — Compiled Knowledge Base
 
 **Topic:** side-hustles
-**Channel(s) covered:** The Koerner Office (398 videos compiled)
-**Last compiled:** 2026-09-29
+**Channel(s) covered:** The Koerner Office (399 videos compiled)
+**Last compiled:** 2026-10-02
 **How to use this file:** organized by business-idea category, not by video. Each entry cites the per-video note(s) it's drawn from at `knowledge/side-hustles/videos/<id>.md` — open those for the full transcript-level detail (exact scripts, longer quotes, more tactical granularity) if this summary doesn't have enough. Numbers are self-reported by hosts/guests and not independently verified. Ideas repeated across many videos with no executed case study behind them are explicitly marked "pitched, unproven" — weight those below anything with a real case study and dollar figures.
 
 ---
@@ -105,6 +105,10 @@ Pitch: tree-trimming companies treat stump removal as a break-even loss leader a
 - **Weekend car-selling "Auto Fair"**: rent an idle lot, charge sellers a flat spot fee, organizer never touches the sale itself. [How to Make $60k per Weekend with an Auto Fair](knowledge/side-hustles/videos/L51w5qLGFUg.md); companion idea: [My 3 Favorite Car Business Ideas for 2026](knowledge/side-hustles/videos/HCBnz_1GsA8.md)
 - **Vertical integration decision framework**: use Outscraper competitor count + employee-count × $100K revenue heuristic — only integrate vertically (e.g. own a supply co.) once you've captured 80%+ of your core local market. [How to Grow your Business with $1 Bandit Signs](knowledge/side-hustles/videos/aeWA1P42I3k.md)
 - **Bookkeeping-as-a-service, hyper-niched**: resell offshore-bookkeeper labor at a markup, niched to an unusual vertical (gutter cleaners, not "dentists") to escape commodity competition. Same source as above.
+
+### Referral-pipeline brokering between home-service businesses
+Instead of selling consumer leads (Angie's List/Thumbtack-style shared leads, which leave a bad taste because the same lead is sold to multiple competitors), broker paid introductions between two *non-competing, sequential-in-the-customer-journey* trades — e.g. roofers↔siding companies, general contractors/builders↔painters/electricians/landscapers — who then refer real jobs to each other repeatedly going forward.
+- **Aaron Fuks / Hytros**: started at $150/introduction, grew to $6,000 for a 10-introduction package plus a $250-500/mo "nurturing" retainer; revenue roughly doubled from $14K to $27-30K/mo over ~9 months after that pricing pivot; ~90% margin (GoHighLevel + texting/calling costs a few hundred dollars/month, one commission-only caller, no other employees). Two-step outreach: mass-text potential *referral partners* first offering a free bid (2-5% reply rate) to generate real proof, then mass-text potential *paying clients* leading with that already-secured lead (10-15% reply rate, since you're offering value up front instead of asking for money). One text campaign landed a painting client 4 bids worth $17K-$64K within 48 hours. [He Makes $27K/Month Sending Text Messages](knowledge/side-hustles/videos/69eN9vRtWB8.md)
 
 ---
 
