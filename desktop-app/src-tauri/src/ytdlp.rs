@@ -80,6 +80,11 @@ pub async fn fetch_video_transcript(app: &AppHandle, video_id: &str) -> Result<(
         "--sub-format".into(),
         "vtt".into(),
         "--dump-json".into(),
+        // --dump-json implies --simulate by default, which silently
+        // suppresses the actual subtitle file writes this call depends on.
+        // --no-simulate keeps the JSON metadata output while still
+        // performing real downloads/writes.
+        "--no-simulate".into(),
         "--no-warnings".into(),
         "-o".into(),
         out_template.to_string_lossy().into_owned(),
