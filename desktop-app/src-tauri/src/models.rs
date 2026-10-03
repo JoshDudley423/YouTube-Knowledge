@@ -54,5 +54,4 @@ pub struct ModelStatus {
     pub downloaded: bool,
     pub running: bool,
     pub model_path: Option<String>,
-    pub download_progress: Option<f64>,
 }

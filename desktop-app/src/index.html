@@ -24,8 +24,17 @@
 
         <div id="model-panel" class="model-panel">
           <p id="model-status-text">Checking local model…</p>
-          <button id="download-model-btn" hidden>Download local model (~2GB)</button>
-          <progress id="model-progress" value="0" max="1" hidden></progress>
+          <p id="model-help-text" class="model-help" hidden>
+            Download any <code>.llamafile</code> model yourself (e.g. search
+            GitHub's <em>mozilla-ai/llamafile</em> releases, or Hugging Face,
+            for an "Instruct" model a few GB in size), then drop it in the
+            folder below. On Windows, rename the downloaded file so it ends
+            in <code>.llamafile.exe</code> first.
+          </p>
+          <div class="model-actions">
+            <button id="open-models-folder-btn">Open models folder</button>
+            <button id="refresh-model-btn">Refresh</button>
+          </div>
         </div>
       </aside>
 

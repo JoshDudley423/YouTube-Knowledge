@@ -39,7 +39,7 @@ pub fn run() {
             commands::remove_channel,
             commands::sync_channel,
             commands::model_status,
-            commands::download_model,
+            commands::open_models_folder,
             commands::ask_question,
             commands::get_video_meta,
         ])

@@ -23,12 +23,16 @@ key, no account -- everything runs on your machine.
   reproduce Claude's cross-video synthesis quality, and RAG-on-demand is far
   more robust to build and maintain than porting the multi-phase compile
   pipeline to run on-device.
-- **Local model**: [llamafile](https://github.com/Mozilla-Ocho/llamafile) --
+- **Local model**: [llamafile](https://github.com/mozilla-ai/llamafile) --
   a single portable executable that bundles a quantized model with
-  llama.cpp's OpenAI-compatible HTTP server. The app downloads a default
-  small instruct model (~2GB) on first run and manages it as a background
-  process (`src-tauri/src/llm.rs`). Chat is real generation grounded in
-  retrieved transcript passages, not a plain keyword search box.
+  llama.cpp's OpenAI-compatible HTTP server. The app does **not** bundle or
+  auto-download a specific model file -- a hardcoded download URL is a
+  single point of failure (a model gets renamed, moved, or gated and the
+  app breaks for everyone with no way to fix it except a code update). It
+  picks up any `.llamafile` file you drop into its `models/` data directory
+  instead, and manages it as a background process (`src-tauri/src/llm.rs`).
+  Chat is real generation grounded in retrieved transcript passages, not a
+  plain keyword search box.
 
 Everything -- transcripts, the search index, and the model -- lives in the
 OS's per-user app data directory, not in this repo.
@@ -89,14 +93,22 @@ a Windows machine and once on a macOS machine.
 
 ### First run
 
-On first launch the app has no channels and no local model. Use the
-sidebar to paste a channel URL, a display name, and a topic, which kicks
-off a sync automatically. Separately, click "Download local model" once to
-pull the default ~2GB `llamafile` (Qwen2.5-3B-Instruct, quantized) -- after
-that, chat works fully offline. Advanced users can drop their own
-`.llamafile` into the app's `models/` data directory (same filename the app
-expects, see `src-tauri/src/llm.rs::DEFAULT_MODEL_NAME`) to use a different
-model.
+On first launch the app has no channels and no local model.
+
+1. Use the sidebar to paste a channel URL, a display name, and a topic,
+   which kicks off a sync automatically.
+2. Separately, get yourself a `.llamafile` model: click "Open models
+   folder" in the sidebar's model panel (this opens the app's `models/`
+   data directory), then in your own browser download any `.llamafile`
+   you like -- for example search GitHub's `mozilla-ai/llamafile` releases,
+   or Hugging Face, for a few-GB "Instruct" model -- and save it straight
+   into that folder. **On Windows**, rename the downloaded file so it ends
+   in `.llamafile.exe` (Windows won't run a file without a recognized
+   executable extension). Click "Refresh" in the app afterward.
+3. After that, chat works fully offline using whatever model you dropped
+   in -- no bundled or auto-downloaded default model ships with the app, so
+   there's no fixed filename to match and no single download link that can
+   break for everyone at once.
 
 ### Known rough edges / next steps
 
@@ -110,7 +122,9 @@ model.
   manual (click "Sync" on a channel).
 - No channel/topic editing after creation; remove and re-add if you get a
   topic wrong.
-- The default model is deliberately small (3B) for speed on ordinary
-  laptops. Answer quality will be noticeably below the cloud Claude Code
-  workflow in the rest of this repo -- that's the fundamental tradeoff of
-  "no cloud AI, runs on your laptop."
+- Model quality/speed is entirely up to which `.llamafile` you pick: a
+  small (~3B parameter) model is fast but noticeably weaker than the cloud
+  Claude Code workflow in the rest of this repo; a larger model answers
+  better but is much slower on an ordinary laptop CPU with no GPU. That
+  tradeoff -- "no cloud AI, runs on your laptop" -- is fundamental to this
+  app's design, not something a different model choice fully escapes.

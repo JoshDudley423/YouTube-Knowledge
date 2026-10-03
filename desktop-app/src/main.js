@@ -8,8 +8,9 @@ const messages = document.getElementById("messages");
 const chatForm = document.getElementById("chat-form");
 const chatQuestion = document.getElementById("chat-question");
 const modelStatusText = document.getElementById("model-status-text");
-const downloadBtn = document.getElementById("download-model-btn");
-const modelProgress = document.getElementById("model-progress");
+const modelHelpText = document.getElementById("model-help-text");
+const openModelsFolderBtn = document.getElementById("open-models-folder-btn");
+const refreshModelBtn = document.getElementById("refresh-model-btn");
 
 let channels = [];
 let syncProgressEls = {};
@@ -109,33 +110,23 @@ listen("sync-progress", (event) => {
 async function refreshModelStatus() {
   const status = await invoke("model_status");
   if (status.downloaded) {
-    modelStatusText.textContent = "Local model ready.";
-    downloadBtn.hidden = true;
-    modelProgress.hidden = true;
+    modelStatusText.textContent = `Local model ready (${status.model_path}).`;
+    modelHelpText.hidden = true;
   } else {
-    modelStatusText.textContent = "Local model not downloaded yet (~2GB, one-time).";
-    downloadBtn.hidden = false;
+    modelStatusText.textContent = "No local model found yet.";
+    modelHelpText.hidden = false;
   }
 }
 
-downloadBtn.addEventListener("click", async () => {
-  downloadBtn.disabled = true;
-  modelProgress.hidden = false;
-  modelStatusText.textContent = "Downloading local model…";
+openModelsFolderBtn.addEventListener("click", async () => {
   try {
-    await invoke("download_model");
-    modelStatusText.textContent = "Local model ready.";
-    modelProgress.hidden = true;
-    downloadBtn.hidden = true;
+    await invoke("open_models_folder");
   } catch (err) {
-    modelStatusText.textContent = `Download failed: ${err}`;
-    downloadBtn.disabled = false;
+    modelStatusText.textContent = `Couldn't open folder: ${err}`;
   }
 });
 
-listen("model-download-progress", (event) => {
-  modelProgress.value = event.payload;
-});
+refreshModelBtn.addEventListener("click", refreshModelStatus);
 
 let currentAssistantEl = null;
 let sendInFlight = false;

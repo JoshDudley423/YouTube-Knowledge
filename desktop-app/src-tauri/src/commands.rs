@@ -167,27 +167,24 @@ pub async fn sync_channel(app: AppHandle, state: State<'_, AppState>, slug: Stri
 #[tauri::command]
 pub async fn model_status(app: AppHandle) -> Result<ModelStatus, String> {
     let dir = paths::models_dir(&app);
-    let downloaded = llm::is_downloaded(&dir).await;
+    let model = llm::find_model(&dir).await;
     Ok(ModelStatus {
-        downloaded,
+        downloaded: model.is_some(),
         running: false,
-        model_path: if downloaded {
-            Some(llm::model_path(&dir).to_string_lossy().into_owned())
-        } else {
-            None
-        },
-        download_progress: None,
+        model_path: model.map(|p| p.to_string_lossy().into_owned()),
     })
 }
 
+/// Opens the models folder in the OS file manager so the user can drop a
+/// `.llamafile` they downloaded themselves into it -- there's no bundled or
+/// auto-downloaded default model (see llm.rs for why).
 #[tauri::command]
-pub async fn download_model(app: AppHandle) -> Result<(), String> {
+pub async fn open_models_folder(app: AppHandle) -> Result<(), String> {
+    use tauri_plugin_opener::OpenerExt;
     let dir = paths::models_dir(&app);
-    let app_for_progress = app.clone();
-    llm::download_default_model(&dir, move |frac| {
-        let _ = app_for_progress.emit("model-download-progress", frac);
-    })
-    .await
+    app.opener()
+        .open_path(dir.to_string_lossy().into_owned(), None::<&str>)
+        .map_err(|e| e.to_string())
 }
 
 /// Retrieves the most relevant transcript chunks for `question` (optionally

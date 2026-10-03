@@ -10,88 +10,35 @@ use std::process::Stdio;
 use tokio::process::{Child, Command};
 use tokio::sync::Mutex;
 
-/// A small instruct model keeps CPU inference usable on an ordinary laptop.
-/// Users who want a stronger local model can drop their own `.llamafile`
-/// into the models directory under this same filename and it's used as-is.
-pub const DEFAULT_MODEL_NAME: &str = "Qwen2.5-3B-Instruct.Q4_K_M.llamafile";
-pub const DEFAULT_MODEL_URL: &str =
-    "https://huggingface.co/Mozilla/Qwen2.5-3B-Instruct-llamafile/resolve/main/Qwen2.5-3B-Instruct.Q4_K_M.llamafile";
 const LLAMAFILE_PORT: u16 = 8723;
 
 /// llamafiles are Actually Portable Executables. Windows' loader only runs
 /// files with a recognized executable extension, so the convention (per
-/// the llamafile project) is to give the file a `.exe` suffix there.
-pub fn model_filename() -> String {
-    if cfg!(target_os = "windows") {
-        format!("{DEFAULT_MODEL_NAME}.exe")
-    } else {
-        DEFAULT_MODEL_NAME.to_string()
-    }
+/// the llamafile project) is to give the file a `.llamafile.exe` suffix
+/// there -- a plain browser download needs that rename on Windows.
+fn looks_like_a_model(file_name: &str) -> bool {
+    let lower = file_name.to_lowercase();
+    lower.ends_with(".llamafile") || lower.ends_with(".llamafile.exe")
 }
 
-pub fn model_path(models_dir: &Path) -> PathBuf {
-    models_dir.join(model_filename())
-}
-
-pub async fn is_downloaded(models_dir: &Path) -> bool {
-    tokio::fs::metadata(model_path(models_dir))
-        .await
-        .map(|m| m.len() > 0)
-        .unwrap_or(false)
-}
-
-/// Downloads the default model, invoking `on_progress(0.0..=1.0)` as bytes
-/// arrive.
-pub async fn download_default_model(
-    models_dir: &Path,
-    on_progress: impl Fn(f64) + Send + 'static,
-) -> Result<(), String> {
-    let dest = model_path(models_dir);
-    let tmp = dest.with_extension("part");
-
-    let client = reqwest::Client::new();
-    let resp = client
-        .get(DEFAULT_MODEL_URL)
-        .send()
-        .await
-        .map_err(|e| e.to_string())?;
-    if !resp.status().is_success() {
-        return Err(format!("model download failed: HTTP {}", resp.status()));
-    }
-    let total = resp.content_length().unwrap_or(0);
-
-    use futures_util::StreamExt;
-    use tokio::io::AsyncWriteExt;
-
-    let mut file = tokio::fs::File::create(&tmp).await.map_err(|e| e.to_string())?;
-    let mut stream = resp.bytes_stream();
-    let mut downloaded: u64 = 0;
-    while let Some(chunk) = stream.next().await {
-        let chunk = chunk.map_err(|e| e.to_string())?;
-        file.write_all(&chunk).await.map_err(|e| e.to_string())?;
-        downloaded += chunk.len() as u64;
-        if total > 0 {
-            on_progress(downloaded as f64 / total as f64);
+/// There's deliberately no single expected filename or auto-downloaded
+/// default here: a hardcoded download URL is a single point of failure (a
+/// model gets renamed, moved, or gated and the app breaks for everyone).
+/// Instead, any `.llamafile` the user drops into the models directory --
+/// downloaded themselves from wherever they like -- is picked up as-is.
+pub async fn find_model(models_dir: &Path) -> Option<PathBuf> {
+    let mut entries = tokio::fs::read_dir(models_dir).await.ok()?;
+    while let Ok(Some(entry)) = entries.next_entry().await {
+        let path = entry.path();
+        if path.is_file() {
+            if let Some(name) = path.file_name().and_then(|n| n.to_str()) {
+                if looks_like_a_model(name) {
+                    return Some(path);
+                }
+            }
         }
     }
-    file.flush().await.ok();
-    drop(file);
-    tokio::fs::rename(&tmp, &dest).await.map_err(|e| e.to_string())?;
-
-    #[cfg(unix)]
-    {
-        use std::os::unix::fs::PermissionsExt;
-        let mut perms = tokio::fs::metadata(&dest)
-            .await
-            .map_err(|e| e.to_string())?
-            .permissions();
-        perms.set_mode(0o755);
-        tokio::fs::set_permissions(&dest, perms)
-            .await
-            .map_err(|e| e.to_string())?;
-    }
-
-    Ok(())
+    None
 }
 
 pub struct LlmManager {
@@ -123,9 +70,20 @@ impl LlmManager {
             }
         }
 
-        let path = model_path(models_dir);
-        if !path.exists() {
-            return Err("local model not downloaded yet".to_string());
+        let path = find_model(models_dir)
+            .await
+            .ok_or_else(|| "no local model found in the models folder yet".to_string())?;
+
+        #[cfg(unix)]
+        {
+            use std::os::unix::fs::PermissionsExt;
+            if let Ok(meta) = tokio::fs::metadata(&path).await {
+                let mut perms = meta.permissions();
+                if perms.mode() & 0o111 == 0 {
+                    perms.set_mode(perms.mode() | 0o755);
+                    tokio::fs::set_permissions(&path, perms).await.ok();
+                }
+            }
         }
 
         let mut cmd = Command::new(&path);
