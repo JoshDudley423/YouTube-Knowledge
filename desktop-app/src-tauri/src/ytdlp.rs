@@ -74,7 +74,7 @@ pub async fn fetch_video_transcript(app: &AppHandle, video_id: &str) -> Result<(
     let mut args: Vec<String> = vec![
         "--skip-download".into(),
         "--write-subs".into(),
-        "--write-auto-sub".into(),
+        "--write-auto-subs".into(),
         "--sub-lang".into(),
         "en.*".into(),
         "--sub-format".into(),
